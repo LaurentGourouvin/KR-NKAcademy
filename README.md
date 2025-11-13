@@ -1,24 +1,31 @@
 <div align="center">
 
-# 🇰🇷 KR-NKAcademy  
-### *Natural Korean Acquisition — From Zero to TOPIK II*
+# 🇰🇷 KR-NKAcademy
+
+### _Natural Korean Acquisition — From Zero to TOPIK II_
+
+<p align="center">
+  <img src="public/assets/KR-NKAcademy.png" alt="KR-NKAcademy Logo" width="250" />
+</p>
 
 ---
 
-<!-- Badges -->
 ![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat)
 ![Data License](https://img.shields.io/badge/content%20license-CC--BY--NC--ND-blue?style=flat)
 ![Status](https://img.shields.io/badge/status-In%20Progress-yellow?style=flat)
 
 ---
 
-### A natural Korean learning app built with the  
-### **NKA method (Natural Korean Acquisition)**  
+### A natural Korean learning app built with the
+
+### **NKA method (Natural Korean Acquisition)**
+
 Learn Korean through meaningful input, real-life chunks, immersive dialogs, and a full 52-week structured curriculum.
 
 </div>
 
 ---
+
 ## 🧠 NKA Learning Flow (visual overview)
 
 ```mermaid
@@ -28,6 +35,7 @@ flowchart LR
   C --> D[Dialogs]
   D --> E[Micro Output]
 ```
+
 ---
 
 ## 🎯 What is NKAcademy?
@@ -38,14 +46,14 @@ flowchart LR
 
 The goal is to deliver a **fully guided 52-week learning path**, based on:
 
-- Natural Korean Acquisition (NKA)  
-- massive comprehensible input  
-- immersion-first learning  
-- chunk-based vocabulary  
-- simple, progressive dialogs  
-- micro-output (1–3 sentences/day)  
-- curated weekly content  
-- no grammar memorization — only intuitive pattern recognition  
+- Natural Korean Acquisition (NKA)
+- massive comprehensible input
+- immersion-first learning
+- chunk-based vocabulary
+- simple, progressive dialogs
+- micro-output (1–3 sentences/day)
+- curated weekly content
+- no grammar memorization — only intuitive pattern recognition
 
 NKAcademy is both a **method** and a **curriculum**.
 
@@ -54,36 +62,43 @@ NKAcademy is both a **method** and a **curriculum**.
 ## ✨ Features
 
 ### ✔ Available
-- Structured repository with double licensing  
-- Weekly data structure  
-- NKA-optimized content format  
+
+- Structured repository with double licensing
+- Weekly data structure
+- NKA-optimized content format
 
 ### 🚧 In Progress
-- Learning engine  
-- Interactive sentence/chunk explorer  
+
+- Learning engine
+- Interactive sentence/chunk explorer
 
 ### 🚀 Planned
-- Audio for all dialogs  
-- Shadowing mode  
-- SRS for chunks  
-- Immersion video recommendations  
-- TOPIK preparation system  
-- Offline PWA  
-- User progress tracking  
+
+- Audio for all dialogs
+- Shadowing mode
+- SRS for chunks
+- Immersion video recommendations
+- TOPIK preparation system
+- Offline PWA
+- User progress tracking
 
 ---
 
 ## 🔧 Installation (Basic)
+
 ```bash
 git clone https://github.com/LaurentGourouvin/KR-NKAcademy
 cd KR-NKAcademy
 npm install
 npm run dev
 ```
+
 ---
+
 ## 🗺️ Roadmap
 
 ### 📘 Content Development
+
 - [x] Week 01 dataset (sentences, chunks, dialogs)
 - [ ] Week Block 1 — Weeks 02–04
 - [ ] Week Block 2 — Weeks 05–12
@@ -92,6 +107,7 @@ npm run dev
 - [ ] Audio generation for chunks, sentences, and dialogs
 
 ### 🧠 Learning Features
+
 - [ ] Chunk Explorer (searchable, categorized patterns)
 - [ ] Dialog Player (audio + bilingual line-by-line view)
 - [ ] Shadowing Mode (listen → repeat → timed auto-next)
@@ -99,40 +115,48 @@ npm run dev
 - [ ] TOPIK II preparation tools (reading + vocab packs)
 
 ### 📱 Application Features
+
 - [ ] Offline PWA support (fully available offline)
 - [ ] User progress tracking (local storage)
 - [ ] Optional cloud sync (future enhancement)
 - [ ] App settings (audio speed, romanization toggle, dark mode)
 
 ### 🛠 Development & Infrastructure
+
 - [x] Dual-license model (MIT for code, CC BY-NC-ND for data)
 - [ ] JSON schema validation for all weekly datasets
 - [ ] Automated dataset generator (CLI or script)
 - [ ] Audio pipeline (AI TTS generator + auto file linking)
 
 ---
+
 ## 🛠 Tech Stack
 
 ### Core
+
 - **Next.js** — App framework
 - **React** — UI layer
 - **TypeScript** — Type safety + maintainability
 - **Tailwind CSS** — Utility-first styling
 
 ### Data & Content
+
 - **JSON-based dataset architecture** (weeks, chunks, sentences, dialogs)
 - **Dual-license model** (MIT for code, CC BY-NC-ND for educational content)
 
 ### Future Integrations
+
 - **AI TTS (audio generation)** — planned
 - **SRS engine** (Spaced Repetition System)
 - **Shadowing voice playback**
 - **Local & cloud storage options**
 
 ### Dev & Tooling
+
 - **ESLint + Prettier** — formatting & linting
 - **GitHub Actions** — CI (planned)
 - **PNPM / NPM / Yarn** — your choice for package manager
+
 ---
 
 ## 📦 Repository Structure
@@ -163,33 +187,38 @@ KR-NKAcademy/
 ```
 
 ---
+
 ## 🧩 Chunks vs Sentences
 
 KR-NKAcademy separates learning content into **chunks** and **sentences**, inspired by the NKA method (Natural Korean Acquisition).
 
 ### **Chunks (`chunks.json`)**
-Small reusable language blocks or patterns used to build natural Korean.
-Examples:  
-- 감사합니다  
-- 저는 …이에요  
-- … 하고 싶어요  
 
-Chunks are *building blocks* rather than full sentences.
+Small reusable language blocks or patterns used to build natural Korean.
+Examples:
+
+- 감사합니다
+- 저는 …이에요
+- … 하고 싶어요
+
+Chunks are _building blocks_ rather than full sentences.
 
 ### **Sentences (`sentences.json`)**
+
 Complete, meaningful sentences used for immersion and comprehension.
-Examples:  
-- 저는 프랑스 사람이에요.  
-- 오늘 바빠요.  
+Examples:
 
-Sentences often *contain several chunks*, helping learners recognize patterns naturally.
+- 저는 프랑스 사람이에요.
+- 오늘 바빠요.
 
-This separation allows the app to provide both structured input (sentences) and practical output tools (chunks) for real-life use.
----
+Sentences often _contain several chunks_, helping learners recognize patterns naturally.
+
+## This separation allows the app to provide both structured input (sentences) and practical output tools (chunks) for real-life use.
 
 ## 📚 Weekly Content Format
 
 ### `sentence.json`
+
 ```json
 [
   { "kr": "안녕하세요", "fr": "Bonjour" },
@@ -197,16 +226,19 @@ This separation allows the app to provide both structured input (sentences) and 
   { "kr": "잘 지내요?", "fr": "Comment ça va ?" }
 ]
 ```
+
 ### `chunks.json`
+
 ```json
 [
   { "kr": "안녕하세요", "fr": "Bonjour" },
   { "kr": "저는 ...이에요/예요", "fr": "Je suis ..." },
   { "kr": "잘 지내요?", "fr": "Tu vas bien ?" }
 ]
-
 ```
+
 ### `dialogs.json`
+
 ```json
   "scene": [
     { "speaker": "A", "kr": "안녕하세요!", "fr": "Bonjour !" },
@@ -222,21 +254,24 @@ This separation allows the app to provide both structured input (sentences) and 
 KR-NKAcademy uses a **dual-license model**:
 
 ### ✔ Source Code — MIT License
+
 All code outside the `/data` folder is licensed under MIT.  
 You may use, modify, fork, or build upon it freely.  
 See: [`LICENSE`](./LICENSE)
 
 ### ✔ Educational Content — CC BY-NC-ND 4.0
+
 All learning content inside the `/data` folder is licensed under **CC BY-NC-ND 4.0**, which:
 
-- prohibits **commercial use**,  
-- prohibits **modification**,  
+- prohibits **commercial use**,
+- prohibits **modification**,
 - prohibits **redistribution of altered or derived content**.
 
 See: [`data/LICENSE`](./data/LICENSE)
 
-**Summary:**  
-- **Code = open and free**  
+**Summary:**
+
+- **Code = open and free**
 - **Data = protected and non-commercial**
 
 ---
@@ -245,20 +280,20 @@ See: [`data/LICENSE`](./data/LICENSE)
 
 NKAcademy aims to become a complete, modern Korean-learning journey:
 
-- intuitive and immersive  
-- based on real language acquisition  
-- structured week-by-week  
-- open-source for developers  
-- protected for educational content  
-- focused on understanding and input rather than grammar memorization  
+- intuitive and immersive
+- based on real language acquisition
+- structured week-by-week
+- open-source for developers
+- protected for educational content
+- focused on understanding and input rather than grammar memorization
 
 It is both a personal learning tool and a public experiment in natural language acquisition.
 
 ---
 
 ## 🧑‍💻 Author
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/laurentgourouvin)  
 Laurent Gourouvin  
 2025 — KR-NKAcademy  
 Natural Korean Acquisition Project
-
