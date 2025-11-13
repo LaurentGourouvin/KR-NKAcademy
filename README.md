@@ -1,7 +1,21 @@
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+![Content License: CC BY-NC-ND](https://img.shields.io/badge/content%20license-CC--BY--NC--ND-blue)
+![Status: In Progress](https://img.shields.io/badge/status-in%20progress-yellow)
+
 # 📘 KR-NKAcademy  
 **A natural Korean learning app built with the NKA method (Natural Korean Acquisition).**  
 Learn Korean through meaningful input, weekly curated content, real-life chunks, dialogues, and intuitive immersion — from absolute beginner to TOPIK II level.
 
+---
+## 🧠 NKA Learning Flow (visual overview)
+
+```mermaid
+flowchart LR
+  A[Comprehensible Input] --> B[Chunks]
+  B --> C[Sentences]
+  C --> D[Dialogs]
+  D --> E[Micro Output]
+```
 ---
 
 ## 🎯 What is NKAcademy?
@@ -16,7 +30,7 @@ The goal is to deliver a **fully guided 52-week learning path**, based on:
 - massive comprehensible input  
 - immersion-first learning  
 - chunk-based vocabulary  
-- simple, progressive dialogues  
+- simple, progressive dialogs  
 - micro-output (1–3 sentences/day)  
 - curated weekly content  
 - no grammar memorization — only intuitive pattern recognition  
@@ -34,10 +48,10 @@ NKAcademy is both a **method** and a **curriculum**.
 
 ### 🚧 In Progress
 - Learning engine  
-- Interactive phrase/chunk explorer  
+- Interactive sentence/chunk explorer  
 
 ### 🚀 Planned
-- Audio for all dialogues  
+- Audio for all dialogs  
 - Shadowing mode  
 - SRS for chunks  
 - Immersion video recommendations  
@@ -65,12 +79,12 @@ KR-NKAcademy/
     ├── week01/
     │     ├── sentences.json
     │     ├── chunks.json
-    │     ├── dialogue.json
+    │     ├── dialogs.json
     │     └── audio/
     └── week02/
           ├── sentences.json
           ├── chunks.json
-          ├── dialogue.json
+          ├── dialogs.json
           └── audio/
 ```
 
@@ -118,7 +132,7 @@ This separation allows the app to provide both structured input (sentences) and 
 ]
 
 ```
-### `dialogue.json`
+### `dialogs.json`
 ```json
   "scene": [
     { "speaker": "A", "kr": "안녕하세요!", "fr": "Bonjour !" },
