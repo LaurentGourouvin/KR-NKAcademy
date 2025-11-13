@@ -130,35 +130,6 @@ npm run dev
 
 ---
 
-## 🛠 Tech Stack
-
-### Core
-
-- **Next.js** — App framework
-- **React** — UI layer
-- **TypeScript** — Type safety + maintainability
-- **Tailwind CSS** — Utility-first styling
-
-### Data & Content
-
-- **JSON-based dataset architecture** (weeks, chunks, sentences, dialogs)
-- **Dual-license model** (MIT for code, CC BY-NC-ND for educational content)
-
-### Future Integrations
-
-- **AI TTS (audio generation)** — planned
-- **SRS engine** (Spaced Repetition System)
-- **Shadowing voice playback**
-- **Local & cloud storage options**
-
-### Dev & Tooling
-
-- **ESLint + Prettier** — formatting & linting
-- **GitHub Actions** — CI (planned)
-- **PNPM / NPM / Yarn** — your choice for package manager
-
----
-
 ## 📦 Repository Structure
 
 ```pgsql
@@ -342,3 +313,39 @@ No revenue is generated, and no commercial services are offered or planned.
 Laurent Gourouvin  
 2025 — KR-NKAcademy  
 Natural Korean Acquisition Project
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-16-black?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-4-38B2AC?style=flat&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-9-4B32C3?style=flat&logo=eslint&logoColor=white" />
+</p>
+
+### **Core**
+
+- Next.js 16 (App Router, Server Components)
+- React 19
+
+### **Styling**
+
+- TailwindCSS 4
+- PostCSS
+
+### **Language**
+
+- TypeScript 5
+
+### **Tooling**
+
+- ESLint 9
+- Types: Node, React, ReactDOM
+
+### **Architecture**
+
+- App Directory structure
+- MIT + CC BY-NC-ND dual licensing
