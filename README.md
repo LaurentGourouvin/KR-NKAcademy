@@ -247,6 +247,7 @@ It is both a personal learning tool and a public experiment in natural language 
 ## 🧑‍💻 Author
 
 **Laurent Gourouvin**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laurentgourouvin/
 2025 — KR-NKAcademy  
 Natural Korean Acquisition Project
 
