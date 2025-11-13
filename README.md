@@ -61,6 +61,15 @@ NKAcademy is both a **method** and a **curriculum**.
 
 ---
 
+## 🔧 Installation (Basic)
+```bash
+git clone https://github.com/LaurentGourouvin/KR-NKAcademy
+cd KR-NKAcademy
+npm install
+npm run dev
+```
+---
+
 ## 📦 Repository Structure
 
 ```pgsql
