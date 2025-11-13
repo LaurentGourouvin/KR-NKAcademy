@@ -69,6 +69,59 @@ npm install
 npm run dev
 ```
 ---
+## 🗺️ Roadmap
+
+### 📘 Content Development
+- [x] Week 01 dataset (sentences, chunks, dialogs)
+- [ ] Week Block 1 — Weeks 02–04
+- [ ] Week Block 2 — Weeks 05–12
+- [ ] Week Block 3 — Weeks 13–24
+- [ ] Week Block 4 — Weeks 25–52
+- [ ] Audio generation for chunks, sentences, and dialogs
+
+### 🧠 Learning Features
+- [ ] Chunk Explorer (searchable, categorized patterns)
+- [ ] Dialog Player (audio + bilingual line-by-line view)
+- [ ] Shadowing Mode (listen → repeat → timed auto-next)
+- [ ] SRS (Spaced Repetition System) for chunk review
+- [ ] TOPIK II preparation tools (reading + vocab packs)
+
+### 📱 Application Features
+- [ ] Offline PWA support (fully available offline)
+- [ ] User progress tracking (local storage)
+- [ ] Optional cloud sync (future enhancement)
+- [ ] App settings (audio speed, romanization toggle, dark mode)
+
+### 🛠 Development & Infrastructure
+- [x] Dual-license model (MIT for code, CC BY-NC-ND for data)
+- [ ] JSON schema validation for all weekly datasets
+- [ ] Automated dataset generator (CLI or script)
+- [ ] Audio pipeline (AI TTS generator + auto file linking)
+
+---
+## 🛠 Tech Stack
+
+### Core
+- **Next.js** — App framework
+- **React** — UI layer
+- **TypeScript** — Type safety + maintainability
+- **Tailwind CSS** — Utility-first styling
+
+### Data & Content
+- **JSON-based dataset architecture** (weeks, chunks, sentences, dialogs)
+- **Dual-license model** (MIT for code, CC BY-NC-ND for educational content)
+
+### Future Integrations
+- **AI TTS (audio generation)** — planned
+- **SRS engine** (Spaced Repetition System)
+- **Shadowing voice playback**
+- **Local & cloud storage options**
+
+### Dev & Tooling
+- **ESLint + Prettier** — formatting & linting
+- **GitHub Actions** — CI (planned)
+- **PNPM / NPM / Yarn** — your choice for package manager
+---
 
 ## 📦 Repository Structure
 
