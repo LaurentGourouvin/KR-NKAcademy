@@ -1,10 +1,22 @@
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
-![Content License: CC BY-NC-ND](https://img.shields.io/badge/content%20license-CC--BY--NC--ND-blue)
-![Status: In Progress](https://img.shields.io/badge/status-in%20progress-yellow)
+<div align="center">
 
-# 📘 KR-NKAcademy  
-**A natural Korean learning app built with the NKA method (Natural Korean Acquisition).**  
-Learn Korean through meaningful input, weekly curated content, real-life chunks, dialogues, and intuitive immersion — from absolute beginner to TOPIK II level.
+# 🇰🇷 KR-NKAcademy  
+### *Natural Korean Acquisition — From Zero to TOPIK II*
+
+---
+
+<!-- Badges -->
+![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat)
+![Data License](https://img.shields.io/badge/content%20license-CC--BY--NC--ND-blue?style=flat)
+![Status](https://img.shields.io/badge/status-In%20Progress-yellow?style=flat)
+
+---
+
+### A natural Korean learning app built with the  
+### **NKA method (Natural Korean Acquisition)**  
+Learn Korean through meaningful input, real-life chunks, immersive dialogs, and a full 52-week structured curriculum.
+
+</div>
 
 ---
 ## 🧠 NKA Learning Flow (visual overview)
