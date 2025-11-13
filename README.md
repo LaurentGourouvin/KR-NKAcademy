@@ -291,6 +291,51 @@ It is both a personal learning tool and a public experiment in natural language 
 
 ---
 
+## 💡 Why KR-NKAcademy?
+
+I created this project because I want to work in South Korea.  
+To make this possible, I’ve set a clear personal goal: learn Korean and reach TOPIK level 4–5 within the next two years.
+
+KR-NKAcademy is both a tool and a challenge — a way to combine two objectives:
+
+- building a real technical project to grow as a developer
+- learning Korean through a structured, natural, and intuitive method
+
+By developing this app, I’m not only improving my engineering skills,  
+I’m also creating the learning platform I wish existed for myself.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome for:
+
+- UI/UX improvements
+- Audio processing
+- Korean content verification
+- Tooling & automation
+
+Please open an issue first to discuss changes.
+
+---
+
+## ⚖️ Legal & Non-Profit Notice
+
+KR-NKAcademy is a personal, non-profit project.  
+It is developed independently, with no commercial intent and no affiliation with any company, employer, or former employer.
+
+All educational data in the `/data` folder is protected under **CC BY-NC-ND 4.0**, which prohibits any commercial use, redistribution, or modification.
+
+This project is created solely for:
+
+- personal language learning
+- technical development practice
+- open-source sharing
+
+No revenue is generated, and no commercial services are offered or planned.
+
+---
+
 ## 🧑‍💻 Author
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/laurentgourouvin)  
