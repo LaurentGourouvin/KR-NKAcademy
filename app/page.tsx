@@ -9,14 +9,17 @@ export default async function Home() {
           NKAcademy — Weekly Overview
         </h1>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 gap-6">
           {weekOverview.overviews.map((w) => (
             <div
               key={w.week}
               className="bg-white rounded-xl shadow-md p-6 border border-gray-200 hover:shadow-lg transition-shadow"
             >
               <h2 className="text-xl font-bold text-purple-700 mb-2">
-                Week {w.week} — {w.title}
+                <span className="italic">Week {w.week}</span>
+
+                <br />
+                {w.title}
               </h2>
 
               <p className="text-gray-700 text-sm mb-4">{w.summary}</p>
