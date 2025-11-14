@@ -1,0 +1,77 @@
+{
+  "audioBasePath": "/audio/week07/sentences/",
+  "sentences": [
+    {
+      "id": "week07-s01",
+      "kr": "학교에 어떻게 가요?",
+      "rom": "hakgyoe eotteoke gayo?",
+      "fr": "Comment vas-tu à l'école ?",
+      "audio": "/audio/week07/sentences/week07-s01.mp3",
+      "order": 1,
+      "tags": ["transport", "question"]
+    },
+    {
+      "id": "week07-s02",
+      "kr": "버스로 가요.",
+      "rom": "beoseuro gayo.",
+      "fr": "J'y vais en bus.",
+      "audio": "/audio/week07/sentences/week07-s02.mp3",
+      "order": 2,
+      "tags": ["transport", "bus"]
+    },
+    {
+      "id": "week07-s03",
+      "kr": "지하철로 가요.",
+      "rom": "jihacheollo gayo.",
+      "fr": "J'y vais en métro.",
+      "audio": "/audio/week07/sentences/week07-s03.mp3",
+      "order": 3,
+      "tags": ["transport", "subway"]
+    },
+    {
+      "id": "week07-s04",
+      "kr": "걸어서 가요.",
+      "rom": "georeoseo gayo.",
+      "fr": "J'y vais à pied.",
+      "audio": "/audio/week07/sentences/week07-s04.mp3",
+      "order": 4,
+      "tags": ["transport", "walk"]
+    },
+    {
+      "id": "week07-s05",
+      "kr": "저기 역이 있어요.",
+      "rom": "jeogi yeogi isseoyo.",
+      "fr": "Il y a une station là-bas.",
+      "audio": "/audio/week07/sentences/week07-s05.mp3",
+      "order": 5,
+      "tags": ["location", "station"]
+    },
+    {
+      "id": "week07-s06",
+      "kr": "오른쪽으로 가세요.",
+      "rom": "oreunjjokeuro gaseyo.",
+      "fr": "Allez à droite.",
+      "audio": "/audio/week07/sentences/week07-s06.mp3",
+      "order": 6,
+      "tags": ["direction", "right"]
+    },
+    {
+      "id": "week07-s07",
+      "kr": "왼쪽으로 가세요.",
+      "rom": "oenjjokeuro gaseyo.",
+      "fr": "Allez à gauche.",
+      "audio": "/audio/week07/sentences/week07-s07.mp3",
+      "order": 7,
+      "tags": ["direction", "left"]
+    },
+    {
+      "id": "week07-s08",
+      "kr": "멀지 않아요.",
+      "rom": "meolji anayo.",
+      "fr": "Ce n'est pas loin.",
+      "audio": "/audio/week07/sentences/week07-s08.mp3",
+      "order": 8,
+      "tags": ["location", "distance"]
+    }
+  ]
+}

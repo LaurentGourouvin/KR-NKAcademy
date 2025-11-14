@@ -1,0 +1,85 @@
+{
+  "audioBasePath": "/audio/week07/exercises/",
+  "exercises": [
+    {
+      "id": "week07-ex01",
+      "title": "Quel transport ?",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction.",
+      "items": [
+        {
+          "id": "week07-ex01-i01",
+          "prompt": "지하철로 가요.",
+          "options": [
+            "J’y vais en métro.",
+            "J’y vais en bus.",
+            "J’y vais à pied."
+          ],
+          "answer": "J’y vais en métro.",
+          "sentenceId": "week07-s03",
+          "audio": "week07-ex01-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week07-ex02",
+      "title": "Comprendre une direction",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction.",
+      "items": [
+        {
+          "id": "week07-ex02-i01",
+          "prompt": "오른쪽으로 가세요.",
+          "options": [
+            "Allez tout droit.",
+            "Allez à droite.",
+            "Allez à gauche."
+          ],
+          "answer": "Allez à droite.",
+          "sentenceId": "week07-s06",
+          "audio": "week07-ex02-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week07-ex03",
+      "title": "Distance",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne interprétation.",
+      "items": [
+        {
+          "id": "week07-ex03-i01",
+          "prompt": "멀지 않아요.",
+          "options": [
+            "C’est très loin.",
+            "Ce n’est pas loin.",
+            "C’est à droite."
+          ],
+          "answer": "Ce n’est pas loin.",
+          "sentenceId": "week07-s08",
+          "audio": "week07-ex03-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week07-ex04",
+      "title": "Comment y aller ?",
+      "type": "grammar",
+      "instructions": "Choisissez la phrase la plus naturelle.",
+      "items": [
+        {
+          "id": "week07-ex04-i01",
+          "prompt": "Quelle phrase demande « Comment aller à l’école ? » ?",
+          "options": [
+            "학교에 어떻게 가요?",
+            "학교가 어디예요?",
+            "학교에 있어요?"
+          ],
+          "answer": "학교에 어떻게 가요?",
+          "sentenceId": "week07-s01",
+          "audio": "week07-ex04-i01.mp3"
+        }
+      ]
+    }
+  ]
+}

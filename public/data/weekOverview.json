@@ -53,6 +53,15 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week06/",
       "tooltip": "Décrire sa routine avec l’heure."
+    },    
+    {
+      "week": 7,
+      "slug": "transport-directions",
+      "title": "Déplacements & transports",
+      "summary": "Demander/donner des directions simples, utiliser 어디에/어디로 et les transports avec -로.",
+      "difficulty": "A1",
+      "audioBasePath": "/audio/week07/",
+      "tooltip": "Transports et directions simples."
     }
   ]
 }

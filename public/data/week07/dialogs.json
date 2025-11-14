@@ -1,0 +1,66 @@
+{
+  "dialogs": [
+    {
+      "id": "week07-dialog01",
+      "title": "Demander son chemin",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["week07", "transport", "directions"],
+      "audioFull": "/audio/week07/dialogs/week07-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week07-dialog01-t01",
+          "speaker": "관광객",
+          "kr": "실례지만, 지하철역이 어디에 있어요?",
+          "rom": "sillyejiman, jihacheol-yeogi eodie isseoyo?",
+          "fr": "Excusez-moi, où se trouve la station de métro ?",
+          "audio": "/audio/week07/dialogs/week07-dialog01-t01.mp3"
+        },
+        {
+          "id": "week07-dialog01-t02",
+          "speaker": "시민",
+          "sentenceId": "week07-s05",
+          "kr": "저기 역이 있어요.",
+          "rom": "jeogi yeogi isseoyo.",
+          "fr": "Il y a une station là-bas.",
+          "audio": "/audio/week07/dialogs/week07-dialog01-t02.mp3"
+        },
+        {
+          "id": "week07-dialog01-t03",
+          "speaker": "관광객",
+          "kr": "걸어서 갈 수 있어요?",
+          "rom": "georeoseo gal su isseoyo?",
+          "fr": "Je peux y aller à pied ?",
+          "audio": "/audio/week07/dialogs/week07-dialog01-t03.mp3"
+        },
+        {
+          "id": "week07-dialog01-t04",
+          "speaker": "시민",
+          "sentenceId": "week07-s08",
+          "kr": "네, 멀지 않아요.",
+          "rom": "ne, meolji anayo.",
+          "fr": "Oui, ce n’est pas loin.",
+          "audio": "/audio/week07/dialogs/week07-dialog01-t04.mp3"
+        },
+        {
+          "id": "week07-dialog01-t05",
+          "speaker": "시민",
+          "sentenceId": "week07-s06",
+          "kr": "오른쪽으로 가세요.",
+          "rom": "oreunjjokeuro gaseyo.",
+          "fr": "Allez à droite.",
+          "audio": "/audio/week07/dialogs/week07-dialog01-t05.mp3"
+        },
+        {
+          "id": "week07-dialog01-t06",
+          "speaker": "시민",
+          "sentenceId": "week07-s07",
+          "kr": "그리고 왼쪽으로 가면 돼요.",
+          "rom": "geurigo oenjjokeuro gamyeon dwaeyo.",
+          "fr": "Puis tournez à gauche, et vous y serez.",
+          "audio": "/audio/week07/dialogs/week07-dialog01-t06.mp3"
+        }
+      ]
+    }
+  ]
+}

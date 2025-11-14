@@ -1,0 +1,38 @@
+{
+  "week": 7,
+  "title": "Déplacements & transports",
+  "theme": "Parler de ses déplacements, utiliser les transports, demander comment aller quelque part.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Demander comment aller à un endroit.",
+    "Utiliser les particules de direction 어디에 / 어디로.",
+    "Exprimer un moyen de transport avec -로 (à pied, en bus, en métro…).",
+    "Dire d’où on part et où on va."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "어디에 / 어디로",
+      "rom": "eodie / eodiro",
+      "fr": "« à quel endroit » / « vers quel endroit »"
+    },
+    {
+      "kr": "-로",
+      "rom": "-ro",
+      "fr": "indique le moyen (en… avec…)"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "버스", "rom": "beoseu", "fr": "bus" },
+    { "kr": "지하철", "rom": "jihacheol", "fr": "métro" },
+    { "kr": "택시", "rom": "taeksi", "fr": "taxi" },
+    { "kr": "걸어서", "rom": "georeoseo", "fr": "à pied" },
+    { "kr": "길", "rom": "gil", "fr": "chemin / route" },
+    { "kr": "역", "rom": "yeok", "fr": "gare / station" },
+    { "kr": "오른쪽", "rom": "oreunjjok", "fr": "à droite" },
+    { "kr": "왼쪽", "rom": "oenjjok", "fr": "à gauche" },
+    { "kr": "근처", "rom": "geuncheo", "fr": "près / aux alentours" },
+    { "kr": "멀다", "rom": "meolda", "fr": "être loin" }
+  ],
+  "audioBasePath": "/audio/week07/",
+  "notes": "Semaine introductive aux transports : questions simples, directions basiques, moyens de transport avec -로."
+}

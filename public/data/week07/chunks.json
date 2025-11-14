@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week07/chunks/",
+  "chunks": [
+    {
+      "id": "week07-ch01",
+      "title": "Demander comment aller quelque part",
+      "description": "Utiliser 어디에 / 어떻게 pour poser des questions de direction.",
+      "sentenceIds": ["week07-s01"],
+      "audio": "/audio/week07/chunks/week07-ch01.mp3",
+      "order": 1,
+      "level": "A1",
+      "tags": ["week07", "transport", "question"]
+    },
+    {
+      "id": "week07-ch02",
+      "title": "Dire son moyen de transport",
+      "description": "Utiliser -로 (en bus, en métro, à pied).",
+      "sentenceIds": ["week07-s02", "week07-s03", "week07-s04"],
+      "audio": "/audio/week07/chunks/week07-ch02.mp3",
+      "order": 2,
+      "level": "A1",
+      "tags": ["week07", "transport"]
+    },
+    {
+      "id": "week07-ch03",
+      "title": "Donner des directions simples",
+      "description": "Indiquer droite/gauche et dire si c'est loin ou non.",
+      "sentenceIds": ["week07-s05", "week07-s06", "week07-s07", "week07-s08"],
+      "audio": "/audio/week07/chunks/week07-ch03.mp3",
+      "order": 3,
+      "level": "A1",
+      "tags": ["week07", "directions"]
+    }
+  ]
+}
