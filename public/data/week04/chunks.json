@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week04/chunks/",
+  "chunks": [
+    {
+      "id": "week04-ch01",
+      "title": "Aimer ou pas la cuisine coréenne",
+      "description": "Poser des questions sur la cuisine coréenne et répondre avec 좋아해요 / 싫어해요.",
+      "sentenceIds": ["week04-s01", "week04-s02", "week04-s03"],
+      "audio": "/audio/week04/chunks/week04-ch01.mp3",
+      "order": 1,
+      "level": "A1",
+      "tags": ["week04", "food", "likes", "dislikes"]
+    },
+    {
+      "id": "week04-ch02",
+      "title": "Parler des boissons",
+      "description": "Dire si on aime le café ou le thé.",
+      "sentenceIds": ["week04-s04", "week04-s05"],
+      "audio": "/audio/week04/chunks/week04-ch02.mp3",
+      "order": 2,
+      "level": "A1",
+      "tags": ["week04", "drink", "likes", "dislikes"]
+    },
+    {
+      "id": "week04-ch03",
+      "title": "Goûts de la famille et loisirs",
+      "description": "Parler des goûts de sa famille et de ses loisirs (films, musique).",
+      "sentenceIds": ["week04-s06", "week04-s07", "week04-s08", "week04-s09"],
+      "audio": "/audio/week04/chunks/week04-ch03.mp3",
+      "order": 3,
+      "level": "A1",
+      "tags": ["week04", "family", "hobby", "likes"]
+    }
+  ]
+}

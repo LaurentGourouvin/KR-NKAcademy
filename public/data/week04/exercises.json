@@ -1,0 +1,99 @@
+{
+  "audioBasePath": "/audio/week04/exercises/",
+  "exercises": [
+    {
+      "id": "week04-ex01",
+      "title": "Comprendre une phrase avec 좋아해요",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction pour la phrase en coréen.",
+      "items": [
+        {
+          "id": "week04-ex01-i01",
+          "prompt": "Que signifie « 네, 저는 김치를 아주 좋아해요. » ?",
+          "kr": "네, 저는 김치를 아주 좋아해요.",
+          "rom": "ne, jeoneun gimchireul aju johahaeyo.",
+          "options": [
+            "Oui, j’aime beaucoup le kimchi.",
+            "Non, je n’aime pas le kimchi.",
+            "Oui, je mange souvent du kimchi."
+          ],
+          "answer": "Oui, j’aime beaucoup le kimchi.",
+          "sentenceId": "week04-s02",
+          "audio": "week04-ex01-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week04-ex02",
+      "title": "Rôle de 을/를",
+      "type": "grammar",
+      "instructions": "Observez les phrases et choisissez la bonne explication pour 을/를.",
+      "items": [
+        {
+          "id": "week04-ex02-i01",
+          "prompt": "Dans « 저는 커피를 좋아해요. », que marque 를 ?",
+          "kr": "저는 커피를 좋아해요.",
+          "rom": "jeoneun keopireul johahaeyo.",
+          "options": [
+            "Le sujet de la phrase.",
+            "L’objet direct (ce qu’on aime).",
+            "Le lieu de l’action."
+          ],
+          "answer": "L’objet direct (ce qu’on aime).",
+          "sentenceId": "week04-s04",
+          "audio": "week04-ex02-i01.mp3"
+        },
+        {
+          "id": "week04-ex02-i02",
+          "prompt": "Dans « 제 동생은 야채를 싫어해요. », quel est l’objet de 싫어해요 ?",
+          "kr": "제 동생은 야채를 싫어해요.",
+          "rom": "je dongsaengeun yachaereul sireohaeyo.",
+          "options": [
+            "제 동생 (mon petit frère / ma petite sœur)",
+            "야채 (les légumes)",
+            "싫어해요 (ne pas aimer)"
+          ],
+          "answer": "야채 (les légumes)",
+          "sentenceId": "week04-s07",
+          "audio": "week04-ex02-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week04-ex03",
+      "title": "Associer goûts et traductions",
+      "type": "vocab",
+      "instructions": "Associez la phrase coréenne avec la bonne traduction française.",
+      "items": [
+        {
+          "id": "week04-ex03-i01",
+          "prompt": "Quelle est la bonne traduction de « 저는 영화를 좋아해요. » ?",
+          "kr": "저는 영화를 좋아해요.",
+          "rom": "jeoneun yeonghwareul johahaeyo.",
+          "options": [
+            "J’aime les films.",
+            "Je n’aime pas les films.",
+            "Je regarde un film maintenant."
+          ],
+          "answer": "J’aime les films.",
+          "sentenceId": "week04-s08",
+          "audio": "week04-ex03-i01.mp3"
+        },
+        {
+          "id": "week04-ex03-i02",
+          "prompt": "Quelle est la bonne traduction de « 저는 음악을 좋아해요. » ?",
+          "kr": "저는 음악을 좋아해요.",
+          "rom": "jeoneun eumageul johahaeyo.",
+          "options": [
+            "J’aime la musique.",
+            "Je joue d’un instrument.",
+            "Je n’aime pas la musique."
+          ],
+          "answer": "J’aime la musique.",
+          "sentenceId": "week04-s09",
+          "audio": "week04-ex03-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

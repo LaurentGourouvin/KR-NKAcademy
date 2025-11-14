@@ -1,0 +1,105 @@
+{
+  "dialogs": [
+    {
+      "id": "week04-dialog01",
+      "title": "Parler de ce qu’on aime manger",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["week04", "food", "likes", "eul-reul"],
+      "audioFull": "/audio/week04/dialogs/week04-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week04-dialog01-t01",
+          "speaker": "민서",
+          "sentenceId": "week04-s01",
+          "kr": "로랑 씨는 한국 음식을 좋아해요?",
+          "rom": "Rorang-ssi-neun hanguk eumsigeul johahaeyo?",
+          "fr": "Laurent, est-ce que vous aimez la cuisine coréenne ?",
+          "audio": "/audio/week04/dialogs/week04-dialog01-t01.mp3"
+        },
+        {
+          "id": "week04-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week04-s02",
+          "kr": "네, 저는 김치를 아주 좋아해요.",
+          "rom": "ne, jeoneun gimchireul aju johahaeyo.",
+          "fr": "Oui, j’aime beaucoup le kimchi.",
+          "audio": "/audio/week04/dialogs/week04-dialog01-t02.mp3"
+        },
+        {
+          "id": "week04-dialog01-t03",
+          "speaker": "민서",
+          "sentenceId": "week04-s03",
+          "kr": "저는 매운 음식을 싫어해요.",
+          "rom": "jeoneun maeun eumsigeul sireohaeyo.",
+          "fr": "Moi, je n’aime pas la nourriture épicée.",
+          "audio": "/audio/week04/dialogs/week04-dialog01-t03.mp3"
+        },
+        {
+          "id": "week04-dialog01-t04",
+          "speaker": "민서",
+          "sentenceId": "week04-s04",
+          "kr": "저는 커피를 좋아해요.",
+          "rom": "jeoneun keopireul johahaeyo.",
+          "fr": "J’aime le café.",
+          "audio": "/audio/week04/dialogs/week04-dialog01-t04.mp3"
+        },
+        {
+          "id": "week04-dialog01-t05",
+          "speaker": "로랑",
+          "sentenceId": "week04-s05",
+          "kr": "저는 차를 싫어해요.",
+          "rom": "jeoneun chareul sireohaeyo.",
+          "fr": "Moi, je n’aime pas le thé.",
+          "audio": "/audio/week04/dialogs/week04-dialog01-t05.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week04-dialog02",
+      "title": "Goûts de la famille et loisirs",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["week04", "family", "hobby", "likes"],
+      "audioFull": "/audio/week04/dialogs/week04-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week04-dialog02-t01",
+          "speaker": "민서",
+          "sentenceId": "week04-s06",
+          "kr": "친구는 고기를 좋아해요.",
+          "rom": "chingu-neun gogireul johahaeyo.",
+          "fr": "Mon ami aime la viande.",
+          "audio": "/audio/week04/dialogs/week04-dialog02-t01.mp3"
+        },
+        {
+          "id": "week04-dialog02-t02",
+          "speaker": "로랑",
+          "sentenceId": "week04-s07",
+          "kr": "제 동생은 야채를 싫어해요.",
+          "rom": "je dongsaengeun yachaereul sireohaeyo.",
+          "fr": "Mon petit frère / ma petite sœur n’aime pas les légumes.",
+          "audio": "/audio/week04/dialogs/week04-dialog02-t02.mp3"
+        },
+        {
+          "id": "week04-dialog02-t03",
+          "speaker": "민서",
+          "sentenceId": "week04-s08",
+          "kr": "저는 영화를 좋아해요.",
+          "rom": "jeoneun yeonghwareul johahaeyo.",
+          "fr": "J’aime les films.",
+          "audio": "/audio/week04/dialogs/week04-dialog02-t03.mp3"
+        },
+        {
+          "id": "week04-dialog02-t04",
+          "speaker": "로랑",
+          "sentenceId": "week04-s09",
+          "kr": "저는 음악을 좋아해요.",
+          "rom": "jeoneun eumageul johahaeyo.",
+          "fr": "J’aime la musique.",
+          "audio": "/audio/week04/dialogs/week04-dialog02-t04.mp3"
+        }
+      ]
+    }
+  ]
+}

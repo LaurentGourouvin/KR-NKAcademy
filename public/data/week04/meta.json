@@ -1,0 +1,37 @@
+{
+  "week": 4,
+  "title": "Goûts et préférences",
+  "theme": "Parler de ce qu’on aime ou pas, surtout nourriture et activités simples.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Dire ce qu’on aime et ce qu’on n’aime pas (nourriture, boissons, activités simples).",
+    "Utiliser les verbes 좋아해요 et 싫어해요 avec des noms.",
+    "Utiliser 을/를 pour marquer l’objet avec les verbes de goût.",
+    "Comprendre un mini-dialogue sur les goûts et préférences."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "좋아해요 / 싫어해요",
+      "fr": "Verbes pour dire qu’on aime / qu’on n’aime pas quelque chose.",
+      "rom": "johahaeyo / sireohaeyo"
+    },
+    {
+      "kr": "을/를",
+      "fr": "Particule de l’objet direct (COD) avec les verbes comme 좋아하다.",
+      "rom": "eul / reul"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "음식", "fr": "nourriture", "rom": "eumsik" },
+    { "kr": "김치", "fr": "kimchi", "rom": "gimchi" },
+    { "kr": "매운 음식", "fr": "nourriture épicée", "rom": "maeun eumsik" },
+    { "kr": "커피", "fr": "café", "rom": "keopi" },
+    { "kr": "차", "fr": "thé", "rom": "cha" },
+    { "kr": "고기", "fr": "viande", "rom": "gogi" },
+    { "kr": "야채", "fr": "légumes", "rom": "yachae" },
+    { "kr": "영화", "fr": "film(s)", "rom": "yeonghwa" },
+    { "kr": "음악", "fr": "musique", "rom": "eumak" }
+  ],
+  "audioBasePath": "/audio/week04/",
+  "notes": "Semaine centrée sur les goûts (좋아해요/싫어해요) avec la particule d’objet 을/를. Toutes les phrases restent en 존댓말 (forme polie, yo-form)."
+}
