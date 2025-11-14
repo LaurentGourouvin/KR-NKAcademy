@@ -1,0 +1,68 @@
+{
+  "dialogs": [
+    {
+      "id": "week03-dialog01",
+      "title": "Parler de sa famille",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["week03", "family", "isseoyo", "eopseoyo"],
+      "audioFull": "/audio/week03/dialogs/week03-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week03-dialog01-t01",
+          "speaker": "민수",
+          "sentenceId": "week03-s01",
+          "kr": "로랑 씨 가족은 어떻게 돼요?",
+          "rom": "Rorang-ssi gajogeun eotteoke dwaeyo?",
+          "fr": "Laurent, comment est ta famille ?",
+          "audio": "/audio/week03/dialogs/week03-dialog01-t01.mp3"
+        },
+        {
+          "id": "week03-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week03-s02",
+          "kr": "저는 부모님하고 누나 한 명 있어요.",
+          "rom": "jeoneun bumonim-hago nuna han myeong isseoyo.",
+          "fr": "Moi, j’ai mes parents et une grande sœur.",
+          "audio": "/audio/week03/dialogs/week03-dialog01-t02.mp3"
+        },
+        {
+          "id": "week03-dialog01-t03",
+          "speaker": "민수",
+          "sentenceId": "week03-s09",
+          "kr": "누나는 한국에 살아요?",
+          "rom": "nuna-neun hanguk-e sarayo?",
+          "fr": "Ta grande sœur vit en Corée ?",
+          "audio": "/audio/week03/dialogs/week03-dialog01-t03.mp3"
+        },
+        {
+          "id": "week03-dialog01-t04",
+          "speaker": "로랑",
+          "sentenceId": "week03-s03",
+          "kr": "누나는 프랑스에 있어요.",
+          "rom": "nuna-neun peurangseu-e isseoyo.",
+          "fr": "Ma grande sœur est en France.",
+          "audio": "/audio/week03/dialogs/week03-dialog01-t04.mp3"
+        },
+        {
+          "id": "week03-dialog01-t05",
+          "speaker": "민수",
+          "sentenceId": "week03-s06",
+          "kr": "우리 가족은 네 명이에요.",
+          "rom": "uri gajogeun ne myeong-ieyo.",
+          "fr": "Nous sommes quatre dans ma famille.",
+          "audio": "/audio/week03/dialogs/week03-dialog01-t05.mp3"
+        },
+        {
+          "id": "week03-dialog01-t06",
+          "speaker": "로랑",
+          "sentenceId": "week03-s08",
+          "kr": "저는 반려동물 없어요.",
+          "rom": "jeoneun banryeodongmul eopseoyo.",
+          "fr": "Je n’ai pas d’animal de compagnie.",
+          "audio": "/audio/week03/dialogs/week03-dialog01-t06.mp3"
+        }
+      ]
+    }
+  ]
+}

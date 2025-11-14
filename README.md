@@ -445,7 +445,7 @@ All learning content inside the `/data` folder is licensed under **CC BY-NC-ND 4
 - prohibits **modification**,
 - prohibits **redistribution of altered or derived content**.
 
-See: [`data/LICENSE`](./data/LICENSE)
+See: [`data/LICENSE`](./public/data/LICENSE)
 
 **Summary:**
 

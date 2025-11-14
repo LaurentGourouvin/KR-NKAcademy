@@ -1,0 +1,86 @@
+{
+  "audioBasePath": "/audio/week03/sentences/",
+  "sentences": [
+    {
+      "id": "week03-s01",
+      "kr": "로랑 씨 가족은 어떻게 돼요?",
+      "rom": "Rorang-ssi gajogeun eotteoke dwaeyo?",
+      "fr": "Laurent, comment est ta famille ?",
+      "audio": "/audio/week03/sentences/week03-s01.mp3",
+      "order": 1,
+      "tags": ["family", "question"]
+    },
+    {
+      "id": "week03-s02",
+      "kr": "저는 부모님하고 누나 한 명 있어요.",
+      "rom": "jeoneun bumonim-hago nuna han myeong isseoyo.",
+      "fr": "Moi, j’ai mes parents et une grande sœur.",
+      "audio": "/audio/week03/sentences/week03-s02.mp3",
+      "order": 2,
+      "tags": ["family", "have", "isseoyo"]
+    },
+    {
+      "id": "week03-s03",
+      "kr": "누나는 프랑스에 있어요.",
+      "rom": "nuna-neun peurangseu-e isseoyo.",
+      "fr": "Ma grande sœur est en France.",
+      "audio": "/audio/week03/sentences/week03-s03.mp3",
+      "order": 3,
+      "tags": ["family", "location", "isseoyo"]
+    },
+    {
+      "id": "week03-s04",
+      "kr": "부모님은 프랑스에 계세요.",
+      "rom": "bumonimeun peurangseu-e gyeseyo.",
+      "fr": "Mes parents sont en France.",
+      "audio": "/audio/week03/sentences/week03-s04.mp3",
+      "order": 4,
+      "tags": ["family", "location", "honorific"]
+    },
+    {
+      "id": "week03-s05",
+      "kr": "저는 형제 없어요.",
+      "rom": "jeoneun hyeongje eopseoyo.",
+      "fr": "Je n’ai pas de frères et sœurs.",
+      "audio": "/audio/week03/sentences/week03-s05.mp3",
+      "order": 5,
+      "tags": ["family", "not-have", "eopseoyo"]
+    },
+    {
+      "id": "week03-s06",
+      "kr": "우리 가족은 네 명이에요.",
+      "rom": "uri gajogeun ne myeong-ieyo.",
+      "fr": "Nous sommes quatre dans ma famille.",
+      "audio": "/audio/week03/sentences/week03-s06.mp3",
+      "order": 6,
+      "tags": ["family", "count"]
+    },
+    {
+      "id": "week03-s07",
+      "kr": "제 동생은 한국에 살아요.",
+      "rom": "je dongsaengeun hanguk-e sarayo.",
+      "fr": "Mon petit frère / ma petite sœur vit en Corée.",
+      "audio": "/audio/week03/sentences/week03-s07.mp3",
+      "order": 7,
+      "tags": ["family", "possession", "location"]
+    },
+    {
+      "id": "week03-s08",
+      "kr": "저는 반려동물 없어요.",
+      "rom": "jeoneun banryeodongmul eopseoyo.",
+      "fr": "Je n’ai pas d’animal de compagnie.",
+      "audio": "/audio/week03/sentences/week03-s08.mp3",
+      "order": 8,
+      "tags": ["pet", "not-have", "eopseoyo"]
+    },
+    {
+      "id": "week03-s09",
+      "kr": "누나는 한국에 살아요?",
+      "rom": "nuna-neun hanguk-e sarayo?",
+      "fr": "Ta grande sœur vit en Corée ?",
+      "audio": "/audio/week03/sentences/week03-s09.mp3",
+      "order": 9,
+      "tags": ["family", "question", "location"]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week03/chunks/",
+  "chunks": [
+    {
+      "id": "week03-ch01",
+      "title": "Présenter sa famille",
+      "description": "Parler de sa famille de manière simple.",
+      "sentenceIds": ["week03-s01", "week03-s02", "week03-s06"],
+      "audio": "/audio/week03/chunks/week03-ch01.mp3",
+      "order": 1,
+      "level": "A1",
+      "tags": ["week03", "family", "intro"]
+    },
+    {
+      "id": "week03-ch02",
+      "title": "Dire où vit la famille",
+      "description": "Dire où se trouvent les membres de la famille.",
+      "sentenceIds": ["week03-s03", "week03-s04", "week03-s07"],
+      "audio": "/audio/week03/chunks/week03-ch02.mp3",
+      "order": 2,
+      "level": "A1",
+      "tags": ["week03", "family", "location"]
+    },
+    {
+      "id": "week03-ch03",
+      "title": "Dire ce qu’on a ou pas",
+      "description": "Utiliser 있어요 / 없어요 avec la famille et les animaux.",
+      "sentenceIds": ["week03-s05", "week03-s08"],
+      "audio": "/audio/week03/chunks/week03-ch03.mp3",
+      "order": 3,
+      "level": "A1",
+      "tags": ["week03", "isseoyo", "eopseoyo"]
+    }
+  ]
+}

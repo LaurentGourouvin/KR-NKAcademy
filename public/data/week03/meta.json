@@ -1,0 +1,36 @@
+{
+  "week": 3,
+  "title": "Parler de sa famille et de ce qu’on a",
+  "theme": "Présenter sa famille, dire qui on a / n’a pas, et où vivent les membres de la famille.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Parler de sa famille proche (parents, frères et sœurs).",
+    "Utiliser 제 / 우리 pour exprimer la possession.",
+    "Dire ce qu’on a ou pas avec 있어요 / 없어요.",
+    "Dire où vivent les membres de la famille."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "제 / 우리 (possession)",
+      "rom": "je / uri",
+      "fr": "Formes possesives pour « mon/ma » et « notre »."
+    },
+    {
+      "kr": "있어요 / 없어요",
+      "rom": "isseoyo / eopseoyo",
+      "fr": "Verbes « avoir / ne pas avoir », « il y a / il n’y a pas » en forme polie."
+    }
+  ],
+  "vocabulary": [
+    { "kr": "가족", "rom": "gajok", "fr": "famille" },
+    { "kr": "부모님", "rom": "bumonim", "fr": "parents" },
+    { "kr": "형", "rom": "hyeong", "fr": "grand frère (homme parlant)" },
+    { "kr": "누나", "rom": "nuna", "fr": "grande sœur (homme parlant)" },
+    { "kr": "동생", "rom": "dongsaeng", "fr": "petit frère / petite sœur" },
+    { "kr": "반려동물", "rom": "banryeodongmul", "fr": "animal de compagnie" },
+    { "kr": "프랑스", "rom": "peurangseu", "fr": "France" },
+    { "kr": "한국", "rom": "hanguk", "fr": "Corée" }
+  ],
+  "audioBasePath": "/audio/week03/",
+  "notes": "Semaine centrée sur la famille, la possession et les structures 있어요 / 없어요, toujours en 존댓말 (요-form)."
+}

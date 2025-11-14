@@ -17,6 +17,15 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week02/",
       "tooltip": "Âge, origine, métier."
+    },
+    {
+      "week": 3,
+      "slug": "family-and-what-you-have",
+      "title": "Parler de sa famille et de ce qu’on a",
+      "summary": "Parler de sa famille, dire ce qu’on a ou pas, et où vivent les proches.",
+      "difficulty": "A1",
+      "audioBasePath": "/audio/week03/",
+      "tooltip": "Famille et structures 있어요 / 없어요."
     }
   ]
 }

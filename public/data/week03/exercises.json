@@ -1,0 +1,99 @@
+{
+  "audioBasePath": "/audio/week03/exercises/",
+  "exercises": [
+    {
+      "id": "week03-ex01",
+      "title": "Comprendre la question sur la famille",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction pour la phrase en coréen.",
+      "items": [
+        {
+          "id": "week03-ex01-i01",
+          "prompt": "Que signifie « 로랑 씨 가족은 어떻게 돼요? » ?",
+          "kr": "로랑 씨 가족은 어떻게 돼요?",
+          "rom": "Rorang-ssi gajogeun eotteoke dwaeyo?",
+          "options": [
+            "Comment est ta famille ?",
+            "Où vivent tes parents ?",
+            "Combien de frères et sœurs as-tu ?"
+          ],
+          "answer": "Comment est ta famille ?",
+          "sentenceId": "week03-s01",
+          "audio": "week03-ex01-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week03-ex02",
+      "title": "Avoir et ne pas avoir",
+      "type": "grammar",
+      "instructions": "Observez l’utilisation de 있어요 / 없어요 et choisissez la réponse correcte.",
+      "items": [
+        {
+          "id": "week03-ex02-i01",
+          "prompt": "Laquelle de ces phrases signifie « Je n’ai pas de frères et sœurs. » ?",
+          "options": [
+            "저는 형 한 명 있어요.",
+            "저는 형제 없어요.",
+            "우리 가족은 네 명이에요."
+          ],
+          "answer": "저는 형제 없어요.",
+          "kr": "저는 형제 없어요.",
+          "rom": "jeoneun hyeongje eopseoyo.",
+          "sentenceId": "week03-s05",
+          "audio": "week03-ex02-i01.mp3"
+        },
+        {
+          "id": "week03-ex02-i02",
+          "prompt": "Laquelle de ces phrases signifie « Je n’ai pas d’animal de compagnie. » ?",
+          "options": [
+            "저는 반려동물 있어요.",
+            "저는 반려동물 없어요.",
+            "제 동생은 한국에 살아요."
+          ],
+          "answer": "저는 반려동물 없어요.",
+          "kr": "저는 반려동물 없어요.",
+          "rom": "jeoneun banryeodongmul eopseoyo.",
+          "sentenceId": "week03-s08",
+          "audio": "week03-ex02-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week03-ex03",
+      "title": "Parler de sa famille",
+      "type": "vocab",
+      "instructions": "Associez la phrase coréenne avec la bonne traduction française.",
+      "items": [
+        {
+          "id": "week03-ex03-i01",
+          "prompt": "Quelle est la bonne traduction de « 저는 부모님하고 누나 한 명 있어요. » ?",
+          "kr": "저는 부모님하고 누나 한 명 있어요.",
+          "rom": "jeoneun bumonim-hago nuna han myeong isseoyo.",
+          "options": [
+            "J’ai mes parents et une grande sœur.",
+            "Je vis seul en France.",
+            "Ma famille est en Corée."
+          ],
+          "answer": "J’ai mes parents et une grande sœur.",
+          "sentenceId": "week03-s02",
+          "audio": "week03-ex03-i01.mp3"
+        },
+        {
+          "id": "week03-ex03-i02",
+          "prompt": "Quelle est la bonne traduction de « 우리 가족은 네 명이에요. » ?",
+          "kr": "우리 가족은 네 명이에요.",
+          "rom": "uri gajogeun ne myeong-ieyo.",
+          "options": [
+            "Nous sommes quatre dans ma famille.",
+            "Ma famille est en Corée.",
+            "Je n’ai pas de famille."
+          ],
+          "answer": "Nous sommes quatre dans ma famille.",
+          "sentenceId": "week03-s06",
+          "audio": "week03-ex03-i02.mp3"
+        }
+      ]
+    }
+  ]
+}
