@@ -1,0 +1,38 @@
+{
+  "week": 5,
+  "title": "Café & restaurant (commander, demander)",
+  "theme": "Commander un plat ou une boisson au café/restaurant en utilisant 주세요 et 좀 pour adoucir la demande.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Demander une table au café ou au restaurant.",
+    "Commander une boisson ou un plat avec la forme 주세요.",
+    "Utiliser 좀 pour atténuer une demande et la rendre plus polie.",
+    "Comprendre des phrases simples typiques de la situation café/restaurant."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "주세요",
+      "rom": "juseyo",
+      "fr": "Forme polie pour demander quelque chose (« donnez-moi… s’il vous plaît »)."
+    },
+    {
+      "kr": "좀",
+      "rom": "jom",
+      "fr": "Adverbe atténuateur pour rendre la demande plus douce/polie."
+    }
+  ],
+  "vocabulary": [
+    { "kr": "커피", "rom": "keopi", "fr": "café" },
+    { "kr": "차", "rom": "cha", "fr": "thé" },
+    { "kr": "물", "rom": "mul", "fr": "eau" },
+    { "kr": "메뉴", "rom": "menyu", "fr": "menu" },
+    { "kr": "자리", "rom": "jari", "fr": "place, siège" },
+    { "kr": "계산", "rom": "gyesan", "fr": "addition, paiement" },
+    { "kr": "포장", "rom": "pojang", "fr": "à emporter" },
+    { "kr": "얼마", "rom": "eolma", "fr": "combien" },
+    { "kr": "손님", "rom": "sonnim", "fr": "client" },
+    { "kr": "점원", "rom": "jeomwon", "fr": "serveur / employé" }
+  ],
+  "audioBasePath": "/audio/week05/",
+  "notes": "Semaine centrée sur les commandes simples au café/restaurant avec 주세요 et 좀. Tout reste en 존댓말 (forme en -요)."
+}

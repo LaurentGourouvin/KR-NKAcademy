@@ -1,0 +1,68 @@
+{
+  "dialogs": [
+    {
+      "id": "week05-dialog01",
+      "title": "Commander au café",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["week05", "cafe", "restaurant", "juseyo"],
+      "audioFull": "/audio/week05/dialogs/week05-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week05-dialog01-t01",
+          "speaker": "손님",
+          "sentenceId": "week05-s01",
+          "kr": "안녕하세요. 여기 자리 있어요?",
+          "rom": "annyeonghaseyo. yeogi jari isseoyo?",
+          "fr": "Bonjour. Vous avez une table ici ?",
+          "audio": "/audio/week05/dialogs/week05-dialog01-t01.mp3"
+        },
+        {
+          "id": "week05-dialog01-t02",
+          "speaker": "점원",
+          "sentenceId": "week05-s02",
+          "kr": "네, 두 명이에요?",
+          "rom": "ne, du myeong-ieyo?",
+          "fr": "Oui, vous êtes deux ?",
+          "audio": "/audio/week05/dialogs/week05-dialog01-t02.mp3"
+        },
+        {
+          "id": "week05-dialog01-t03",
+          "speaker": "손님",
+          "sentenceId": "week05-s03",
+          "kr": "네, 메뉴 좀 주세요.",
+          "rom": "ne, menyu jom juseyo.",
+          "fr": "Oui, le menu s’il vous plaît.",
+          "audio": "/audio/week05/dialogs/week05-dialog01-t03.mp3"
+        },
+        {
+          "id": "week05-dialog01-t04",
+          "speaker": "손님",
+          "sentenceId": "week05-s04",
+          "kr": "아메리카노 한 잔 주세요.",
+          "rom": "amerikano han jan juseyo.",
+          "fr": "Un Americano, s’il vous plaît.",
+          "audio": "/audio/week05/dialogs/week05-dialog01-t04.mp3"
+        },
+        {
+          "id": "week05-dialog01-t05",
+          "speaker": "손님",
+          "sentenceId": "week05-s05",
+          "kr": "물도 좀 주세요.",
+          "rom": "muldo jom juseyo.",
+          "fr": "De l’eau aussi, s’il vous plaît.",
+          "audio": "/audio/week05/dialogs/week05-dialog01-t05.mp3"
+        },
+        {
+          "id": "week05-dialog01-t06",
+          "speaker": "점원",
+          "sentenceId": "week05-s08",
+          "kr": "네, 잠시만요. 계산은 나중에 얼마예요? 하고 물어보세요.",
+          "rom": "ne, jamsimanyo. gyesaneun najunge eolma-yeyo? hago mureoboseyo.",
+          "fr": "Très bien, un instant. Pour payer, demandez simplement « C’est combien ? ».",
+          "audio": "/audio/week05/dialogs/week05-dialog01-t06.mp3"
+        }
+      ]
+    }
+  ]
+}

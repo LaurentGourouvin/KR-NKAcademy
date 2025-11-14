@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week05/chunks/",
+  "chunks": [
+    {
+      "id": "week05-ch01",
+      "title": "Chercher une table",
+      "description": "Demander s’il y a une place et dire combien de personnes vous êtes.",
+      "sentenceIds": ["week05-s01", "week05-s02"],
+      "audio": "/audio/week05/chunks/week05-ch01.mp3",
+      "order": 1,
+      "level": "A1",
+      "tags": ["week05", "cafe", "seat"]
+    },
+    {
+      "id": "week05-ch02",
+      "title": "Demander le menu et commander",
+      "description": "Utiliser 주세요 et 좀 pour demander le menu et une boisson.",
+      "sentenceIds": ["week05-s03", "week05-s04", "week05-s05"],
+      "audio": "/audio/week05/chunks/week05-ch02.mp3",
+      "order": 2,
+      "level": "A1",
+      "tags": ["week05", "cafe", "juseyo", "jom"]
+    },
+    {
+      "id": "week05-ch03",
+      "title": "Sur place ou à emporter ?",
+      "description": "Dire si vous mangez sur place, à emporter, et demander le prix.",
+      "sentenceIds": ["week05-s06", "week05-s07", "week05-s08"],
+      "audio": "/audio/week05/chunks/week05-ch03.mp3",
+      "order": 3,
+      "level": "A1",
+      "tags": ["week05", "cafe", "takeout", "price"]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "audioBasePath": "/audio/week05/sentences/",
+  "sentences": [
+    {
+      "id": "week05-s01",
+      "kr": "여기 자리 있어요?",
+      "rom": "yeogi jari isseoyo?",
+      "fr": "Vous avez une table ici ?",
+      "audio": "/audio/week05/sentences/week05-s01.mp3",
+      "order": 1,
+      "tags": ["cafe", "question", "seat"]
+    },
+    {
+      "id": "week05-s02",
+      "kr": "두 명이에요.",
+      "rom": "du myeong-ieyo.",
+      "fr": "Nous sommes deux.",
+      "audio": "/audio/week05/sentences/week05-s02.mp3",
+      "order": 2,
+      "tags": ["cafe", "answer", "people"]
+    },
+    {
+      "id": "week05-s03",
+      "kr": "메뉴 좀 주세요.",
+      "rom": "menyu jom juseyo.",
+      "fr": "Le menu, s’il vous plaît.",
+      "audio": "/audio/week05/sentences/week05-s03.mp3",
+      "order": 3,
+      "tags": ["cafe", "request", "juseyo", "jom"]
+    },
+    {
+      "id": "week05-s04",
+      "kr": "아메리카노 한 잔 주세요.",
+      "rom": "amerikano han jan juseyo.",
+      "fr": "Un Americano, s’il vous plaît.",
+      "audio": "/audio/week05/sentences/week05-s04.mp3",
+      "order": 4,
+      "tags": ["cafe", "drink", "juseyo"]
+    },
+    {
+      "id": "week05-s05",
+      "kr": "물도 좀 주세요.",
+      "rom": "muldo jom juseyo.",
+      "fr": "De l’eau aussi, s’il vous plaît.",
+      "audio": "/audio/week05/sentences/week05-s05.mp3",
+      "order": 5,
+      "tags": ["cafe", "drink", "juseyo", "jom"]
+    },
+    {
+      "id": "week05-s06",
+      "kr": "여기에서 먹을게요.",
+      "rom": "yeogie-seo meogeul-geyo.",
+      "fr": "Nous allons manger ici.",
+      "audio": "/audio/week05/sentences/week05-s06.mp3",
+      "order": 6,
+      "tags": ["cafe", "eat-in"]
+    },
+    {
+      "id": "week05-s07",
+      "kr": "포장해 주세요.",
+      "rom": "pojanghae juseyo.",
+      "fr": "Mettez à emporter, s’il vous plaît.",
+      "audio": "/audio/week05/sentences/week05-s07.mp3",
+      "order": 7,
+      "tags": ["cafe", "takeout", "juseyo"]
+    },
+    {
+      "id": "week05-s08",
+      "kr": "얼마예요?",
+      "rom": "eolma-yeyo?",
+      "fr": "C’est combien ?",
+      "audio": "/audio/week05/sentences/week05-s08.mp3",
+      "order": 8,
+      "tags": ["cafe", "price", "question"]
+    }
+  ]
+}

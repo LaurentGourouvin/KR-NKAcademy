@@ -35,6 +35,15 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week04/",
       "tooltip": "Goûts, nourriture, activités."
+    },   
+    {
+      "week": 5,
+      "slug": "cafe-and-restaurant",
+      "title": "Café & restaurant (commander, demander)",
+      "summary": "Commander à boire ou à manger avec 주세요 et utiliser 좀 pour adoucir la demande.",
+      "difficulty": "A1",
+      "audioBasePath": "/audio/week05/",
+      "tooltip": "Commander poliment au café/restaurant."
     }
   ]
 }

@@ -1,0 +1,89 @@
+{
+  "audioBasePath": "/audio/week05/exercises/",
+  "exercises": [
+    {
+      "id": "week05-ex01",
+      "title": "Demander le menu",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction pour la phrase en coréen.",
+      "items": [
+        {
+          "id": "week05-ex01-i01",
+          "prompt": "Que signifie « 메뉴 좀 주세요. » ?",
+          "kr": "메뉴 좀 주세요.",
+          "rom": "menyu jom juseyo.",
+          "options": [
+            "Le menu, s’il vous plaît.",
+            "L’addition, s’il vous plaît.",
+            "De l’eau, s’il vous plaît."
+          ],
+          "answer": "Le menu, s’il vous plaît.",
+          "sentenceId": "week05-s03",
+          "audio": "week05-ex01-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week05-ex02",
+      "title": "Commander une boisson",
+      "type": "grammar",
+      "instructions": "Observez l’usage de 주세요 pour commander poliment.",
+      "items": [
+        {
+          "id": "week05-ex02-i01",
+          "prompt": "Comment dire « Un Americano, s’il vous plaît. » en coréen (forme polie) ?",
+          "kr": "아메리카노 한 잔 주세요.",
+          "rom": "amerikano han jan juseyo.",
+          "fr": "Un Americano, s’il vous plaît.",
+          "answer": "아메리카노 한 잔 주세요.",
+          "sentenceId": "week05-s04",
+          "audio": "week05-ex02-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week05-ex03",
+      "title": "Utiliser 좀 pour adoucir",
+      "type": "grammar",
+      "instructions": "Choisissez la phrase la plus polie grâce à l’usage de 좀.",
+      "items": [
+        {
+          "id": "week05-ex03-i01",
+          "prompt": "Laquelle est la plus naturelle/polie au café ?",
+          "options": [
+            "물 주세요.",
+            "물도 좀 주세요.",
+            "물도 주세요."
+          ],
+          "answer": "물도 좀 주세요.",
+          "kr": "물도 좀 주세요.",
+          "rom": "muldo jom juseyo.",
+          "sentenceId": "week05-s05",
+          "audio": "week05-ex03-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week05-ex04",
+      "title": "Demander le prix",
+      "type": "vocab",
+      "instructions": "Reliez la phrase coréenne à la bonne traduction.",
+      "items": [
+        {
+          "id": "week05-ex04-i01",
+          "prompt": "Quelle est la bonne traduction pour « 얼마예요? » ?",
+          "kr": "얼마예요?",
+          "rom": "eolma-yeyo?",
+          "options": [
+            "C’est où ?",
+            "C’est combien ?",
+            "C’est quoi ?"
+          ],
+          "answer": "C’est combien ?",
+          "sentenceId": "week05-s08",
+          "audio": "week05-ex04-i01.mp3"
+        }
+      ]
+    }
+  ]
+}
