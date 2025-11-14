@@ -1,0 +1,83 @@
+{
+  "dialogs": [
+    {
+      "id": "week06-dialog01",
+      "title": "Parler de sa routine",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["week06", "routine", "hour"],
+      "audioFull": "/audio/week06/dialogs/week06-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week06-dialog01-t01",
+          "speaker": "친구",
+          "kr": "너는 보통 몇 시에 일어나요?",
+          "rom": "neoneun botong myeot sie ireonayo?",
+          "fr": "Tu te réveilles à quelle heure, d’habitude ?",
+          "audio": "/audio/week06/dialogs/week06-dialog01-t01.mp3"
+        },
+        {
+          "id": "week06-dialog01-t02",
+          "speaker": "학생",
+          "sentenceId": "week06-s01",
+          "kr": "저는 일곱 시에 일어나요.",
+          "rom": "jeoneun ilgop sie ireonayo.",
+          "fr": "Je me réveille à sept heures.",
+          "audio": "/audio/week06/dialogs/week06-dialog01-t02.mp3"
+        },
+        {
+          "id": "week06-dialog01-t03",
+          "speaker": "친구",
+          "kr": "일어나서 뭐 해요?",
+          "rom": "ireonaseo mwo haeyo?",
+          "fr": "Et après t’être réveillé, tu fais quoi ?",
+          "audio": "/audio/week06/dialogs/week06-dialog01-t03.mp3"
+        },
+        {
+          "id": "week06-dialog01-t04",
+          "speaker": "학생",
+          "sentenceId": "week06-s02",
+          "kr": "샤워하고 아침을 먹어요.",
+          "rom": "syawo-hago achimeul meogeoyo.",
+          "fr": "Je prends une douche puis je prends le petit-déjeuner.",
+          "audio": "/audio/week06/dialogs/week06-dialog01-t04.mp3"
+        },
+        {
+          "id": "week06-dialog01-t05",
+          "speaker": "학생",
+          "sentenceId": "week06-s03",
+          "kr": "여덟 시 반에 회사에 가요.",
+          "rom": "yeodeol s ban-e hoesa-e gayo.",
+          "fr": "Je vais au travail à huit heures trente.",
+          "audio": "/audio/week06/dialogs/week06-dialog01-t05.mp3"
+        },
+        {
+          "id": "week06-dialog01-t06",
+          "speaker": "친구",
+          "kr": "퇴근하고는 뭐 해요?",
+          "rom": "toegeunhago-neun mwo haeyo?",
+          "fr": "Et après le travail, tu fais quoi ?",
+          "audio": "/audio/week06/dialogs/week06-dialog01-t06.mp3"
+        },
+        {
+          "id": "week06-dialog01-t07",
+          "speaker": "학생",
+          "sentenceId": "week06-s05",
+          "kr": "저녁에 집에서 쉬어요.",
+          "rom": "jeonyeoge jib-eseo swieoyo.",
+          "fr": "Le soir, je me repose à la maison.",
+          "audio": "/audio/week06/dialogs/week06-dialog01-t07.mp3"
+        },
+        {
+          "id": "week06-dialog01-t08",
+          "speaker": "친구",
+          "sentenceId": "week06-s06",
+          "kr": "열한 시에 자요?",
+          "rom": "yeolhan sie jayo?",
+          "fr": "Tu te couches à onze heures ?",
+          "audio": "/audio/week06/dialogs/week06-dialog01-t08.mp3"
+        }
+      ]
+    }
+  ]
+}

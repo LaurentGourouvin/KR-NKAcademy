@@ -1,0 +1,85 @@
+{
+  "audioBasePath": "/audio/week06/exercises/",
+  "exercises": [
+    {
+      "id": "week06-ex01",
+      "title": "À quelle heure ?",
+      "type": "vocab",
+      "instructions": "Choisissez la traduction correcte.",
+      "items": [
+        {
+          "id": "week06-ex01-i01",
+          "prompt": "저는 일곱 시에 일어나요.",
+          "options": [
+            "Je me réveille à sept heures.",
+            "Je me couche à sept heures.",
+            "Je mange à sept heures."
+          ],
+          "answer": "Je me réveille à sept heures.",
+          "sentenceId": "week06-s01",
+          "audio": "week06-ex01-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week06-ex02",
+      "title": "Enchaîner des actions",
+      "type": "grammar",
+      "instructions": "Observez comment -하고 relie deux actions.",
+      "items": [
+        {
+          "id": "week06-ex02-i01",
+          "prompt": "Quelle phrase signifie « Je prends une douche puis je prends le petit-déjeuner » ?",
+          "options": [
+            "샤워하고 아침을 먹어요.",
+            "샤워해요. 아침은 안 먹어요.",
+            "아침을 먹고 샤워해요."
+          ],
+          "answer": "샤워하고 아침을 먹어요.",
+          "sentenceId": "week06-s02",
+          "audio": "week06-ex02-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week06-ex03",
+      "title": "Comprendre les heures",
+      "type": "vocab",
+      "instructions": "Sélectionnez la bonne heure.",
+      "items": [
+        {
+          "id": "week06-ex03-i01",
+          "prompt": "여덟 시 반에 회사에 가요.",
+          "options": [
+            "Je vais au travail à 7h30.",
+            "Je vais au travail à 8h30.",
+            "Je vais au travail à 9h30."
+          ],
+          "answer": "Je vais au travail à 8h30.",
+          "sentenceId": "week06-s03",
+          "audio": "week06-ex03-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week06-ex04",
+      "title": "Routine du soir",
+      "type": "vocab",
+      "instructions": "Choisissez la phrase correcte.",
+      "items": [
+        {
+          "id": "week06-ex04-i01",
+          "prompt": "저녁에 집에서 쉬어요.",
+          "options": [
+            "Je me repose à la maison le soir.",
+            "Je vais au travail le soir.",
+            "Je fais du sport le soir."
+          ],
+          "answer": "Je me repose à la maison le soir.",
+          "sentenceId": "week06-s05",
+          "audio": "week06-ex04-i01.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week06/chunks/",
+  "chunks": [
+    {
+      "id": "week06-ch01",
+      "title": "Matin",
+      "description": "Parler du réveil et du début de journée.",
+      "sentenceIds": ["week06-s01", "week06-s02"],
+      "audio": "/audio/week06/chunks/week06-ch01.mp3",
+      "order": 1,
+      "level": "A1",
+      "tags": ["week06", "routine", "morning"]
+    },
+    {
+      "id": "week06-ch02",
+      "title": "Aller au travail / école",
+      "description": "Exprimer un horaire et l’action correspondante.",
+      "sentenceIds": ["week06-s03", "week06-s07"],
+      "audio": "/audio/week06/chunks/week06-ch02.mp3",
+      "order": 2,
+      "level": "A1",
+      "tags": ["week06", "hour", "work"]
+    },
+    {
+      "id": "week06-ch03",
+      "title": "Soir et repos",
+      "description": "Parler de la fin de journée et de l’heure du coucher.",
+      "sentenceIds": ["week06-s05", "week06-s06", "week06-s08"],
+      "audio": "/audio/week06/chunks/week06-ch03.mp3",
+      "order": 3,
+      "level": "A1",
+      "tags": ["week06", "evening", "rest"]
+    }
+  ]
+}

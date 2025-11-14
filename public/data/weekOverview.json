@@ -44,6 +44,15 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week05/",
       "tooltip": "Commander poliment au café/restaurant."
+    },
+    {
+      "week": 6,
+      "slug": "daily-routine-time",
+      "title": "Routine quotidienne (horaires et actions)",
+      "summary": "Parler de sa journée avec des verbes simples et des heures (…시에) en coréen poli.",
+      "difficulty": "A1",
+      "audioBasePath": "/audio/week06/",
+      "tooltip": "Décrire sa routine avec l’heure."
     }
   ]
 }

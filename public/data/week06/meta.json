@@ -1,0 +1,38 @@
+{
+  "week": 6,
+  "title": "Routine quotidienne (horaires + actions)",
+  "theme": "Décrire sa journée avec des verbes simples et des horaires.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Comprendre et utiliser les heures (…시에).",
+    "Décrire les actions quotidiennes avec des verbes en -아요/어요.",
+    "Enchaîner plusieurs actions dans la journée.",
+    "Dire l’heure où l’on fait une action."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "…시에",
+      "rom": "…sie",
+      "fr": "Marqueur de l’heure (« à … heures »)."
+    },
+    {
+      "kr": "아/어요",
+      "rom": "a/eoyo",
+      "fr": "Forme polie présente des verbes (routine, actions habituelles)."
+    }
+  ],
+  "vocabulary": [
+    { "kr": "일어나다", "rom": "ireonada", "fr": "se réveiller" },
+    { "kr": "씻다", "rom": "ssitda", "fr": "se laver" },
+    { "kr": "먹다", "rom": "meokda", "fr": "manger" },
+    { "kr": "가다", "rom": "gada", "fr": "aller" },
+    { "kr": "일하다", "rom": "ilhada", "fr": "travailler" },
+    { "kr": "공부하다", "rom": "gongbuhada", "fr": "étudier" },
+    { "kr": "집", "rom": "jip", "fr": "maison" },
+    { "kr": "학교", "rom": "hakgyo", "fr": "école" },
+    { "kr": "회사", "rom": "hoesa", "fr": "entreprise" },
+    { "kr": "시간", "rom": "sigan", "fr": "temps / heure" }
+  ],
+  "audioBasePath": "/audio/week06/",
+  "notes": "Introduction des heures et de la forme verbale 아/어요 dans le contexte de la routine quotidienne."
+}
