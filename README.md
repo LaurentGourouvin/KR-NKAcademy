@@ -140,6 +140,10 @@ KR-NKAcademy/
 │
 ├── app/                   ← Frontend / application code
 ├── components/            ← Reusable UI components
+├── domain/                ← Logic of NKA
+├── hooks/                 ← Reusable Hooks
+├── services/              ← Modules responsible for external interactions
+├── types/                 ← shared TypeScript type definitions and interfaces used across the application
 ├── public/                ← UI assets (non-protected)
 │
 └── data/                  ← Protected learning content (CC BY-NC-ND)
