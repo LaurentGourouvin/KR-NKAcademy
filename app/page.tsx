@@ -1,4 +1,5 @@
-import { getWeekData, getWeekOverview } from "@/services/data/ServiceData";
+import { getWeekOverview } from "@/services/data/ServiceData";
+import Link from "next/link";
 
 export default async function Home() {
   const weekOverview = await getWeekOverview();
@@ -44,12 +45,12 @@ export default async function Home() {
                 </span>
               </div>
 
-              <a
-                href={`/week/${w.slug}`}
+              <Link
+                href={`/week/${w.week}/${w.slug}`}
                 className="mt-4 inline-block text-purple-600 font-semibold hover:underline text-sm"
               >
                 Open Week →
-              </a>
+              </Link>
             </div>
           ))}
         </div>
