@@ -1,0 +1,37 @@
+{
+  "week": 9,
+  "title": "Proposer, accepter et refuser des invitations",
+  "theme": "Inviter quelqu’un, accepter/refuser poliment, proposer une activité.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Proposer une activité en utilisant -(으)ㄹ래요 ?",
+    "Accepter ou refuser poliment.",
+    "Utiliser 같이 pour proposer de faire quelque chose ensemble.",
+    "Dire quand on est disponible."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "-(으)ㄹ래요?",
+      "rom": "-(eu)llaeyo?",
+      "fr": "Proposition (tu veux… ?)"
+    },
+    {
+      "kr": "같이",
+      "rom": "gachi",
+      "fr": "ensemble"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "시간", "rom": "sigan", "fr": "temps / horaire" },
+    { "kr": "약속", "rom": "yaksok", "fr": "rendez-vous / engagement" },
+    { "kr": "괜찮아요", "rom": "gwaenchanayo", "fr": "ça va / c’est ok" },
+    { "kr": "미안해요", "rom": "mianhaeyo", "fr": "désolé" },
+    { "kr": "함께", "rom": "hamkke", "fr": "ensemble (plus soutenu que 같이)" },
+    { "kr": "오늘", "rom": "oneul", "fr": "aujourd’hui" },
+    { "kr": "내일", "rom": "nae-il", "fr": "demain" },
+    { "kr": "만나다", "rom": "mannada", "fr": "rencontrer" },
+    { "kr": "걷다", "rom": "geotda", "fr": "marcher" }
+  ],
+  "audioBasePath": "/audio/week09/",
+  "notes": "Semaine centrée sur les invitations simples : proposer une sortie, accepter ou refuser poliment."
+}

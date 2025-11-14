@@ -1,0 +1,68 @@
+{
+  "dialogs": [
+    {
+      "id": "week09-dialog01",
+      "title": "Proposer une sortie",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["invitation", "week09"],
+      "audioFull": "/audio/week09/dialogs/week09-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week09-dialog01-t01",
+          "speaker": "민수",
+          "kr": "같이 커피 마실래요?",
+          "rom": "gachi keopi masillaeyo?",
+          "fr": "On prend un café ensemble ?",
+          "sentenceId": "week09-s01",
+          "audio": "/audio/week09/dialogs/week09-dialog01-t01.mp3"
+        },
+        {
+          "id": "week09-dialog01-t02",
+          "speaker": "리사",
+          "kr": "미안해요, 오늘은 약속이 있어요.",
+          "rom": "mianhaeyo, oneureun yaksogi isseoyo.",
+          "fr": "Désolé, j’ai un engagement aujourd’hui.",
+          "sentenceId": "week09-s03",
+          "audio": "/audio/week09/dialogs/week09-dialog01-t02.mp3"
+        },
+        {
+          "id": "week09-dialog01-t03",
+          "speaker": "민수",
+          "kr": "내일 어때요?",
+          "rom": "nae-il eottaeyo?",
+          "fr": "Et demain, ça te va ?",
+          "sentenceId": "week09-s04",
+          "audio": "/audio/week09/dialogs/week09-dialog01-t03.mp3"
+        },
+        {
+          "id": "week09-dialog01-t04",
+          "speaker": "리사",
+          "kr": "시간 있어요.",
+          "rom": "sigan isseoyo.",
+          "fr": "Je suis disponible.",
+          "sentenceId": "week09-s05",
+          "audio": "/audio/week09/dialogs/week09-dialog01-t04.mp3"
+        },
+        {
+          "id": "week09-dialog01-t05",
+          "speaker": "리사",
+          "kr": "같이 산책할래요?",
+          "rom": "gachi sanchaekallaeyo?",
+          "fr": "On va marcher ensemble ?",
+          "sentenceId": "week09-s06",
+          "audio": "/audio/week09/dialogs/week09-dialog01-t05.mp3"
+        },
+        {
+          "id": "week09-dialog01-t06",
+          "speaker": "민수",
+          "kr": "좋아요!",
+          "rom": "joayo!",
+          "fr": "Ça me va !",
+          "sentenceId": "week09-s02",
+          "audio": "/audio/week09/dialogs/week09-dialog01-t06.mp3"
+        }
+      ]
+    }
+  ]
+}

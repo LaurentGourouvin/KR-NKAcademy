@@ -1,0 +1,59 @@
+{
+  "audioBasePath": "/audio/week09/sentences/",
+  "sentences": [
+    {
+      "id": "week09-s01",
+      "kr": "같이 커피 마실래요?",
+      "rom": "gachi keopi masillaeyo?",
+      "fr": "On prend un café ensemble ?",
+      "audio": "/audio/week09/sentences/week09-s01.mp3",
+      "order": 1,
+      "tags": ["invitation"]
+    },
+    {
+      "id": "week09-s02",
+      "kr": "좋아요!",
+      "rom": "joayo!",
+      "fr": "Ça me va !",
+      "audio": "/audio/week09/sentences/week09-s02.mp3",
+      "order": 2,
+      "tags": ["accept"]
+    },
+    {
+      "id": "week09-s03",
+      "kr": "미안해요, 오늘은 약속이 있어요.",
+      "rom": "mianhaeyo, oneureun yaksogi isseoyo.",
+      "fr": "Désolé, j’ai un engagement aujourd’hui.",
+      "audio": "/audio/week09/sentences/week09-s03.mp3",
+      "order": 3,
+      "tags": ["refuse"]
+    },
+    {
+      "id": "week09-s04",
+      "kr": "내일 어때요?",
+      "rom": "nae-il eottaeyo?",
+      "fr": "Et demain, ça te va ?",
+      "audio": "/audio/week09/sentences/week09-s04.mp3",
+      "order": 4,
+      "tags": ["invitation"]
+    },
+    {
+      "id": "week09-s05",
+      "kr": "시간 있어요.",
+      "rom": "sigan isseoyo.",
+      "fr": "Je suis disponible.",
+      "audio": "/audio/week09/sentences/week09-s05.mp3",
+      "order": 5,
+      "tags": ["availability"]
+    },
+    {
+      "id": "week09-s06",
+      "kr": "같이 산책할래요?",
+      "rom": "gachi sanchaekallaeyo?",
+      "fr": "On va marcher ensemble ?",
+      "audio": "/audio/week09/sentences/week09-s06.mp3",
+      "order": 6,
+      "tags": ["invitation"]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week09/chunks/",
+  "chunks": [
+    {
+      "id": "week09-ch01",
+      "title": "Proposer une activité",
+      "description": "Utiliser -(으)ㄹ래요 ? pour proposer.",
+      "sentenceIds": ["week09-s01", "week09-s06"],
+      "audio": "/audio/week09/chunks/week09-ch01.mp3",
+      "order": 1,
+      "tags": ["invitation"],
+      "level": "A1"
+    },
+    {
+      "id": "week09-ch02",
+      "title": "Accepter et refuser poliment",
+      "description": "Expressions simples pour répondre à une invitation.",
+      "sentenceIds": ["week09-s02", "week09-s03"],
+      "audio": "/audio/week09/chunks/week09-ch02.mp3",
+      "order": 2,
+      "tags": ["response"],
+      "level": "A1"
+    },
+    {
+      "id": "week09-ch03",
+      "title": "Proposer un autre moment",
+      "description": "Dire qu’on est disponible ou non.",
+      "sentenceIds": ["week09-s04", "week09-s05"],
+      "audio": "/audio/week09/chunks/week09-ch03.mp3",
+      "order": 3,
+      "tags": ["availability"],
+      "level": "A1"
+    }
+  ]
+}

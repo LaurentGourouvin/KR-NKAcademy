@@ -1,0 +1,85 @@
+{
+  "audioBasePath": "/audio/week09/exercises/",
+  "exercises": [
+    {
+      "id": "week09-ex01",
+      "title": "Compréhension — invitation",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction.",
+      "items": [
+        {
+          "id": "week09-ex01-i01",
+          "prompt": "같이 커피 마실래요?",
+          "options": [
+            "On prend un café ensemble ?",
+            "Tu veux acheter un café ?",
+            "Où est le café ?"
+          ],
+          "answer": "On prend un café ensemble ?",
+          "sentenceId": "week09-s01",
+          "audio": "week09-ex01-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week09-ex02",
+      "title": "Répondre à une invitation",
+      "type": "vocab",
+      "instructions": "Choisissez la réponse correcte.",
+      "items": [
+        {
+          "id": "week09-ex02-i01",
+          "prompt": "좋아요!",
+          "options": [
+            "D’accord !",
+            "Désolé…",
+            "À demain ?"
+          ],
+          "answer": "D’accord !",
+          "sentenceId": "week09-s02",
+          "audio": "week09-ex02-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week09-ex03",
+      "title": "Refuser poliment",
+      "type": "vocab",
+      "instructions": "Quelle phrase signifie qu’on n’est pas disponible ?",
+      "items": [
+        {
+          "id": "week09-ex03-i01",
+          "prompt": "미안해요, 오늘은 약속이 있어요.",
+          "options": [
+            "Désolé, je suis occupé aujourd’hui.",
+            "Je suis disponible aujourd’hui.",
+            "On se voit demain ?"
+          ],
+          "answer": "Désolé, je suis occupé aujourd’hui.",
+          "sentenceId": "week09-s03",
+          "audio": "week09-ex03-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week09-ex04",
+      "title": "Disponibilité",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction.",
+      "items": [
+        {
+          "id": "week09-ex04-i01",
+          "prompt": "시간 있어요.",
+          "options": [
+            "Je suis disponible.",
+            "Je suis en retard.",
+            "Je n’ai pas d’argent."
+          ],
+          "answer": "Je suis disponible.",
+          "sentenceId": "week09-s05",
+          "audio": "week09-ex04-i01.mp3"
+        }
+      ]
+    }
+  ]
+}

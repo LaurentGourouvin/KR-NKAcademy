@@ -71,6 +71,15 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week08/",
       "tooltip": "Achat, prix et quantités."
+    },
+    {
+      "week": 9,
+      "slug": "invitations-plans",
+      "title": "Proposer & accepter/refuser une invitation",
+      "summary": "Proposer une sortie, accepter/refuser poliment et fixer un moment.",
+      "difficulty": "A1",
+      "audioBasePath": "/audio/week09/",
+      "tooltip": "Invitations simples."
     }
   ]
 }
