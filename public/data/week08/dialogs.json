@@ -1,0 +1,66 @@
+{
+  "dialogs": [
+    {
+      "id": "week08-dialog01",
+      "title": "À la boulangerie",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["week08", "shopping"],
+      "audioFull": "/audio/week08/dialogs/week08-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week08-dialog01-t01",
+          "speaker": "고객",
+          "kr": "이거 얼마예요?",
+          "rom": "igeo eolmayeyo?",
+          "fr": "Combien ça coûte ?",
+          "sentenceId": "week08-s01",
+          "audio": "/audio/week08/dialogs/week08-dialog01-t01.mp3"
+        },
+        {
+          "id": "week08-dialog01-t02",
+          "speaker": "직원",
+          "kr": "천 오백 원이에요.",
+          "rom": "cheon obaek won ieyo.",
+          "fr": "Ça fait 1 500 wons.",
+          "audio": "/audio/week08/dialogs/week08-dialog01-t02.mp3"
+        },
+        {
+          "id": "week08-dialog01-t03",
+          "speaker": "고객",
+          "kr": "빵 세 개 주세요.",
+          "rom": "ppang se gae juseyo.",
+          "fr": "Trois pains, s’il vous plaît.",
+          "sentenceId": "week08-s04",
+          "audio": "/audio/week08/dialogs/week08-dialog01-t03.mp3"
+        },
+        {
+          "id": "week08-dialog01-t04",
+          "speaker": "고객",
+          "kr": "물 두 병도 주세요.",
+          "rom": "mul du byeongdo juseyo.",
+          "fr": "Et deux bouteilles d’eau, s’il vous plaît.",
+          "sentenceId": "week08-s03",
+          "audio": "/audio/week08/dialogs/week08-dialog01-t04.mp3"
+        },
+        {
+          "id": "week08-dialog01-t05",
+          "speaker": "고객",
+          "kr": "모두 얼마예요?",
+          "rom": "modu eolmayeyo?",
+          "fr": "Ça fait combien au total ?",
+          "sentenceId": "week08-s05",
+          "audio": "/audio/week08/dialogs/week08-dialog01-t05.mp3"
+        },
+        {
+          "id": "week08-dialog01-t06",
+          "speaker": "직원",
+          "kr": "오천 원이에요.",
+          "rom": "ocheon won ieyo.",
+          "fr": "Ça fait 5 000 wons.",
+          "audio": "/audio/week08/dialogs/week08-dialog01-t06.mp3"
+        }
+      ]
+    }
+  ]
+}

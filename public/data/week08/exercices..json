@@ -1,0 +1,77 @@
+{
+  "audioBasePath": "/audio/week08/exercises/",
+  "exercises": [
+    {
+      "id": "week08-ex01",
+      "title": "Prix — compréhension",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction.",
+      "items": [
+        {
+          "id": "week08-ex01-i01",
+          "prompt": "이거 얼마예요?",
+          "options": ["Combien ça coûte ?", "C’est trop cher ?", "C’est où ?"],
+          "answer": "Combien ça coûte ?",
+          "sentenceId": "week08-s01",
+          "audio": "week08-ex01-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week08-ex02",
+      "title": "Compteurs — objets",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction.",
+      "items": [
+        {
+          "id": "week08-ex02-i01",
+          "prompt": "빵 세 개 주세요.",
+          "options": [
+            "Trois pains, s’il vous plaît.",
+            "Deux pains, s’il vous plaît.",
+            "Une baguette, s’il vous plaît."
+          ],
+          "answer": "Trois pains, s’il vous plaît.",
+          "sentenceId": "week08-s04",
+          "audio": "week08-ex02-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week08-ex03",
+      "title": "Compteurs — boissons",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction.",
+      "items": [
+        {
+          "id": "week08-ex03-i01",
+          "prompt": "물 두 병 주세요.",
+          "options": [
+            "Deux bouteilles d’eau, s’il vous plaît.",
+            "Deux verres d’eau, s’il vous plaît.",
+            "Une bouteille d’eau, s’il vous plaît."
+          ],
+          "answer": "Deux bouteilles d’eau, s’il vous plaît.",
+          "sentenceId": "week08-s03",
+          "audio": "week08-ex03-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week08-ex04",
+      "title": "Paiement",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction.",
+      "items": [
+        {
+          "id": "week08-ex04-i01",
+          "prompt": "카드 돼요?",
+          "options": ["Vous acceptez la carte ?", "C’est trop cher ?", "Puis-je essayer ?"],
+          "answer": "Vous acceptez la carte ?",
+          "sentenceId": "week08-s06",
+          "audio": "week08-ex04-i01.mp3"
+        }
+      ]
+    }
+  ]
+}

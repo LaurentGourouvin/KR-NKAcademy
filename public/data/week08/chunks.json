@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week08/chunks/",
+  "chunks": [
+    {
+      "id": "week08-ch01",
+      "title": "Demander le prix",
+      "description": "Poser la question 얼마예요 ?",
+      "sentenceIds": ["week08-s01", "week08-s05"],
+      "audio": "/audio/week08/chunks/week08-ch01.mp3",
+      "order": 1,
+      "tags": ["shopping", "price"],
+      "level": "A1"
+    },
+    {
+      "id": "week08-ch02",
+      "title": "Commander une quantité",
+      "description": "Utiliser les compteurs coréens.",
+      "sentenceIds": ["week08-s02", "week08-s03", "week08-s04"],
+      "audio": "/audio/week08/chunks/week08-ch02.mp3",
+      "order": 2,
+      "tags": ["shopping", "quantity"],
+      "level": "A1"
+    },
+    {
+      "id": "week08-ch03",
+      "title": "Poser une question de paiement",
+      "description": "Vérifier le moyen de paiement.",
+      "sentenceIds": ["week08-s06"],
+      "audio": "/audio/week08/chunks/week08-ch03.mp3",
+      "order": 3,
+      "tags": ["shopping", "payment"],
+      "level": "A1"
+    }
+  ]
+}

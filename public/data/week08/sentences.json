@@ -1,0 +1,59 @@
+{
+  "audioBasePath": "/audio/week08/sentences/",
+  "sentences": [
+    {
+      "id": "week08-s01",
+      "kr": "이거 얼마예요?",
+      "rom": "igeo eolmayeyo?",
+      "fr": "Combien ça coûte ?",
+      "audio": "/audio/week08/sentences/week08-s01.mp3",
+      "order": 1,
+      "tags": ["shopping", "price"]
+    },
+    {
+      "id": "week08-s02",
+      "kr": "이거 하나 주세요.",
+      "rom": "igeo hana juseyo.",
+      "fr": "Un de ceci, s’il vous plaît.",
+      "audio": "/audio/week08/sentences/week08-s02.mp3",
+      "order": 2,
+      "tags": ["shopping", "quantity"]
+    },
+    {
+      "id": "week08-s03",
+      "kr": "물 두 병 주세요.",
+      "rom": "mul du byeong juseyo.",
+      "fr": "Deux bouteilles d’eau, s’il vous plaît.",
+      "audio": "/audio/week08/sentences/week08-s03.mp3",
+      "order": 3,
+      "tags": ["shopping", "counter"]
+    },
+    {
+      "id": "week08-s04",
+      "kr": "빵 세 개 주세요.",
+      "rom": "ppang se gae juseyo.",
+      "fr": "Trois pains, s’il vous plaît.",
+      "audio": "/audio/week08/sentences/week08-s04.mp3",
+      "order": 4,
+      "tags": ["shopping", "quantity"]
+    },
+    {
+      "id": "week08-s05",
+      "kr": "모두 얼마예요?",
+      "rom": "modu eolmayeyo?",
+      "fr": "Ça fait combien au total ?",
+      "audio": "/audio/week08/sentences/week08-s05.mp3",
+      "order": 5,
+      "tags": ["shopping", "price"]
+    },
+    {
+      "id": "week08-s06",
+      "kr": "카드 돼요?",
+      "rom": "kadeu dwaeyo?",
+      "fr": "Vous acceptez la carte ?",
+      "audio": "/audio/week08/sentences/week08-s06.mp3",
+      "order": 6,
+      "tags": ["shopping", "payment"]
+    }
+  ]
+}

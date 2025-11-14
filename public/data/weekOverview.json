@@ -62,6 +62,15 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week07/",
       "tooltip": "Transports et directions simples."
+    },
+    {
+      "week": 8,
+      "slug": "shopping-basics",
+      "title": "Faire des achats simples",
+      "summary": "Demander le prix, utiliser les compteurs coréens et acheter des produits de base.",
+      "difficulty": "A1",
+      "audioBasePath": "/audio/week08/",
+      "tooltip": "Achat, prix et quantités."
     }
   ]
 }

@@ -1,0 +1,37 @@
+{
+  "week": 8,
+  "title": "Faire des achats simples",
+  "theme": "Acheter des objets, demander le prix, utiliser les compteurs coréens.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Demander le prix de quelque chose.",
+    "Utiliser les compteurs coréens (개, 병, 잔…).",
+    "Commander ou acheter une quantité.",
+    "Poser des questions simples en magasin."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "얼마예요?",
+      "rom": "eolmayeyo?",
+      "fr": "Combien ça coûte ?"
+    },
+    {
+      "kr": "N + 개 / 병 / 잔",
+      "rom": "gae / byeong / jan",
+      "fr": "Compteurs pour objets, bouteilles, tasses."
+    }
+  ],
+  "vocabulary": [
+    { "kr": "가격", "rom": "gagyeok", "fr": "prix" },
+    { "kr": "얼마", "rom": "eolma", "fr": "combien" },
+    { "kr": "사다", "rom": "sada", "fr": "acheter" },
+    { "kr": "팔다", "rom": "palda", "fr": "vendre" },
+    { "kr": "개", "rom": "gae", "fr": "compteur objets" },
+    { "kr": "병", "rom": "byeong", "fr": "compteur bouteilles" },
+    { "kr": "잔", "rom": "jan", "fr": "compteur tasses / verres" },
+    { "kr": "물", "rom": "mul", "fr": "eau" },
+    { "kr": "빵", "rom": "ppang", "fr": "pain" }
+  ],
+  "audioBasePath": "/audio/week08/",
+  "notes": "Semaine centrée sur les achats : prix, quantités, compteurs et phrases de base en magasin."
+}
