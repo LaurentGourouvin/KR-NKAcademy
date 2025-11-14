@@ -7,7 +7,8 @@ import {
   chunkFileSchema,
   dialogFileSchema,
   exerciseFileSchema,
-} from "../schemas/nkSchemas";
+  weekOverviewFileSchema,
+} from "../../schemas/nkSchemas";
 
 const dataDir = path.join(process.cwd(), "public", "data");
 
@@ -91,4 +92,17 @@ describe("NKAcademy data validation", () => {
       expect(result.success).toBe(true);
     });
   }
+});
+
+it("weekOverview.json is valid", () => {
+  const overviewPath = path.join(dataDir, "weekOverview.json");
+  const json = readJsonIfExists(overviewPath);
+  expect(json).not.toBeNull();
+
+  const result = weekOverviewFileSchema.safeParse(json);
+  if (!result.success) {
+    console.error("❌ Errors in weekOverview.json", result.error.format());
+  }
+
+  expect(result.success).toBe(true);
 });

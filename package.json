@@ -9,8 +9,9 @@
         "lint": "eslint .",
         "lint:fix": "eslint . --fix",
         "format": "prettier --write .",
-        "test:data": "vitest run tests/validateData.test.ts",
-        "test:services": "vitest run tests/services/"
+        "test:data": "vitest run tests/data/",
+        "test:services": "vitest run tests/services/",
+        "test:prebuild": "vitest run tests/"
     },
     "dependencies": {
         "next": "16.0.3",

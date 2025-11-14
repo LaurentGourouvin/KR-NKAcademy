@@ -119,3 +119,17 @@ export const exerciseFileSchema = z.object({
   audioBasePath: z.string(),
   exercises: z.array(nkExerciseSchema),
 });
+
+export const WeekOverviewSchema = z.object({
+  week: z.number().int().min(1).max(52),
+  slug: z.string().min(1),
+  title: z.string().min(1),
+  summary: z.string().min(1),
+  difficulty: z.string().min(1),
+  audioBasePath: z.string().min(1),
+  tooltip: z.string().min(1),
+});
+
+export const weekOverviewFileSchema = z.object({
+  weeks: z.array(WeekOverviewSchema).min(1),
+});
