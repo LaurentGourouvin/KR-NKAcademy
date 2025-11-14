@@ -1,13 +1,16 @@
 import fs from "fs/promises";
 import path from "path";
+import { WeekData } from "@/types/NKWeekData";
+import { ChunkFile } from "@/types/NKChunk";
+import { DialogFile } from "@/types/NKDialog";
+import { SentenceFile } from "@/types/NkSentence";
+import { WeekMeta } from "@/types/NKWeekMeta";
+import { ExerciseFile } from "@/types/NKExercice";
 import {
-  ChunkFile,
-  DialogFile,
-  ExerciseFile,
-  SentenceFile,
-  WeekData,
-  WeekMeta,
-} from "@/types/NKMeta";
+  WeekOverview,
+  WeekOverviewData,
+  WeekOverviewFile,
+} from "@/types/NKWeekOverview";
 
 export const getWeekData = async (week: number): Promise<WeekData> => {
   if (week < 1 || week > 52) {
@@ -44,5 +47,34 @@ export const getWeekData = async (week: number): Promise<WeekData> => {
     return weekData;
   } catch (error) {
     throw new Error("Error with week files.");
+  }
+};
+
+export const getWeekOverview = async (
+  week?: number,
+): Promise<WeekOverviewData> => {
+  const baseDir = path.join(process.cwd(), "public", "data");
+
+  const readJson = async <T>(fileName: string): Promise<T> => {
+    const filePath = path.join(baseDir, fileName);
+    const content = await fs.readFile(filePath, "utf-8");
+    return JSON.parse(content) as T;
+  };
+
+  if (week !== undefined && (week < 1 || week > 52)) {
+    throw new Error("Invalid week number.");
+  }
+
+  try {
+    const data = await readJson<WeekOverviewFile>("weekOverview.json");
+    let overviews: WeekOverview[];
+
+    if (week === undefined) {
+      return { overviews: data.weeks };
+    }
+
+    return { overviews: data.weeks.filter((w) => w.week === week) };
+  } catch (error) {
+    throw new Error("Error with Overview file.");
   }
 };

@@ -1,0 +1,22 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "slug": "first-steps",
+      "title": "Premiers pas : se présenter simplement",
+      "summary": "Apprendre à se présenter et utiliser des expressions polies de base.",
+      "difficulty": "A1",
+      "audioBasePath": "/audio/week01/",
+      "tooltip": "Se présenter simplement."
+    },
+    {
+      "week": 2,
+      "slug": "age-origin-occupation",
+      "title": "Parler de son âge, origine et métier",
+      "summary": "Savoir poser des questions simples sur l'âge, l'origine et le métier.",
+      "difficulty": "A1",
+      "audioBasePath": "/audio/week02/",
+      "tooltip": "Âge, origine, métier."
+    }
+  ]
+}
