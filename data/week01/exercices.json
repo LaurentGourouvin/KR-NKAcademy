@@ -1,0 +1,66 @@
+{
+  "audioBasePath": "/audio/week01/exercises/",
+  "exercises": [
+    {
+      "id": "week01-ex01",
+      "title": "Saluer correctement",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction pour « 안녕하세요 ». ",
+      "items": [
+        {
+          "id": "week01-ex01-i01",
+          "prompt": "Que signifie « 안녕하세요 » ?",
+          "kr": "안녕하세요",
+          "rom": "annyeonghaseyo",
+          "options": [
+            "Au revoir",
+            "Bonjour",
+            "Merci"
+          ],
+          "answer": "Bonjour",
+          "audio": "week01-ex01-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week01-ex02",
+      "title": "Se présenter",
+      "type": "grammar",
+      "instructions": "Complétez mentalement la phrase en utilisant 이에요/예요.",
+      "items": [
+        {
+          "id": "week01-ex02-i01",
+          "prompt": "« Je suis Laurent. » en coréen (avec la forme polie).",
+          "answer": "저는 로랑이에요.",
+          "kr": "저는 로랑이에요.",
+          "rom": "jeoneun Rorang-ieyo.",
+          "fr": "Je suis Laurent.",
+          "sentenceId": "week01-s02",
+          "audio": "week01-ex02-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week01-ex03",
+      "title": "Associer la phrase et la traduction",
+      "type": "vocab",
+      "instructions": "Lisez la phrase en coréen et essayez de retrouver la bonne traduction.",
+      "items": [
+        {
+          "id": "week01-ex03-i01",
+          "prompt": "Quelle est la traduction de : « 저는 프랑스 사람이에요. » ?",
+          "kr": "저는 프랑스 사람이에요.",
+          "rom": "jeoneun peurangseu saram-ieyo.",
+          "options": [
+            "Je suis Français.",
+            "Je suis étudiant.",
+            "Je suis coréen."
+          ],
+          "answer": "Je suis Français.",
+          "sentenceId": "week01-s03",
+          "audio": "week01-ex03-i01.mp3"
+        }
+      ]
+    }
+  ]
+}

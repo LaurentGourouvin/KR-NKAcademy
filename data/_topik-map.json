@@ -1,0 +1,155 @@
+{
+  "levels": {
+    "TOPIK1": {
+      "description": "Bases : phrases simples, présent/poli, vie quotidienne très simple.",
+      "approxVocabulary": 800,
+      "grammar": [
+        "안녕하세요 / 감사합니다 / 죄송합니다",
+        "이에요/예요",
+        "있어요/없어요",
+        "은/는",
+        "이/가",
+        "을/를",
+        "에 / 에서",
+        "았어요/었어요 (passé basique)",
+        "(으)세요 (impératif poli)",
+        "고 싶어요",
+        "이에요?/예요? (questions simples)",
+        "얼마예요"
+      ],
+      "skills": [
+        "comprendre des phrases simples",
+        "se présenter",
+        "poser des questions de base",
+        "lecture de phrases courtes"
+      ]
+    },
+    "TOPIK2": {
+      "description": "Niveau élémentaire supérieur : narrations simples, connecteurs, raisons.",
+      "approxVocabulary": 1500,
+      "grammar": [
+        "-아서/어서 (raison simple)",
+        "그래서",
+        "-고 있어요",
+        "-고 나서",
+        "-지만",
+        "-(으)ㄹ 거예요",
+        "-(으)려고 해요",
+        "전에 / 후에",
+        "(으)면 (condition simple)",
+        "-거나"
+      ],
+      "skills": [
+        "écrire de courts paragraphes",
+        "raconter une expérience",
+        "comprendre des dialogues un peu plus longs"
+      ]
+    },
+    "TOPIK3": {
+      "description": "Intermédiaire : textes plus longs, opinions simples, connecteurs variés.",
+      "approxVocabulary": 2500,
+      "grammar": [
+        "-(으)ㄴ 적이 있어요",
+        "-(으)면서",
+        "-기 때문에",
+        "-(으)ㄴ 후에 / -(으)ㄴ 다음에",
+        "-는 사람 / -(으)ㄴ 사람",
+        "-게 되다",
+        "-(으)ㄹ 때",
+        "-는 편이다",
+        "-다고 생각해요",
+        "-다고 해요 (discours indirect basique)"
+      ],
+      "skills": [
+        "comprendre des textes type blog, article léger",
+        "exprimer son opinion avec justification simple",
+        "gérer des dialogues avec plusieurs tours"
+      ]
+    },
+    "TOPIK4_5": {
+      "description": "Intermédiaire supérieur : argumentation, nuance, texte structuré.",
+      "approxVocabulary": 4000,
+      "grammar": [
+        "-(으)므로",
+        "-(으)려면",
+        "-기 위해서",
+        "-(으)ㄹ 수밖에 없다",
+        "반면에",
+        "오히려",
+        "-(으)ㄹ 것으로 보이다",
+        "-다고 볼 수 있다",
+        "-기는 하지만",
+        "-(으)ㄹ 수도 있다",
+        "요약하면 / 정리하면",
+        "-(이)라고 생각하다 (opinion indirecte)"
+      ],
+      "skills": [
+        "écrire une introduction / développement / conclusion",
+        "argumenter sur des thèmes de société",
+        "lire et comprendre des textes TOPIK 4–5"
+      ]
+    }
+  },
+  "weekMapping": {
+    "1": ["안녕하세요", "이에요/예요"],
+    "2": ["이에요/예요 (révision)", "은/는", "이/가"],
+    "3": ["의 (possession)", "있어요/없어요"],
+    "4": ["을/를", "좋아해요/싫어해요"],
+    "5": ["주세요", "좀 (atténuation)"],
+    "6": ["에 (temps)", "았어요/었어요 (passé simple)"],
+    "7": ["에 가요", "에서", "-(으)로 (direction)"],
+    "8": ["얼마예요", "좀 더/덜"],
+    "9": ["-(으)러 가요", "고 있어요"],
+    "10": ["에 있어요/없어요 (localisation)", "위/아래/옆"],
+    "11": ["-(으)세요", "아파요 / 괜찮아요"],
+    "12": ["révision A1→A2 (points majeurs)"],
+
+    "13": ["adjectifs descriptifs", "…는 사람"],
+    "14": ["이/가 많아요/적어요", "-(으)세요 (recommandation)"],
+    "15": ["-아서/어서", "조금/아주/너무"],
+    "16": ["-(으)니까", "그래서 (révision)"],
+    "17": ["그리고", "하지만", "그래서"],
+    "18": ["-(으)려고 해요", "-(으)ㄹ 거예요"],
+    "19": ["았었어요/었었어요", "전에/후에"],
+    "20": ["-다고 생각해요"],
+
+    "21": ["-아/어 주세요 (extension)", "간단한 공손 표현"],
+    "22": ["-(으)면 돼요", "-(으)면 안 돼요"],
+    "23": ["-(으)ㄹ까요?", "같이 V-아요/어요"],
+    "24": ["révision A2 → entrée B1"],
+
+    "25": ["-(으)면서", "-(으)ㄴ 적이 있어요"],
+    "26": ["-(으)ㄴ 후에 / -(으)ㄴ 다음에", "때문에"],
+    "27": ["-(으)면서 (révision)", "adverbes fréquents"],
+    "28": ["먼저 / 그리고 / 마지막으로", "-(으)니까"],
+
+    "29": ["-다고 해요 (discours indirect basique)"],
+    "30": ["-(으)ㄴ 편이다"],
+    "31": ["-(으)려고 하다 (intention forte)", "-(으)ㄹ 때 (révision)"],
+    "32": ["honorifiques simples", "forme -습니다 (introduction)"],
+
+    "33": ["보다", "더/덜", "-만큼"],
+    "34": ["-(으)면 (condition B1)", "-게 되면"],
+    "35": ["expressions idiomatiques fréquentes"],
+    "36": ["révision B1 (conditions, indirect, connecteurs)"],
+
+    "37": ["첫째/둘째/셋째", "왜냐하면"],
+    "38": ["그러나", "반면에"],
+    "39": ["-(으)므로", "-기 때문에 (registre plus écrit)"],
+    "40": ["-(으)ㄴ/는 편이다", "-다고 볼 수 있다"],
+
+    "41": ["-(이)라고 생각하다", "passif simple"],
+    "42": ["-(으)ㄹ 수밖에 없다", "-게 되다 (usage avancé)"],
+    "43": ["-(으)ㄹ 것이다", "-(으)ㄹ 것으로 보이다"],
+    "44": ["-(으)려면", "-아/어야 한다"],
+
+    "45": ["discours indirect complet (다고/라고/자고/으라고 하다)"],
+    "46": ["반면에 (révision avancée)", "오히려"],
+    "47": ["-(으)ㄹ 수도 있다", "-기는 하지만"],
+    "48": ["요약하면", "정리하면"],
+    "49": ["révision patterns TOPIK (mix écrit)"],
+    "50": ["structures fréquentes à l’oral TOPIK"],
+    "51": ["structures d’intro/developpement/conclusion"],
+    "52": ["révision globale des patterns clés TOPIK 4–5"]
+  }
+}

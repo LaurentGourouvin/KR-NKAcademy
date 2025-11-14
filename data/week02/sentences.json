@@ -1,0 +1,68 @@
+{
+  "audioBasePath": "/audio/week02/sentences/",
+  "sentences": [
+    {
+      "id": "week02-s01",
+      "kr": "몇 살이에요?",
+      "rom": "myeot sarieyo?",
+      "fr": "Vous avez quel âge ?",
+      "audio": "/audio/week02/sentences/week02-s01.mp3",
+      "order": 1,
+      "tags": ["age", "question"]
+    },
+    {
+      "id": "week02-s02",
+      "kr": "저는 스물아홉 살이에요.",
+      "rom": "jeoneun seumul-ahop sarieyo.",
+      "fr": "J’ai vingt-neuf ans.",
+      "audio": "/audio/week02/sentences/week02-s02.mp3",
+      "order": 2,
+      "tags": ["age", "answer", "eun-neun"]
+    },
+    {
+      "id": "week02-s03",
+      "kr": "어디 사람이에요?",
+      "rom": "eodi saram-ieyo?",
+      "fr": "Vous êtes de où ? / Vous venez d’où ?",
+      "audio": "/audio/week02/sentences/week02-s03.mp3",
+      "order": 3,
+      "tags": ["origin", "question"]
+    },
+    {
+      "id": "week02-s04",
+      "kr": "저는 프랑스 사람이에요.",
+      "rom": "jeoneun peurangseu saram-ieyo.",
+      "fr": "Je suis Français.",
+      "audio": "/audio/week02/sentences/week02-s04.mp3",
+      "order": 4,
+      "tags": ["origin", "answer", "eun-neun"]
+    },
+    {
+      "id": "week02-s05",
+      "kr": "직업이 뭐예요?",
+      "rom": "jigeobi mwoyeyo?",
+      "fr": "Quel est votre métier ?",
+      "audio": "/audio/week02/sentences/week02-s05.mp3",
+      "order": 5,
+      "tags": ["job", "question", "i-ga"]
+    },
+    {
+      "id": "week02-s06",
+      "kr": "저는 개발자예요.",
+      "rom": "jeoneun gaebalja-yeyo.",
+      "fr": "Je suis développeur.",
+      "audio": "/audio/week02/sentences/week02-s06.mp3",
+      "order": 6,
+      "tags": ["job", "answer", "eun-neun"]
+    },
+    {
+      "id": "week02-s07",
+      "kr": "민서가 학생이에요.",
+      "rom": "Minseo-ga haksaeng-ieyo.",
+      "fr": "Minseo est étudiante.",
+      "audio": "/audio/week02/sentences/week02-s07.mp3",
+      "order": 7,
+      "tags": ["job", "i-ga", "example"]
+    }
+  ]
+}

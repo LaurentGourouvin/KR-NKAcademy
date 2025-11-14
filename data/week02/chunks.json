@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week02/chunks/",
+  "chunks": [
+    {
+      "id": "week02-ch01",
+      "title": "Demander et dire l’âge",
+      "description": "Poser une question sur l’âge et y répondre poliment.",
+      "sentenceIds": ["week02-s01", "week02-s02"],
+      "audio": "/audio/week02/chunks/week02-ch01.mp3",
+      "order": 1,
+      "level": "A1",
+      "tags": ["age", "week02"]
+    },
+    {
+      "id": "week02-ch02",
+      "title": "Parler de son origine",
+      "description": "Demander d’où vient quelqu’un et dire son origine.",
+      "sentenceIds": ["week02-s03", "week02-s04"],
+      "audio": "/audio/week02/chunks/week02-ch02.mp3",
+      "order": 2,
+      "level": "A1",
+      "tags": ["origin", "week02"]
+    },
+    {
+      "id": "week02-ch03",
+      "title": "Parler de son métier",
+      "description": "Demander et dire le métier de quelqu’un en utilisant 이/가 et 은/는.",
+      "sentenceIds": ["week02-s05", "week02-s06", "week02-s07"],
+      "audio": "/audio/week02/chunks/week02-ch03.mp3",
+      "order": 3,
+      "level": "A1",
+      "tags": ["job", "week02", "particles"]
+    }
+  ]
+}

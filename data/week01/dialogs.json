@@ -1,0 +1,50 @@
+{
+  "dialogs": [
+    {
+      "id": "week01-dialog01",
+      "title": "Première rencontre",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["intro", "week01", "conversation"],
+      "audioFull": "/audio/week01/dialogs/week01-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week01-dialog01-t01",
+          "speaker": "민서",
+          "sentenceId": "week01-s01",
+          "kr": "안녕하세요.",
+          "rom": "annyeonghaseyo.",
+          "fr": "Bonjour.",
+          "audio": "/audio/week01/dialogs/week01-dialog01-t01.mp3"
+        },
+        {
+          "id": "week01-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week01-s02",
+          "kr": "안녕하세요. 저는 로랑이에요.",
+          "rom": "annyeonghaseyo. jeoneun Rorang-ieyo.",
+          "fr": "Bonjour. Je suis Laurent.",
+          "audio": "/audio/week01/dialogs/week01-dialog01-t02.mp3"
+        },
+        {
+          "id": "week01-dialog01-t03",
+          "speaker": "민서",
+          "sentenceId": "week01-s04",
+          "kr": "저는 민서예요. 만나서 반가워요.",
+          "rom": "jeoneun Minseo-yeyo. mannaseo bangawoyo.",
+          "fr": "Je suis Minseo. Ravie de vous rencontrer.",
+          "audio": "/audio/week01/dialogs/week01-dialog01-t03.mp3"
+        },
+        {
+          "id": "week01-dialog01-t04",
+          "speaker": "로랑",
+          "sentenceId": "week01-s05",
+          "kr": "저도 반가워요.",
+          "rom": "jeodo bangawoyo.",
+          "fr": "Ravi également.",
+          "audio": "/audio/week01/dialogs/week01-dialog01-t04.mp3"
+        }
+      ]
+    }
+  ]
+}

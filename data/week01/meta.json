@@ -1,0 +1,42 @@
+{
+  "week": 1,
+  "title": "Premiers pas : se présenter simplement",
+  "theme": "Se présenter, dire son nom, dire d’où l’on vient, premières phrases polies.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Saluer poliment en coréen (안녕하세요).",
+    "Dire son nom et sa nationalité.",
+    "Utiliser la forme 이에요/예요 pour faire des phrases simples.",
+    "Comprendre un mini-dialogue de présentation."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "안녕하세요",
+      "fr": "Formule de salutation polie (« bonjour »).",
+      "rom": "annyeonghaseyo"
+    },
+    {
+      "kr": "이에요 / 예요",
+      "fr": "Copule « être » en registre poli (je suis X, c’est X).",
+      "rom": "ieyo / yeyo"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "안녕하세요", "fr": "bonjour", "rom": "annyeonghaseyo" },
+    { "kr": "저", "fr": "je (formel)", "rom": "jeo" },
+    { "kr": "이름", "fr": "nom", "rom": "ireum" },
+    { "kr": "사람", "fr": "personne", "rom": "saram" },
+    { "kr": "프랑스", "fr": "France", "rom": "peurangseu" },
+    {
+      "kr": "만나서 반가워요",
+      "fr": "ravi de vous rencontrer",
+      "rom": "mannaseo bangawoyo"
+    },
+    { "kr": "감사합니다", "fr": "merci", "rom": "gamsahamnida" },
+    { "kr": "네", "fr": "oui", "rom": "ne" },
+    { "kr": "아니요", "fr": "non", "rom": "aniyo" },
+    { "kr": "학생", "fr": "étudiant", "rom": "haksaeng" }
+  ],
+  "audioBasePath": "/audio/week01/",
+  "notes": "Toutes les phrases sont en 존댓말 (forme polie, yo-form)."
+}

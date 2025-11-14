@@ -1,0 +1,68 @@
+{
+  "dialogs": [
+    {
+      "id": "week02-dialog01",
+      "title": "Parler de soi",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["week02", "self-intro", "age", "origin", "job"],
+      "audioFull": "/audio/week02/dialogs/week02-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week02-dialog01-t01",
+          "speaker": "민서",
+          "sentenceId": "week02-s01",
+          "kr": "로랑 씨, 몇 살이에요?",
+          "rom": "Rorang-ssi, myeot sarieyo?",
+          "fr": "Laurent, vous avez quel âge ?",
+          "audio": "/audio/week02/dialogs/week02-dialog01-t01.mp3"
+        },
+        {
+          "id": "week02-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week02-s02",
+          "kr": "저는 스물아홉 살이에요.",
+          "rom": "jeoneun seumul-ahop sarieyo.",
+          "fr": "J’ai vingt-neuf ans.",
+          "audio": "/audio/week02/dialogs/week02-dialog01-t02.mp3"
+        },
+        {
+          "id": "week02-dialog01-t03",
+          "speaker": "민서",
+          "sentenceId": "week02-s03",
+          "kr": "어디 사람이에요?",
+          "rom": "eodi saram-ieyo?",
+          "fr": "Vous êtes d’où ?",
+          "audio": "/audio/week02/dialogs/week02-dialog01-t03.mp3"
+        },
+        {
+          "id": "week02-dialog01-t04",
+          "speaker": "로랑",
+          "sentenceId": "week02-s04",
+          "kr": "저는 프랑스 사람이에요.",
+          "rom": "jeoneun peurangseu saram-ieyo.",
+          "fr": "Je suis Français.",
+          "audio": "/audio/week02/dialogs/week02-dialog01-t04.mp3"
+        },
+        {
+          "id": "week02-dialog01-t05",
+          "speaker": "민서",
+          "sentenceId": "week02-s05",
+          "kr": "직업이 뭐예요?",
+          "rom": "jigeobi mwoyeyo?",
+          "fr": "Quel est votre métier ?",
+          "audio": "/audio/week02/dialogs/week02-dialog01-t05.mp3"
+        },
+        {
+          "id": "week02-dialog01-t06",
+          "speaker": "로랑",
+          "sentenceId": "week02-s06",
+          "kr": "저는 개발자예요.",
+          "rom": "jeoneun gaebalja-yeyo.",
+          "fr": "Je suis développeur.",
+          "audio": "/audio/week02/dialogs/week02-dialog01-t06.mp3"
+        }
+      ]
+    }
+  ]
+}
