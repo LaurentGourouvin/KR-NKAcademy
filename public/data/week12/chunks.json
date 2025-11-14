@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week12/chunks/",
+  "chunks": [
+    {
+      "id": "week12-ch01",
+      "title": "Exprimer une obligation",
+      "description": "Utiliser -아/어야 해요.",
+      "sentenceIds": ["week12-s01", "week12-s02"],
+      "audio": "/audio/week12/chunks/week12-ch01.mp3",
+      "order": 1,
+      "tags": ["obligation"],
+      "level": "A1"
+    },
+    {
+      "id": "week12-ch02",
+      "title": "Tâches du quotidien",
+      "description": "Lessive, vaisselle, ménage.",
+      "sentenceIds": ["week12-s05", "week12-s06"],
+      "audio": "/audio/week12/chunks/week12-ch02.mp3",
+      "order": 2,
+      "tags": ["house"],
+      "level": "A1"
+    },
+    {
+      "id": "week12-ch03",
+      "title": "Manque de temps",
+      "description": "Exprimer qu’on est occupé.",
+      "sentenceIds": ["week12-s07", "week12-s08"],
+      "audio": "/audio/week12/chunks/week12-ch03.mp3",
+      "order": 3,
+      "tags": ["daily"],
+      "level": "A1"
+    }
+  ]
+}

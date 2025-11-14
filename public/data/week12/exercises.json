@@ -1,0 +1,73 @@
+{
+  "audioBasePath": "/audio/week12/exercises/",
+  "exercises": [
+    {
+      "id": "week12-ex01",
+      "title": "Compréhension — obligations",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction.",
+      "items": [
+        {
+          "id": "week12-ex01-i01",
+          "prompt": "청소해야 해요.",
+          "kr": "청소해야 해요.",
+          "rom": "cheongsohaeya haeyo",
+          "fr": "Je dois faire le ménage.",
+          "options": [
+            "Je dois faire le ménage.",
+            "Je dois dormir.",
+            "Je dois cuisiner."
+          ],
+          "answer": "Je dois faire le ménage.",
+          "sentenceId": "week12-s02",
+          "audio": "week12-ex01-i01.mp3"
+        },
+        {
+          "id": "week12-ex01-i02",
+          "prompt": "일해야 해요.",
+          "kr": "일해야 해요.",
+          "rom": "ilhaeya haeyo",
+          "fr": "Je dois travailler.",
+          "options": [
+            "Je dois travailler.",
+            "Je dois regarder la télé.",
+            "Je dois sortir."
+          ],
+          "answer": "Je dois travailler.",
+          "sentenceId": "week12-s04",
+          "audio": "week12-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week12-ex02",
+      "title": "Remplir les blancs",
+      "type": "vocab",
+      "instructions": "Complétez la phrase.",
+      "items": [
+        {
+          "id": "week12-ex02-i01",
+          "prompt": "빨래_____ 해요.",
+          "kr": "빨래_____ 해요.",
+          "rom": "",
+          "fr": "",
+          "options": ["해야", "보고", "싶어요"],
+          "answer": "해야",
+          "sentenceId": "week12-s05",
+          "audio": "week12-ex02-i01.mp3"
+        },
+        {
+          "id": "week12-ex02-i02",
+          "prompt": "시간이 ______.",
+          "kr": "시간이 ______.",
+          "rom": "",
+          "fr": "",
+          "options": ["없어요", "먹어요", "읽어요"],
+          "answer": "없어요",
+          "sentenceId": "week12-s07",
+          "audio": "week12-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

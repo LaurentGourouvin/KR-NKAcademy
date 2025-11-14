@@ -28,7 +28,7 @@
       "grammarFocus": ["의 (possession)", "있어요/없어요"],
       "listeningFocus": ["parler de sa famille"],
       "topikSkills": ["comprendre des descriptions familiales simples"],
-      "status": "planned"
+      "status": "done"
     },
     {
       "week": 4,
@@ -38,7 +38,7 @@
       "grammarFocus": ["좋아해요/싫어해요", "을/를 (objet)"],
       "listeningFocus": ["parler de ce qu'on aime faire"],
       "topikSkills": ["exprimer des préférences simples à l'oral"],
-      "status": "planned"
+      "status": "done"
     },
 
     {
@@ -49,7 +49,7 @@
       "grammarFocus": ["주세요 (demande polie)", "좀 (atténuation)"],
       "listeningFocus": ["commandes simples"],
       "topikSkills": ["survie en café/restaurant"],
-      "status": "planned"
+      "status": "done"
     },
     {
       "week": 6,
@@ -59,7 +59,7 @@
       "grammarFocus": ["에 (temps)", "았어요/었어요 (passé basique)"],
       "listeningFocus": ["parler d'hier, d'aujourd'hui, de demain"],
       "topikSkills": ["comprendre des petites annonces simples"],
-      "status": "planned"
+      "status": "done"
     },
     {
       "week": 7,
@@ -69,7 +69,7 @@
       "grammarFocus": ["에 가요", "에서 (lieu d'action)", "-(으)로 (direction)"],
       "listeningFocus": ["situations de transport simples"],
       "topikSkills": ["comprendre des indications simples de chemin"],
-      "status": "planned"
+      "status": "done"
     },
     {
       "week": 8,
@@ -79,7 +79,7 @@
       "grammarFocus": ["얼마예요", "좀 더/덜 (un peu plus/moins)"],
       "listeningFocus": ["dialogues vendeur/client simples"],
       "topikSkills": ["questions/réponses en contexte d'achat"],
-      "status": "planned"
+      "status": "done"
     },
 
     {
@@ -90,7 +90,7 @@
       "grammarFocus": ["-(으)러 가요 (aller pour)", "고 있어요 (être en train de)"],
       "listeningFocus": ["raconter son week-end"],
       "topikSkills": ["récit oral simple (présent/passé)"],
-      "status": "planned"
+      "status": "done"
     },
     {
       "week": 10,
@@ -100,7 +100,7 @@
       "grammarFocus": ["에 있어요/없어요 (localisation)", "위/아래/옆 (positions)"],
       "listeningFocus": ["décrire un lieu"],
       "topikSkills": ["description simple d'espace"],
-      "status": "planned"
+      "status": "done"
     },
     {
       "week": 11,
@@ -110,7 +110,7 @@
       "grammarFocus": ["아파요", "좀 (adverbe poli)", "-(으)세요 (impératif poli)"],
       "listeningFocus": ["dialogues médecin/patient simples"],
       "topikSkills": ["décrire un problème de santé simple"],
-      "status": "planned"
+      "status": "done"
     },
     {
       "week": 12,
@@ -120,7 +120,7 @@
       "grammarFocus": ["révision des points majeurs A1", "consolidation de 이에요/예요, 은/는, 이/가, 을/를"],
       "listeningFocus": ["dialogues plus longs basés sur les semaines 1–11"],
       "topikSkills": ["stabilité A2 débutant", "préparation TOPIK 1"],
-      "status": "planned"
+      "status": "done"
     },
 
     {

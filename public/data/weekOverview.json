@@ -98,6 +98,15 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week11/",
       "tooltip": "Dire où on a mal."
+    },
+    {
+      "week": 12,
+      "slug": "daily-obligations",
+      "title": "Obligations & actions du quotidien",
+      "summary": "Exprimer ce qu’on doit faire avec -아/어야 해요 (obligations).",
+      "difficulty": "A1",
+      "audioBasePath": "/audio/week12/",
+      "tooltip": "Dire ce qu’on doit faire."
     }
   ]
 }

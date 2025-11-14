@@ -1,0 +1,30 @@
+{
+  "week": 12,
+  "title": "Obligations & actions du quotidien",
+  "theme": "Exprimer ce qu’on doit faire avec -아/어야 해요.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Exprimer une obligation simple.",
+    "Décrire des tâches du quotidien.",
+    "Utiliser la structure -아/어야 해요."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "V + 아/어야 해요",
+      "rom": "V + a/eoya haeyo",
+      "fr": "Je dois / il faut que…"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "공부하다", "rom": "gongbuhada", "fr": "étudier" },
+    { "kr": "청소하다", "rom": "cheongsuhada", "fr": "faire le ménage" },
+    { "kr": "준비하다", "rom": "junbihada", "fr": "préparer" },
+    { "kr": "일하다", "rom": "ilhada", "fr": "travailler" },
+    { "kr": "빨래하다", "rom": "ppallaehada", "fr": "faire la lessive" },
+    { "kr": "설거지하다", "rom": "seolgeojihada", "fr": "faire la vaisselle" },
+    { "kr": "시간", "rom": "sigan", "fr": "temps / heure" },
+    { "kr": "오늘", "rom": "oneul", "fr": "aujourd’hui" }
+  ],
+  "audioBasePath": "/audio/week12/",
+  "notes": "Semaine pivot avec introduction d’une grammaire très fréquente : -아/어야 해요 (obligation)."
+}

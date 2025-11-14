@@ -1,0 +1,77 @@
+{
+  "audioBasePath": "/audio/week12/sentences/",
+  "sentences": [
+    {
+      "id": "week12-s01",
+      "kr": "오늘 공부해야 해요.",
+      "rom": "oneul gongbuhaeya haeyo",
+      "fr": "Je dois étudier aujourd’hui.",
+      "audio": "/audio/week12/sentences/week12-s01.mp3",
+      "order": 1,
+      "tags": ["obligation"]
+    },
+    {
+      "id": "week12-s02",
+      "kr": "청소해야 해요.",
+      "rom": "cheongsohaeya haeyo",
+      "fr": "Je dois faire le ménage.",
+      "audio": "/audio/week12/sentences/week12-s02.mp3",
+      "order": 2,
+      "tags": ["house"]
+    },
+    {
+      "id": "week12-s03",
+      "kr": "준비해야 해요.",
+      "rom": "junbihaeya haeyo",
+      "fr": "Je dois me préparer.",
+      "audio": "/audio/week12/sentences/week12-s03.mp3",
+      "order": 3,
+      "tags": ["daily"]
+    },
+    {
+      "id": "week12-s04",
+      "kr": "일해야 해요.",
+      "rom": "ilhaeya haeyo",
+      "fr": "Je dois travailler.",
+      "audio": "/audio/week12/sentences/week12-s04.mp3",
+      "order": 4,
+      "tags": ["work"]
+    },
+    {
+      "id": "week12-s05",
+      "kr": "빨래해야 해요.",
+      "rom": "ppallaehaeya haeyo",
+      "fr": "Je dois faire la lessive.",
+      "audio": "/audio/week12/sentences/week12-s05.mp3",
+      "order": 5,
+      "tags": ["house"]
+    },
+    {
+      "id": "week12-s06",
+      "kr": "설거지해야 해요.",
+      "rom": "seolgeojihaeya haeyo",
+      "fr": "Je dois faire la vaisselle.",
+      "audio": "/audio/week12/sentences/week12-s06.mp3",
+      "order": 6,
+      "tags": ["house"]
+    },
+    {
+      "id": "week12-s07",
+      "kr": "시간이 없어요.",
+      "rom": "sigani eopseoyo",
+      "fr": "Je n’ai pas le temps.",
+      "audio": "/audio/week12/sentences/week12-s07.mp3",
+      "order": 7,
+      "tags": ["time"]
+    },
+    {
+      "id": "week12-s08",
+      "kr": "그래도 해야 해요.",
+      "rom": "geuraedo haeya haeyo",
+      "fr": "Mais je dois le faire quand même.",
+      "audio": "/audio/week12/sentences/week12-s08.mp3",
+      "order": 8,
+      "tags": ["obligation"]
+    }
+  ]
+}

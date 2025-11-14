@@ -1,0 +1,68 @@
+{
+  "dialogs": [
+    {
+      "id": "week12-dialog01",
+      "title": "Beaucoup de choses à faire",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["week12", "daily"],
+      "audioFull": "/audio/week12/dialogs/week12-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week12-dialog01-t01",
+          "speaker": "민호",
+          "sentenceId": "week12-s07",
+          "kr": "시간이 없어요.",
+          "rom": "sigani eopseoyo",
+          "fr": "Je n’ai pas le temps.",
+          "audio": "/audio/week12/dialogs/week12-dialog01-t01.mp3"
+        },
+        {
+          "id": "week12-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week12-s01",
+          "kr": "오늘 공부해야 해요.",
+          "rom": "oneul gongbuhaeya haeyo",
+          "fr": "Je dois étudier aujourd’hui.",
+          "audio": "/audio/week12/dialogs/week12-dialog01-t02.mp3"
+        },
+        {
+          "id": "week12-dialog01-t03",
+          "speaker": "민호",
+          "sentenceId": "week12-s05",
+          "kr": "빨래해야 해요.",
+          "rom": "ppallaehaeya haeyo",
+          "fr": "Je dois faire la lessive.",
+          "audio": "/audio/week12/dialogs/week12-dialog01-t03.mp3"
+        },
+        {
+          "id": "week12-dialog01-t04",
+          "speaker": "로랑",
+          "sentenceId": "week12-s06",
+          "kr": "설거지해야 해요.",
+          "rom": "seolgeojihaeya haeyo",
+          "fr": "Je dois faire la vaisselle.",
+          "audio": "/audio/week12/dialogs/week12-dialog01-t04.mp3"
+        },
+        {
+          "id": "week12-dialog01-t05",
+          "speaker": "민호",
+          "sentenceId": "week12-s03",
+          "kr": "준비해야 해요.",
+          "rom": "junbihaeya haeyo",
+          "fr": "Je dois me préparer.",
+          "audio": "/audio/week12/dialogs/week12-dialog01-t05.mp3"
+        },
+        {
+          "id": "week12-dialog01-t06",
+          "speaker": "로랑",
+          "sentenceId": "week12-s08",
+          "kr": "그래도 해야 해요.",
+          "rom": "geuraedo haeya haeyo",
+          "fr": "Mais je dois le faire quand même.",
+          "audio": "/audio/week12/dialogs/week12-dialog01-t06.mp3"
+        }
+      ]
+    }
+  ]
+}
