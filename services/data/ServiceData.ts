@@ -1,13 +1,11 @@
 import fs from "fs/promises";
 import path from "path";
-import {
-  ChunkFile,
-  DialogFile,
-  ExerciseFile,
-  SentenceFile,
-  WeekData,
-  WeekMeta,
-} from "@/types/NKMeta";
+import { WeekData } from "@/types/NKWeekData";
+import { ChunkFile } from "@/types/NKChunk";
+import { DialogFile } from "@/types/NKDialog";
+import { SentenceFile } from "@/types/NkSentence";
+import { WeekMeta } from "@/types/NKWeekMeta";
+import { ExerciseFile } from "@/types/NKExercice";
 
 export const getWeekData = async (week: number): Promise<WeekData> => {
   if (week < 1 || week > 52) {

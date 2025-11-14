@@ -8,7 +8,7 @@ import type {
   SentenceFile,
   ExerciseFile,
   WeekMeta,
-} from "@/types/NKMeta";
+} from "@/types/NKWeekMeta";
 
 vi.mock("fs/promises", () => ({
   default: {
