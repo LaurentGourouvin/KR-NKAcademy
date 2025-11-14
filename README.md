@@ -13,6 +13,7 @@
 ![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat)
 ![Data License](https://img.shields.io/badge/content%20license-CC--BY--NC--ND-blue?style=flat)
 ![Status](https://img.shields.io/badge/status-In%20Progress-yellow?style=flat)
+[![Changelog](https://img.shields.io/badge/Changelog-available-blue?style=flat-square)](./CHANGELOG.md)
 
 ---
 
