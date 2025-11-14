@@ -196,9 +196,9 @@ Sentences often _contain several chunks_, helping learners recognize patterns na
 
 ```json
 [
-  { "kr": "안녕하세요", "fr": "Bonjour" },
-  { "kr": "저는 프랑스 사람이에요", "fr": "Je suis français" },
-  { "kr": "잘 지내요?", "fr": "Comment ça va ?" }
+    { "kr": "안녕하세요", "fr": "Bonjour" },
+    { "kr": "저는 프랑스 사람이에요", "fr": "Je suis français" },
+    { "kr": "잘 지내요?", "fr": "Comment ça va ?" }
 ]
 ```
 
@@ -206,9 +206,9 @@ Sentences often _contain several chunks_, helping learners recognize patterns na
 
 ```json
 [
-  { "kr": "안녕하세요", "fr": "Bonjour" },
-  { "kr": "저는 ...이에요/예요", "fr": "Je suis ..." },
-  { "kr": "잘 지내요?", "fr": "Tu vas bien ?" }
+    { "kr": "안녕하세요", "fr": "Bonjour" },
+    { "kr": "저는 ...이에요/예요", "fr": "Je suis ..." },
+    { "kr": "잘 지내요?", "fr": "Tu vas bien ?" }
 ]
 ```
 
