@@ -1,0 +1,535 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Se présenter (nom, origine) & premières phrases",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["salutations", "nom", "nationalité", "premier contact"],
+      "grammarFocus": ["안녕하세요", "이에요/예요"],
+      "listeningFocus": ["salutations polies", "mini-dialogue de présentation"],
+      "topikSkills": ["comprendre des présentations simples", "se présenter à l'oral"],
+      "status": "done"
+    },
+    {
+      "week": 2,
+      "title": "Âge, nationalité, profession",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["âge", "pays", "métier"],
+      "grammarFocus": ["이에요/예요 (révision)", "은/는", "이/가"],
+      "listeningFocus": ["questions personnelles simples"],
+      "topikSkills": ["décrire son profil (fiche d'inscription, formulaire simple)"],
+      "status": "done"
+    },
+    {
+      "week": 3,
+      "title": "Famille & relations",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["membres de la famille", "relations", "vivre avec"],
+      "grammarFocus": ["의 (possession)", "있어요/없어요"],
+      "listeningFocus": ["parler de sa famille"],
+      "topikSkills": ["comprendre des descriptions familiales simples"],
+      "status": "planned"
+    },
+    {
+      "week": 4,
+      "title": "Goûts & préférences",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["aimer", "ne pas aimer", "nourriture", "activités"],
+      "grammarFocus": ["좋아해요/싫어해요", "을/를 (objet)"],
+      "listeningFocus": ["parler de ce qu'on aime faire"],
+      "topikSkills": ["exprimer des préférences simples à l'oral"],
+      "status": "planned"
+    },
+
+    {
+      "week": 5,
+      "title": "Café & restaurant (commander, demander)",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["boissons", "plats", "quantités simples"],
+      "grammarFocus": ["주세요 (demande polie)", "좀 (atténuation)"],
+      "listeningFocus": ["commandes simples"],
+      "topikSkills": ["survie en café/restaurant"],
+      "status": "planned"
+    },
+    {
+      "week": 6,
+      "title": "Temps, dates, météo simple",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["jour", "date", "météo basique"],
+      "grammarFocus": ["에 (temps)", "았어요/었어요 (passé basique)"],
+      "listeningFocus": ["parler d'hier, d'aujourd'hui, de demain"],
+      "topikSkills": ["comprendre des petites annonces simples"],
+      "status": "planned"
+    },
+    {
+      "week": 7,
+      "title": "Déplacements & transports",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["bus", "métro", "taxi", "direction"],
+      "grammarFocus": ["에 가요", "에서 (lieu d'action)", "-(으)로 (direction)"],
+      "listeningFocus": ["situations de transport simples"],
+      "topikSkills": ["comprendre des indications simples de chemin"],
+      "status": "planned"
+    },
+    {
+      "week": 8,
+      "title": "Magasin & shopping",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["prix", "taille", "couleur", "article"],
+      "grammarFocus": ["얼마예요", "좀 더/덜 (un peu plus/moins)"],
+      "listeningFocus": ["dialogues vendeur/client simples"],
+      "topikSkills": ["questions/réponses en contexte d'achat"],
+      "status": "planned"
+    },
+
+    {
+      "week": 9,
+      "title": "Week-end & loisirs",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["sorties", "films", "amis", "temps libre"],
+      "grammarFocus": ["-(으)러 가요 (aller pour)", "고 있어요 (être en train de)"],
+      "listeningFocus": ["raconter son week-end"],
+      "topikSkills": ["récit oral simple (présent/passé)"],
+      "status": "planned"
+    },
+    {
+      "week": 10,
+      "title": "Maison & objets du quotidien",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["pièces", "objets courants"],
+      "grammarFocus": ["에 있어요/없어요 (localisation)", "위/아래/옆 (positions)"],
+      "listeningFocus": ["décrire un lieu"],
+      "topikSkills": ["description simple d'espace"],
+      "status": "planned"
+    },
+    {
+      "week": 11,
+      "title": "Santé & petits problèmes",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["parties du corps", "symptômes simples"],
+      "grammarFocus": ["아파요", "좀 (adverbe poli)", "-(으)세요 (impératif poli)"],
+      "listeningFocus": ["dialogues médecin/patient simples"],
+      "topikSkills": ["décrire un problème de santé simple"],
+      "status": "planned"
+    },
+    {
+      "week": 12,
+      "title": "Révision A1 → A2 (lecture + compréhension)",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["révision globale"],
+      "grammarFocus": ["révision des points majeurs A1", "consolidation de 이에요/예요, 은/는, 이/가, 을/를"],
+      "listeningFocus": ["dialogues plus longs basés sur les semaines 1–11"],
+      "topikSkills": ["stabilité A2 débutant", "préparation TOPIK 1"],
+      "status": "planned"
+    },
+
+    {
+      "week": 13,
+      "title": "Décrire des personnes",
+      "speechLevel": "polite + casual (light)",
+      "vocabularyFocus": ["apparence", "caractère simple"],
+      "grammarFocus": ["adjectifs descriptifs", "는 사람 (personne qui...)"],
+      "listeningFocus": ["description de proches"],
+      "topikSkills": ["description plus fine (TOPIK 1–2)"],
+      "status": "planned"
+    },
+    {
+      "week": 14,
+      "title": "Décrire des lieux",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["quartier", "ville", "lieux publics"],
+      "grammarFocus": ["이/가 많아요/적어요", "-(으)세요 (description + recommandation)"],
+      "listeningFocus": ["description de quartier/ville"],
+      "topikSkills": ["comprendre de petites présentations de lieux"],
+      "status": "planned"
+    },
+    {
+      "week": 15,
+      "title": "Émotions & états",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["émotions simples : content, triste, fatigué"],
+      "grammarFocus": ["-아서/어서 (parce que)", "조금/아주/너무"],
+      "listeningFocus": ["parler de comment on se sent"],
+      "topikSkills": ["exprimer cause/émotion"],
+      "status": "planned"
+    },
+    {
+      "week": 16,
+      "title": "Donner des raisons simples",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["raisons quotidiennes (travail, fatigue, temps)"],
+      "grammarFocus": ["-(으)니까", "그래서"],
+      "listeningFocus": ["explications de choix simples"],
+      "topikSkills": ["justifier une action (niveau simple)"],
+      "status": "planned"
+    },
+
+    {
+      "week": 17,
+      "title": "Connecteurs de base (et, mais, donc)",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["enchaînements de phrases"],
+      "grammarFocus": ["그리고", "하지만", "그래서 (révision)"],
+      "listeningFocus": ["discours un peu plus long avec connecteurs"],
+      "topikSkills": ["compréhension de textes courts avec connecteurs"],
+      "status": "planned"
+    },
+    {
+      "week": 18,
+      "title": "Parler de projets (futur proche)",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["projets, intentions, plan"],
+      "grammarFocus": ["-(으)려고 해요", "-(으)ㄹ 거예요"],
+      "listeningFocus": ["parler de ce qu'on va faire"],
+      "topikSkills": ["décrire plans futurs (A2+)"],
+      "status": "planned"
+    },
+    {
+      "week": 19,
+      "title": "Raconter un souvenir simple",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["souvenir", "événement passé"],
+      "grammarFocus": ["았었어요/었었어요 (passé vécu)", "전에/후에"],
+      "listeningFocus": ["récits courts du passé"],
+      "topikSkills": ["narration simple TOPIK 2 bas"],
+      "status": "planned"
+    },
+    {
+      "week": 20,
+      "title": "Donner son avis simple",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["opinions simples", "préférences développées"],
+      "grammarFocus": ["-다고 생각해요", "좋다고 생각해요/나쁘다고 생각해요"],
+      "listeningFocus": ["opinions sur sujets familiers"],
+      "topikSkills": ["exprimer un avis court (oral/écrit)"],
+      "status": "planned"
+    },
+
+    {
+      "week": 21,
+      "title": "Situations pratiques (banque, poste, administrations)",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["banque simple", "poste", "formulaires"],
+      "grammarFocus": ["-아/어 주세요 (demande polie développée)"],
+      "listeningFocus": ["annonces/situations semi-formelles"],
+      "topikSkills": ["compréhension de services publics simples"],
+      "status": "planned"
+    },
+    {
+      "week": 22,
+      "title": "Situations de dépannage (perdu, problème simple)",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["problème, aide, urgence simple"],
+      "grammarFocus": ["-(으)면 돼요", "-(으)면 안 돼요"],
+      "listeningFocus": ["demander de l'aide"],
+      "topikSkills": ["survie en situation inattendue"],
+      "status": "planned"
+    },
+    {
+      "week": 23,
+      "title": "Suggestions & invitations",
+      "speechLevel": "polite + casual light",
+      "vocabularyFocus": ["proposer une activité", "invitation"],
+      "grammarFocus": ["-(으)ㄹ까요?", "같이 verb-아요/어요"],
+      "listeningFocus": ["propositions amicales"],
+      "topikSkills": ["interaction sociale simple"],
+      "status": "planned"
+    },
+    {
+      "week": 24,
+      "title": "Révision A2 → entrée B1",
+      "speechLevel": "polite + glimpses casual",
+      "vocabularyFocus": ["révision globale"],
+      "grammarFocus": ["connecteurs simples", "futur", "causalité"],
+      "listeningFocus": ["dialogues plus longs, plusieurs scènes"],
+      "topikSkills": ["stabilité A2+, base B1"],
+      "status": "planned"
+    },
+    {
+      "week": 25,
+      "title": "Hobbies & passions (B1 début)",
+      "speechLevel": "polite + début de formel",
+      "vocabularyFocus": ["centre d'intérêt", "passion"],
+      "grammarFocus": ["-(으)면서", "-(으)ㄴ 적이 있어요"],
+      "listeningFocus": ["discussions sur hobbies"],
+      "topikSkills": ["décrire expérience passée avec nuance"],
+      "status": "planned"
+    },
+    {
+      "week": 26,
+      "title": "Travail & carrière",
+      "speechLevel": "polite + formel light",
+      "vocabularyFocus": ["travail", "poste", "entreprise"],
+      "grammarFocus": ["-(으)ㄴ 후에 / -(으)ㄴ 다음에", "때문에 (cause)"],
+      "listeningFocus": ["situation professionnelle simple"],
+      "topikSkills": ["parler de sa situation pro (TOPIK 3)"],
+      "status": "planned"
+    },
+    {
+      "week": 27,
+      "title": "Technologie & vie connectée",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["smartphone", "internet", "apps"],
+      "grammarFocus": ["-(으)면서 (multi-activité)", "interjections usuelles"],
+      "listeningFocus": ["discussions modernes"],
+      "topikSkills": ["comprendre des conversations informelles B1"],
+      "status": "planned"
+    },
+    {
+      "week": 28,
+      "title": "Raconter une histoire simple (début, milieu, fin)",
+      "speechLevel": "polite + formel light",
+      "vocabularyFocus": ["narration", "enchaînement logique"],
+      "grammarFocus": ["먼저/그리고/마지막으로", "-(으)니까 (raison plus poussée)"],
+      "listeningFocus": ["récits structurés courts"],
+      "topikSkills": ["début de rédaction structurée"],
+      "status": "planned"
+    },
+
+    {
+      "week": 29,
+      "title": "Culture pop (K-pop, dramas, loisirs coréens)",
+      "speechLevel": "polite + casual",
+      "vocabularyFocus": ["culture pop coréenne"],
+      "grammarFocus": ["-다고 해요 (discours indirect basique)"],
+      "listeningFocus": ["discussions sur goûts culturels"],
+      "topikSkills": ["comprendre discussions informelles intermédiaires"],
+      "status": "planned"
+    },
+    {
+      "week": 30,
+      "title": "Nourriture coréenne & habitudes",
+      "speechLevel": "polite",
+      "vocabularyFocus": ["plats coréens", "habitudes de repas"],
+      "grammarFocus": ["-(으)ㄴ 편이다 (plutôt)"],
+      "listeningFocus": ["discussions culturelles simples"],
+      "topikSkills": ["décrire pratiques culturelles simples"],
+      "status": "planned"
+    },
+    {
+      "week": 31,
+      "title": "Vie quotidienne en Corée",
+      "speechLevel": "polite + formel light",
+      "vocabularyFocus": ["rythme de vie", "transports", "travail"],
+      "grammarFocus": ["-(으)려고 하다 (intention plus forte)", "-(으)ㄹ 때"],
+      "listeningFocus": ["explications de routine coréenne"],
+      "topikSkills": ["comprendre textes B1 sur la société"],
+      "status": "planned"
+    },
+    {
+      "week": 32,
+      "title": "Politesse & nuances sociales",
+      "speechLevel": "polite + casual + formel",
+      "vocabularyFocus": ["honorifiques basiques", "termes de respect"],
+      "grammarFocus": ["honorifiques simples (드리다, 드세요)", "forme -습니다 (initiation)"],
+      "listeningFocus": ["changements de registre dans un dialogue"],
+      "topikSkills": ["adapter son niveau de langue"],
+      "status": "planned"
+    },
+
+    {
+      "week": 33,
+      "title": "Comparer (plus/moins que)",
+      "speechLevel": "polite + formel",
+      "vocabularyFocus": ["comparatifs", "préférences avancées"],
+      "grammarFocus": ["보다 (plus que)", "더/덜", "-만큼"],
+      "listeningFocus": ["comparaisons simples et intermédiaires"],
+      "topikSkills": ["argumentations simples type TOPIK 3–4"],
+      "status": "planned"
+    },
+    {
+      "week": 34,
+      "title": "Conditionnel (si..., alors...)",
+      "speechLevel": "polite + formel",
+      "vocabularyFocus": ["conditions", "hypothèses"],
+      "grammarFocus": ["-(으)면", "-게 되면"],
+      "listeningFocus": ["expliquer conditions, conséquences"],
+      "topikSkills": ["écrire des phrases conditionnelles TOPIK 4"],
+      "status": "planned"
+    },
+    {
+      "week": 35,
+      "title": "Expressions idiomatiques simples",
+      "speechLevel": "polite + casual",
+      "vocabularyFocus": ["expressions fréquentes", "façon de parler naturelle"],
+      "grammarFocus": ["tournures figées niveau B1/B2"],
+      "listeningFocus": ["langage plus naturel et fluide"],
+      "topikSkills": ["mieux comprendre langue réelle vs manuels"],
+      "status": "planned"
+    },
+    {
+      "week": 36,
+      "title": "Consolidation B1 → attaque B2",
+      "speechLevel": "polite + formel",
+      "vocabularyFocus": ["révision large"],
+      "grammarFocus": ["connecteurs variés", "conditions", "discours indirect"],
+      "listeningFocus": ["contenus plus denses"],
+      "topikSkills": ["stabilité B1+ solide"],
+      "status": "planned"
+    },
+
+    {
+      "week": 37,
+      "title": "Structurer un argument",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["opinion", "argumentation"],
+      "grammarFocus": ["첫째 / 둘째 / 셋째", "왜냐하면"],
+      "listeningFocus": ["petits discours argumentés"],
+      "topikSkills": ["structure de paragraphe TOPIK 4"],
+      "status": "planned"
+    },
+    {
+      "week": 38,
+      "title": "Connecteurs avancés (cependant, en revanche)",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["opposition, concession"],
+      "grammarFocus": ["그러나", "반면에", "하지만 (registre neutre)"],
+      "listeningFocus": ["textes plus construits"],
+      "topikSkills": ["gérer la nuance dans l’écrit"],
+      "status": "planned"
+    },
+    {
+      "week": 39,
+      "title": "Cause/conséquence complexes",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["raisonnement", "explication"],
+      "grammarFocus": ["-(으)므로", "-기 때문에 (nuancé)"],
+      "listeningFocus": ["exposés courts"],
+      "topikSkills": ["écrire des explications complexes TOPIK 4–5"],
+      "status": "planned"
+    },
+    {
+      "week": 40,
+      "title": "Opinion développée",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["sujets de société simples"],
+      "grammarFocus": ["-(으)ㄴ/는 편이다 (tendance)", "-다고 볼 수 있다"],
+      "listeningFocus": ["discussions et débats simples"],
+      "topikSkills": ["rédaction argumentative TOPIK 4"],
+      "status": "planned"
+    },
+
+    {
+      "week": 41,
+      "title": "Famille moderne en Corée",
+      "speechLevel": "formel + polite",
+      "vocabularyFocus": ["société coréenne : famille"],
+      "grammarFocus": ["-(이)라고 생각하다 (je pense que c’est...)", "passif simple"],
+      "listeningFocus": ["exposés sur la famille"],
+      "topikSkills": ["comprendre textes TOPIK sur la société"],
+      "status": "planned"
+    },
+    {
+      "week": 42,
+      "title": "Travail, stress, compétition",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["travail, rythme, pression"],
+      "grammarFocus": ["-(으)ㄹ 수밖에 없다", "-게 되다"],
+      "listeningFocus": ["thèmes sérieux liés au travail"],
+      "topikSkills": ["analyser un problème social simple"],
+      "status": "planned"
+    },
+    {
+      "week": 43,
+      "title": "Technologie & futur",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["innovation, futur, société"],
+      "grammarFocus": ["-(으)ㄹ 것이다 (futur plus ferme)", "-(으)ㄹ 것으로 보이다"],
+      "listeningFocus": ["textes semi-académiques simples"],
+      "topikSkills": ["faire des hypothèses, parler du futur"],
+      "status": "planned"
+    },
+    {
+      "week": 44,
+      "title": "Environnement & société",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["écologie, environnement, comportement"],
+      "grammarFocus": ["-(으)려면", "-아/어야 한다"],
+      "listeningFocus": ["exposés, discussions"],
+      "topikSkills": ["proposer des solutions (TOPIK 4–5)"],
+      "status": "planned"
+    },
+
+    {
+      "week": 45,
+      "title": "Raconter une histoire complexe",
+      "speechLevel": "formel + polite",
+      "vocabularyFocus": ["narration détaillée"],
+      "grammarFocus": ["combinaison de temps", "discours indirect complet"],
+      "listeningFocus": ["histoires structurées plus longues"],
+      "topikSkills": ["rédaction narrative TOPIK 4"],
+      "status": "planned"
+    },
+    {
+      "week": 46,
+      "title": "Débattre & comparer des opinions",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["débat, comparaison avancée"],
+      "grammarFocus": ["반면에 (en revanche)", "오히려"],
+      "listeningFocus": ["échanges contradictoires simples"],
+      "topikSkills": ["thèse / antithèse (structure TOPIK)"],
+      "status": "planned"
+    },
+    {
+      "week": 47,
+      "title": "Nuancer, relativiser",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["nuance, exceptions"],
+      "grammarFocus": ["-(으)ㄹ 수도 있다", "-기는 하지만"],
+      "listeningFocus": ["opinions nuancées"],
+      "topikSkills": ["rédaction nuancée TOPIK 4–5"],
+      "status": "planned"
+    },
+    {
+      "week": 48,
+      "title": "Synthèse d’informations",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["résumé, synthèse"],
+      "grammarFocus": ["요약하면", "정리하면"],
+      "listeningFocus": ["résumer contenus oraux"],
+      "topikSkills": ["compétence de synthèse écrite"],
+      "status": "planned"
+    },
+
+    {
+      "week": 49,
+      "title": "Simulation TOPIK — compréhension écrite",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["textes type TOPIK"],
+      "grammarFocus": ["révision des patterns clés TOPIK"],
+      "listeningFocus": [],
+      "topikSkills": ["gestion du temps, stratégies lecture TOPIK"],
+      "status": "planned"
+    },
+    {
+      "week": 50,
+      "title": "Simulation TOPIK — compréhension orale",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["audio type TOPIK"],
+      "grammarFocus": [],
+      "listeningFocus": ["écoute en condition d’examen"],
+      "topikSkills": ["stratégies d’écoute TOPIK"],
+      "status": "planned"
+    },
+    {
+      "week": 51,
+      "title": "Simulation TOPIK — expression écrite guidée",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["expressions utiles examen"],
+      "grammarFocus": ["structures d’intro, développement, conclusion"],
+      "listeningFocus": [],
+      "topikSkills": ["rédiger des réponses type TOPIK 4–5"],
+      "status": "planned"
+    },
+    {
+      "week": 52,
+      "title": "Simulation TOPIK complète & consolidation",
+      "speechLevel": "formel",
+      "vocabularyFocus": ["révision générale"],
+      "grammarFocus": ["tous les patterns essentiels"],
+      "listeningFocus": ["mix audio court + long"],
+      "topikSkills": ["être prêt pour le TOPIK 4/5"],
+      "status": "planned"
+    }
+  ]
+}

@@ -135,30 +135,37 @@ npm run dev
 ```pgsql
 KR-NKAcademy/
 │
-├── LICENSE                ← MIT License (code)
+├── LICENSE ← MIT License (code)
 ├── README.md
 │
-├── app/                   ← Frontend / application code
-├── components/            ← Reusable UI components
-├── domain/                ← Logic of NKA
-├── hooks/                 ← Reusable Hooks
-├── services/              ← Modules responsible for external interactions
-├── types/                 ← shared TypeScript type definitions and interfaces used across the application
-├── public/                ← UI assets (non-protected)
+├── app/ ← Frontend (Next.js App Router)
+├── components/ ← Reusable UI components
+├── domain/ ← Core NKA logic (models, rules, engine)
+├── hooks/ ← Reusable React hooks
+├── services/ ← Modules handling external interactions (API, storage, loaders)
+├── types/ ← Shared TypeScript models & interfaces
 │
-└── data/                  ← Protected learning content (CC BY-NC-ND)
-    ├── LICENSE            ← CC BY-NC-ND 4.0 license for educational data
-    ├── metadata.json
-    ├── week01/
-    │     ├── sentences.json
-    │     ├── chunks.json
-    │     ├── dialogs.json
-    │     └── audio/
-    └── week02/
-          ├── sentences.json
-          ├── chunks.json
-          ├── dialogs.json
-          └── audio/
+└── public/ ← Public static assets
+├── data/ ← Learning content (CC BY-NC-ND — protected)
+│ ├── LICENSE ← CC BY-NC-ND 4.0 license (educational data)
+│ ├── _curriculum.json
+│ ├── _topik-map.json
+│ ├── week01/
+│ │ ├── sentences.json
+| | ├── exercices.json
+│ │ ├── chunks.json
+│ │ ├── dialogs.json
+│ │ ├── meta.json
+│ │ └── audio/
+│ └── week02/
+│ │ ├── sentences.json
+| | ├── exercices.json
+│ │ ├── chunks.json
+│ │ ├── dialogs.json
+│ │ ├── meta.json
+│ │ └── audio/
+│
+└── assets/ ← images, icons, fonts, UI assets
 ```
 
 ---
@@ -196,9 +203,9 @@ Sentences often _contain several chunks_, helping learners recognize patterns na
 
 ```json
 [
-    { "kr": "안녕하세요", "fr": "Bonjour" },
-    { "kr": "저는 프랑스 사람이에요", "fr": "Je suis français" },
-    { "kr": "잘 지내요?", "fr": "Comment ça va ?" }
+  { "kr": "안녕하세요", "fr": "Bonjour" },
+  { "kr": "저는 프랑스 사람이에요", "fr": "Je suis français" },
+  { "kr": "잘 지내요?", "fr": "Comment ça va ?" }
 ]
 ```
 
@@ -206,9 +213,9 @@ Sentences often _contain several chunks_, helping learners recognize patterns na
 
 ```json
 [
-    { "kr": "안녕하세요", "fr": "Bonjour" },
-    { "kr": "저는 ...이에요/예요", "fr": "Je suis ..." },
-    { "kr": "잘 지내요?", "fr": "Tu vas bien ?" }
+  { "kr": "안녕하세요", "fr": "Bonjour" },
+  { "kr": "저는 ...이에요/예요", "fr": "Je suis ..." },
+  { "kr": "잘 지내요?", "fr": "Tu vas bien ?" }
 ]
 ```
 

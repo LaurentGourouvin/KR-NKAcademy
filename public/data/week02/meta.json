@@ -1,0 +1,43 @@
+{
+  "week": 2,
+  "title": "Parler de son âge, origine et métier",
+  "theme": "Poser des questions simples sur l'âge, l'origine et le métier, et y répondre en coréen poli.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Demander et dire l'âge de quelqu'un en coréen.",
+    "Demander d'où vient quelqu'un (origine / nationalité).",
+    "Demander et dire son métier.",
+    "Utiliser les particules 은/는 et 이/가 dans des phrases simples."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "이에요 / 예요 (révision)",
+      "rom": "ieyo / yeyo",
+      "fr": "Copule « être » en registre poli (je suis X, c’est X)."
+    },
+    {
+      "kr": "은/는",
+      "rom": "eun / neun",
+      "fr": "Particule de thème (marque ce dont on parle)."
+    },
+    {
+      "kr": "이/가",
+      "rom": "i / ga",
+      "fr": "Particule de sujet (marque ce qui est sujet de la phrase)."
+    }
+  ],
+  "vocabulary": [
+    { "kr": "몇 살", "rom": "myeot sal", "fr": "quel âge" },
+    { "kr": "나이", "rom": "nai", "fr": "âge" },
+    { "kr": "한국 사람", "rom": "hanguk saram", "fr": "Coréen (personne)" },
+    { "kr": "프랑스 사람", "rom": "peurangseu saram", "fr": "Français (personne)" },
+    { "kr": "직업", "rom": "jigeop", "fr": "métier" },
+    { "kr": "학생", "rom": "haksaeng", "fr": "étudiant" },
+    { "kr": "개발자", "rom": "gaebalja", "fr": "développeur" },
+    { "kr": "회사원", "rom": "hoesawon", "fr": "employé de bureau" },
+    { "kr": "어디", "rom": "eodi", "fr": "où" },
+    { "kr": "사람", "rom": "saram", "fr": "personne" }
+  ],
+  "audioBasePath": "/audio/week02/",
+  "notes": "Semaine centrée sur l’âge, l’origine et le métier avec les particules 은/는 et 이/가. Toujours en 존댓말 (요-form)."
+}

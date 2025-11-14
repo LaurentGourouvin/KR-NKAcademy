@@ -8,7 +8,9 @@
         "start": "next start",
         "lint": "eslint .",
         "lint:fix": "eslint . --fix",
-        "format": "prettier --write ."
+        "format": "prettier --write .",
+        "test:data": "vitest run tests/validateData.test.ts",
+        "test:services": "vitest run tests/services/"
     },
     "dependencies": {
         "next": "16.0.3",
@@ -26,6 +28,8 @@
         "eslint-plugin-prettier": "^5.5.4",
         "prettier": "^3.6.2",
         "tailwindcss": "^4",
-        "typescript": "^5"
+        "typescript": "^5",
+        "vitest": "^4.0.8",
+        "zod": "^4.1.12"
     }
 }

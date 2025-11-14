@@ -1,0 +1,25 @@
+{  
+  "audioBasePath": "/audio/week01/chunks/",
+  "chunks": [
+    {
+      "id": "week01-ch01",
+      "title": "Saluer et se présenter",
+      "description": "Dire bonjour et dire qui on est.",
+      "sentenceIds": ["week01-s01", "week01-s02", "week01-s03", "week01-s04"],
+      "audio": "/audio/week01/chunks/week01-ch01.mp3",
+      "order": 1,
+      "level": "A1",
+      "tags": ["greeting", "self-intro", "week01"]
+    },
+    {
+      "id": "week01-ch02",
+      "title": "Répondre et réagir",
+      "description": "Dire merci, confirmer, corriger poliment.",
+      "sentenceIds": ["week01-s05", "week01-s06", "week01-s07"],
+      "audio": "/audio/week01/chunks/week01-ch02.mp3",
+      "order": 2,
+      "level": "A1",
+      "tags": ["reaction", "politeness", "week01"]
+    }
+  ]
+}

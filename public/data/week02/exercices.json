@@ -1,0 +1,127 @@
+{
+  "audioBasePath": "/audio/week02/exercises/",
+  "exercises": [
+    {
+      "id": "week02-ex01",
+      "title": "Demander l'âge",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction pour la phrase en coréen.",
+      "items": [
+        {
+          "id": "week02-ex01-i01",
+          "prompt": "Que signifie « 몇 살이에요? » ?",
+          "kr": "몇 살이에요?",
+          "rom": "myeot sarieyo?",
+          "options": [
+            "Quel âge avez-vous ?",
+            "Où habitez-vous ?",
+            "Quel est votre métier ?"
+          ],
+          "answer": "Quel âge avez-vous ?",
+          "sentenceId": "week02-s01",
+          "audio": "week02-ex01-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week02-ex02",
+      "title": "Parler de son âge",
+      "type": "grammar",
+      "instructions": "Lisez la phrase et vérifiez si vous comprenez bien la structure avec 이에요.",
+      "items": [
+        {
+          "id": "week02-ex02-i01",
+          "prompt": "Comment dire « J’ai vingt-neuf ans. » en coréen (forme polie) ?",
+          "kr": "저는 스물아홉 살이에요.",
+          "rom": "jeoneun seumul-ahop sarieyo.",
+          "fr": "J’ai vingt-neuf ans.",
+          "answer": "저는 스물아홉 살이에요.",
+          "sentenceId": "week02-s02",
+          "audio": "week02-ex02-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week02-ex03",
+      "title": "Origine et nationalité",
+      "type": "vocab",
+      "instructions": "Associez la phrase coréenne avec la bonne traduction.",
+      "items": [
+        {
+          "id": "week02-ex03-i01",
+          "prompt": "Quelle est la bonne traduction pour « 저는 프랑스 사람이에요. » ?",
+          "kr": "저는 프랑스 사람이에요.",
+          "rom": "jeoneun peurangseu saram-ieyo.",
+          "options": [
+            "Je suis Français.",
+            "Je viens de Corée.",
+            "Je suis étudiant."
+          ],
+          "answer": "Je suis Français.",
+          "sentenceId": "week02-s04",
+          "audio": "week02-ex03-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week02-ex04",
+      "title": "Quel est votre métier ?",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne question pour demander le métier de quelqu’un.",
+      "items": [
+        {
+          "id": "week02-ex04-i01",
+          "prompt": "Laquelle est « Quel est votre métier ? » en coréen ?",
+          "options": [
+            "어디 사람이에요?",
+            "직업이 뭐예요?",
+            "몇 살이에요?"
+          ],
+          "answer": "직업이 뭐예요?",
+          "kr": "직업이 뭐예요?",
+          "rom": "jigeobi mwoyeyo?",
+          "sentenceId": "week02-s05",
+          "audio": "week02-ex04-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week02-ex05",
+      "title": "Particules 은/는 et 이/가",
+      "type": "grammar",
+      "instructions": "Observez l’usage de 은/는 et 이/가 dans les phrases suivantes.",
+      "items": [
+        {
+          "id": "week02-ex05-i01",
+          "prompt": "Dans « 저는 개발자예요. », quelle particule est utilisée après 저 ?",
+          "kr": "저는 개발자예요.",
+          "rom": "jeoneun gaebalja-yeyo.",
+          "fr": "Je suis développeur.",
+          "options": [
+            "이",
+            "가",
+            "은/는"
+          ],
+          "answer": "은/는",
+          "sentenceId": "week02-s06",
+          "audio": "week02-ex05-i01.mp3"
+        },
+        {
+          "id": "week02-ex05-i02",
+          "prompt": "Dans « 민서가 학생이에요. », quelle particule est utilisée après 민서 ?",
+          "kr": "민서가 학생이에요.",
+          "rom": "Minseo-ga haksaeng-ieyo.",
+          "fr": "Minseo est étudiante.",
+          "options": [
+            "은/는",
+            "이/가",
+            "에"
+          ],
+          "answer": "이/가",
+          "sentenceId": "week02-s07",
+          "audio": "week02-ex05-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "audioBasePath": "/audio/week01/sentences/",
+  "sentences": [
+    {
+      "id": "week01-s01",
+      "kr": "안녕하세요.",
+      "rom": "annyeonghaseyo.",
+      "fr": "Bonjour.",
+      "audio": "week01-s01.mp3",
+      "order": 1,
+      "tags": ["greeting"]
+    },
+    {
+      "id": "week01-s02",
+      "kr": "저는 로랑이에요.",
+      "rom": "jeoneun Rorang-ieyo.",
+      "fr": "Je suis Laurent.",
+      "audio": "week01-s02.mp3",
+      "order": 2,
+      "tags": ["self-intro"]
+    },
+    {
+      "id": "week01-s03",
+      "kr": "저는 프랑스 사람이에요.",
+      "rom": "jeoneun peurangseu saram-ieyo.",
+      "fr": "Je suis Français.",
+      "audio": "week01-s03.mp3",
+      "order": 3,
+      "tags": ["self-intro"]
+    },
+    {
+      "id": "week01-s04",
+      "kr": "만나서 반가워요.",
+      "rom": "mannaseo bangawoyo.",
+      "fr": "Ravi de vous rencontrer.",
+      "audio": "week01-s04.mp3",
+      "order": 4,
+      "tags": ["greeting", "politeness"]
+    },
+    {
+      "id": "week01-s05",
+      "kr": "감사합니다.",
+      "rom": "gamsahamnida.",
+      "fr": "Merci.",
+      "audio": "week01-s05.mp3",
+      "order": 5,
+      "tags": ["politeness"]
+    },
+    {
+      "id": "week01-s06",
+      "kr": "네, 맞아요.",
+      "rom": "ne, majayo.",
+      "fr": "Oui, c’est ça.",
+      "audio": "week01-s06.mp3",
+      "order": 6,
+      "tags": ["confirmation"]
+    },
+    {
+      "id": "week01-s07",
+      "kr": "아니요, 저는 학생이 아니에요.",
+      "rom": "aniyo, jeoneun haksaeng-i anieyo.",
+      "fr": "Non, je ne suis pas étudiant.",
+      "audio": "week01-s07.mp3",
+      "order": 7,
+      "tags": ["negation", "self-intro"]
+    }
+  ]
+}
