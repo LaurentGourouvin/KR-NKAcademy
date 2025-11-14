@@ -200,13 +200,78 @@ Sentences often _contain several chunks_, helping learners recognize patterns na
 
 ## 📚 Weekly Content Format
 
-### `sentence.json`
+### `meta.json`
+
+```json
+{
+  "week": 1,
+  "title": "Premiers pas : se présenter simplement",
+  "theme": "Se présenter, dire son nom, dire d’où l’on vient, premières phrases polies.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Saluer poliment en coréen (안녕하세요).",
+    "Dire son nom et sa nationalité.",
+    "Utiliser la forme 이에요/예요 pour faire des phrases simples.",
+    "Comprendre un mini-dialogue de présentation."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "안녕하세요",
+      "fr": "Formule de salutation polie (« bonjour »).",
+      "rom": "annyeonghaseyo"
+    },
+    {
+      "kr": "이에요 / 예요",
+      "fr": "Copule « être » en registre poli (je suis X, c’est X).",
+      "rom": "ieyo / yeyo"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "안녕하세요", "fr": "bonjour", "rom": "annyeonghaseyo" },
+    { "kr": "저", "fr": "je (formel)", "rom": "jeo" },
+    { "kr": "이름", "fr": "nom", "rom": "ireum" },
+    { "kr": "사람", "fr": "personne", "rom": "saram" },
+    { "kr": "프랑스", "fr": "France", "rom": "peurangseu" },
+    {
+      "kr": "만나서 반가워요",
+      "fr": "ravi de vous rencontrer",
+      "rom": "mannaseo bangawoyo"
+    },
+    { "kr": "감사합니다", "fr": "merci", "rom": "gamsahamnida" },
+    { "kr": "네", "fr": "oui", "rom": "ne" },
+    { "kr": "아니요", "fr": "non", "rom": "aniyo" },
+    { "kr": "학생", "fr": "étudiant", "rom": "haksaeng" }
+  ],
+  "audioBasePath": "/audio/week01/",
+  "notes": "Toutes les phrases sont en 존댓말 (forme polie, yo-form)."
+}
+```
+
+### `sentences.json`
 
 ```json
 [
-  { "kr": "안녕하세요", "fr": "Bonjour" },
-  { "kr": "저는 프랑스 사람이에요", "fr": "Je suis français" },
-  { "kr": "잘 지내요?", "fr": "Comment ça va ?" }
+"audioBasePath": "/audio/week01/sentences/",
+  "sentences": [
+    {
+      "id": "week01-s01",
+      "kr": "안녕하세요.",
+      "rom": "annyeonghaseyo.",
+      "fr": "Bonjour.",
+      "audio": "week01-s01.mp3",
+      "order": 1,
+      "tags": ["greeting"]
+    },
+    {
+      "id": "week01-s02",
+      "kr": "저는 로랑이에요.",
+      "rom": "jeoneun Rorang-ieyo.",
+      "fr": "Je suis Laurent.",
+      "audio": "week01-s02.mp3",
+      "order": 2,
+      "tags": ["self-intro"]
+    },
+  ]
 ]
 ```
 
@@ -214,20 +279,150 @@ Sentences often _contain several chunks_, helping learners recognize patterns na
 
 ```json
 [
-  { "kr": "안녕하세요", "fr": "Bonjour" },
-  { "kr": "저는 ...이에요/예요", "fr": "Je suis ..." },
-  { "kr": "잘 지내요?", "fr": "Tu vas bien ?" }
+  "audioBasePath": "/audio/week01/chunks/",
+  "chunks": [
+    {
+      "id": "week01-ch01",
+      "title": "Saluer et se présenter",
+      "description": "Dire bonjour et dire qui on est.",
+      "sentenceIds": ["week01-s01", "week01-s02", "week01-s03", "week01-s04"],
+      "audio": "/audio/week01/chunks/week01-ch01.mp3",
+      "order": 1,
+      "level": "A1",
+      "tags": ["greeting", "self-intro", "week01"]
+    },
+    {
+      "id": "week01-ch02",
+      "title": "Répondre et réagir",
+      "description": "Dire merci, confirmer, corriger poliment.",
+      "sentenceIds": ["week01-s05", "week01-s06", "week01-s07"],
+      "audio": "/audio/week01/chunks/week01-ch02.mp3",
+      "order": 2,
+      "level": "A1",
+      "tags": ["reaction", "politeness", "week01"]
+    }
+  ]
 ]
 ```
 
 ### `dialogs.json`
 
 ```json
-  "scene": [
-    { "speaker": "A", "kr": "안녕하세요!", "fr": "Bonjour !" },
-    { "speaker": "B", "kr": "안녕하세요. 잘 지내요?", "fr": "Bonjour, ça va ?" },
-    { "speaker": "A", "kr": "네, 잘 지내요!", "fr": "Oui, ça va bien !" }
+  "dialogs": [
+    {
+      "id": "week01-dialog01",
+      "title": "Première rencontre",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["intro", "week01", "conversation"],
+      "audioFull": "/audio/week01/dialogs/week01-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week01-dialog01-t01",
+          "speaker": "민서",
+          "sentenceId": "week01-s01",
+          "kr": "안녕하세요.",
+          "rom": "annyeonghaseyo.",
+          "fr": "Bonjour.",
+          "audio": "/audio/week01/dialogs/week01-dialog01-t01.mp3"
+        },
+        {
+          "id": "week01-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week01-s02",
+          "kr": "안녕하세요. 저는 로랑이에요.",
+          "rom": "annyeonghaseyo. jeoneun Rorang-ieyo.",
+          "fr": "Bonjour. Je suis Laurent.",
+          "audio": "/audio/week01/dialogs/week01-dialog01-t02.mp3"
+        },
+        {
+          "id": "week01-dialog01-t03",
+          "speaker": "민서",
+          "sentenceId": "week01-s04",
+          "kr": "저는 민서예요. 만나서 반가워요.",
+          "rom": "jeoneun Minseo-yeyo. mannaseo bangawoyo.",
+          "fr": "Je suis Minseo. Ravie de vous rencontrer.",
+          "audio": "/audio/week01/dialogs/week01-dialog01-t03.mp3"
+        },
+        {
+          "id": "week01-dialog01-t04",
+          "speaker": "로랑",
+          "sentenceId": "week01-s05",
+          "kr": "저도 반가워요.",
+          "rom": "jeodo bangawoyo.",
+          "fr": "Ravi également.",
+          "audio": "/audio/week01/dialogs/week01-dialog01-t04.mp3"
+        }
+      ]
+    }
   ]
+```
+
+### `exercises.json`
+
+```json
+{
+  "audioBasePath": "/audio/week01/exercises/",
+  "exercises": [
+    {
+      "id": "week01-ex01",
+      "title": "Saluer correctement",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne traduction pour « 안녕하세요 ». ",
+      "items": [
+        {
+          "id": "week01-ex01-i01",
+          "prompt": "Que signifie « 안녕하세요 » ?",
+          "kr": "안녕하세요",
+          "rom": "annyeonghaseyo",
+          "options": ["Au revoir", "Bonjour", "Merci"],
+          "answer": "Bonjour",
+          "audio": "week01-ex01-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week01-ex02",
+      "title": "Se présenter",
+      "type": "grammar",
+      "instructions": "Complétez mentalement la phrase en utilisant 이에요/예요.",
+      "items": [
+        {
+          "id": "week01-ex02-i01",
+          "prompt": "« Je suis Laurent. » en coréen (avec la forme polie).",
+          "answer": "저는 로랑이에요.",
+          "kr": "저는 로랑이에요.",
+          "rom": "jeoneun Rorang-ieyo.",
+          "fr": "Je suis Laurent.",
+          "sentenceId": "week01-s02",
+          "audio": "week01-ex02-i01.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week01-ex03",
+      "title": "Associer la phrase et la traduction",
+      "type": "vocab",
+      "instructions": "Lisez la phrase en coréen et essayez de retrouver la bonne traduction.",
+      "items": [
+        {
+          "id": "week01-ex03-i01",
+          "prompt": "Quelle est la traduction de : « 저는 프랑스 사람이에요. » ?",
+          "kr": "저는 프랑스 사람이에요.",
+          "rom": "jeoneun peurangseu saram-ieyo.",
+          "options": [
+            "Je suis Français.",
+            "Je suis étudiant.",
+            "Je suis coréen."
+          ],
+          "answer": "Je suis Français.",
+          "sentenceId": "week01-s03",
+          "audio": "week01-ex03-i01.mp3"
+        }
+      ]
+    }
+  ]
+}
 ```
 
 ---
