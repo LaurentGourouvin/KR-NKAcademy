@@ -9,7 +9,7 @@ import {
   exerciseFileSchema,
 } from "../schemas/nkSchemas";
 
-const dataDir = path.join(process.cwd(), "data");
+const dataDir = path.join(process.cwd(), "public", "data");
 
 // helper pour lire un JSON si le fichier existe
 function readJsonIfExists(filePath: string): unknown | null {

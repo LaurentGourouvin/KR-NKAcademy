@@ -108,3 +108,11 @@ export interface ExerciseFile {
   audioBasePath: string;
   exercises: NKExercise[];
 }
+
+export interface WeekData {
+  meta: WeekMeta;
+  dialogs: DialogFile;
+  sentences: SentenceFile;
+  chunks: ChunkFile;
+  exercices: ExerciseFile;
+}
