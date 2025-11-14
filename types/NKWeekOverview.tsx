@@ -10,6 +10,7 @@ export interface WeekOverview {
   difficulty: string;
   audioBasePath: string;
   tooltip: string;
+  image: string;
 }
 
 export interface WeekOverviewData {

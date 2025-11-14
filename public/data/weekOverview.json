@@ -7,7 +7,8 @@
       "summary": "Apprendre à se présenter et utiliser des expressions polies de base.",
       "difficulty": "A1",
       "audioBasePath": "/audio/week01/",
-      "tooltip": "Se présenter simplement."
+      "tooltip": "Se présenter simplement.",
+      "image": "/assets/images/week01/card.jpg"
     },
     {
       "week": 2,
@@ -16,7 +17,8 @@
       "summary": "Savoir poser des questions simples sur l'âge, l'origine et le métier.",
       "difficulty": "A1",
       "audioBasePath": "/audio/week02/",
-      "tooltip": "Âge, origine, métier."
+      "tooltip": "Âge, origine, métier.",
+      "image": "/assets/images/week02/card.jpg"
     },
     {
       "week": 3,
@@ -25,7 +27,8 @@
       "summary": "Parler de sa famille, dire ce qu’on a ou pas, et où vivent les proches.",
       "difficulty": "A1",
       "audioBasePath": "/audio/week03/",
-      "tooltip": "Famille et structures 있어요 / 없어요."
+      "tooltip": "Famille et structures 있어요 / 없어요.",
+      "image": "/assets/images/week03/card.jpg"
     },
     {
       "week": 4,

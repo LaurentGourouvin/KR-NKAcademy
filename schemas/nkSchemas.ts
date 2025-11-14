@@ -128,6 +128,7 @@ export const WeekOverviewSchema = z.object({
   difficulty: z.string().min(1),
   audioBasePath: z.string().min(1),
   tooltip: z.string().min(1),
+  image: z.string().min(1).optional(),
 });
 
 export const weekOverviewFileSchema = z.object({

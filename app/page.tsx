@@ -21,6 +21,8 @@ export default async function Home() {
 
               <p className="text-gray-700 text-sm mb-4">{w.summary}</p>
 
+              <img className="mx-auto" src={w.image} alt="a" />
+
               <div className="flex flex-col gap-1 text-sm text-gray-600">
                 <span>
                   <strong>Slug:</strong> {w.slug}
