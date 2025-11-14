@@ -1,7 +1,8 @@
-import { getWeekData } from "@/services/data/ServiceData";
+import { getWeekData, getWeekOverview } from "@/services/data/ServiceData";
 
 export default async function Home() {
   const test = await getWeekData(1);
+  const test2 = await getWeekOverview();
   return (
     <div>
       <main>

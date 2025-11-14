@@ -1,14 +1,13 @@
 import { describe, it, expect, vi, beforeEach } from "vitest";
 import fs from "fs/promises";
-import { getWeekData } from "../../services/data/ServiceData";
-import type {
-  WeekData,
-  ChunkFile,
-  DialogFile,
-  SentenceFile,
-  ExerciseFile,
-  WeekMeta,
-} from "@/types/NKWeekMeta";
+import { getWeekData, getWeekOverview } from "../../services/data/ServiceData";
+import type { WeekData } from "@/types/NKWeekData";
+import type { ChunkFile } from "@/types/NKChunk";
+import type { DialogFile } from "@/types/NKDialog";
+import type { SentenceFile } from "@/types/NkSentence";
+import type { ExerciseFile } from "@/types/NKExercice";
+import type { WeekMeta } from "@/types/NKWeekMeta";
+import type { WeekOverviewFile } from "@/types/NKWeekOverview";
 
 vi.mock("fs/promises", () => ({
   default: {
@@ -73,5 +72,87 @@ describe("getWeekData", () => {
     expect(data.dialogs).toEqual(fakeDialogs);
     expect(data.sentences).toEqual(fakeSentences);
     expect(data.exercices).toEqual(fakeExercices);
+  });
+});
+
+describe("getWeekOverview", () => {
+  beforeEach(() => {
+    mockedReadFile.mockReset();
+  });
+
+  const fakeOverviewFile: WeekOverviewFile = {
+    weeks: [
+      {
+        week: 1,
+        slug: "first-steps",
+        title: "Premiers pas : se présenter simplement",
+        summary:
+          "Apprendre à se présenter et utiliser des expressions polies de base.",
+        difficulty: "A1",
+        audioBasePath: "/audio/week01/",
+        tooltip: "Se présenter simplement.",
+      },
+      {
+        week: 2,
+        slug: "age-origin-occupation",
+        title: "Parler de son âge, origine et métier",
+        summary:
+          "Savoir poser des questions simples sur l'âge, l'origine et le métier.",
+        difficulty: "A1",
+        audioBasePath: "/audio/week02/",
+        tooltip: "Âge, origine, métier.",
+      },
+    ],
+  } as any;
+
+  const mockWeekOverviewRead = () => {
+    mockedReadFile.mockImplementation(async (filePath: any) => {
+      const path = String(filePath);
+
+      if (path.endsWith("weekOverview.json")) {
+        return JSON.stringify(fakeOverviewFile);
+      }
+
+      throw new Error(`Unexpected file path in test: ${path}`);
+    });
+  };
+
+  it("returns all overviews when no week is provided", async () => {
+    mockWeekOverviewRead();
+
+    const result = await getWeekOverview();
+
+    expect(result.overviews).toEqual(fakeOverviewFile.weeks);
+  });
+
+  it("filters overview when a valid week is provided", async () => {
+    mockWeekOverviewRead();
+
+    const result = await getWeekOverview(1);
+
+    expect(result.overviews).toEqual([fakeOverviewFile.weeks[0]]);
+  });
+
+  it("returns empty array if week is valid but not present in file", async () => {
+    mockWeekOverviewRead();
+
+    const result = await getWeekOverview(52);
+
+    expect(result.overviews).toEqual([]);
+  });
+
+  it("throws on invalid week number (<1 or >52)", async () => {
+    mockWeekOverviewRead();
+
+    await expect(getWeekOverview(0)).rejects.toThrow("Invalid week number.");
+    await expect(getWeekOverview(53)).rejects.toThrow("Invalid week number.");
+  });
+
+  it("throws 'Error with Overview file.' when readJson fails", async () => {
+    mockedReadFile.mockRejectedValueOnce(new Error("Boom"));
+
+    await expect(getWeekOverview()).rejects.toThrow(
+      "Error with Overview file.",
+    );
   });
 });
