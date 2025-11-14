@@ -1,0 +1,50 @@
+{
+  "audioBasePath": "/audio/week10/sentences/",
+  "sentences": [
+    {
+      "id": "week10-s01",
+      "kr": "집이 어디예요?",
+      "rom": "jibi eodieyo?",
+      "fr": "Où est ta maison ?",
+      "audio": "/audio/week10/sentences/week10-s01.mp3",
+      "order": 1,
+      "tags": ["house"]
+    },
+    {
+      "id": "week10-s02",
+      "kr": "거실에 소파가 있어요.",
+      "rom": "geosire sopaga isseoyo",
+      "fr": "Il y a un canapé dans le salon.",
+      "audio": "/audio/week10/sentences/week10-s02.mp3",
+      "order": 2,
+      "tags": ["house"]
+    },
+    {
+      "id": "week10-s03",
+      "kr": "부엌에 냉장고가 있어요.",
+      "rom": "bueoke naengjanggoga isseoyo",
+      "fr": "Il y a un réfrigérateur dans la cuisine.",
+      "audio": "/audio/week10/sentences/week10-s03.mp3",
+      "order": 3,
+      "tags": ["kitchen"]
+    },
+    {
+      "id": "week10-s04",
+      "kr": "침대 옆에 책상이 있어요.",
+      "rom": "chimdae yeope chaeksangi isseoyo",
+      "fr": "Il y a un bureau à côté du lit.",
+      "audio": "/audio/week10/sentences/week10-s04.mp3",
+      "order": 4,
+      "tags": ["bedroom"]
+    },
+    {
+      "id": "week10-s05",
+      "kr": "방에 뭐가 있어요?",
+      "rom": "bange mwoga isseoyo?",
+      "fr": "Qu’y a-t-il dans la chambre ?",
+      "audio": "/audio/week10/sentences/week10-s05.mp3",
+      "order": 5,
+      "tags": ["bedroom"]
+    }
+  ]
+}

@@ -80,6 +80,15 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week09/",
       "tooltip": "Invitations simples."
+    },
+    {
+      "week": 10,
+      "slug": "house-and-objects",
+      "title": "Maison & objets du quotidien",
+      "summary": "Décrire sa maison et dire où sont les objets avec 에 / 에 있어요.",
+      "difficulty": "A1",
+      "audioBasePath": "/audio/week10/",
+      "tooltip": "Maison & localisation."
     }
   ]
 }

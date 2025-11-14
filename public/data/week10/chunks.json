@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week10/chunks/",
+  "chunks": [
+    {
+      "id": "week10-ch01",
+      "title": "Localiser un objet",
+      "description": "Utiliser 에 있어요 pour dire où se trouvent les objets.",
+      "sentenceIds": ["week10-s02"],
+      "audio": "/audio/week10/chunks/week10-ch01.mp3",
+      "order": 1,
+      "tags": ["house"],
+      "level": "A1"
+    },
+    {
+      "id": "week10-ch02",
+      "title": "Dans la cuisine",
+      "description": "Exemple avec 부엌.",
+      "sentenceIds": ["week10-s03"],
+      "audio": "/audio/week10/chunks/week10-ch02.mp3",
+      "order": 2,
+      "tags": ["kitchen"],
+      "level": "A1"
+    },
+    {
+      "id": "week10-ch03",
+      "title": "À côté du lit",
+      "description": "Expression de position + objet.",
+      "sentenceIds": ["week10-s04"],
+      "audio": "/audio/week10/chunks/week10-ch03.mp3",
+      "order": 3,
+      "tags": ["bedroom"],
+      "level": "A1"
+    }
+  ]
+}

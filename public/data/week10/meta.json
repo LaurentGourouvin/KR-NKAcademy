@@ -1,0 +1,27 @@
+{
+  "week": 10,
+  "title": "Maison & objets du quotidien",
+  "theme": "Décrire sa maison, localiser les objets (에 / 에 있어요).",
+  "speechLevel": "polite",
+  "objectives": [
+    "Décrire les pièces.",
+    "Dire où se trouvent les objets.",
+    "Utiliser 에 / 에 있어요."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "N + 에 있어요",
+      "rom": "N + e isseoyo",
+      "fr": "Il y a / se trouve (localisation)."
+    }
+  ],
+  "vocabulary": [
+    { "kr": "거실", "rom": "geosil", "fr": "salon" },
+    { "kr": "부엌", "rom": "bueok", "fr": "cuisine" },
+    { "kr": "침대", "rom": "chimdae", "fr": "lit" },
+    { "kr": "책상", "rom": "chaeksang", "fr": "bureau" },
+    { "kr": "냉장고", "rom": "naengjanggo", "fr": "réfrigérateur" }
+  ],
+  "audioBasePath": "/audio/week10/",
+  "notes": "Semaine centrée sur les phrases simples de localisation avec 에 있어요."
+}

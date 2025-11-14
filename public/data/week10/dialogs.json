@@ -1,0 +1,59 @@
+{
+  "dialogs": [
+    {
+      "id": "week10-dialog01",
+      "title": "Visite de l’appartement",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["house", "week10"],
+      "audioFull": "/audio/week10/dialogs/week10-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week10-dialog01-t01",
+          "speaker": "민호",
+          "sentenceId": "week10-s01",
+          "kr": "집이 어디예요?",
+          "rom": "jibi eodieyo?",
+          "fr": "Où est ta maison ?",
+          "audio": "/audio/week10/dialogs/week10-dialog01-t01.mp3"
+        },
+        {
+          "id": "week10-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week10-s02",
+          "kr": "거실에 소파가 있어요.",
+          "rom": "geosire sopaga isseoyo",
+          "fr": "Il y a un canapé dans le salon.",
+          "audio": "/audio/week10/dialogs/week10-dialog01-t02.mp3"
+        },
+        {
+          "id": "week10-dialog01-t03",
+          "speaker": "민호",
+          "sentenceId": "week10-s03",
+          "kr": "부엌에 냉장고가 있어요.",
+          "rom": "bueoke naengjanggoga isseoyo",
+          "fr": "Il y a un réfrigérateur dans la cuisine.",
+          "audio": "/audio/week10/dialogs/week10-dialog01-t03.mp3"
+        },
+        {
+          "id": "week10-dialog01-t04",
+          "speaker": "로랑",
+          "sentenceId": "week10-s04",
+          "kr": "침대 옆에 책상이 있어요.",
+          "rom": "chimdae yeope chaeksangi isseoyo",
+          "fr": "Il y a un bureau à côté du lit.",
+          "audio": "/audio/week10/dialogs/week10-dialog01-t04.mp3"
+        },
+        {
+          "id": "week10-dialog01-t05",
+          "speaker": "민호",
+          "sentenceId": "week10-s05",
+          "kr": "방에 뭐가 있어요?",
+          "rom": "bange mwoga isseoyo?",
+          "fr": "Qu’y a-t-il dans la chambre ?",
+          "audio": "/audio/week10/dialogs/week10-dialog01-t05.mp3"
+        }
+      ]
+    }
+  ]
+}
