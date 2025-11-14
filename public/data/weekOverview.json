@@ -89,6 +89,15 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week10/",
       "tooltip": "Maison & localisation."
+    },
+    {
+      "week": 11,
+      "slug": "health-basic",
+      "title": "Santé & petits problèmes",
+      "summary": "Exprimer une douleur, décrire un symptôme simple et demander de l’aide.",
+      "difficulty": "A1",
+      "audioBasePath": "/audio/week11/",
+      "tooltip": "Dire où on a mal."
     }
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week11/chunks/",
+  "chunks": [
+    {
+      "id": "week11-ch01",
+      "title": "Dire où on a mal",
+      "description": "Utiliser N이/가 아파요.",
+      "sentenceIds": ["week11-s02"],
+      "audio": "/audio/week11/chunks/week11-ch01.mp3",
+      "order": 1,
+      "tags": ["health"],
+      "level": "A1"
+    },
+    {
+      "id": "week11-ch02",
+      "title": "Douleur abdominale",
+      "description": "Exprimer une douleur interne.",
+      "sentenceIds": ["week11-s03"],
+      "audio": "/audio/week11/chunks/week11-ch02.mp3",
+      "order": 2,
+      "tags": ["health"],
+      "level": "A1"
+    },
+    {
+      "id": "week11-ch03",
+      "title": "Conseil médical",
+      "description": "Aller à l’hôpital.",
+      "sentenceIds": ["week11-s05"],
+      "audio": "/audio/week11/chunks/week11-ch03.mp3",
+      "order": 3,
+      "tags": ["health"],
+      "level": "A1"
+    }
+  ]
+}

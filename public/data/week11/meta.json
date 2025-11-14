@@ -1,0 +1,32 @@
+{
+  "week": 11,
+  "title": "Santé & petits problèmes",
+  "theme": "Dire où on a mal et demander de l’aide.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Dire où on a mal.",
+    "Décrire un symptôme simple.",
+    "Demander de l’aide poliment."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "N + 이/가 아파요",
+      "rom": "N + i/ga apayo",
+      "fr": "Avoir mal à…"
+    },
+    {
+      "kr": "좀",
+      "rom": "jom",
+      "fr": "Particule atténuative pour adoucir une demande."
+    }
+  ],
+  "vocabulary": [
+    { "kr": "머리", "rom": "meori", "fr": "tête" },
+    { "kr": "배", "rom": "bae", "fr": "ventre" },
+    { "kr": "약", "rom": "yak", "fr": "médicament" },
+    { "kr": "병원", "rom": "byeongwon", "fr": "hôpital" },
+    { "kr": "감기", "rom": "gamgi", "fr": "rhume" }
+  ],
+  "audioBasePath": "/audio/week11/",
+  "notes": "Semaine orientée phrases pratiques pour exprimer douleurs et symptômes simples."
+}

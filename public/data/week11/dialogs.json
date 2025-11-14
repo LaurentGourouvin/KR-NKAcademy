@@ -1,0 +1,59 @@
+{
+  "dialogs": [
+    {
+      "id": "week11-dialog01",
+      "title": "Chez le pharmacien",
+      "speechLevel": "polite",
+      "level": "A1",
+      "tags": ["week11", "health"],
+      "audioFull": "/audio/week11/dialogs/week11-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week11-dialog01-t01",
+          "speaker": "약사",
+          "sentenceId": "week11-s01",
+          "kr": "어디가 아파요?",
+          "rom": "eodiga apayo?",
+          "fr": "Où avez-vous mal ?",
+          "audio": "/audio/week11/dialogs/week11-dialog01-t01.mp3"
+        },
+        {
+          "id": "week11-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week11-s02",
+          "kr": "머리가 아파요.",
+          "rom": "meoriga apayo",
+          "fr": "J’ai mal à la tête.",
+          "audio": "/audio/week11/dialogs/week11-dialog01-t02.mp3"
+        },
+        {
+          "id": "week11-dialog01-t03",
+          "speaker": "약사",
+          "sentenceId": "week11-s04",
+          "kr": "약이 있어요?",
+          "rom": "yagi isseoyo?",
+          "fr": "Avez-vous des médicaments ?",
+          "audio": "/audio/week11/dialogs/week11-dialog01-t03.mp3"
+        },
+        {
+          "id": "week11-dialog01-t04",
+          "speaker": "로랑",
+          "sentenceId": "week11-s03",
+          "kr": "배가 아파요.",
+          "rom": "baega apayo",
+          "fr": "J’ai mal au ventre.",
+          "audio": "/audio/week11/dialogs/week11-dialog01-t04.mp3"
+        },
+        {
+          "id": "week11-dialog01-t05",
+          "speaker": "약사",
+          "sentenceId": "week11-s05",
+          "kr": "병원에 가야 해요.",
+          "rom": "byeongwone gaya haeyo",
+          "fr": "Vous devez aller à l’hôpital.",
+          "audio": "/audio/week11/dialogs/week11-dialog01-t05.mp3"
+        }
+      ]
+    }
+  ]
+}
