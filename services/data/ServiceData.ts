@@ -5,7 +5,7 @@ import { ChunkFile } from "@/types/NKChunk";
 import { DialogFile } from "@/types/NKDialog";
 import { SentenceFile } from "@/types/NkSentence";
 import { WeekMeta } from "@/types/NKWeekMeta";
-import { ExerciseFile } from "@/types/NKExercice";
+import { ExerciseFile } from "@/types/NKExercise";
 import {
   WeekOverview,
   WeekOverviewData,
@@ -28,12 +28,12 @@ export const getWeekData = async (week: number): Promise<WeekData> => {
   };
 
   try {
-    const [chunks, dialogs, sentences, meta, exercices] = await Promise.all([
+    const [chunks, dialogs, sentences, meta, exercises] = await Promise.all([
       readJson<ChunkFile>("chunks.json"),
       readJson<DialogFile>("dialogs.json"),
       readJson<SentenceFile>("sentences.json"),
       readJson<WeekMeta>("meta.json"),
-      readJson<ExerciseFile>("exercices.json"),
+      readJson<ExerciseFile>("exercises.json"),
     ]);
 
     const weekData: WeekData = {
@@ -41,7 +41,7 @@ export const getWeekData = async (week: number): Promise<WeekData> => {
       dialogs,
       sentences,
       meta,
-      exercices,
+      exercises,
     };
 
     return weekData;

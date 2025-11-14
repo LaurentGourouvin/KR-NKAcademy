@@ -5,7 +5,7 @@ import type { WeekData } from "@/types/NKWeekData";
 import type { ChunkFile } from "@/types/NKChunk";
 import type { DialogFile } from "@/types/NKDialog";
 import type { SentenceFile } from "@/types/NkSentence";
-import type { ExerciseFile } from "@/types/NKExercice";
+import type { ExerciseFile } from "@/types/NKExercise";
 import type { WeekMeta } from "@/types/NKWeekMeta";
 import type { WeekOverviewFile } from "@/types/NKWeekOverview";
 
@@ -48,9 +48,9 @@ describe("getWeekData", () => {
       audioBasePath: "/audio/week01",
       notes: "Test metadata",
     };
-    const fakeExercices: ExerciseFile = {
+    const fakeExercises: ExerciseFile = {
       audioBasePath: "audio/",
-      chunks: [{ id: "exercices" }],
+      chunks: [{ id: "exercises" }],
     } as any;
 
     mockedReadFile.mockImplementation(async (filePath: any) => {
@@ -60,7 +60,7 @@ describe("getWeekData", () => {
       if (path.endsWith("dialogs.json")) return JSON.stringify(fakeDialogs);
       if (path.endsWith("sentences.json")) return JSON.stringify(fakeSentences);
       if (path.endsWith("meta.json")) return JSON.stringify(fakeMeta);
-      if (path.endsWith("exercices.json")) return JSON.stringify(fakeExercices);
+      if (path.endsWith("exercises.json")) return JSON.stringify(fakeExercises);
 
       throw new Error(`Unexpected file path in test: ${path}`);
     });
@@ -71,7 +71,7 @@ describe("getWeekData", () => {
     expect(data.chunks).toEqual(fakeChunks);
     expect(data.dialogs).toEqual(fakeDialogs);
     expect(data.sentences).toEqual(fakeSentences);
-    expect(data.exercices).toEqual(fakeExercices);
+    expect(data.exercises).toEqual(fakeExercises);
   });
 });
 
