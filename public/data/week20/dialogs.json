@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week20-dialog01",
+      "title": "J’ai un but",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week20", "intention"],
+      "audioFull": "/audio/week20/dialogs/week20-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week20-dialog01-t01",
+          "speaker": "로랑",
+          "sentenceId": "week20-s01",
+          "kr": "한국어를 열심히 공부하려고 해요.",
+          "rom": "hangugeoreul yeolsimhi gongbu-haryeogo haeyo",
+          "fr": "Je compte étudier le coréen sérieusement.",
+          "audio": "/audio/week20/dialogs/week20-dialog01-t01.mp3"
+        },
+        {
+          "id": "week20-dialog01-t02",
+          "speaker": "민지",
+          "sentenceId": "week20-s10",
+          "kr": "한국어를 연습하려고 한국 드라마를 봐요.",
+          "rom": "hangugeoreul yeonseub-haryeogo hanguk deuramareul bwayo",
+          "fr": "Je regarde des dramas coréens pour pratiquer le coréen.",
+          "audio": "/audio/week20/dialogs/week20-dialog01-t02.mp3"
+        },
+        {
+          "id": "week20-dialog01-t03",
+          "speaker": "로랑",
+          "sentenceId": "week20-s03",
+          "kr": "운동을 시작하려고 해요.",
+          "rom": "undongeul sijak-haryeogo haeyo",
+          "fr": "Je pense commencer le sport.",
+          "audio": "/audio/week20/dialogs/week20-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week20-dialog02",
+      "title": "Aller pour faire quelque chose",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week20", "purpose"],
+      "audioFull": "/audio/week20/dialogs/week20-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week20-dialog02-t01",
+          "speaker": "민지",
+          "sentenceId": "week20-s04",
+          "kr": "빵을 사러 가요.",
+          "rom": "ppangeul sareo gayo",
+          "fr": "Je vais acheter du pain.",
+          "audio": "/audio/week20/dialogs/week20-dialog02-t01.mp3"
+        },
+        {
+          "id": "week20-dialog02-t02",
+          "speaker": "로랑",
+          "sentenceId": "week20-s07",
+          "kr": "영화를 보러 갈 거예요.",
+          "rom": "yeonghwareul boreo gal geoyeyo",
+          "fr": "Je vais aller voir un film.",
+          "audio": "/audio/week20/dialogs/week20-dialog02-t02.mp3"
+        },
+        {
+          "id": "week20-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week20-s13",
+          "kr": "친구를 만나러 밖에 나갔어요.",
+          "rom": "chingu-reul mannareo bakke nagasseoyo",
+          "fr": "Je suis sortie pour rencontrer un ami.",
+          "audio": "/audio/week20/dialogs/week20-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

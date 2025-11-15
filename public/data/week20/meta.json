@@ -1,0 +1,24 @@
+{
+  "week": 20,
+  "title": "Intention et But : -(으)려고 하다 / -(으)러 가다",
+  "theme": "Exprimer l'intention, le but d'une action ou une action planifiée.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -(으)려고 하다 pour exprimer une intention.",
+    "Utiliser -(으)러 가다 pour exprimer un déplacement avec un but.",
+    "Décrire des plans proches ou des actions prévues."
+  ],
+  "grammarFocus": [
+    { "kr": "-(으)려고 하다", "rom": "-(eu)ryeogo hada", "fr": "avoir l’intention de…" },
+    { "kr": "-(으)러 가다", "rom": "-(eu)reo gada", "fr": "aller pour…" }
+  ],
+  "vocabulary": [
+    { "kr": "준비하다", "rom": "junbihada", "fr": "préparer" },
+    { "kr": "도와주다", "rom": "dowajuda", "fr": "aider" },
+    { "kr": "열심히", "rom": "yeolsimhi", "fr": "durement / avec sérieux" },
+    { "kr": "연습하다", "rom": "yeonseuphada", "fr": "s’entraîner" },
+    { "kr": "찾다", "rom": "chatda", "fr": "chercher" }
+  ],
+  "audioBasePath": "/audio/week20/",
+  "notes": "Mécaniques de planification personnelle → première étape vers les structures de futur intentionnel."
+}

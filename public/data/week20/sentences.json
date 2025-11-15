@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week20/sentences/",
+  "sentences": [
+    {
+      "id": "week20-s01",
+      "kr": "한국어를 열심히 공부하려고 해요.",
+      "rom": "hangugeoreul yeolsimhi gongbu-haryeogo haeyo",
+      "fr": "Je compte étudier le coréen sérieusement.",
+      "audio": "/audio/week20/sentences/week20-s01.mp3",
+      "order": 1,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week20-s02",
+      "kr": "친구를 도와주려고 왔어요.",
+      "rom": "chingu-reul dowajuryeogo wasseoyo",
+      "fr": "Je suis venu pour aider un ami.",
+      "audio": "/audio/week20/sentences/week20-s02.mp3",
+      "order": 2,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week20-s03",
+      "kr": "운동을 시작하려고 해요.",
+      "rom": "undongeul sijak-haryeogo haeyo",
+      "fr": "Je pense commencer le sport.",
+      "audio": "/audio/week20/sentences/week20-s03.mp3",
+      "order": 3,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week20-s04",
+      "kr": "빵을 사러 가요.",
+      "rom": "ppangeul sareo gayo",
+      "fr": "Je vais acheter du pain.",
+      "audio": "/audio/week20/sentences/week20-s04.mp3",
+      "order": 4,
+      "tags": ["purpose"]
+    },
+    {
+      "id": "week20-s05",
+      "kr": "책을 찾으려고 도서관에 갔어요.",
+      "rom": "chaegeul chajeuryogo doseogwane gasseoyo",
+      "fr": "Je suis allé à la bibliothèque pour chercher un livre.",
+      "audio": "/audio/week20/sentences/week20-s05.mp3",
+      "order": 5,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week20-s06",
+      "kr": "한국 친구를 만나려고 한국에 갔어요.",
+      "rom": "hanguk chingu-reul mannaryeogo hanguke gasseoyo",
+      "fr": "Je suis allé en Corée pour voir un ami.",
+      "audio": "/audio/week20/sentences/week20-s06.mp3",
+      "order": 6,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week20-s07",
+      "kr": "영화를 보러 갈 거예요.",
+      "rom": "yeonghwareul boreo gal geoyeyo",
+      "fr": "Je vais aller voir un film.",
+      "audio": "/audio/week20/sentences/week20-s07.mp3",
+      "order": 7,
+      "tags": ["purpose"]
+    },
+    {
+      "id": "week20-s08",
+      "kr": "운동하려고 일찍 일어났어요.",
+      "rom": "undong-haryeogo iljjik ireonasseoyo",
+      "fr": "Je me suis levé tôt pour faire du sport.",
+      "audio": "/audio/week20/sentences/week20-s08.mp3",
+      "order": 8,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week20-s09",
+      "kr": "사진을 찍으려고 카메라를 샀어요.",
+      "rom": "sajineul jjigeuryogo kamerareul sasseoyo",
+      "fr": "J’ai acheté un appareil photo pour prendre des photos.",
+      "audio": "/audio/week20/sentences/week20-s09.mp3",
+      "order": 9,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week20-s10",
+      "kr": "한국어를 연습하려고 한국 드라마를 봐요.",
+      "rom": "hangugeoreul yeonseub-haryeogo hanguk deuramareul bwayo",
+      "fr": "Je regarde des dramas coréens pour pratiquer le coréen.",
+      "audio": "/audio/week20/sentences/week20-s10.mp3",
+      "order": 10,
+      "tags": ["purpose"]
+    },
+    {
+      "id": "week20-s11",
+      "kr": "요리를 배우려고 수업을 신청했어요.",
+      "rom": "yorireul baeuryeogo sueobeul sincheonghaesseoyo",
+      "fr": "Je me suis inscrit à un cours pour apprendre à cuisiner.",
+      "audio": "/audio/week20/sentences/week20-s11.mp3",
+      "order": 11,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week20-s12",
+      "kr": "운전면허를 따려고 연습하고 있어요.",
+      "rom": "unjeonmyeonheoreul ttaryeogo yeonseub-hago isseoyo",
+      "fr": "Je m’entraîne pour obtenir mon permis de conduire.",
+      "audio": "/audio/week20/sentences/week20-s12.mp3",
+      "order": 12,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week20-s13",
+      "kr": "친구를 만나러 밖에 나갔어요.",
+      "rom": "chingu-reul mannareo bakke nagasseoyo",
+      "fr": "Je suis sorti pour rencontrer un ami.",
+      "audio": "/audio/week20/sentences/week20-s13.mp3",
+      "order": 13,
+      "tags": ["purpose"]
+    },
+    {
+      "id": "week20-s14",
+      "kr": "저녁을 준비하려고 시장에 갔어요.",
+      "rom": "jeonyeogeul junbi-haryeogo sijange gasseoyo",
+      "fr": "Je suis allé au marché pour préparer le dîner.",
+      "audio": "/audio/week20/sentences/week20-s14.mp3",
+      "order": 14,
+      "tags": ["intention"]
+    }
+  ]
+}

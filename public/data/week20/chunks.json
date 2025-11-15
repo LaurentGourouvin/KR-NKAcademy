@@ -1,0 +1,25 @@
+{
+  "audioBasePath": "/audio/week20/chunks/",
+  "chunks": [
+    {
+      "id": "week20-ch01",
+      "title": "Exprimer l’intention (-(으)려고 하다)",
+      "description": "Dire ce que l’on prévoit ou ce que l’on s’apprête à faire.",
+      "sentenceIds": ["week20-s01","week20-s02","week20-s03","week20-s05","week20-s06","week20-s08","week20-s09","week20-s11","week20-s12","week20-s14"],
+      "audio": "/audio/week20/chunks/week20-ch01.mp3",
+      "order": 1,
+      "tags": ["intention"],
+      "level": "A2"
+    },
+    {
+      "id": "week20-ch02",
+      "title": "Exprimer un but (-(으)러 가다)",
+      "description": "Aller quelque part pour faire une action précise.",
+      "sentenceIds": ["week20-s04","week20-s07","week20-s10","week20-s13"],
+      "audio": "/audio/week20/chunks/week20-ch02.mp3",
+      "order": 2,
+      "tags": ["purpose"],
+      "level": "A2"
+    }
+  ]
+}

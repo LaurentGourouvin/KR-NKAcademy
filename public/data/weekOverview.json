@@ -191,6 +191,16 @@
       "audioBasePath": "/audio/week19/",
       "tooltip": "Parce que...",
       "image": "/assets/images/week19/card.jpg"
+    },
+    {
+      "week": 20,
+      "slug": "intention-but",
+      "title": "Intention & But",
+      "summary": "Exprimer un plan, une intention ou un déplacement motivé.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week20/",
+      "tooltip": "Pour… / afin de…",
+      "image": "/assets/images/week20/card.jpg"
     }
   ]
 }
