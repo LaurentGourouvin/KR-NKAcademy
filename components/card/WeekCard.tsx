@@ -16,7 +16,13 @@ export function WeekCard({
       <div className="mt-2">
         <h1 className="text-base mb-2 text-emerald-600 font-bold">{title}</h1>
         <p className="mb-2 font-light">{summary}</p>
-        <img src={image} alt={title} />
+        <img
+          src={image}
+          alt={title}
+          width={300}
+          height={300}
+          className="mx-auto"
+        />
       </div>
       <div className="my-2 h-px w-full bg-emerald-200" />
       <div className="flex justify-center p-2 m-2">
