@@ -1,6 +1,7 @@
 "use client"; // si tu es sur Next.js App Router, sinon tu peux enlever
 
 import { useState } from "react";
+import Link from "next/link";
 
 export function Header() {
   const [open, setOpen] = useState(false);
@@ -18,13 +19,13 @@ export function Header() {
           <div className="hidden md:block h-3/4 w-px bg-gray-200" />
           <ul className="hidden md:flex items-center gap-6 text-sm text-gray-700">
             <li>
-              <a href="/programmes">Accueil</a>
+              <Link href="/home">Accueil</Link>
             </li>
             <li>
-              <a href="/programmes">Programmes</a>
+              <a href="/program">Programmes</a>
             </li>
             <li>
-              <a href="/cours">Cours</a>
+              <Link href="/week">Cours</Link>
             </li>
             <li>
               <a href="/explorer">Explorer</a>
