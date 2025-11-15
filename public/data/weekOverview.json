@@ -37,7 +37,9 @@
       "summary": "Exprimer ce qu’on aime ou pas (nourriture et activités) avec 좋아해요 / 싫어해요 et 을/를.",
       "difficulty": "A1",
       "audioBasePath": "/audio/week04/",
-      "tooltip": "Goûts, nourriture, activités."
+      "tooltip": "Goûts, nourriture, activités.",
+      "image": "/assets/images/week04/card.jpg"
+
     },   
     {
       "week": 5,
@@ -46,7 +48,8 @@
       "summary": "Commander à boire ou à manger avec 주세요 et utiliser 좀 pour adoucir la demande.",
       "difficulty": "A1",
       "audioBasePath": "/audio/week05/",
-      "tooltip": "Commander poliment au café/restaurant."
+      "tooltip": "Commander poliment au café/restaurant.",
+      "image": "/assets/images/week05/card.jpg"
     },
     {
       "week": 6,
@@ -55,7 +58,8 @@
       "summary": "Parler de sa journée avec des verbes simples et des heures (…시에) en coréen poli.",
       "difficulty": "A1",
       "audioBasePath": "/audio/week06/",
-      "tooltip": "Décrire sa routine avec l’heure."
+      "tooltip": "Décrire sa routine avec l’heure.",
+      "image": "/assets/images/week06/card.jpg"
     },    
     {
       "week": 7,
@@ -64,7 +68,9 @@
       "summary": "Demander/donner des directions simples, utiliser 어디에/어디로 et les transports avec -로.",
       "difficulty": "A1",
       "audioBasePath": "/audio/week07/",
-      "tooltip": "Transports et directions simples."
+      "tooltip": "Transports et directions simples.",
+      "image": "/assets/images/week07/card3.jpg"
+
     },
     {
       "week": 8,
@@ -73,7 +79,8 @@
       "summary": "Demander le prix, utiliser les compteurs coréens et acheter des produits de base.",
       "difficulty": "A1",
       "audioBasePath": "/audio/week08/",
-      "tooltip": "Achat, prix et quantités."
+      "tooltip": "Achat, prix et quantités.",
+      "image": "/assets/images/week08/card3.jpg"
     },
     {
       "week": 9,
