@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 export function Header() {
   const [open, setOpen] = useState(false);
@@ -10,13 +11,20 @@ export function Header() {
     <nav className="sticky top-0 z-50 bg-white shadow-sm">
       <div className="flex items-center justify-between h-16 px-4">
         <div className="flex items-center gap-4">
+          <Image
+            src="/assets/logo_square.png"
+            alt="KR KNAcademy Square"
+            height={50}
+            width={50}
+          />
           <div className="flex flex-col leading-tight">
             <p className="font-bold text-base">KR Academy</p>
             <p className="text-xs text-gray-500 -mt-1 italic">
               natural korean acquisition
             </p>
-          </div>{" "}
-          <div className="hidden md:block h-3/4 w-px bg-gray-200" />
+          </div>
+          <div className="hidden md:block h-10 w-px bg-gray-300" />
+
           <ul className="hidden md:flex items-center gap-6 text-sm text-gray-700">
             <li>
               <Link href="/home">Accueil</Link>
