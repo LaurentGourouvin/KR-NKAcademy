@@ -1,0 +1,73 @@
+{
+  "audioBasePath": "/audio/week13/exercises/",
+  "exercises": [
+    {
+      "id": "week13-ex01",
+      "title": "Compréhension — décrire une personne",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne description.",
+      "items": [
+        {
+          "id": "week13-ex01-i01",
+          "prompt": "키가 크고 머리가 짧은 사람이에요.",
+          "kr": "키가 크고 머리가 짧은 사람이에요.",
+          "rom": "kiga keugo meoriga jjalbeun saram-ieyo",
+          "fr": "C’est une personne grande avec les cheveux courts.",
+          "options": [
+            "C’est une personne grande avec les cheveux courts.",
+            "C’est une personne petite avec les cheveux longs.",
+            "C’est une personne qui lit beaucoup de livres."
+          ],
+          "answer": "C’est une personne grande avec les cheveux courts.",
+          "sentenceId": "week13-s03",
+          "audio": "week13-ex01-i01.mp3"
+        },
+        {
+          "id": "week13-ex01-i02",
+          "prompt": "항상 웃는 사람이에요.",
+          "kr": "항상 웃는 사람이에요.",
+          "rom": "hangsang utneun saram-ieyo",
+          "fr": "C’est une personne qui sourit tout le temps.",
+          "options": [
+            "C’est une personne qui sourit tout le temps.",
+            "C’est une personne qui ne sourit jamais.",
+            "C’est une personne qui porte des lunettes."
+          ],
+          "answer": "C’est une personne qui sourit tout le temps.",
+          "sentenceId": "week13-s04",
+          "audio": "week13-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week13-ex02",
+      "title": "Remplir les blancs — …는 사람",
+      "type": "vocab",
+      "instructions": "Complétez avec la bonne forme du verbe pour faire …는 사람.",
+      "items": [
+        {
+          "id": "week13-ex02-i01",
+          "prompt": "책을 많이 ______ 사람을 좋아해요.",
+          "kr": "책을 많이 ______ 사람을 좋아해요.",
+          "rom": "",
+          "fr": "",
+          "options": ["읽는", "마시는", "사는"],
+          "answer": "읽는",
+          "sentenceId": "week13-s07",
+          "audio": "week13-ex02-i01.mp3"
+        },
+        {
+          "id": "week13-ex02-i02",
+          "prompt": "항상 ______ 사람이 좋아요.",
+          "kr": "항상 ______ 사람이 좋아요.",
+          "rom": "",
+          "fr": "",
+          "options": ["도와주는", "늦게 오는", "화내는"],
+          "answer": "도와주는",
+          "sentenceId": "week13-s14",
+          "audio": "week13-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

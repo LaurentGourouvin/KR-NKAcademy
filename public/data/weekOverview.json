@@ -121,6 +121,16 @@
       "audioBasePath": "/audio/week12/",
       "tooltip": "Dire ce qu’on doit faire.",
       "image": "/assets/images/week12/card.jpg"
+    },
+    {
+      "week": 13,
+      "slug": "describing-people",
+      "title": "Décrire des personnes (apparence & caractère)",
+      "summary": "Décrire l’apparence et le caractère d’une personne avec des adjectifs et la structure …는 사람.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week13/",
+      "tooltip": "Décrire quelqu’un simplement.",
+      "image": "/assets/images/week13/card.jpg"
     }
   ]
 }

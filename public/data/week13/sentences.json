@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week13/sentences/",
+  "sentences": [
+    {
+      "id": "week13-s01",
+      "kr": "새로 온 사람 봤어요?",
+      "rom": "saero on saram bwasseoyo?",
+      "fr": "Tu as vu la nouvelle personne ?",
+      "audio": "/audio/week13/sentences/week13-s01.mp3",
+      "order": 1,
+      "tags": ["dialog", "people"]
+    },
+    {
+      "id": "week13-s02",
+      "kr": "아니요, 아직 못 봤어요.",
+      "rom": "aniyo, ajik mot bwasseoyo",
+      "fr": "Non, pas encore.",
+      "audio": "/audio/week13/sentences/week13-s02.mp3",
+      "order": 2,
+      "tags": ["dialog"]
+    },
+    {
+      "id": "week13-s03",
+      "kr": "키가 크고 머리가 짧은 사람이에요.",
+      "rom": "kiga keugo meoriga jjalbeun saram-ieyo",
+      "fr": "C’est une personne grande avec les cheveux courts.",
+      "audio": "/audio/week13/sentences/week13-s03.mp3",
+      "order": 3,
+      "tags": ["apparence"]
+    },
+    {
+      "id": "week13-s04",
+      "kr": "항상 웃는 사람이에요.",
+      "rom": "hangsang utneun saram-ieyo",
+      "fr": "C’est une personne qui sourit tout le temps.",
+      "audio": "/audio/week13/sentences/week13-s04.mp3",
+      "order": 4,
+      "tags": ["caractère", "v-neun"]
+    },
+    {
+      "id": "week13-s05",
+      "kr": "밝은 사람을 좋아해요.",
+      "rom": "balgeun sarameul joahaeyo",
+      "fr": "J’aime les personnes enjouées.",
+      "audio": "/audio/week13/sentences/week13-s05.mp3",
+      "order": 5,
+      "tags": ["caractère", "préférences"]
+    },
+    {
+      "id": "week13-s06",
+      "kr": "정말 친절한 사람이에요.",
+      "rom": "jeongmal chinjeolhan saram-ieyo",
+      "fr": "C’est une personne vraiment gentille.",
+      "audio": "/audio/week13/sentences/week13-s06.mp3",
+      "order": 6,
+      "tags": ["caractère"]
+    },
+    {
+      "id": "week13-s07",
+      "kr": "책을 많이 읽는 사람을 좋아해요.",
+      "rom": "chaegeul mani ilgneun sarameul joahaeyo",
+      "fr": "J’aime les personnes qui lisent beaucoup de livres.",
+      "audio": "/audio/week13/sentences/week13-s07.mp3",
+      "order": 7,
+      "tags": ["v-neun", "préférences"]
+    },
+    {
+      "id": "week13-s08",
+      "kr": "조용하지만 따뜻한 사람이 좋아요.",
+      "rom": "joyonghajiman ttatteuthan sarami joayo",
+      "fr": "J’aime les personnes calmes mais chaleureuses.",
+      "audio": "/audio/week13/sentences/week13-s08.mp3",
+      "order": 8,
+      "tags": ["caractère"]
+    },
+    {
+      "id": "week13-s09",
+      "kr": "새로 온 사람은 그런 사람이에요.",
+      "rom": "saero on sarameun geureon saram-ieyo",
+      "fr": "La nouvelle personne est comme ça.",
+      "audio": "/audio/week13/sentences/week13-s09.mp3",
+      "order": 9,
+      "tags": ["dialog", "people"]
+    },
+    {
+      "id": "week13-s10",
+      "kr": "너무 완벽한 사람은 없어요.",
+      "rom": "neomu wanbyeokhan sarameun eopseoyo",
+      "fr": "Il n’existe pas de personne parfaitement parfaite.",
+      "audio": "/audio/week13/sentences/week13-s10.mp3",
+      "order": 10,
+      "tags": ["opinion"]
+    },
+    {
+      "id": "week13-s11",
+      "kr": "안경을 쓰는 사람이에요.",
+      "rom": "angyeongeul sseuneun saram-ieyo",
+      "fr": "C’est une personne qui porte des lunettes.",
+      "audio": "/audio/week13/sentences/week13-s11.mp3",
+      "order": 11,
+      "tags": ["apparence", "v-neun"]
+    },
+    {
+      "id": "week13-s12",
+      "kr": "수염이 조금 있는 사람이에요.",
+      "rom": "suyeomi jogeum inneun saram-ieyo",
+      "fr": "C’est une personne qui a un peu de barbe.",
+      "audio": "/audio/week13/sentences/week13-s12.mp3",
+      "order": 12,
+      "tags": ["apparence"]
+    },
+    {
+      "id": "week13-s13",
+      "kr": "조용한 사람보다 활발한 사람을 더 좋아해요.",
+      "rom": "joyonghan saramboda hwalbalhan sarameul deo joahaeyo",
+      "fr": "Je préfère les personnes dynamiques aux personnes calmes.",
+      "audio": "/audio/week13/sentences/week13-s13.mp3",
+      "order": 13,
+      "tags": ["comparaison", "caractère"]
+    },
+    {
+      "id": "week13-s14",
+      "kr": "항상 도와주는 사람이 좋아요.",
+      "rom": "hangsang dowajuneun sarami joayo",
+      "fr": "J’aime les personnes qui aident toujours.",
+      "audio": "/audio/week13/sentences/week13-s14.mp3",
+      "order": 14,
+      "tags": ["caractère", "v-neun"]
+    }
+  ]
+}
