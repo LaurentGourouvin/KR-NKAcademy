@@ -1,0 +1,24 @@
+{
+  "week": 19,
+  "title": "Cause & Conséquence (아서/어서, 기 때문에)",
+  "theme": "Expliquer une raison ou une conséquence.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Exprimer une cause simple avec -아서/어서.",
+    "Exprimer une raison explicite avec -기 때문에.",
+    "Décrire des situations avec cause → effet."
+  ],
+  "grammarFocus": [
+    { "kr": "-아서/어서", "rom": "-aseo/eoseo", "fr": "parce que (cause simple)" },
+    { "kr": "-기 때문에", "rom": "-gi ttaemune", "fr": "parce que (raison explicite)" }
+  ],
+  "vocabulary": [
+    { "kr": "늦다", "rom": "neutda", "fr": "être en retard" },
+    { "kr": "피곤하다", "rom": "pigonhada", "fr": "être fatigué" },
+    { "kr": "고장나다", "rom": "gojangnada", "fr": "tomber en panne" },
+    { "kr": "걱정하다", "rom": "geokjeonghada", "fr": "s’inquiéter" },
+    { "kr": "필요하다", "rom": "piryohada", "fr": "être nécessaire" }
+  ],
+  "audioBasePath": "/audio/week19/",
+  "notes": "Semaine de structuration : argumentation basique, explication de faits et de choix."
+}

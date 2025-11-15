@@ -181,6 +181,16 @@
       "audioBasePath": "/audio/week18/",
       "tooltip": "Le plus / le moins.",
       "image": "/assets/images/week18/card.jpg"
+    },
+    {
+      "week": 19,
+      "slug": "cause-consequence",
+      "title": "Cause & Conséquence",
+      "summary": "Exprimer une cause simple et une raison plus explicite.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week19/",
+      "tooltip": "Parce que...",
+      "image": "/assets/images/week19/card.jpg"
     }
   ]
 }

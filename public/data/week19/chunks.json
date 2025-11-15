@@ -1,0 +1,25 @@
+{
+  "audioBasePath": "/audio/week19/chunks/",
+  "chunks": [
+    {
+      "id": "week19-ch01",
+      "title": "Cause simple (-아서/어서)",
+      "description": "Exprimer une cause immédiate.",
+      "sentenceIds": ["week19-s01","week19-s02","week19-s03","week19-s04","week19-s05","week19-s06","week19-s10","week19-s12","week19-s14"],
+      "audio": "/audio/week19/chunks/week19-ch01.mp3",
+      "order": 1,
+      "tags": ["cause"],
+      "level": "A2"
+    },
+    {
+      "id": "week19-ch02",
+      "title": "Raison explicite (-기 때문에)",
+      "description": "Donner une raison claire et argumentée.",
+      "sentenceIds": ["week19-s07","week19-s08","week19-s09","week19-s11","week19-s13"],
+      "audio": "/audio/week19/chunks/week19-ch02.mp3",
+      "order": 2,
+      "tags": ["reason"],
+      "level": "A2"
+    }
+  ]
+}

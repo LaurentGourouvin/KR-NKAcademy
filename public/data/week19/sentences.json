@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week19/sentences/",
+  "sentences": [
+    {
+      "id": "week19-s01",
+      "kr": "비가 와서 우산을 가져왔어요.",
+      "rom": "biga waseo usaneul gajyeowasseoyo",
+      "fr": "Comme il pleut, j’ai pris un parapluie.",
+      "audio": "/audio/week19/sentences/week19-s01.mp3",
+      "order": 1,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week19-s02",
+      "kr": "길이 막혀서 늦었어요.",
+      "rom": "giri makyeoseo neujeosseoyo",
+      "fr": "Je suis en retard parce qu’il y avait des embouteillages.",
+      "audio": "/audio/week19/sentences/week19-s02.mp3",
+      "order": 2,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week19-s03",
+      "kr": "피곤해서 일찍 잤어요.",
+      "rom": "pigonhaeseo iljjik jasseoyo",
+      "fr": "J’étais fatigué, alors je me suis couché tôt.",
+      "audio": "/audio/week19/sentences/week19-s03.mp3",
+      "order": 3,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week19-s04",
+      "kr": "배가 아파서 약을 먹었어요.",
+      "rom": "baega apaseo yageul meogeosseoyo",
+      "fr": "J’avais mal au ventre, alors j’ai pris un médicament.",
+      "audio": "/audio/week19/sentences/week19-s04.mp3",
+      "order": 4,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week19-s05",
+      "kr": "시간이 없어서 택시를 탔어요.",
+      "rom": "sigani eopseoseo taeksireul tasseoyo",
+      "fr": "Je n’avais pas le temps, donc j’ai pris un taxi.",
+      "audio": "/audio/week19/sentences/week19-s05.mp3",
+      "order": 5,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week19-s06",
+      "kr": "휴대폰이 고장나서 수리했어요.",
+      "rom": "hyudaeponi gojangnaseo surihaesseoyo",
+      "fr": "Mon téléphone est tombé en panne, donc je l’ai fait réparer.",
+      "audio": "/audio/week19/sentences/week19-s06.mp3",
+      "order": 6,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week19-s07",
+      "kr": "감기에 걸렸기 때문에 회의에 못 갔어요.",
+      "rom": "gamgie geollyeotgi ttaemune hoeie mot gasseoyo",
+      "fr": "Je n’ai pas pu aller à la réunion parce que j’ai attrapé un rhume.",
+      "audio": "/audio/week19/sentences/week19-s07.mp3",
+      "order": 7,
+      "tags": ["reason"]
+    },
+    {
+      "id": "week19-s08",
+      "kr": "중요한 약속이 있기 때문에 먼저 가야 해요.",
+      "rom": "jungyohan yaksogi itgi ttaemune meonjeo gaya haeyo",
+      "fr": "Je dois partir en premier parce que j’ai un rendez-vous important.",
+      "audio": "/audio/week19/sentences/week19-s08.mp3",
+      "order": 8,
+      "tags": ["reason"]
+    },
+    {
+      "id": "week19-s09",
+      "kr": "돈이 필요하기 때문에 일찍 일해요.",
+      "rom": "doni piryohagi ttaemune iljjik ilhaeyo",
+      "fr": "Je travaille tôt parce que j’ai besoin d’argent.",
+      "audio": "/audio/week19/sentences/week19-s09.mp3",
+      "order": 9,
+      "tags": ["reason"]
+    },
+    {
+      "id": "week19-s10",
+      "kr": "날씨가 좋아서 산책하고 싶어요.",
+      "rom": "nalssiga joaseo sanchaekago sipeoyo",
+      "fr": "Comme il fait beau, j’ai envie de me promener.",
+      "audio": "/audio/week19/sentences/week19-s10.mp3",
+      "order": 10,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week19-s11",
+      "kr": "시험이 있기 때문에 공부하고 있어요.",
+      "rom": "siheomi itgi ttaemune gongbuhago isseoyo",
+      "fr": "J’étudie parce que j’ai un examen.",
+      "audio": "/audio/week19/sentences/week19-s11.mp3",
+      "order": 11,
+      "tags": ["reason"]
+    },
+    {
+      "id": "week19-s12",
+      "kr": "배고파서 빵을 샀어요.",
+      "rom": "baegopaseo ppangeul sasseoyo",
+      "fr": "J’ai acheté du pain parce que j’avais faim.",
+      "audio": "/audio/week19/sentences/week19-s12.mp3",
+      "order": 12,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week19-s13",
+      "kr": "잠을 못 잤기 때문에 피곤해요.",
+      "rom": "jameul mot jatgi ttaemune pigonaeyo",
+      "fr": "Je suis fatigué parce que je n’ai pas dormi.",
+      "audio": "/audio/week19/sentences/week19-s13.mp3",
+      "order": 13,
+      "tags": ["reason"]
+    },
+    {
+      "id": "week19-s14",
+      "kr": "길이 조용해서 산책하기 좋아요.",
+      "rom": "giri joyonghaeseo sanchaekhagi joayo",
+      "fr": "Comme la rue est calme, c’est agréable pour se promener.",
+      "audio": "/audio/week19/sentences/week19-s14.mp3",
+      "order": 14,
+      "tags": ["cause"]
+    }
+  ]
+}
