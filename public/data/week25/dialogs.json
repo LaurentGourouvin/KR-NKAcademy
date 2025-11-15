@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week25-dialog01",
+      "title": "Je vais pour étudier",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["study","goal"],
+      "audioFull": "/audio/week25/dialogs/week25-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week25-dialog01-t01",
+          "speaker": "로랑",
+          "sentenceId": "week25-s01",
+          "kr": "책을 빌리려고 도서관에 가요.",
+          "rom": "chaegeul billiyeogo doseogwane gayo",
+          "fr": "Je vais à la bibliothèque pour emprunter un livre.",
+          "audio": "/audio/week25/dialogs/week25-dialog01-t01.mp3"
+        },
+        {
+          "id": "week25-dialog01-t02",
+          "speaker": "민지",
+          "sentenceId": "week25-s07",
+          "kr": "연구하려고 자료를 찾고 있어요.",
+          "rom": "yeonguharyeogo jaryoreul chatgo isseoyo",
+          "fr": "Je cherche des documents pour faire des recherches.",
+          "audio": "/audio/week25/dialogs/week25-dialog01-t02.mp3"
+        },
+        {
+          "id": "week25-dialog01-t03",
+          "speaker": "로랑",
+          "sentenceId": "week25-s10",
+          "kr": "공부하려고 책상을 정리했어요.",
+          "rom": "gongbuharyeogo chaeksangeul jeongrihaesseoyo",
+          "fr": "J’ai rangé mon bureau pour étudier.",
+          "audio": "/audio/week25/dialogs/week25-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week25-dialog02",
+      "title": "Je vais au parc",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["goal","life"],
+      "audioFull": "/audio/week25/dialogs/week25-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week25-dialog02-t01",
+          "speaker": "민지",
+          "sentenceId": "week25-s13",
+          "kr": "사진을 찍으러 공원에 가요.",
+          "rom": "sajineul jjigeureo gongwon-e gayo",
+          "fr": "Je vais au parc pour prendre des photos.",
+          "audio": "/audio/week25/dialogs/week25-dialog02-t01.mp3"
+        },
+        {
+          "id": "week25-dialog02-t02",
+          "speaker": "로랑",
+          "sentenceId": "week25-s11",
+          "kr": "휴식을 취하려고 음악을 들어요.",
+          "rom": "hyusigeul chwiharyeogo eumageul deureoyo",
+          "fr": "J’écoute de la musique pour me détendre.",
+          "audio": "/audio/week25/dialogs/week25-dialog02-t02.mp3"
+        },
+        {
+          "id": "week25-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week25-s14",
+          "kr": "운동하러 체육관에 가요.",
+          "rom": "undonghareo cheyukgwane gayo",
+          "fr": "Je vais au gymnase pour faire du sport.",
+          "audio": "/audio/week25/dialogs/week25-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

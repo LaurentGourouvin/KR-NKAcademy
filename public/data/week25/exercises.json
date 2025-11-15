@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week25/exercises/",
+  "exercises": [
+    {
+      "id": "week25-ex01",
+      "title": "Compléter avec -(으)려고",
+      "type": "vocab",
+      "instructions": "Choisissez la forme correcte.",
+      "items": [
+        {
+          "id": "week25-ex01-i01",
+          "prompt": "준비____ 일찍 일어났어요.",
+          "options": ["하려고", "하고"],
+          "answer": "하려고",
+          "sentenceId": "week25-s05",
+          "audio": "week25-ex01-i01.mp3"
+        },
+        {
+          "id": "week25-ex01-i02",
+          "prompt": "사진을 찍____ 나왔어요.",
+          "options": ["으려고", "어서"],
+          "answer": "으려고",
+          "sentenceId": "week25-s06",
+          "audio": "week25-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week25-ex02",
+      "title": "Aller/venir pour…",
+      "type": "vocab",
+      "instructions": "Complétez avec -(으)러.",
+      "items": [
+        {
+          "id": "week25-ex02-i01",
+          "prompt": "운동하____ 체육관에 가요.",
+          "options": ["러", "려고"],
+          "answer": "러",
+          "sentenceId": "week25-s14",
+          "audio": "week25-ex02-i01.mp3"
+        },
+        {
+          "id": "week25-ex02-i02",
+          "prompt": "사진을 찍으____ 공원에 가요.",
+          "options": ["러", "려고"],
+          "answer": "러",
+          "sentenceId": "week25-s13",
+          "audio": "week25-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

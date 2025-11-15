@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week25/sentences/",
+  "sentences": [
+    {
+      "id": "week25-s01",
+      "kr": "책을 빌리려고 도서관에 가요.",
+      "rom": "chaegeul billiyeogo doseogwane gayo",
+      "fr": "Je vais à la bibliothèque pour emprunter un livre.",
+      "audio": "/audio/week25/sentences/week25-s01.mp3",
+      "order": 1,
+      "tags": ["goal"]
+    },
+    {
+      "id": "week25-s02",
+      "kr": "한국어를 배우려고 한국에 왔어요.",
+      "rom": "hangugeoreul baeuryogo hanguke wasseoyo",
+      "fr": "Je suis venu en Corée pour apprendre le coréen.",
+      "audio": "/audio/week25/sentences/week25-s02.mp3",
+      "order": 2,
+      "tags": ["goal"]
+    },
+    {
+      "id": "week25-s03",
+      "kr": "연습하려고 매일 노래해요.",
+      "rom": "yeonseub haryeogo maeil noraehaeyo",
+      "fr": "Je chante tous les jours pour m’entraîner.",
+      "audio": "/audio/week25/sentences/week25-s03.mp3",
+      "order": 3,
+      "tags": ["goal"]
+    },
+    {
+      "id": "week25-s04",
+      "kr": "친구를 만나려고 카페에 가요.",
+      "rom": "chingureul mannaryeogo kape-e gayo",
+      "fr": "Je vais au café pour rencontrer un ami.",
+      "audio": "/audio/week25/sentences/week25-s04.mp3",
+      "order": 4,
+      "tags": ["goal"]
+    },
+    {
+      "id": "week25-s05",
+      "kr": "준비하려고 일찍 일어났어요.",
+      "rom": "junbiharyeogo iljjik ireonasseoyo",
+      "fr": "Je me suis levé tôt pour me préparer.",
+      "audio": "/audio/week25/sentences/week25-s05.mp3",
+      "order": 5,
+      "tags": ["goal"]
+    },
+    {
+      "id": "week25-s06",
+      "kr": "사진을 찍으려고 나왔어요.",
+      "rom": "sajineul jjigeu-ryeogo nawasseoyo",
+      "fr": "Je suis sorti pour prendre des photos.",
+      "audio": "/audio/week25/sentences/week25-s06.mp3",
+      "order": 6,
+      "tags": ["goal"]
+    },
+    {
+      "id": "week25-s07",
+      "kr": "연구하려고 자료를 찾고 있어요.",
+      "rom": "yeonguharyeogo jaryoreul chatgo isseoyo",
+      "fr": "Je cherche des documents pour faire des recherches.",
+      "audio": "/audio/week25/sentences/week25-s07.mp3",
+      "order": 7,
+      "tags": ["study"]
+    },
+    {
+      "id": "week25-s08",
+      "kr": "운동하려고 운동화를 샀어요.",
+      "rom": "undongharyeogo undonghwaleul sasseoyo",
+      "fr": "J’ai acheté des baskets pour faire du sport.",
+      "audio": "/audio/week25/sentences/week25-s08.mp3",
+      "order": 8,
+      "tags": ["life"]
+    },
+    {
+      "id": "week25-s09",
+      "kr": "요리하려고 재료를 준비해요.",
+      "rom": "yoriharyeogo jaeryoreul junbihaeyo",
+      "fr": "Je prépare les ingrédients pour cuisiner.",
+      "audio": "/audio/week25/sentences/week25-s09.mp3",
+      "order": 9,
+      "tags": ["life"]
+    },
+    {
+      "id": "week25-s10",
+      "kr": "공부하려고 책상을 정리했어요.",
+      "rom": "gongbuharyeogo chaeksangeul jeongrihaesseoyo",
+      "fr": "J’ai rangé mon bureau pour étudier.",
+      "audio": "/audio/week25/sentences/week25-s10.mp3",
+      "order": 10,
+      "tags": ["study"]
+    },
+    {
+      "id": "week25-s11",
+      "kr": "휴식을 취하려고 음악을 들어요.",
+      "rom": "hyusigeul chwiharyeogo eumageul deureoyo",
+      "fr": "J’écoute de la musique pour me détendre.",
+      "audio": "/audio/week25/sentences/week25-s11.mp3",
+      "order": 11,
+      "tags": ["life"]
+    },
+    {
+      "id": "week25-s12",
+      "kr": "도와주려고 왔어요.",
+      "rom": "dowajuryeogo wasseoyo",
+      "fr": "Je suis venu pour aider.",
+      "audio": "/audio/week25/sentences/week25-s12.mp3",
+      "order": 12,
+      "tags": ["goal"]
+    },
+    {
+      "id": "week25-s13",
+      "kr": "사진을 찍으러 공원에 가요.",
+      "rom": "sajineul jjigeureo gongwon-e gayo",
+      "fr": "Je vais au parc pour prendre des photos.",
+      "audio": "/audio/week25/sentences/week25-s13.mp3",
+      "order": 13,
+      "tags": ["goal"]
+    },
+    {
+      "id": "week25-s14",
+      "kr": "운동하러 체육관에 가요.",
+      "rom": "undonghareo cheyukgwane gayo",
+      "fr": "Je vais au gymnase pour faire du sport.",
+      "audio": "/audio/week25/sentences/week25-s14.mp3",
+      "order": 14,
+      "tags": ["goal"]
+    }
+  ]
+}

@@ -241,6 +241,26 @@
       "audioBasePath": "/audio/week24/",
       "tooltip": "Il ne faut pas…",
       "image": "/assets/images/week24/card.jpg"
+    },
+    {
+      "week": 25,
+      "slug": "objectif-reyeogo",
+      "title": "Exprimer le but : -(으)려고 / -(으)러",
+      "summary": "Exprimer une intention ou un but, avec ou sans déplacement.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week25/",
+      "tooltip": "Pour… / afin de…",
+      "image": "/assets/images/week25/card2.jpg"
+    },
+    {
+      "week": 26,
+      "slug": "cause-eunikka",
+      "title": "Exprimer la cause : -(으)니까",
+      "summary": "Expliquer une cause ou une raison avec -(으)니까, et relier cette cause à une décision ou un conseil.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week26/",
+      "tooltip": "Parce que…, comme…",
+      "image": "/assets/images/week26/card.jpg"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "week": 26,
+  "title": "Exprimer la cause : -(으)니까",
+  "theme": "Expliquer une cause ou une raison en mettant l’accent sur le point de vue du locuteur.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -(으)니까 pour exprimer une cause ou une raison.",
+    "Différencier -(으)니까 de -아서/어서 dans des phrases simples.",
+    "Parler de décisions et d’actions motivées par une cause."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "-(으)니까",
+      "rom": "-(eu)nikka",
+      "fr": "parce que / comme / puisque (cause mise en avant par le locuteur)"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "날씨", "rom": "nalssi", "fr": "météo, temps" },
+    { "kr": "준비하다", "rom": "junbihada", "fr": "préparer" },
+    { "kr": "회의", "rom": "hoeui", "fr": "réunion" },
+    { "kr": "길이 막히다", "rom": "giri makida", "fr": "il y a des embouteillages" },
+    { "kr": "기분", "rom": "gibun", "fr": "humeur" }
+  ],
+  "audioBasePath": "/audio/week26/",
+  "notes": "On utilise souvent -(으)니까 pour donner une raison qui justifie une décision, une demande ou une recommandation."
+}

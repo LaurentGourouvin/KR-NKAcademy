@@ -1,0 +1,50 @@
+{
+  "audioBasePath": "/audio/week26/chunks/",
+  "chunks": [
+    {
+      "id": "week26-ch01",
+      "title": "Cause simple avec -(으)니까",
+      "description": "Exprimer une cause directe pour expliquer une action.",
+      "sentenceIds": [
+        "week26-s01",
+        "week26-s03",
+        "week26-s04",
+        "week26-s08"
+      ],
+      "audio": "/audio/week26/chunks/week26-ch01.mp3",
+      "order": 1,
+      "tags": ["cause"],
+      "level": "A2"
+    },
+    {
+      "id": "week26-ch02",
+      "title": "Études, travail et décisions",
+      "description": "Donner une raison pour étudier ou travailler.",
+      "sentenceIds": [
+        "week26-s05",
+        "week26-s06",
+        "week26-s09",
+        "week26-s13"
+      ],
+      "audio": "/audio/week26/chunks/week26-ch02.mp3",
+      "order": 2,
+      "tags": ["study", "work"],
+      "level": "A2"
+    },
+    {
+      "id": "week26-ch03",
+      "title": "Propositions et conseils",
+      "description": "Utiliser -(으)니까 pour proposer ou conseiller quelque chose.",
+      "sentenceIds": [
+        "week26-s07",
+        "week26-s10",
+        "week26-s11",
+        "week26-s14"
+      ],
+      "audio": "/audio/week26/chunks/week26-ch03.mp3",
+      "order": 3,
+      "tags": ["suggestion", "advice"],
+      "level": "A2"
+    }
+  ]
+}

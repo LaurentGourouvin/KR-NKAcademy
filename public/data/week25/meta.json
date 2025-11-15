@@ -1,0 +1,24 @@
+{
+  "week": 25,
+  "title": "Exprimer le but : -(으)려고 / -(으)러",
+  "theme": "Exprimer une intention, un but ou un déplacement pour faire quelque chose.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -(으)려고 pour exprimer une intention ou un objectif.",
+    "Utiliser -(으)러 avec des verbes de déplacement (가다/오다).",
+    "Décrire des actions en chaîne : déplacement + but."
+  ],
+  "grammarFocus": [
+    { "kr": "-(으)려고", "rom": "-(eu)ryeogo", "fr": "pour / afin de / dans le but de" },
+    { "kr": "-(으)러 가다/오다", "rom": "-(eu)reo gada/oda", "fr": "aller/venir pour faire" }
+  ],
+  "vocabulary": [
+    { "kr": "도서관", "rom": "doseogwan", "fr": "bibliothèque" },
+    { "kr": "연습", "rom": "yeonseup", "fr": "pratique / entraînement" },
+    { "kr": "준비하다", "rom": "junbihada", "fr": "préparer" },
+    { "kr": "빌리다", "rom": "billida", "fr": "emprunter" },
+    { "kr": "연구하다", "rom": "yeonguhada", "fr": "faire des recherches" }
+  ],
+  "audioBasePath": "/audio/week25/",
+  "notes": "Forme essentielle pour exprimer un but ou une intention ; très fréquente dans les conversations quotidiennes."
+}
