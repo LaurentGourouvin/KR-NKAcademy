@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week31-dialog01",
+      "title": "Un imprévu au moment de partir",
+      "speechLevel": "polite",
+      "level": "A2+",
+      "tags": ["week31", "quotidien"],
+      "audioFull": "/audio/week31/dialogs/week31-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week31-dialog01-t01",
+          "speaker": "로랑",
+          "sentenceId": "week31-s04",
+          "kr": "집을 나가려고 했을 때 열쇠를 잃어버렸어요.",
+          "rom": "jibeul nagaryeogo haesseul ttae yeolsoe-reul ilheobeoryeosseoyo",
+          "fr": "Quand j’allais sortir de la maison, j’ai perdu mes clés.",
+          "audio": "/audio/week31/dialogs/week31-dialog01-t01.mp3"
+        },
+        {
+          "id": "week31-dialog01-t02",
+          "speaker": "민지",
+          "sentenceId": "week31-s01",
+          "kr": "출근하려고 할 때 비가 왔어요.",
+          "rom": "chulgeunharyeogo hal ttae biga wasseoyo",
+          "fr": "Quand j’allais partir au travail, il s’est mis à pleuvoir.",
+          "audio": "/audio/week31/dialogs/week31-dialog01-t02.mp3"
+        },
+        {
+          "id": "week31-dialog01-t03",
+          "speaker": "로랑",
+          "sentenceId": "week31-s07",
+          "kr": "불을 켜려고 했어요.",
+          "rom": "bureul kyeoryeogo haesseoyo",
+          "fr": "J’allais allumer la lumière.",
+          "audio": "/audio/week31/dialogs/week31-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week31-dialog02",
+      "title": "Parler de ses habitudes",
+      "speechLevel": "polite",
+      "level": "A2+",
+      "tags": ["week31", "habitudes"],
+      "audioFull": "/audio/week31/dialogs/week31-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week31-dialog02-t01",
+          "speaker": "민지",
+          "sentenceId": "week31-s06",
+          "kr": "샤워할 때 음악을 들어요.",
+          "rom": "syawo-hal ttae eumageul deureoyo",
+          "fr": "Quand je prends une douche, j’écoute de la musique.",
+          "audio": "/audio/week31/dialogs/week31-dialog02-t01.mp3"
+        },
+        {
+          "id": "week31-dialog02-t02",
+          "speaker": "로랑",
+          "sentenceId": "week31-s08",
+          "kr": "운동을 시작하려고 해요.",
+          "rom": "undongeul sijak-haryeogo haeyo",
+          "fr": "Je suis sur le point de commencer le sport.",
+          "audio": "/audio/week31/dialogs/week31-dialog02-t02.mp3"
+        },
+        {
+          "id": "week31-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week31-s10",
+          "kr": "저녁을 만들려고 해요.",
+          "rom": "jeonyeogeul mandeulryeogo haeyo",
+          "fr": "Je vais préparer le dîner.",
+          "audio": "/audio/week31/dialogs/week31-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -301,6 +301,16 @@
       "audioBasePath": "/audio/week30/",
       "tooltip": "Je compte… / J’ai l’intention de…",
       "image": "/assets/images/week30/card.jpg"
+    },
+    {
+      "week": 31,
+      "slug": "intention-and-moment",
+      "title": "Intention forte et moment : -(으)려고 하다 / -(으)ㄹ 때",
+      "summary": "Exprimer que vous êtes sur le point de faire quelque chose et décrire des actions qui se produisent ‘quand…’.",
+      "difficulty": "A2+",
+      "audioBasePath": "/audio/week31/",
+      "tooltip": "Quand…, sur le point de…",
+      "image": "/assets/images/week31/card.jpg"
     }
   ]
 }

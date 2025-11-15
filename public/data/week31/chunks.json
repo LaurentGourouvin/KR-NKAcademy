@@ -1,0 +1,33 @@
+{
+  "audioBasePath": "/audio/week31/chunks/",
+  "chunks": [
+    {
+      "id": "week31-ch01",
+      "title": "Quand quelque chose arrive",
+      "description": "Utiliser -(으)ㄹ 때 pour exprimer le moment où une action se produit.",
+      "sentenceIds": [
+        "week31-s01",
+        "week31-s02",
+        "week31-s03"
+      ],
+      "audio": "/audio/week31/chunks/week31-ch01.mp3",
+      "order": 1,
+      "tags": ["moment"],
+      "level": "A2+"
+    },
+    {
+      "id": "week31-ch02",
+      "title": "Avoir l’intention de faire quelque chose",
+      "description": "Utiliser -(으)려고 하다 pour exprimer une intention ferme.",
+      "sentenceIds": [
+        "week31-s08",
+        "week31-s07",
+        "week31-s10"
+      ],
+      "audio": "/audio/week31/chunks/week31-ch02.mp3",
+      "order": 2,
+      "tags": ["intention"],
+      "level": "A2+"
+    }
+  ]
+}
