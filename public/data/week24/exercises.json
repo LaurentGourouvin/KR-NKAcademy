@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week24/exercises/",
+  "exercises": [
+    {
+      "id": "week24-ex01",
+      "title": "Compléter avec -(으)면 안 돼요",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne expression.",
+      "items": [
+        {
+          "id": "week24-ex01-i01",
+          "prompt": "여기에서 ____.",
+          "options": ["먹으면 안 돼요", "먹어요"],
+          "answer": "먹으면 안 돼요",
+          "sentenceId": "week24-s13",
+          "audio": "week24-ex01-i01.mp3"
+        },
+        {
+          "id": "week24-ex01-i02",
+          "prompt": "사진을 ____.",
+          "options": ["찍으면 안 돼요", "찍어요"],
+          "answer": "찍으면 안 돼요",
+          "sentenceId": "week24-s01",
+          "audio": "week24-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week24-ex02",
+      "title": "Interdiction ou non ?",
+      "type": "vocab",
+      "instructions": "Indiquez si la phrase exprime une interdiction.",
+      "items": [
+        {
+          "id": "week24-ex02-i01",
+          "prompt": "여기에서 뛰면 안 돼요.",
+          "options": ["Interdiction", "Pas une interdiction"],
+          "answer": "Interdiction",
+          "sentenceId": "week24-s09",
+          "audio": "week24-ex02-i01.mp3"
+        },
+        {
+          "id": "week24-ex02-i02",
+          "prompt": "음식을 남기면 안 돼요.",
+          "options": ["Interdiction", "Pas une interdiction"],
+          "answer": "Interdiction",
+          "sentenceId": "week24-s07",
+          "audio": "week24-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

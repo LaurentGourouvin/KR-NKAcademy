@@ -1,0 +1,31 @@
+{
+  "audioBasePath": "/audio/week24/chunks/",
+  "chunks": [
+    {
+      "id": "week24-ch01",
+      "title": "Interdictions générales",
+      "description": "Exprimer ce qu’il ne faut pas faire dans les lieux publics.",
+      "sentenceIds": [
+        "week24-s01","week24-s02","week24-s03",
+        "week24-s09","week24-s13","week24-s14"
+      ],
+      "audio": "/audio/week24/chunks/week24-ch01.mp3",
+      "order": 1,
+      "tags": ["rules"],
+      "level": "A2"
+    },
+    {
+      "id": "week24-ch02",
+      "title": "Sécurité & comportement",
+      "description": "Interdictions liées à la sécurité et au comportement individuel.",
+      "sentenceIds": [
+        "week24-s04","week24-s05","week24-s06",
+        "week24-s07","week24-s08","week24-s12"
+      ],
+      "audio": "/audio/week24/chunks/week24-ch02.mp3",
+      "order": 2,
+      "tags": ["safety","life"],
+      "level": "A2"
+    }
+  ]
+}

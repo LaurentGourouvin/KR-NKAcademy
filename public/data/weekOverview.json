@@ -231,6 +231,16 @@
       "audioBasePath": "/audio/week23/",
       "tooltip": "Je dois… / Il faut…",
       "image": "/assets/images/week23/card.jpg"
+    },
+    {
+      "week": 24,
+      "slug": "interdiction-an-dwaeyo",
+      "title": "Exprimer l’interdiction : -(으)면 안 돼요",
+      "summary": "Savoir dire ce qu'il ne faut pas faire dans la vie quotidienne.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week24/",
+      "tooltip": "Il ne faut pas…",
+      "image": "/assets/images/week24/card.jpg"
     }
   ]
 }
