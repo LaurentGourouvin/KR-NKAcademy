@@ -1,5 +1,5 @@
 import { getWeekOverview } from "@/services/data/ServiceData";
-import { WeekCard } from "@/design-system/components/WeekCard";
+import { WeekCard } from "@/components/WeekCard";
 export default async function Home() {
   const weekOverview = await getWeekOverview();
   return (
