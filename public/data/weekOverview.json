@@ -131,6 +131,16 @@
       "audioBasePath": "/audio/week13/",
       "tooltip": "Décrire quelqu’un simplement.",
       "image": "/assets/images/week13/card.jpg"
+    },
+    {
+      "week": 14,
+      "slug": "obligation-interdiction",
+      "title": "Obligations & interdictions",
+      "summary": "Apprendre à dire ce qu’il faut faire et ce qui est interdit.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week14/",
+      "tooltip": "Dire « il faut… » et « il ne faut pas… »",
+      "image": "/assets/images/week14/card.jpg"
     }
   ]
 }

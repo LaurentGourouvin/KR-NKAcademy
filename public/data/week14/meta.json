@@ -1,0 +1,32 @@
+{
+  "week": 14,
+  "title": "Obligations et interdictions",
+  "theme": "Exprimer ce qu’il faut faire et ce qui est interdit.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -아/어야 해요 pour exprimer une obligation.",
+    "(으)면 안 돼요 pour exprimer une interdiction.",
+    "Parler de règles et recommandations simples."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "-아/어야 해요",
+      "rom": "-a/eoya haeyo",
+      "fr": "Il faut… / devoir…"
+    },
+    {
+      "kr": "-(으)면 안 돼요",
+      "rom": "-(eu)myeon an dwaeyo",
+      "fr": "Il ne faut pas… / c'est interdit de…"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "숙제를 하다", "rom": "sukjereul hada", "fr": "faire ses devoirs" },
+    { "kr": "조심하다", "rom": "josimhada", "fr": "faire attention" },
+    { "kr": "쓰레기를 버리다", "rom": "sseuregireul beorida", "fr": "jeter les déchets" },
+    { "kr": "운전하다", "rom": "unjeonhada", "fr": "conduire" },
+    { "kr": "조용히 하다", "rom": "joyonghi hada", "fr": "rester calme / faire silence" }
+  ],
+  "audioBasePath": "/audio/week14/",
+  "notes": "Transition A2+ : obligation, interdiction, règles."
+}

@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week14/exercises/",
+  "exercises": [
+    {
+      "id": "week14-ex01",
+      "title": "Obligation ou interdiction ?",
+      "type": "vocab",
+      "instructions": "Choisissez si la phrase exprime une obligation ou une interdiction.",
+      "items": [
+        {
+          "id": "week14-ex01-i01",
+          "prompt": "여기에서는 조용히 해야 해요.",
+          "options": ["Obligation", "Interdiction"],
+          "answer": "Obligation",
+          "sentenceId": "week14-s01",
+          "audio": "week14-ex01-i01.mp3"
+        },
+        {
+          "id": "week14-ex01-i02",
+          "prompt": "도서관에서는 먹으면 안 돼요.",
+          "options": ["Obligation", "Interdiction"],
+          "answer": "Interdiction",
+          "sentenceId": "week14-s07",
+          "audio": "week14-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week14-ex02",
+      "title": "Complétez la phrase",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne forme.",
+      "items": [
+        {
+          "id": "week14-ex02-i01",
+          "prompt": "운전할 때는 ______ 해요.",
+          "options": ["조심해야", "먹으면 안", "찍으면 안"],
+          "answer": "조심해야",
+          "sentenceId": "week14-s03",
+          "audio": "week14-ex02-i01.mp3"
+        },
+        {
+          "id": "week14-ex02-i02",
+          "prompt": "지각하면 ______ 돼요.",
+          "options": ["안", "해야", "하면"],
+          "answer": "안",
+          "sentenceId": "week14-s06",
+          "audio": "week14-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}
