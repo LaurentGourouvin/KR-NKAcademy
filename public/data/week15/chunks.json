@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week15/chunks/",
+  "chunks": [
+    {
+      "id": "week15-ch01",
+      "title": "Exprimer l’intention",
+      "description": "Avec -(으)려고 해요.",
+      "sentenceIds": ["week15-s01", "week15-s03", "week15-s05", "week15-s07", "week15-s10", "week15-s11", "week15-s14"],
+      "audio": "/audio/week15/chunks/week15-ch01.mp3",
+      "order": 1,
+      "tags": ["intention"],
+      "level": "A2"
+    },
+    {
+      "id": "week15-ch02",
+      "title": "Parler du futur",
+      "description": "Avec -(으)ㄹ 거예요.",
+      "sentenceIds": ["week15-s02", "week15-s04", "week15-s06", "week15-s08", "week15-s09", "week15-s12", "week15-s13"],
+      "audio": "/audio/week15/chunks/week15-ch02.mp3",
+      "order": 2,
+      "tags": ["futur"],
+      "level": "A2"
+    },
+    {
+      "id": "week15-ch03",
+      "title": "Projets & décisions",
+      "description": "Objectifs personnels, planification.",
+      "sentenceIds": ["week15-s03", "week15-s08", "week15-s11", "week15-s14"],
+      "audio": "/audio/week15/chunks/week15-ch03.mp3",
+      "order": 3,
+      "tags": ["plans"],
+      "level": "A2"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week16/sentences/",
+  "sentences": [
+    {
+      "id": "week16-s01",
+      "kr": "김치찌개를 먹어 본 적 있어요?",
+      "rom": "gimchijjigaereul meogeo bon jeok isseoyo?",
+      "fr": "Avez-vous déjà mangé du kimchi jjigae ?",
+      "audio": "/audio/week16/sentences/week16-s01.mp3",
+      "order": 1,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week16-s02",
+      "kr": "저는 아직 먹어 본 적 없어요.",
+      "rom": "jeoneun ajik meogeo bon jeok eopsseoyo",
+      "fr": "Je n’en ai pas encore mangé.",
+      "audio": "/audio/week16/sentences/week16-s02.mp3",
+      "order": 2,
+      "tags": ["never"]
+    },
+    {
+      "id": "week16-s03",
+      "kr": "한국에 가 본 적 있어요.",
+      "rom": "hanguge ga bon jeok isseoyo",
+      "fr": "Je suis déjà allé en Corée.",
+      "audio": "/audio/week16/sentences/week16-s03.mp3",
+      "order": 3,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week16-s04",
+      "kr": "한복을 입어 본 적 있어요?",
+      "rom": "hanbogeul ibeobon jeok isseoyo?",
+      "fr": "Avez-vous déjà porté un hanbok ?",
+      "audio": "/audio/week16/sentences/week16-s04.mp3",
+      "order": 4,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week16-s05",
+      "kr": "저는 입어 본 적 없어요.",
+      "rom": "jeoneun ibeobon jeok eopsseoyo",
+      "fr": "Je n’en ai jamais porté.",
+      "audio": "/audio/week16/sentences/week16-s05.mp3",
+      "order": 5,
+      "tags": ["never"]
+    },
+    {
+      "id": "week16-s06",
+      "kr": "불고기를 만들어 본 적 있어요.",
+      "rom": "bulgogireul mandeureo bon jeok isseoyo",
+      "fr": "J’ai déjà cuisiné du bulgogi.",
+      "audio": "/audio/week16/sentences/week16-s06.mp3",
+      "order": 6,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week16-s07",
+      "kr": "자전거로 산을 올라가 본 적 있어요?",
+      "rom": "jajeongeoro saneul ollaga bon jeok isseoyo?",
+      "fr": "Avez-vous déjà grimpé une montagne à vélo ?",
+      "audio": "/audio/week16/sentences/week16-s07.mp3",
+      "order": 7,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week16-s08",
+      "kr": "너무 힘들어서 다시는 안 해 본 적 없어요.",
+      "rom": "neomu himdeureoseo dasineun an hae bon jeok eopsseoyo",
+      "fr": "C’était trop dur, je ne l’ai plus jamais refait.",
+      "audio": "/audio/week16/sentences/week16-s08.mp3",
+      "order": 8,
+      "tags": ["never", "experience"]
+    },
+    {
+      "id": "week16-s09",
+      "kr": "매운 음식을 먹어 본 적 있어요?",
+      "rom": "maeun eumsigeul meogeo bon jeok isseoyo?",
+      "fr": "Avez-vous déjà mangé un plat très épicé ?",
+      "audio": "/audio/week16/sentences/week16-s09.mp3",
+      "order": 9,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week16-s10",
+      "kr": "저는 매운 라면을 많이 먹어 본 적 있어요.",
+      "rom": "jeoneun maeun ramyeoneul mani meogeo bon jeok isseoyo",
+      "fr": "J’ai déjà mangé beaucoup de ramens épicés.",
+      "audio": "/audio/week16/sentences/week16-s10.mp3",
+      "order": 10,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week16-s11",
+      "kr": "스키를 타 본 적 있어요?",
+      "rom": "seukireul ta bon jeok isseoyo?",
+      "fr": "Avez-vous déjà fait du ski ?",
+      "audio": "/audio/week16/sentences/week16-s11.mp3",
+      "order": 11,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week16-s12",
+      "kr": "저는 한 번도 타 본 적 없어요.",
+      "rom": "jeoneun han beondo ta bon jeok eopsseoyo",
+      "fr": "Je n’en ai jamais fait.",
+      "audio": "/audio/week16/sentences/week16-s12.mp3",
+      "order": 12,
+      "tags": ["never"]
+    },
+    {
+      "id": "week16-s13",
+      "kr": "새로운 것에 도전해 본 적 있어요.",
+      "rom": "saeroun geose dojeon-hae bon jeok isseoyo",
+      "fr": "J’ai déjà tenté quelque chose de nouveau.",
+      "audio": "/audio/week16/sentences/week16-s13.mp3",
+      "order": 13,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week16-s14",
+      "kr": "외국 음식을 직접 만들어 본 적 있어요?",
+      "rom": "oeguk eumsigeul jikjeop mandeureo bon jeok isseoyo?",
+      "fr": "Avez-vous déjà préparé un plat étranger vous-même ?",
+      "audio": "/audio/week16/sentences/week16-s14.mp3",
+      "order": 14,
+      "tags": ["experience"]
+    }
+  ]
+}

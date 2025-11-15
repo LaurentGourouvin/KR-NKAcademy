@@ -1,0 +1,32 @@
+{
+  "week": 15,
+  "title": "Exprimer l’intention & le futur",
+  "theme": "Dire ce qu’on a l’intention de faire et parler de ses projets proches.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Exprimer une intention avec -(으)려고 해요.",
+    "Parler du futur proche avec -(으)ㄹ 거예요.",
+    "Exprimer un plan ou une décision personnelle."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "-(으)려고 해요",
+      "rom": "-(eu)ryeogo haeyo",
+      "fr": "Avoir l’intention de…"
+    },
+    {
+      "kr": "-(으)ㄹ 거예요",
+      "rom": "-(eu)l geoyeyo",
+      "fr": "Futur proche / prévu"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "준비하다", "rom": "junbihada", "fr": "préparer" },
+    { "kr": "계획하다", "rom": "gyehoekhada", "fr": "prévoir, planifier" },
+    { "kr": "결정하다", "rom": "gyeoljeonghada", "fr": "décider" },
+    { "kr": "기다리다", "rom": "gidarida", "fr": "attendre" },
+    { "kr": "찍다", "rom": "jjikda", "fr": "prendre une photo" }
+  ],
+  "audioBasePath": "/audio/week15/",
+  "notes": "Semaine centrée sur le futur proche et les intentions, indispensable avant les structures B1."
+}

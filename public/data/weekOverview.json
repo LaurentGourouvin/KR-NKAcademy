@@ -141,6 +141,26 @@
       "audioBasePath": "/audio/week14/",
       "tooltip": "Dire « il faut… » et « il ne faut pas… »",
       "image": "/assets/images/week14/card.jpg"
+    },
+    {
+      "week": 15,
+      "slug": "intention-futur",
+      "title": "Intention & futur",
+      "summary": "Dire ce qu’on va faire et exprimer son intention.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week15/",
+      "tooltip": "Exprimer un plan ou une intention.",
+      "image": "/assets/images/week15/card.jpeg"
+    },
+    {
+      "week": 16,
+      "slug": "experience-deja-jamais",
+      "title": "Expérience : déjà / jamais",
+      "summary": "Exprimer ce qu’on a déjà fait ou jamais fait.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week16/",
+      "tooltip": "Structure essentielle pour raconter des expériences.",
+      "image": "/assets/images/week16/card.jpg"
     }
   ]
 }

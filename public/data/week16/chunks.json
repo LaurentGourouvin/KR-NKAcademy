@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week16/chunks/",
+  "chunks": [
+    {
+      "id": "week16-ch01",
+      "title": "Avez-vous déjà… ?",
+      "description": "Forme -아/어 본 적 있어요?",
+      "sentenceIds": ["week16-s01", "week16-s04", "week16-s07", "week16-s09", "week16-s11", "week16-s14"],
+      "audio": "/audio/week16/chunks/week16-ch01.mp3",
+      "order": 1,
+      "tags": ["experience"],
+      "level": "A2"
+    },
+    {
+      "id": "week16-ch02",
+      "title": "Je n’ai jamais…",
+      "description": "Forme -아/어 본 적 없어요",
+      "sentenceIds": ["week16-s02", "week16-s05", "week16-s08", "week16-s12"],
+      "audio": "/audio/week16/chunks/week16-ch02.mp3",
+      "order": 2,
+      "tags": ["never"],
+      "level": "A2"
+    },
+    {
+      "id": "week16-ch03",
+      "title": "Expériences positives",
+      "description": "Dire ce qu’on a déjà fait.",
+      "sentenceIds": ["week16-s03", "week16-s06", "week16-s10", "week16-s13"],
+      "audio": "/audio/week16/chunks/week16-ch03.mp3",
+      "order": 3,
+      "tags": ["experience"],
+      "level": "A2"
+    }
+  ]
+}

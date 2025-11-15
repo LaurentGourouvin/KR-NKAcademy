@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week16-dialog01",
+      "title": "As-tu déjà essayé ?",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week16", "experience"],
+      "audioFull": "/audio/week16/dialogs/week16-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week16-dialog01-t01",
+          "speaker": "로랑",
+          "sentenceId": "week16-s01",
+          "kr": "김치찌개를 먹어 본 적 있어요?",
+          "rom": "gimchijjigaereul meogeo bon jeok isseoyo?",
+          "fr": "As-tu déjà mangé du kimchi jjigae ?",
+          "audio": "/audio/week16/dialogs/week16-dialog01-t01.mp3"
+        },
+        {
+          "id": "week16-dialog01-t02",
+          "speaker": "민지",
+          "sentenceId": "week16-s02",
+          "kr": "저는 아직 먹어 본 적 없어요.",
+          "rom": "jeoneun ajik meogeo bon jeok eopsseoyo",
+          "fr": "Je n’en ai pas encore mangé.",
+          "audio": "/audio/week16/dialogs/week16-dialog01-t02.mp3"
+        },
+        {
+          "id": "week16-dialog01-t03",
+          "speaker": "로랑",
+          "sentenceId": "week16-s06",
+          "kr": "불고기를 만들어 본 적 있어요.",
+          "rom": "bulgogireul mandeureo bon jeok isseoyo",
+          "fr": "J’ai déjà cuisiné du bulgogi.",
+          "audio": "/audio/week16/dialogs/week16-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week16-dialog02",
+      "title": "Nouvelles expériences",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week16", "experience"],
+      "audioFull": "/audio/week16/dialogs/week16-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week16-dialog02-t01",
+          "speaker": "민지",
+          "sentenceId": "week16-s11",
+          "kr": "스키를 타 본 적 있어요?",
+          "rom": "seukireul ta bon jeok isseoyo?",
+          "fr": "As-tu déjà fait du ski ?",
+          "audio": "/audio/week16/dialogs/week16-dialog02-t01.mp3"
+        },
+        {
+          "id": "week16-dialog02-t02",
+          "speaker": "로랑",
+          "sentenceId": "week16-s12",
+          "kr": "저는 한 번도 타 본 적 없어요.",
+          "rom": "jeoneun han beondo ta bon jeok eopsseoyo",
+          "fr": "Je n’en ai jamais fait.",
+          "audio": "/audio/week16/dialogs/week16-dialog02-t02.mp3"
+        },
+        {
+          "id": "week16-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week16-s13",
+          "kr": "새로운 것에 도전해 본 적 있어요.",
+          "rom": "saeroun geose dojeon-hae bon jeok isseoyo",
+          "fr": "J’ai déjà essayé quelque chose de nouveau.",
+          "audio": "/audio/week16/dialogs/week16-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}
