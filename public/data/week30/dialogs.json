@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week30-dialog01",
+      "title": "Mes projets du week-end",
+      "speechLevel": "polite",
+      "level": "A2+",
+      "tags": ["week30", "plan"],
+      "audioFull": "/audio/week30/dialogs/week30-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week30-dialog01-t01",
+          "speaker": "로랑",
+          "sentenceId": "week30-s06",
+          "kr": "이번 주말에 계획을 세우려고 해요.",
+          "rom": "ibeon jumare gyehoegeul seuryogo haeyo",
+          "fr": "Je vais faire des plans ce week-end.",
+          "audio": "/audio/week30/dialogs/week30-dialog01-t01.mp3"
+        },
+        {
+          "id": "week30-dialog01-t02",
+          "speaker": "민지",
+          "sentenceId": "week30-s09",
+          "kr": "친구랑 여행을 가려고 해요.",
+          "rom": "chingurang yeohaengeul garyeogo haeyo",
+          "fr": "Je prévois de partir en voyage avec un ami.",
+          "audio": "/audio/week30/dialogs/week30-dialog01-t02.mp3"
+        },
+        {
+          "id": "week30-dialog01-t03",
+          "speaker": "로랑",
+          "sentenceId": "week30-s04",
+          "kr": "운동을 다시 시작하려고 해요.",
+          "rom": "undongeul dasi sijak-haryeogo haeyo",
+          "fr": "Je compte recommencer le sport.",
+          "audio": "/audio/week30/dialogs/week30-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week30-dialog02",
+      "title": "Nouvelles habitudes",
+      "speechLevel": "polite",
+      "level": "A2+",
+      "tags": ["week30", "routine"],
+      "audioFull": "/audio/week30/dialogs/week30-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week30-dialog02-t01",
+          "speaker": "민지",
+          "sentenceId": "week30-s07",
+          "kr": "아침에 책을 읽으려고 해요.",
+          "rom": "achime chaegeul ilgeuryeogo haeyo",
+          "fr": "Je vais essayer de lire un livre le matin.",
+          "audio": "/audio/week30/dialogs/week30-dialog02-t01.mp3"
+        },
+        {
+          "id": "week30-dialog02-t02",
+          "speaker": "로랑",
+          "sentenceId": "week30-s08",
+          "kr": "더 건강하게 살려고 해요.",
+          "rom": "deo geonganghage salryeogo haeyo",
+          "fr": "Je veux vivre plus sainement.",
+          "audio": "/audio/week30/dialogs/week30-dialog02-t02.mp3"
+        },
+        {
+          "id": "week30-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week30-s10",
+          "kr": "새로운 취미를 시작하려고 해요.",
+          "rom": "saeroun chwimireul sijak-haryeogo haeyo",
+          "fr": "J’ai l’intention de commencer un nouveau hobby.",
+          "audio": "/audio/week30/dialogs/week30-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

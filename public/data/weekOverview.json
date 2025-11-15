@@ -291,6 +291,16 @@
       "audioBasePath": "/audio/week29/",
       "tooltip": "On dit que…, il a dit que…",
       "image": "/assets/images/week29/card.jpg"
+    },
+    {
+      "week": 30,
+      "slug": "intention-eu-ryeogo",
+      "title": "Exprimer l’intention : -(으)려고 해요",
+      "summary": "Apprendre à exprimer ses plans, ses projets et ses intentions dans un futur proche.",
+      "difficulty": "A2+",
+      "audioBasePath": "/audio/week30/",
+      "tooltip": "Je compte… / J’ai l’intention de…",
+      "image": "/assets/images/week30/card.jpg"
     }
   ]
 }

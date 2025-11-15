@@ -1,0 +1,33 @@
+{
+  "audioBasePath": "/audio/week30/chunks/",
+  "chunks": [
+    {
+      "id": "week30-ch01",
+      "title": "Exprimer un plan personnel",
+      "description": "Utiliser -(으)려고 해요 pour parler d’un projet immédiat.",
+      "sentenceIds": [
+        "week30-s01",
+        "week30-s02",
+        "week30-s05"
+      ],
+      "audio": "/audio/week30/chunks/week30-ch01.mp3",
+      "order": 1,
+      "tags": ["plan"],
+      "level": "A2+"
+    },
+    {
+      "id": "week30-ch02",
+      "title": "Objectifs et intentions",
+      "description": "Exprimer une intention plus générale.",
+      "sentenceIds": [
+        "week30-s04",
+        "week30-s08",
+        "week30-s10"
+      ],
+      "audio": "/audio/week30/chunks/week30-ch02.mp3",
+      "order": 2,
+      "tags": ["objectif"],
+      "level": "A2+"
+    }
+  ]
+}

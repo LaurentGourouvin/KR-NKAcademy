@@ -1,0 +1,27 @@
+{
+  "week": 30,
+  "title": "Exprimer l’intention : -(으)려고 해요",
+  "theme": "Parler de son intention, ses projets et ce qu’on prévoit de faire.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -(으)려고 해요 pour exprimer une intention ou un but personnel.",
+    "Exprimer un projet dans un futur proche.",
+    "Comprendre des phrases du type 'Je compte faire…'."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "-(으)려고 해요",
+      "rom": "-(eu)ryeogo haeyo",
+      "fr": "avoir l’intention de… / prévoir de…"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "준비하다", "rom": "junbihada", "fr": "préparer" },
+    { "kr": "계획", "rom": "gyehoek", "fr": "plan, projet" },
+    { "kr": "운동하다", "rom": "undonghada", "fr": "faire du sport" },
+    { "kr": "배우다", "rom": "baeeuda", "fr": "apprendre" },
+    { "kr": "도와주다", "rom": "dowajuda", "fr": "aider" }
+  ],
+  "audioBasePath": "/audio/week30/",
+  "notes": "On utilise -(으)려고 해요 pour exprimer une intention personnelle. Après une base verbale terminée par une consonne → -으려고 해요 ; après une voyelle → -려고 해요."
+}
