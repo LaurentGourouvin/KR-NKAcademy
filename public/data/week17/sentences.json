@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week17/sentences/",
+  "sentences": [
+    {
+      "id": "week17-s01",
+      "kr": "한국 음식이 프랑스 음식보다 더 매워요.",
+      "rom": "hanguk eumsigi peurangseu eumsigboda deo maewoyo",
+      "fr": "La cuisine coréenne est plus épicée que la cuisine française.",
+      "audio": "/audio/week17/sentences/week17-s01.mp3",
+      "order": 1,
+      "tags": ["comparison"]
+    },
+    {
+      "id": "week17-s02",
+      "kr": "오늘이 어제보다 더 따뜻해요.",
+      "rom": "oneuri eoje boda deo ttatteutaeyo",
+      "fr": "Aujourd’hui il fait plus chaud qu’hier.",
+      "audio": "/audio/week17/sentences/week17-s02.mp3",
+      "order": 2,
+      "tags": ["comparison"]
+    },
+    {
+      "id": "week17-s03",
+      "kr": "저는 커피보다 차를 더 좋아해요.",
+      "rom": "jeoneun keopiboda chareul deo joahaeyo",
+      "fr": "J’aime le thé plus que le café.",
+      "audio": "/audio/week17/sentences/week17-s03.mp3",
+      "order": 3,
+      "tags": ["preference", "comparison"]
+    },
+    {
+      "id": "week17-s04",
+      "kr": "지하철이 버스보다 더 빨라요.",
+      "rom": "jihacheori beoseuboda deo ppareoyo",
+      "fr": "Le métro est plus rapide que le bus.",
+      "audio": "/audio/week17/sentences/week17-s04.mp3",
+      "order": 4,
+      "tags": ["comparison", "transport"]
+    },
+    {
+      "id": "week17-s05",
+      "kr": "이 가방이 저 가방보다 더 비싸요.",
+      "rom": "i gabangi jeo gabangboda deo bissayo",
+      "fr": "Ce sac est plus cher que celui-là.",
+      "audio": "/audio/week17/sentences/week17-s05.mp3",
+      "order": 5,
+      "tags": ["comparison", "shopping"]
+    },
+    {
+      "id": "week17-s06",
+      "kr": "오늘은 어제보다 덜 바빠요.",
+      "rom": "oneureun eoje boda deol bappayo",
+      "fr": "Aujourd’hui je suis moins occupé(e) qu’hier.",
+      "audio": "/audio/week17/sentences/week17-s06.mp3",
+      "order": 6,
+      "tags": ["comparison"]
+    },
+    {
+      "id": "week17-s07",
+      "kr": "한국 드라마가 영화보다 더 길어요.",
+      "rom": "hanguk deuramaga yeonghwaboda deo gireoyo",
+      "fr": "Les dramas coréens sont plus longs que les films.",
+      "audio": "/audio/week17/sentences/week17-s07.mp3",
+      "order": 7,
+      "tags": ["comparison", "media"]
+    },
+    {
+      "id": "week17-s08",
+      "kr": "바다가 산보다 더 좋아요.",
+      "rom": "badaga sanboda deo joayo",
+      "fr": "Je préfère la mer à la montagne.",
+      "audio": "/audio/week17/sentences/week17-s08.mp3",
+      "order": 8,
+      "tags": ["comparison"]
+    },
+    {
+      "id": "week17-s09",
+      "kr": "이 음식은 생각보다 덜 매워요.",
+      "rom": "i eumsigeun saenggakboda deol maewoyo",
+      "fr": "Ce plat est moins épicé que prévu.",
+      "audio": "/audio/week17/sentences/week17-s09.mp3",
+      "order": 9,
+      "tags": ["comparison"]
+    },
+    {
+      "id": "week17-s10",
+      "kr": "지금이 아침보다 더 조용해요.",
+      "rom": "jigeumi achimboda deo joyonghaeyo",
+      "fr": "C’est plus calme maintenant que ce matin.",
+      "audio": "/audio/week17/sentences/week17-s10.mp3",
+      "order": 10,
+      "tags": ["comparison"]
+    },
+    {
+      "id": "week17-s11",
+      "kr": "서울이 제가 사는 도시보다 훨씬 커요.",
+      "rom": "seouri jega saneun dosiboda hweolssin keoyo",
+      "fr": "Séoul est bien plus grande que la ville où j’habite.",
+      "audio": "/audio/week17/sentences/week17-s11.mp3",
+      "order": 11,
+      "tags": ["comparison", "city"]
+    },
+    {
+      "id": "week17-s12",
+      "kr": "요즘이 예전보다 더 바빠요.",
+      "rom": "yojeumi yejeonboda deo bappayo",
+      "fr": "Ces temps-ci, je suis plus occupé(e) qu’avant.",
+      "audio": "/audio/week17/sentences/week17-s12.mp3",
+      "order": 12,
+      "tags": ["comparison"]
+    },
+    {
+      "id": "week17-s13",
+      "kr": "봄이 겨울보다 더 따뜻해요.",
+      "rom": "bomi gyeoulboda deo ttatteutaeyo",
+      "fr": "Le printemps est plus chaud que l’hiver.",
+      "audio": "/audio/week17/sentences/week17-s13.mp3",
+      "order": 13,
+      "tags": ["comparison", "seasons"]
+    },
+    {
+      "id": "week17-s14",
+      "kr": "이 문제는 다른 문제보다 더 쉬워요.",
+      "rom": "i munjeneun dareun munjeboda deo swiweoyo",
+      "fr": "Ce problème est plus facile que les autres.",
+      "audio": "/audio/week17/sentences/week17-s14.mp3",
+      "order": 14,
+      "tags": ["comparison", "school"]
+    }
+  ]
+}

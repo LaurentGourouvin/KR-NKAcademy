@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week17/exercises/",
+  "exercises": [
+    {
+      "id": "week17-ex01",
+      "title": "Plus ou moins ?",
+      "type": "vocab",
+      "instructions": "Choisissez si la phrase exprime 'plus que' ou 'moins que'.",
+      "items": [
+        {
+          "id": "week17-ex01-i01",
+          "prompt": "오늘은 어제보다 덜 바빠요.",
+          "options": ["Plus que", "Moins que"],
+          "answer": "Moins que",
+          "sentenceId": "week17-s06",
+          "audio": "week17-ex01-i01.mp3"
+        },
+        {
+          "id": "week17-ex01-i02",
+          "prompt": "지하철이 버스보다 더 빨라요.",
+          "options": ["Plus que", "Moins que"],
+          "answer": "Plus que",
+          "sentenceId": "week17-s04",
+          "audio": "week17-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week17-ex02",
+      "title": "Compléter la comparaison",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne particule comparative.",
+      "items": [
+        {
+          "id": "week17-ex02-i01",
+          "prompt": "이 가방이 저 가방___ 더 비싸요.",
+          "options": ["보다", "에서", "하고"],
+          "answer": "보다",
+          "sentenceId": "week17-s05",
+          "audio": "week17-ex02-i01.mp3"
+        },
+        {
+          "id": "week17-ex02-i02",
+          "prompt": "서울이 제가 사는 도시___ 훨씬 커요.",
+          "options": ["보다", "처럼", "까지"],
+          "answer": "보다",
+          "sentenceId": "week17-s11",
+          "audio": "week17-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

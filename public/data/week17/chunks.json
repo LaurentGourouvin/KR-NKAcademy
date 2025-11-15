@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week17/chunks/",
+  "chunks": [
+    {
+      "id": "week17-ch01",
+      "title": "Plus que…",
+      "description": "Avec A보다 B가 더…",
+      "sentenceIds": ["week17-s01", "week17-s02", "week17-s04", "week17-s05", "week17-s11", "week17-s13", "week17-s14"],
+      "audio": "/audio/week17/chunks/week17-ch01.mp3",
+      "order": 1,
+      "tags": ["comparison"],
+      "level": "A2"
+    },
+    {
+      "id": "week17-ch02",
+      "title": "Moins que…",
+      "description": "Avec 덜 (moins).",
+      "sentenceIds": ["week17-s06", "week17-s09"],
+      "audio": "/audio/week17/chunks/week17-ch02.mp3",
+      "order": 2,
+      "tags": ["comparison"],
+      "level": "A2"
+    },
+    {
+      "id": "week17-ch03",
+      "title": "Préférences",
+      "description": "Exprimer ce qu’on préfère.",
+      "sentenceIds": ["week17-s03", "week17-s08"],
+      "audio": "/audio/week17/chunks/week17-ch03.mp3",
+      "order": 3,
+      "tags": ["preference", "comparison"],
+      "level": "A2"
+    }
+  ]
+}

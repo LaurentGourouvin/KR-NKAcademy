@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week17-dialog01",
+      "title": "C’est plus rapide",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week17", "comparison"],
+      "audioFull": "/audio/week17/dialogs/week17-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week17-dialog01-t01",
+          "speaker": "로랑",
+          "sentenceId": "week17-s04",
+          "kr": "지하철이 버스보다 더 빨라요.",
+          "rom": "jihacheori beoseuboda deo ppareoyo",
+          "fr": "Le métro est plus rapide que le bus.",
+          "audio": "/audio/week17/dialogs/week17-dialog01-t01.mp3"
+        },
+        {
+          "id": "week17-dialog01-t02",
+          "speaker": "민지",
+          "sentenceId": "week17-s06",
+          "kr": "오늘은 어제보다 덜 바빠요.",
+          "rom": "oneureun eoje boda deol bappayo",
+          "fr": "Aujourd’hui je suis moins occupée qu’hier.",
+          "audio": "/audio/week17/dialogs/week17-dialog01-t02.mp3"
+        },
+        {
+          "id": "week17-dialog01-t03",
+          "speaker": "로랑",
+          "sentenceId": "week17-s03",
+          "kr": "저는 커피보다 차를 더 좋아해요.",
+          "rom": "jeoneun keopiboda chareul deo joahaeyo",
+          "fr": "J’aime le thé plus que le café.",
+          "audio": "/audio/week17/dialogs/week17-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week17-dialog02",
+      "title": "Comparer les villes",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week17", "comparison"],
+      "audioFull": "/audio/week17/dialogs/week17-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week17-dialog02-t01",
+          "speaker": "민지",
+          "sentenceId": "week17-s11",
+          "kr": "서울이 제가 사는 도시보다 훨씬 커요.",
+          "rom": "seouri jega saneun dosiboda hweolssin keoyo",
+          "fr": "Séoul est bien plus grande que la ville où j’habite.",
+          "audio": "/audio/week17/dialogs/week17-dialog02-t01.mp3"
+        },
+        {
+          "id": "week17-dialog02-t02",
+          "speaker": "로랑",
+          "sentenceId": "week17-s12",
+          "kr": "요즘이 예전보다 더 바빠요.",
+          "rom": "yojeumi yejeonboda deo bappayo",
+          "fr": "Ces temps-ci, je suis plus occupé qu’avant.",
+          "audio": "/audio/week17/dialogs/week17-dialog02-t02.mp3"
+        },
+        {
+          "id": "week17-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week17-s14",
+          "kr": "이 문제는 다른 문제보다 더 쉬워요.",
+          "rom": "i munjeneun dareun munjeboda deo swiweoyo",
+          "fr": "Ce problème est plus facile que les autres.",
+          "audio": "/audio/week17/dialogs/week17-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

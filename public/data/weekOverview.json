@@ -161,6 +161,16 @@
       "audioBasePath": "/audio/week16/",
       "tooltip": "Structure essentielle pour raconter des expériences.",
       "image": "/assets/images/week16/card.jpg"
+    },
+    {
+      "week": 17,
+      "slug": "comparaison-plus-moins",
+      "title": "Comparer : plus / moins",
+      "summary": "Exprimer une comparaison simple avec -보다.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week17/",
+      "tooltip": "Plus / moins que.",
+      "image": "/assets/images/week17/card.jpg"
     }
   ]
 }
