@@ -1,0 +1,32 @@
+{
+  "week": 18,
+  "title": "Superlatifs : le plus / le moins",
+  "theme": "Exprimer le superlatif pour décrire ce qui est ‘le plus’ ou ‘le moins’.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser 가장 / 제일 pour dire 'le plus ...'.",
+    "Utiliser 덜 + adjectif pour 'le moins ...'.",
+    "Exprimer ses préférences en superlatif."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "가장 / 제일",
+      "rom": "gajang / jeil",
+      "fr": "Le plus"
+    },
+    {
+      "kr": "가장/제일 + 덜",
+      "rom": "gajang/jeil deol",
+      "fr": "Le moins"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "가볍다", "rom": "gabyeopda", "fr": "être léger" },
+    { "kr": "무겁다", "rom": "mugeopda", "fr": "être lourd" },
+    { "kr": "느리다", "rom": "neurida", "fr": "être lent" },
+    { "kr": "편하다", "rom": "pyeonhada", "fr": "être confortable" },
+    { "kr": "중요하다", "rom": "jungyohada", "fr": "être important" }
+  ],
+  "audioBasePath": "/audio/week18/",
+  "notes": "Semaine clé pour compléter le trio comparaison → superlatif → description avancée."
+}

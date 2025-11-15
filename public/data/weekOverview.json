@@ -171,6 +171,16 @@
       "audioBasePath": "/audio/week17/",
       "tooltip": "Plus / moins que.",
       "image": "/assets/images/week17/card.jpg"
+    },
+    {
+      "week": 18,
+      "slug": "superlatifs-le-plus",
+      "title": "Superlatifs : le plus / le moins",
+      "summary": "Exprimer ce qui est le plus ou le moins dans une catégorie.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week18/",
+      "tooltip": "Le plus / le moins.",
+      "image": "/assets/images/week18/card.jpg"
     }
   ]
 }

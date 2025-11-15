@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week18-dialog01",
+      "title": "Le plus bon",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week18", "superlative"],
+      "audioFull": "/audio/week18/dialogs/week18-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week18-dialog01-t01",
+          "speaker": "로랑",
+          "sentenceId": "week18-s01",
+          "kr": "한국 음식 중에서 김치찌개가 가장 맛있어요.",
+          "rom": "hanguk eumsik jungeseo gimchijjigaega gajang masisseoyo",
+          "fr": "Parmi les plats coréens, le kimchi jjigae est le plus délicieux.",
+          "audio": "/audio/week18/dialogs/week18-dialog01-t01.mp3"
+        },
+        {
+          "id": "week18-dialog01-t02",
+          "speaker": "민지",
+          "sentenceId": "week18-s03",
+          "kr": "저는 케이크가 가장 좋아요.",
+          "rom": "jeoneun keikeuga gajang joayo",
+          "fr": "Ce que j’aime le plus, c’est le gâteau.",
+          "audio": "/audio/week18/dialogs/week18-dialog01-t02.mp3"
+        },
+        {
+          "id": "week18-dialog01-t03",
+          "speaker": "로랑",
+          "sentenceId": "week18-s10",
+          "kr": "이 영화가 올해 본 영화 중에서 제일 재미있어요.",
+          "rom": "i yeonghwaga olhae bon yeonghwa jungeseo jeil jaemiisseoyo",
+          "fr": "C’est le film le plus amusant que j’ai vu cette année.",
+          "audio": "/audio/week18/dialogs/week18-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week18-dialog02",
+      "title": "Le plus confortable",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week18", "superlative"],
+      "audioFull": "/audio/week18/dialogs/week18-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week18-dialog02-t01",
+          "speaker": "민지",
+          "sentenceId": "week18-s12",
+          "kr": "이 신발이 다른 신발보다 덜 편해요.",
+          "rom": "i sinbari dareun sinbalboda deol pyeonhaeyo",
+          "fr": "Ces chaussures sont moins confortables que les autres.",
+          "audio": "/audio/week18/dialogs/week18-dialog02-t01.mp3"
+        },
+        {
+          "id": "week18-dialog02-t02",
+          "speaker": "로랑",
+          "sentenceId": "week18-s04",
+          "kr": "이 가방이 제일 가벼워요.",
+          "rom": "i gabangi jeil gabyeowoyo",
+          "fr": "Ce sac est le plus léger.",
+          "audio": "/audio/week18/dialogs/week18-dialog02-t02.mp3"
+        },
+        {
+          "id": "week18-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week18-s11",
+          "kr": "아침이 하루 중에서 제일 바빠요.",
+          "rom": "achim-i haru jungeseo jeil bappayo",
+          "fr": "Le matin est le moment le plus occupé de la journée.",
+          "audio": "/audio/week18/dialogs/week18-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

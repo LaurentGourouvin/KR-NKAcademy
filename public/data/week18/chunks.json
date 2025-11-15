@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week18/chunks/",
+  "chunks": [
+    {
+      "id": "week18-ch01",
+      "title": "Le plus…",
+      "description": "Avec 가장 / 제일",
+      "sentenceIds": ["week18-s01", "week18-s02", "week18-s03", "week18-s04", "week18-s05", "week18-s06", "week18-s07", "week18-s10", "week18-s11", "week18-s13", "week18-s14"],
+      "audio": "/audio/week18/chunks/week18-ch01.mp3",
+      "order": 1,
+      "tags": ["superlative"],
+      "level": "A2"
+    },
+    {
+      "id": "week18-ch02",
+      "title": "Le moins…",
+      "description": "Avec 덜 + adjectif",
+      "sentenceIds": ["week18-s08", "week18-s12"],
+      "audio": "/audio/week18/chunks/week18-ch02.mp3",
+      "order": 2,
+      "tags": ["superlative", "less"],
+      "level": "A2"
+    },
+    {
+      "id": "week18-ch03",
+      "title": "Superlatifs personnels",
+      "description": "Préférences et expériences maximales",
+      "sentenceIds": ["week18-s03", "week18-s09", "week18-s10"],
+      "audio": "/audio/week18/chunks/week18-ch03.mp3",
+      "order": 3,
+      "tags": ["superlative", "preference"],
+      "level": "A2"
+    }
+  ]
+}
