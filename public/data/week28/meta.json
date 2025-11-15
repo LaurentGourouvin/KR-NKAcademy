@@ -1,0 +1,27 @@
+{
+  "week": 28,
+  "title": "Essayer quelque chose : -(아/어) 보다",
+  "theme": "Exprimer l’idée d’essayer ou de tester une action.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -(아/어) 보다 pour exprimer une tentative ou une expérience.",
+    "Proposer à quelqu’un d’essayer quelque chose de nouveau.",
+    "Combiner -(아/어) 보다 avec des expressions de conseil ou d’envie."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "-(아/어) 보다",
+      "rom": "-(a/eo) boda",
+      "fr": "essayer de faire quelque chose / tester"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "한 번", "rom": "han beon", "fr": "une fois" },
+    { "kr": "처음", "rom": "cheoeum", "fr": "la première fois" },
+    { "kr": "새로운", "rom": "saeroun", "fr": "nouveau / nouvelle" },
+    { "kr": "방법", "rom": "bangbeop", "fr": "méthode, manière" },
+    { "kr": "추천하다", "rom": "chucheonhada", "fr": "recommander" }
+  ],
+  "audioBasePath": "/audio/week28/",
+  "notes": "La forme -(아/어) 보다 sert à exprimer une tentative (« essayer de ») ou une expérience. Elle est très fréquente avec 한 번 (한 번 먹어 봐요 = Essayez de manger une fois). On peut l’utiliser au passé (해 봤어요), au présent (해 보고 싶어요), ou dans des conseils (해 보는 게 어때요 ?)."
+}

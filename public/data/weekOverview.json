@@ -271,6 +271,16 @@
       "audioBasePath": "/audio/week27/",
       "tooltip": "en faisant…, tout en…, souvent / parfois…",
       "image": "/assets/images/week27/card.jpg"
+    },
+    {
+      "week": 28,
+      "slug": "try-aeo-boda",
+      "title": "Essayer quelque chose : -(아/어) 보다",
+      "summary": "Découvrir comment exprimer l’idée d’essayer quelque chose ou de tester une nouvelle expérience avec -(아/어) 보다.",
+      "difficulty": "A2+",
+      "audioBasePath": "/audio/week28/",
+      "tooltip": "Essayer de…, tester…",
+      "image": "/assets/images/week28/card.jpg"
     }
   ]
 }

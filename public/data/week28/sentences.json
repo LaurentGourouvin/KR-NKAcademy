@@ -1,0 +1,95 @@
+{
+  "audioBasePath": "/audio/week28/sentences/",
+  "sentences": [
+    {
+      "id": "week28-s01",
+      "kr": "이 옷을 한 번 입어 보세요.",
+      "rom": "i oseul han beon ibeo boseyo",
+      "fr": "Essayez cette tenue une fois.",
+      "audio": "/audio/week28/sentences/week28-s01.mp3",
+      "order": 1,
+      "tags": ["conseil"]
+    },
+    {
+      "id": "week28-s02",
+      "kr": "한국 음식을 먹어 보고 싶어요.",
+      "rom": "hanguk eumsigeul meogeo bogo sipeoyo",
+      "fr": "J’aimerais essayer de manger de la nourriture coréenne.",
+      "audio": "/audio/week28/sentences/week28-s02.mp3",
+      "order": 2,
+      "tags": ["envie"]
+    },
+    {
+      "id": "week28-s03",
+      "kr": "이 책을 읽어 봤어요.",
+      "rom": "i chaegeul ilgeo bwasseoyo",
+      "fr": "J’ai essayé de lire ce livre.",
+      "audio": "/audio/week28/sentences/week28-s03.mp3",
+      "order": 3,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week28-s04",
+      "kr": "새로운 운동을 해 보고 싶어요.",
+      "rom": "saeroun undongeul hae bogo sipeoyo",
+      "fr": "J’aimerais essayer un nouvel exercice.",
+      "audio": "/audio/week28/sentences/week28-s04.mp3",
+      "order": 4,
+      "tags": ["sport"]
+    },
+    {
+      "id": "week28-s05",
+      "kr": "이 앱을 사용해 보면 정말 편해요.",
+      "rom": "i aebeul sayonghae bomyeon jeongmal pyeonhaeyo",
+      "fr": "Si vous essayez d’utiliser cette application, c’est vraiment pratique.",
+      "audio": "/audio/week28/sentences/week28-s05.mp3",
+      "order": 5,
+      "tags": ["tech"]
+    },
+    {
+      "id": "week28-s06",
+      "kr": "시간이 있으면 다른 방법도 한 번 생각해 보세요.",
+      "rom": "sigani isseumyeon dareun bangbeopdo han beon saenggakhae boseyo",
+      "fr": "Si vous avez du temps, essayez aussi de réfléchir à une autre méthode.",
+      "audio": "/audio/week28/sentences/week28-s06.mp3",
+      "order": 6,
+      "tags": ["conseil"]
+    },
+    {
+      "id": "week28-s07",
+      "kr": "너무 피곤하면 쉬어 보는 것도 좋아요.",
+      "rom": "neomu pigonhamyeon swieo boneun geotto joayo",
+      "fr": "Si vous êtes trop fatigué, essayer de vous reposer est aussi une bonne idée.",
+      "audio": "/audio/week28/sentences/week28-s07.mp3",
+      "order": 7,
+      "tags": ["sante"]
+    },
+    {
+      "id": "week28-s08",
+      "kr": "친구에게 먼저 연락해 보는 게 어때요?",
+      "rom": "chingu-ege meonjeo yeollakhae boneun ge eottaeyo",
+      "fr": "Et si tu essayais de contacter ton ami en premier ?",
+      "audio": "/audio/week28/sentences/week28-s08.mp3",
+      "order": 8,
+      "tags": ["relation"]
+    },
+    {
+      "id": "week28-s09",
+      "kr": "주말에 한국 드라마를 봐 보는 것도 재미있어요.",
+      "rom": "jumare hanguk deuramareul bwa boneun geotto jaemiisseoyo",
+      "fr": "Essayer de regarder un drama coréen le week-end, c’est amusant aussi.",
+      "audio": "/audio/week28/sentences/week28-s09.mp3",
+      "order": 9,
+      "tags": ["loisir"]
+    },
+    {
+      "id": "week28-s10",
+      "kr": "한국어로 일기를 써 보면 어때요?",
+      "rom": "hangugeoro ilgireul sseo bomyeon eottaeyo",
+      "fr": "Et si tu essayais d’écrire un journal en coréen ?",
+      "audio": "/audio/week28/sentences/week28-s10.mp3",
+      "order": 10,
+      "tags": ["etude"]
+    }
+  ]
+}

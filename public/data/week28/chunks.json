@@ -1,0 +1,48 @@
+{
+  "audioBasePath": "/audio/week28/chunks/",
+  "chunks": [
+    {
+      "id": "week28-ch01",
+      "title": "Essayer quelque chose une fois",
+      "description": "Utiliser 한 번 avec -(아/어) 보다 pour inviter à essayer.",
+      "sentenceIds": [
+        "week28-s01",
+        "week28-s06",
+        "week28-s08"
+      ],
+      "audio": "/audio/week28/chunks/week28-ch01.mp3",
+      "order": 1,
+      "tags": ["conseil"],
+      "level": "A2"
+    },
+    {
+      "id": "week28-ch02",
+      "title": "Envie d’essayer",
+      "description": "Exprimer ce qu’on aimerait essayer de faire.",
+      "sentenceIds": [
+        "week28-s02",
+        "week28-s04",
+        "week28-s09"
+      ],
+      "audio": "/audio/week28/chunks/week28-ch02.mp3",
+      "order": 2,
+      "tags": ["envie"],
+      "level": "A2"
+    },
+    {
+      "id": "week28-ch03",
+      "title": "Essayer comme conseil d’étude",
+      "description": "Donner des idées à essayer pour mieux étudier.",
+      "sentenceIds": [
+        "week28-s03",
+        "week28-s05",
+        "week28-s07",
+        "week28-s10"
+      ],
+      "audio": "/audio/week28/chunks/week28-ch03.mp3",
+      "order": 3,
+      "tags": ["etude"],
+      "level": "A2+"
+    }
+  ]
+}
