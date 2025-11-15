@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week22-dialog01",
+      "title": "Tu as déjà… ?",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["experience"],
+      "audioFull": "/audio/week22/dialogs/week22-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week22-dialog01-t01",
+          "speaker": "민지",
+          "sentenceId": "week22-s02",
+          "kr": "김치를 먹어 본 적이 있어요?",
+          "rom": "gimchireul meogeo bon jeogi isseoyo?",
+          "fr": "Tu as déjà mangé du kimchi ?",
+          "audio": "/audio/week22/dialogs/week22-dialog01-t01.mp3"
+        },
+        {
+          "id": "week22-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week22-s05",
+          "kr": "한국어로 말해 본 적이 있어요.",
+          "rom": "hangugeoro malhae bon jeogi isseoyo",
+          "fr": "Oui, j'ai déjà parlé en coréen.",
+          "audio": "/audio/week22/dialogs/week22-dialog01-t02.mp3"
+        },
+        {
+          "id": "week22-dialog01-t03",
+          "speaker": "민지",
+          "sentenceId": "week22-s08",
+          "kr": "그 영화를 본 적이 없어요.",
+          "rom": "geu yeonghwareul bon jeogi eopseoyo",
+          "fr": "Ah, moi je n'ai jamais vu ce film.",
+          "audio": "/audio/week22/dialogs/week22-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week22-dialog02",
+      "title": "Expériences de voyage",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["experience"],
+      "audioFull": "/audio/week22/dialogs/week22-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week22-dialog02-t01",
+          "speaker": "로랑",
+          "sentenceId": "week22-s01",
+          "kr": "한국에 가 본 적이 있어요.",
+          "rom": "hanguge ga bon jeogi isseoyo",
+          "fr": "Je suis déjà allé en Corée.",
+          "audio": "/audio/week22/dialogs/week22-dialog02-t01.mp3"
+        },
+        {
+          "id": "week22-dialog02-t02",
+          "speaker": "민지",
+          "sentenceId": "week22-s07",
+          "kr": "혼자 여행해 본 적이 있어요?",
+          "rom": "honja yeohaenghae bon jeogi isseoyo?",
+          "fr": "Tu as déjà voyagé seul ?",
+          "audio": "/audio/week22/dialogs/week22-dialog02-t02.mp3"
+        },
+        {
+          "id": "week22-dialog02-t03",
+          "speaker": "로랑",
+          "sentenceId": "week22-s06",
+          "kr": "산에 올라가 본 적이 있어요.",
+          "rom": "sane ollaga bon jeogi isseoyo",
+          "fr": "Oui, je suis déjà monté en montagne.",
+          "audio": "/audio/week22/dialogs/week22-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

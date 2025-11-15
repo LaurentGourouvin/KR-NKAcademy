@@ -211,6 +211,16 @@
       "audioBasePath": "/audio/week21/",
       "tooltip": "Je pense que…, on dirait que…",
       "image": "/assets/images/week21/card.jpg"
+    },
+    {
+      "week": 22,
+      "slug": "experience-bon-jeogi-isseoyo",
+      "title": "Exprimer une expérience : -아/어 본 적이 있어요",
+      "summary": "Apprendre à dire que l’on a déjà fait quelque chose et à parler de ses expériences.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week22/",
+      "tooltip": "J’ai déjà… / Je n’ai jamais…",
+      "image": "/assets/images/week22/card.jpg"
     }
   ]
 }

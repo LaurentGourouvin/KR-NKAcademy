@@ -1,0 +1,30 @@
+{
+  "audioBasePath": "/audio/week22/chunks/",
+  "chunks": [
+    {
+      "id": "week22-ch01",
+      "title": "Exprimer une expérience",
+      "description": "Utiliser -아/어 본 적이 있어요.",
+      "sentenceIds": [
+        "week22-s01", "week22-s02", "week22-s03",
+        "week22-s04", "week22-s05", "week22-s06",
+        "week22-s07", "week22-s10", "week22-s11",
+        "week22-s12", "week22-s14"
+      ],
+      "audio": "/audio/week22/chunks/week22-ch01.mp3",
+      "order": 1,
+      "tags": ["experience"],
+      "level": "A2"
+    },
+    {
+      "id": "week22-ch02",
+      "title": "Exprimer une non-expérience",
+      "description": "Dire que l’on n’a jamais fait quelque chose.",
+      "sentenceIds": ["week22-s08", "week22-s09", "week22-s13"],
+      "audio": "/audio/week22/chunks/week22-ch02.mp3",
+      "order": 2,
+      "tags": ["negation"],
+      "level": "A2"
+    }
+  ]
+}
