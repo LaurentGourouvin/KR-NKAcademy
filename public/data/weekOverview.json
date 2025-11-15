@@ -221,6 +221,16 @@
       "audioBasePath": "/audio/week22/",
       "tooltip": "J’ai déjà… / Je n’ai jamais…",
       "image": "/assets/images/week22/card.jpg"
+    },
+    {
+      "week": 23,
+      "slug": "obligation-haeya-haeyo",
+      "title": "Exprimer l’obligation : -아/어야 해요",
+      "summary": "Apprendre à dire ce qu'il faut faire ou ce qu'on doit faire.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week23/",
+      "tooltip": "Je dois… / Il faut…",
+      "image": "/assets/images/week23/card.jpg"
     }
   ]
 }

@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week23-dialog01",
+      "title": "Je dois partir",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["obligation"],
+      "audioFull": "/audio/week23/dialogs/week23-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week23-dialog01-t01",
+          "speaker": "로랑",
+          "sentenceId": "week23-s06",
+          "kr": "지금 출발해야 해요.",
+          "rom": "jigeum chulbalhaeya haeyo",
+          "fr": "Je dois partir maintenant.",
+          "audio": "/audio/week23/dialogs/week23-dialog01-t01.mp3"
+        },
+        {
+          "id": "week23-dialog01-t02",
+          "speaker": "민지",
+          "sentenceId": "week23-s03",
+          "kr": "약속을 지켜야 해요.",
+          "rom": "yaksokeul jikyeoya haeyo",
+          "fr": "Oui, tu dois respecter ton rendez-vous.",
+          "audio": "/audio/week23/dialogs/week23-dialog01-t02.mp3"
+        },
+        {
+          "id": "week23-dialog01-t03",
+          "speaker": "로랑",
+          "sentenceId": "week23-s10",
+          "kr": "빨리 결정해야 해요.",
+          "rom": "ppalli gyeoljeonghaeya haeyo",
+          "fr": "Je dois décider rapidement.",
+          "audio": "/audio/week23/dialogs/week23-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week23-dialog02",
+      "title": "Il faut faire attention",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["safety"],
+      "audioFull": "/audio/week23/dialogs/week23-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week23-dialog02-t01",
+          "speaker": "민지",
+          "sentenceId": "week23-s11",
+          "kr": "조심해야 해요.",
+          "rom": "josimhaeya haeyo",
+          "fr": "Il faut faire attention.",
+          "audio": "/audio/week23/dialogs/week23-dialog02-t01.mp3"
+        },
+        {
+          "id": "week23-dialog02-t02",
+          "speaker": "로랑",
+          "sentenceId": "week23-s09",
+          "kr": "도와줘야 해요.",
+          "rom": "dowajwoya haeyo",
+          "fr": "Je dois aider, alors.",
+          "audio": "/audio/week23/dialogs/week23-dialog02-t02.mp3"
+        },
+        {
+          "id": "week23-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week23-s04",
+          "kr": "건강을 위해 운동해야 해요.",
+          "rom": "geongangeul wihae undonghaeya haeyo",
+          "fr": "Et il faut faire du sport pour la santé aussi.",
+          "audio": "/audio/week23/dialogs/week23-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

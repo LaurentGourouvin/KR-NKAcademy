@@ -1,0 +1,28 @@
+{
+  "audioBasePath": "/audio/week23/chunks/",
+  "chunks": [
+    {
+      "id": "week23-ch01",
+      "title": "Exprimer l’obligation",
+      "description": "Utiliser -아/어야 해요 pour dire ce qu’il faut faire.",
+      "sentenceIds": [
+        "week23-s01","week23-s02","week23-s03","week23-s05",
+        "week23-s06","week23-s08","week23-s10","week23-s12"
+      ],
+      "audio": "/audio/week23/chunks/week23-ch01.mp3",
+      "order": 1,
+      "tags": ["obligation"],
+      "level": "A2"
+    },
+    {
+      "id": "week23-ch02",
+      "title": "Santé & Sécurité",
+      "description": "Obligations liées à la santé et à la prudence.",
+      "sentenceIds": ["week23-s04","week23-s07","week23-s11","week23-s13"],
+      "audio": "/audio/week23/chunks/week23-ch02.mp3",
+      "order": 2,
+      "tags": ["health", "safety"],
+      "level": "A2"
+    }
+  ]
+}

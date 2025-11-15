@@ -1,0 +1,23 @@
+{
+  "week": 23,
+  "title": "Exprimer l’obligation : -아/어야 해요",
+  "theme": "Exprimer la nécessité, l’obligation ou ce qu’il faut faire.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -아/어야 해요 pour exprimer ce qu’il faut faire.",
+    "Formuler des obligations personnelles ou générales.",
+    "Comprendre les nuances entre règle, conseil et obligation."
+  ],
+  "grammarFocus": [
+    { "kr": "-아/어야 해요", "rom": "-a/eo-ya haeyo", "fr": "il faut / je dois" }
+  ],
+  "vocabulary": [
+    { "kr": "건강", "rom": "geongang", "fr": "santé" },
+    { "kr": "준비", "rom": "junbi", "fr": "préparation" },
+    { "kr": "약속", "rom": "yaksok", "fr": "rendez-vous / promesse" },
+    { "kr": "일찍", "rom": "iljjik", "fr": "tôt" },
+    { "kr": "지키다", "rom": "jikida", "fr": "respecter / tenir" }
+  ],
+  "audioBasePath": "/audio/week23/",
+  "notes": "Forme très fréquente du quotidien pour exprimer une obligation, un devoir ou une règle."
+}

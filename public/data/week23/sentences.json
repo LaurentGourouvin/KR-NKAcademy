@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week23/sentences/",
+  "sentences": [
+    {
+      "id": "week23-s01",
+      "kr": "일찍 일어나야 해요.",
+      "rom": "iljjik ireonaya haeyo",
+      "fr": "Je dois me lever tôt.",
+      "audio": "/audio/week23/sentences/week23-s01.mp3",
+      "order": 1,
+      "tags": ["obligation"]
+    },
+    {
+      "id": "week23-s02",
+      "kr": "숙제를 해야 해요.",
+      "rom": "sukjereul haeya haeyo",
+      "fr": "Je dois faire mes devoirs.",
+      "audio": "/audio/week23/sentences/week23-s02.mp3",
+      "order": 2,
+      "tags": ["obligation"]
+    },
+    {
+      "id": "week23-s03",
+      "kr": "약속을 지켜야 해요.",
+      "rom": "yaksokeul jikyeoya haeyo",
+      "fr": "Je dois respecter ma promesse / mon rendez-vous.",
+      "audio": "/audio/week23/sentences/week23-s03.mp3",
+      "order": 3,
+      "tags": ["obligation"]
+    },
+    {
+      "id": "week23-s04",
+      "kr": "건강을 위해 운동해야 해요.",
+      "rom": "geongangeul wihae undonghaeya haeyo",
+      "fr": "Je dois faire du sport pour ma santé.",
+      "audio": "/audio/week23/sentences/week23-s04.mp3",
+      "order": 4,
+      "tags": ["health"]
+    },
+    {
+      "id": "week23-s05",
+      "kr": "준비를 더 해야 해요.",
+      "rom": "junbireul deo haeya haeyo",
+      "fr": "Je dois me préparer davantage.",
+      "audio": "/audio/week23/sentences/week23-s05.mp3",
+      "order": 5,
+      "tags": ["obligation"]
+    },
+    {
+      "id": "week23-s06",
+      "kr": "지금 출발해야 해요.",
+      "rom": "jigeum chulbalhaeya haeyo",
+      "fr": "Je dois partir maintenant.",
+      "audio": "/audio/week23/sentences/week23-s06.mp3",
+      "order": 6,
+      "tags": ["obligation"]
+    },
+    {
+      "id": "week23-s07",
+      "kr": "이 약을 먹어야 해요.",
+      "rom": "i yageul meogeoya haeyo",
+      "fr": "Je dois prendre ce médicament.",
+      "audio": "/audio/week23/sentences/week23-s07.mp3",
+      "order": 7,
+      "tags": ["health"]
+    },
+    {
+      "id": "week23-s08",
+      "kr": "회의에 참석해야 해요.",
+      "rom": "hoeui-e chamseokhaeya haeyo",
+      "fr": "Je dois assister à la réunion.",
+      "audio": "/audio/week23/sentences/week23-s08.mp3",
+      "order": 8,
+      "tags": ["obligation"]
+    },
+    {
+      "id": "week23-s09",
+      "kr": "도와줘야 해요.",
+      "rom": "dowajwoya haeyo",
+      "fr": "Je dois aider.",
+      "audio": "/audio/week23/sentences/week23-s09.mp3",
+      "order": 9,
+      "tags": ["obligation"]
+    },
+    {
+      "id": "week23-s10",
+      "kr": "빨리 결정해야 해요.",
+      "rom": "ppalli gyeoljeonghaeya haeyo",
+      "fr": "Je dois décider rapidement.",
+      "audio": "/audio/week23/sentences/week23-s10.mp3",
+      "order": 10,
+      "tags": ["obligation"]
+    },
+    {
+      "id": "week23-s11",
+      "kr": "조심해야 해요.",
+      "rom": "josimhaeya haeyo",
+      "fr": "Je dois faire attention.",
+      "audio": "/audio/week23/sentences/week23-s11.mp3",
+      "order": 11,
+      "tags": ["safety"]
+    },
+    {
+      "id": "week23-s12",
+      "kr": "끝까지 들어야 해요.",
+      "rom": "kkeutkkaji deureoya haeyo",
+      "fr": "Je dois écouter jusqu’au bout.",
+      "audio": "/audio/week23/sentences/week23-s12.mp3",
+      "order": 12,
+      "tags": ["obligation"]
+    },
+    {
+      "id": "week23-s13",
+      "kr": "돈을 아껴야 해요.",
+      "rom": "doneul akkyeoya haeyo",
+      "fr": "Je dois économiser de l’argent.",
+      "audio": "/audio/week23/sentences/week23-s13.mp3",
+      "order": 13,
+      "tags": ["life"]
+    },
+    {
+      "id": "week23-s14",
+      "kr": "친구에게 연락해야 해요.",
+      "rom": "chinguege yeollakhaeya haeyo",
+      "fr": "Je dois contacter mon ami.",
+      "audio": "/audio/week23/sentences/week23-s14.mp3",
+      "order": 14,
+      "tags": ["life"]
+    }
+  ]
+}

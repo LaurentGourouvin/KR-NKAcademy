@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week23/exercises/",
+  "exercises": [
+    {
+      "id": "week23-ex01",
+      "title": "Compléter avec -아/어야 해요",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne forme.",
+      "items": [
+        {
+          "id": "week23-ex01-i01",
+          "prompt": "일찍 ____.",
+          "options": ["일어나야 해요", "일어나요"],
+          "answer": "일어나야 해요",
+          "sentenceId": "week23-s01",
+          "audio": "week23-ex01-i01.mp3"
+        },
+        {
+          "id": "week23-ex01-i02",
+          "prompt": "회의에 ____.",
+          "options": ["참석해야 해요", "참석해요"],
+          "answer": "참석해야 해요",
+          "sentenceId": "week23-s08",
+          "audio": "week23-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week23-ex02",
+      "title": "Obligation ou non ?",
+      "type": "vocab",
+      "instructions": "Sélectionnez la bonne catégorie.",
+      "items": [
+        {
+          "id": "week23-ex02-i01",
+          "prompt": "건강을 위해 운동해야 해요.",
+          "options": ["Obligation", "Pas une obligation"],
+          "answer": "Obligation",
+          "sentenceId": "week23-s04",
+          "audio": "week23-ex02-i01.mp3"
+        },
+        {
+          "id": "week23-ex02-i02",
+          "prompt": "친구에게 연락해야 해요.",
+          "options": ["Obligation", "Pas une obligation"],
+          "answer": "Obligation",
+          "sentenceId": "week23-s14",
+          "audio": "week23-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}
