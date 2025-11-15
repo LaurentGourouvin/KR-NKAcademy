@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week29-dialog01",
+      "title": "On dit que c’est populaire",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week29", "kpop"],
+      "audioFull": "/audio/week29/dialogs/week29-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week29-dialog01-t01",
+          "speaker": "민지",
+          "sentenceId": "week29-s03",
+          "kr": "동생이 그 가수가 아주 유명하다고 했어요.",
+          "rom": "dongsaeng-i geu gasuga aju yumyeonghadago haesseoyo",
+          "fr": "Mon petit frère a dit que ce chanteur est très célèbre.",
+          "audio": "/audio/week29/dialogs/week29-dialog01-t01.mp3"
+        },
+        {
+          "id": "week29-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week29-s05",
+          "kr": "친구들이 이 노래는 가사가 예쁘다고 해요.",
+          "rom": "chingu-deuri i noraeneun gasaga yeppeudago haeyo",
+          "fr": "Mes amis disent que les paroles de cette chanson sont jolies.",
+          "audio": "/audio/week29/dialogs/week29-dialog01-t02.mp3"
+        },
+        {
+          "id": "week29-dialog01-t03",
+          "speaker": "민지",
+          "sentenceId": "week29-s08",
+          "kr": "다들 이 가게가 싸다고 해요. 같이 가 볼까요?",
+          "rom": "dadeul i gagaega ssadago haeyo. gachi ga bolkkayo?",
+          "fr": "Tout le monde dit que ce magasin n’est pas cher. On y va ensemble ?",
+          "audio": "/audio/week29/dialogs/week29-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week29-dialog02",
+      "title": "Un drama recommandé",
+      "speechLevel": "polite",
+      "level": "A2+",
+      "tags": ["week29", "drama"],
+      "audioFull": "/audio/week29/dialogs/week29-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week29-dialog02-t01",
+          "speaker": "로랑",
+          "sentenceId": "week29-s01",
+          "kr": "친구가 이 드라마가 재미있다고 했어요.",
+          "rom": "chingu-ga i deuramaga jaemiittago haesseoyo",
+          "fr": "Un ami a dit que ce drama était intéressant.",
+          "audio": "/audio/week29/dialogs/week29-dialog02-t01.mp3"
+        },
+        {
+          "id": "week29-dialog02-t02",
+          "speaker": "민지",
+          "sentenceId": "week29-s04",
+          "kr": "부모님이 이 영화가 감동적이라고 했어요.",
+          "rom": "bumonimi i yeonghwaga gamdongjeogirago haesseoyo",
+          "fr": "Mes parents ont dit que ce film était émouvant.",
+          "audio": "/audio/week29/dialogs/week29-dialog02-t02.mp3"
+        },
+        {
+          "id": "week29-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week29-s10",
+          "kr": "사람들이 이 곳은 사진 찍기 좋다고 해요.",
+          "rom": "saramdeuri i got-eun sajin jjikgi jotdago haeyo",
+          "fr": "Les gens disent que cet endroit est bien pour prendre des photos.",
+          "audio": "/audio/week29/dialogs/week29-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

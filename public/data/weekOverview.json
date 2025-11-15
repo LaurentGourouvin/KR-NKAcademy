@@ -281,6 +281,16 @@
       "audioBasePath": "/audio/week28/",
       "tooltip": "Essayer de…, tester…",
       "image": "/assets/images/week28/card.jpg"
+    },
+    {
+      "week": 29,
+      "slug": "reported-speech-dago",
+      "title": "Rapporter ce que les gens disent : -다고 해요",
+      "summary": "Apprendre à rapporter ce que les autres disent à propos des dramas, de la météo ou des lieux.",
+      "difficulty": "A2+",
+      "audioBasePath": "/audio/week29/",
+      "tooltip": "On dit que…, il a dit que…",
+      "image": "/assets/images/week29/card.jpg"
     }
   ]
 }

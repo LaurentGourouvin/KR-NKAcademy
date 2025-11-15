@@ -110,7 +110,7 @@ export default function ProgramPage() {
         <p className="text-sm text-emerald-900 leading-relaxed font-light">
           Ce programme a été conçu pour vous accompagner de manière progressive
           vers les niveaux
-          <span className="font-semibold"> TOPIK 4–5</span>. NK Academy vous
+          <span className="font-semibold"> TOPIK 3–4</span>. NK Academy vous
           offre une structure claire, naturelle et entièrement gratuite, afin
           d’apprendre le coréen semaine après semaine sans pression.
           <br />

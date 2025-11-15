@@ -1,0 +1,95 @@
+{
+  "audioBasePath": "/audio/week29/sentences/",
+  "sentences": [
+    {
+      "id": "week29-s01",
+      "kr": "친구가 이 드라마가 재미있다고 했어요.",
+      "rom": "chingu-ga i deuramaga jaemiittago haesseoyo",
+      "fr": "Mon ami a dit que ce drama était intéressant.",
+      "audio": "/audio/week29/sentences/week29-s01.mp3",
+      "order": 1,
+      "tags": ["drama"]
+    },
+    {
+      "id": "week29-s02",
+      "kr": "사람들이 이 카페가 조용하다고 해요.",
+      "rom": "saramdeuri i kape-ga joyonghadago haeyo",
+      "fr": "Les gens disent que ce café est calme.",
+      "audio": "/audio/week29/sentences/week29-s02.mp3",
+      "order": 2,
+      "tags": ["lieu"]
+    },
+    {
+      "id": "week29-s03",
+      "kr": "동생이 그 가수가 아주 유명하다고 했어요.",
+      "rom": "dongsaeng-i geu gasuga aju yumyeonghadago haesseoyo",
+      "fr": "Mon petit frère a dit que ce chanteur était très célèbre.",
+      "audio": "/audio/week29/sentences/week29-s03.mp3",
+      "order": 3,
+      "tags": ["kpop"]
+    },
+    {
+      "id": "week29-s04",
+      "kr": "부모님이 이 영화가 감동적이라고 했어요.",
+      "rom": "bumonimi i yeonghwaga gamdongjeogirago haesseoyo",
+      "fr": "Mes parents ont dit que ce film était émouvant.",
+      "audio": "/audio/week29/sentences/week29-s04.mp3",
+      "order": 4,
+      "tags": ["film"]
+    },
+    {
+      "id": "week29-s05",
+      "kr": "친구들이 이 노래는 가사가 예쁘다고 해요.",
+      "rom": "chingu-deuri i noraeneun gasaga yeppeudago haeyo",
+      "fr": "Mes amis disent que les paroles de cette chanson sont jolies.",
+      "audio": "/audio/week29/sentences/week29-s05.mp3",
+      "order": 5,
+      "tags": ["musique"]
+    },
+    {
+      "id": "week29-s06",
+      "kr": "선생님이 내일 시험이 있다고 했어요.",
+      "rom": "seonsaengnimi nae-il siheomi ittago haesseoyo",
+      "fr": "Le professeur a dit qu’il y a un examen demain.",
+      "audio": "/audio/week29/sentences/week29-s06.mp3",
+      "order": 6,
+      "tags": ["etude"]
+    },
+    {
+      "id": "week29-s07",
+      "kr": "뉴스에서 내일 비가 올 거라고 했어요.",
+      "rom": "nyuseu-eseo nae-il biga ol georago haesseoyo",
+      "fr": "Aux infos, ils ont dit qu’il va pleuvoir demain.",
+      "audio": "/audio/week29/sentences/week29-s07.mp3",
+      "order": 7,
+      "tags": ["meteo"]
+    },
+    {
+      "id": "week29-s08",
+      "kr": "다들 이 가게가 싸다고 해요.",
+      "rom": "dadeul i gagaega ssadago haeyo",
+      "fr": "Tout le monde dit que ce magasin n’est pas cher.",
+      "audio": "/audio/week29/sentences/week29-s08.mp3",
+      "order": 8,
+      "tags": ["shopping"]
+    },
+    {
+      "id": "week29-s09",
+      "kr": "친구가 그 배우가 연기를 잘한다고 했어요.",
+      "rom": "chingu-ga geu baega yeongireul jalhandago haesseoyo",
+      "fr": "Un ami a dit que cet acteur joue bien.",
+      "audio": "/audio/week29/sentences/week29-s09.mp3",
+      "order": 9,
+      "tags": ["acteur"]
+    },
+    {
+      "id": "week29-s10",
+      "kr": "사람들이 이 곳은 사진 찍기 좋다고 해요.",
+      "rom": "saramdeuri i got-eun sajin jjikgi jotdago haeyo",
+      "fr": "Les gens disent que cet endroit est bien pour prendre des photos.",
+      "audio": "/audio/week29/sentences/week29-s10.mp3",
+      "order": 10,
+      "tags": ["spot"]
+    }
+  ]
+}

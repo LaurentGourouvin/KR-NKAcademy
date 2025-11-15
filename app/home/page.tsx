@@ -20,7 +20,7 @@ export default async function Home() {
         <p className="text-gray-600 mb-4 text-sm font-light">
           Natural Korean Acquisition : un programme gratuit pour apprendre le
           coréen à partir de situations réelles, semaine après semaine, avec
-          l’objectif de vous accompagner vers les niveaux TOPIK 4–5.
+          l’objectif de vous accompagner vers les niveaux TOPIK 3–4.
         </p>
         <div className="flex flex-wrap gap-3">
           <a
@@ -47,7 +47,7 @@ export default async function Home() {
           KR NKAcademy est un projet gratuit et en développement continu. Le
           contenu s’enrichit régulièrement pour vous offrir un accompagnement
           progressif vers les niveaux{" "}
-          <span className="font-semibold">TOPIK 4–5</span>. Pour une préparation
+          <span className="font-semibold">TOPIK 3–4</span>. Pour une préparation
           complète, l’usage de ressources externes (livres, plateformes
           spécialisées, cours payants) peut aider à renforcer notamment le
           vocabulaire et la grammaire avancée.
@@ -103,7 +103,7 @@ export default async function Home() {
           </li>
           <li>
             KR NKAcademy est un projet gratuit, pensé pour vous accompagner vers
-            les niveaux TOPIK 4–5, que vous pouvez compléter avec d’autres
+            les niveaux TOPIK 3–4, que vous pouvez compléter avec d’autres
             ressources si vous le souhaitez.
           </li>
         </ul>

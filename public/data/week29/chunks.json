@@ -1,0 +1,48 @@
+{
+  "audioBasePath": "/audio/week29/chunks/",
+  "chunks": [
+    {
+      "id": "week29-ch01",
+      "title": "Ce que les gens disent",
+      "description": "Utiliser -다고 해요 pour rapporter un avis ou un fait.",
+      "sentenceIds": [
+        "week29-s01",
+        "week29-s02",
+        "week29-s05",
+        "week29-s08"
+      ],
+      "audio": "/audio/week29/chunks/week29-ch01.mp3",
+      "order": 1,
+      "tags": ["rapport"],
+      "level": "A2"
+    },
+    {
+      "id": "week29-ch02",
+      "title": "Ce que la famille dit",
+      "description": "Rapporter ce que la famille a dit à propos d’un film, du temps, des études.",
+      "sentenceIds": [
+        "week29-s03",
+        "week29-s04",
+        "week29-s06"
+      ],
+      "audio": "/audio/week29/chunks/week29-ch02.mp3",
+      "order": 2,
+      "tags": ["famille"],
+      "level": "A2"
+    },
+    {
+      "id": "week29-ch03",
+      "title": "Infos, météo et lieux",
+      "description": "Rapporter ce qu’on a entendu aux infos ou à propos d’un lieu.",
+      "sentenceIds": [
+        "week29-s02",
+        "week29-s07",
+        "week29-s10"
+      ],
+      "audio": "/audio/week29/chunks/week29-ch03.mp3",
+      "order": 3,
+      "tags": ["infos"],
+      "level": "A2+"
+    }
+  ]
+}
