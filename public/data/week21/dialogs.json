@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week21-dialog01",
+      "title": "On dirait que…",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week21", "supposition"],
+      "audioFull": "/audio/week21/dialogs/week21-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week21-dialog01-t01",
+          "speaker": "로랑",
+          "sentenceId": "week21-s01",
+          "kr": "비가 올 것 같아요.",
+          "rom": "biga ol geot gatayo",
+          "fr": "Je pense qu’il va pleuvoir.",
+          "audio": "/audio/week21/dialogs/week21-dialog01-t01.mp3"
+        },
+        {
+          "id": "week21-dialog01-t02",
+          "speaker": "민지",
+          "sentenceId": "week21-s06",
+          "kr": "날씨가 좋아질 것 같아요.",
+          "rom": "nalssiga joajil geot gatayo",
+          "fr": "Je pense que le temps va s’améliorer.",
+          "audio": "/audio/week21/dialogs/week21-dialog01-t02.mp3"
+        },
+        {
+          "id": "week21-dialog01-t03",
+          "speaker": "로랑",
+          "sentenceId": "week21-s09",
+          "kr": "오늘 분위기가 좋은 것 같아요.",
+          "rom": "oneul bunwigiga joeun geot gatayo",
+          "fr": "L’ambiance a l’air bonne aujourd’hui.",
+          "audio": "/audio/week21/dialogs/week21-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week21-dialog02",
+      "title": "Je suppose que…",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week21", "impression"],
+      "audioFull": "/audio/week21/dialogs/week21-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week21-dialog02-t01",
+          "speaker": "민지",
+          "sentenceId": "week21-s08",
+          "kr": "그 사람이 바쁜 것 같아요.",
+          "rom": "geu sarami bappeun geot gatayo",
+          "fr": "On dirait que cette personne est occupée.",
+          "audio": "/audio/week21/dialogs/week21-dialog02-t01.mp3"
+        },
+        {
+          "id": "week21-dialog02-t02",
+          "speaker": "로랑",
+          "sentenceId": "week21-s11",
+          "kr": "아마 시간이 더 필요할 것 같아요.",
+          "rom": "ama sigani deo piryo-hal geot gatayo",
+          "fr": "Je pense que j’aurai peut-être besoin de plus de temps.",
+          "audio": "/audio/week21/dialogs/week21-dialog02-t02.mp3"
+        },
+        {
+          "id": "week21-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week21-s13",
+          "kr": "이 가방이 더 편할 것 같아요.",
+          "rom": "i gabangi deo pyeonal geot gatayo",
+          "fr": "Je pense que ce sac sera plus confortable.",
+          "audio": "/audio/week21/dialogs/week21-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

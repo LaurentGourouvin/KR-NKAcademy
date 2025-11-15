@@ -201,6 +201,16 @@
       "audioBasePath": "/audio/week20/",
       "tooltip": "Pour… / afin de…",
       "image": "/assets/images/week20/card.jpg"
+    },
+    {
+      "week": 21,
+      "slug": "supposition-geot-gatayo",
+      "title": "Supposition : -(으)ㄹ 것 같아요",
+      "summary": "Exprimer une impression ou une supposition avec -(으)ㄹ 것 같아요.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week21/",
+      "tooltip": "Je pense que…, on dirait que…",
+      "image": "/assets/images/week21/card.jpg"
     }
   ]
 }

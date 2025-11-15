@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week21/exercises/",
+  "exercises": [
+    {
+      "id": "week21-ex01",
+      "title": "Compléter avec -(으)ㄹ 것 같아요",
+      "type": "vocab",
+      "instructions": "Choisissez la forme correcte.",
+      "items": [
+        {
+          "id": "week21-ex01-i01",
+          "prompt": "내일 비가 ____.",
+          "options": ["온 것 같아요", "올 것 같아요"],
+          "answer": "올 것 같아요",
+          "sentenceId": "week21-s01",
+          "audio": "week21-ex01-i01.mp3"
+        },
+        {
+          "id": "week21-ex01-i02",
+          "prompt": "시험이 ____.",
+          "options": ["어려울 것 같아요", "어려운 것 같아요"],
+          "answer": "어려울 것 같아요",
+          "sentenceId": "week21-s07",
+          "audio": "week21-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week21-ex02",
+      "title": "Supposition ou Impression ?",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne catégorie.",
+      "items": [
+        {
+          "id": "week21-ex02-i01",
+          "prompt": "길이 막힐 것 같아요.",
+          "options": ["Supposition", "Impression"],
+          "answer": "Supposition",
+          "sentenceId": "week21-s14",
+          "audio": "week21-ex02-i01.mp3"
+        },
+        {
+          "id": "week21-ex02-i02",
+          "prompt": "분위기가 좋은 것 같아요.",
+          "options": ["Supposition", "Impression"],
+          "answer": "Impression",
+          "sentenceId": "week21-s09",
+          "audio": "week21-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}
