@@ -1,5 +1,6 @@
 import { getWeekOverview } from "@/services/data/ServiceData";
 import { WeekCard } from "@/components/card/WeekCard";
+import Image from "next/image";
 export default async function Home() {
   const weekOverview = await getWeekOverview();
   const featuredWeeks = weekOverview.overviews.slice(0, 2); // ou plus si tu veux
@@ -7,6 +8,13 @@ export default async function Home() {
   return (
     <div className="px-4 py-6 max-w-4xl mx-auto mb-16 space-y-10 bg-white border-2 border-gray-200 rounded-md">
       {/* Hero */}
+      <Image
+        src="/assets/logo.png"
+        alt="Logo KR KNAcademy"
+        width={500}
+        height={310}
+        className="mx-auto"
+      />
       <section>
         <h1 className="text-3xl font-bold mb-2">Bienvenue sur KR NKAcademy</h1>
         <p className="text-gray-600 mb-4 text-sm font-light">
