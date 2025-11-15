@@ -261,6 +261,16 @@
       "audioBasePath": "/audio/week26/",
       "tooltip": "Parce que…, comme…",
       "image": "/assets/images/week26/card.jpg"
+    },
+    {
+      "week": 27,
+      "slug": "eumyeonseo-adv",
+      "title": "Action simultanée : -(으)면서 + adverbes fréquents",
+      "summary": "Exprimer deux actions simultanées avec -(으)면서 et enrichir ses phrases grâce aux adverbes fréquents.",
+      "difficulty": "A2+",
+      "audioBasePath": "/audio/week27/",
+      "tooltip": "en faisant…, tout en…, souvent / parfois…",
+      "image": "/assets/images/week27/card.jpg"
     }
   ]
 }

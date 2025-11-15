@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week27/exercises/",
+  "exercises": [
+    {
+      "id": "week27-ex01",
+      "title": "Compléter avec -(으)면서",
+      "type": "vocab",
+      "instructions": "Complétez la phrase.",
+      "items": [
+        {
+          "id": "week27-ex01-i01",
+          "prompt": "저는 음악을 들___ 공부해요.",
+          "options": ["으면서", "어서"],
+          "answer": "으면서",
+          "sentenceId": "week27-s01",
+          "audio": "week27-ex01-i01.mp3"
+        },
+        {
+          "id": "week27-ex01-i02",
+          "prompt": "친구와 이야기하___ 저녁을 먹었어요.",
+          "options": ["면서", "니까"],
+          "answer": "면서",
+          "sentenceId": "week27-s02",
+          "audio": "week27-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week27-ex02",
+      "title": "Choisir l’adverbe correct",
+      "type": "vocab",
+      "instructions": "Sélectionnez l’adverbe qui correspond.",
+      "items": [
+        {
+          "id": "week27-ex02-i01",
+          "prompt": "Je fais *toujours* du sport en écoutant de la musique.",
+          "options": ["항상", "가끔", "거의"],
+          "answer": "항상",
+          "sentenceId": "week27-s05",
+          "audio": "week27-ex02-i01.mp3"
+        },
+        {
+          "id": "week27-ex02-i02",
+          "prompt": "Je lis *parfois* un livre en buvant du café.",
+          "options": ["항상", "가끔", "자주"],
+          "answer": "가끔",
+          "sentenceId": "week27-s06",
+          "audio": "week27-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,9 @@ export function WeekCard({
         <p className="bg-emerald-300 p-1 rounded-md">Level: {difficulty}</p>
       </div>
       <div className="mt-2">
-        <h1 className="text-base mb-2 text-emerald-600 font-bold">{title}</h1>
+        <h1 className="text-base mb-2 text-emerald-600 font-bold min-h-[50]">
+          {title}
+        </h1>
         <p className="mb-2 font-light min-h-[40]">{summary}</p>
         <img
           src={image}

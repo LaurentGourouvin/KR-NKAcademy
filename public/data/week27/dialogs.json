@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week27-dialog01",
+      "title": "J'écoute de la musique en travaillant",
+      "speechLevel": "polite",
+      "level": "A2+",
+      "tags": ["week27", "simultane"],
+      "audioFull": "/audio/week27/dialogs/week27-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week27-dialog01-t01",
+          "speaker": "민지",
+          "sentenceId": "week27-s07",
+          "kr": "저는 거의 항상 음악을 들으면서 일해요.",
+          "rom": "jeoneun geoui hangsang eumageul deureumyeonseo ilhaeyo",
+          "fr": "Je travaille presque toujours en écoutant de la musique.",
+          "audio": "/audio/week27/dialogs/week27-dialog01-t01.mp3"
+        },
+        {
+          "id": "week27-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week27-s03",
+          "kr": "저는 자주 음악을 들으면서 산책해요.",
+          "rom": "jeoneun jaju eumageul deureumyeonseo sanchaekhaeyo",
+          "fr": "Moi, je me promène souvent en écoutant de la musique.",
+          "audio": "/audio/week27/dialogs/week27-dialog01-t02.mp3"
+        },
+        {
+          "id": "week27-dialog01-t03",
+          "speaker": "민지",
+          "sentenceId": "week27-s08",
+          "kr": "운전하면서 전화하면 안 돼요!",
+          "rom": "unjeonhamyeonseo jeonhwahamyeon an dwaeyo!",
+          "fr": "Et il ne faut surtout pas téléphoner en conduisant !",
+          "audio": "/audio/week27/dialogs/week27-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week27-dialog02",
+      "title": "Habitudes du quotidien",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week27", "frequence"],
+      "audioFull": "/audio/week27/dialogs/week27-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week27-dialog02-t01",
+          "speaker": "로랑",
+          "sentenceId": "week27-s04",
+          "kr": "저는 보통 TV를 보면서 저녁을 먹어요.",
+          "rom": "jeoneun botong tibireul bomyeonseo jeonyeogeul meogeoyo",
+          "fr": "En général, je dîne en regardant la télé.",
+          "audio": "/audio/week27/dialogs/week27-dialog02-t01.mp3"
+        },
+        {
+          "id": "week27-dialog02-t02",
+          "speaker": "민지",
+          "sentenceId": "week27-s06",
+          "kr": "저는 가끔 커피를 마시면서 책을 읽어요.",
+          "rom": "jeoneun gakkeun keopireul masimyeonseo chaegeul ilgoyo",
+          "fr": "Moi, parfois je lis un livre en buvant un café.",
+          "audio": "/audio/week27/dialogs/week27-dialog02-t02.mp3"
+        },
+        {
+          "id": "week27-dialog02-t03",
+          "speaker": "로랑",
+          "sentenceId": "week27-s10",
+          "kr": "일을 하면서 한국어도 배워요.",
+          "rom": "ireul hamyeonseo hangugeodo baewoyo",
+          "fr": "J’apprends même le coréen en travaillant.",
+          "audio": "/audio/week27/dialogs/week27-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}
