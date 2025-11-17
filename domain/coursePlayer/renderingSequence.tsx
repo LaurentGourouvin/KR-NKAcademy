@@ -1,5 +1,6 @@
 import ChunkScreen from '@/components/coursePlayer/ChunkScreen';
 import DialogScreen from '@/components/coursePlayer/DialogScreen';
+import ExerciseScreen from '@/components/coursePlayer/ExerciseScreen';
 import GrammarScreen from '@/components/coursePlayer/GrammarScreen';
 import SentenceScreen from '@/components/coursePlayer/SentenceScreen';
 import VocabularyScreen from '@/components/coursePlayer/VocabularyScreen';
@@ -18,14 +19,15 @@ type SequenceData = {
 };
 
 export function renderSequence(section: SequenceItem, sequence: SequenceData) {
-    console.log(sequence);
     switch (section.type) {
         case 'dialog':
             return <DialogScreen {...sequence.dialogs} />;
         case 'chunks':
             return <ChunkScreen chunks={sequence.chunks} sentences={sequence.sentences} />;
         case 'sentences':
-            return <SentenceScreen />;
+            return <SentenceScreen {...sequence.sentences} />;
+        case 'exercises':
+            return <ExerciseScreen {...sequence.exercises} />;
         case 'vocabulary':
             return <VocabularyScreen {...sequence.meta} />;
         case 'grammar':
