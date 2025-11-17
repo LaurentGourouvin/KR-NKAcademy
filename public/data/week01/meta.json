@@ -38,5 +38,25 @@
     { "kr": "학생", "fr": "étudiant", "rom": "haksaeng" }
   ],
   "audioBasePath": "/audio/week01/",
-  "notes": "Toutes les phrases sont en 존댓말 (forme polie, yo-form)."
+  "notes": "Toutes les phrases sont en 존댓말 (forme polie, yo-form).",
+  "sequence": [
+    {
+      "type": "dialog",
+      "id": "week01-dialog01"
+    },
+    {
+      "type": "chunks",
+      "ids": ["week01-ch01", "week01-ch02"]
+    },
+    {
+      "type": "sentences",
+      "chunkIds": ["week01-ch01", "week01-ch02"]
+    },
+    {
+      "type": "exercises",
+      "ids": ["week01-ex01", "week01-ex02", "week01-ex03"]
+    },
+    { "type": "vocabulary" },
+    { "type": "grammar" }
+  ]
 }
