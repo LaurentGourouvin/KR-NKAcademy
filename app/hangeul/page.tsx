@@ -78,7 +78,7 @@ export default function HangeulPage() {
     ];
 
     return (
-        <main className="mx-auto flex w-full max-w-4xl flex-col gap-10 px-4 pb-16 pt-10 mb-8 md:px-8 bg-white border-2 border-gray-300 rounded-md">
+        <main className="mx-auto flex w-full max-w-11/12 md:3/5 flex-col gap-10 px-4 pb-16 pt-10 mb-8 md:px-8 bg-white border-2 border-gray-300 rounded-md">
             {/* Header */}
             <header className="space-y-4">
                 <div className="inline-flex items-center gap-2 rounded-full border border-emerald-200 bg-emerald-50 px-4 py-1 text-xs font-medium tracking-wide text-emerald-700">

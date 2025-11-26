@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export default function ProgramPage() {
     return (
-        <div className="px-4 py-6 max-w-4xl mx-auto mb-16 space-y-10 bg-white border-2 border-gray-200 rounded-md">
+        <div className="px-4 py-6 md:w-3/5 max-w-11/12 mx-auto mb-16 space-y-10 bg-white border-2 border-gray-200 rounded-md">
             {/* Hero */}
             <section>
                 <h1 className="text-3xl font-bold mb-2">Le programme KR NKAcademy</h1>

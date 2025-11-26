@@ -6,7 +6,7 @@ export function WeekCard({ week, difficulty, title, summary, image, slug }: Week
 
     return (
         <div>
-            <article className="flex flex-col w-sm bg-white p-2 mx-8 mb-8 border border-gray-200 hover:border-gray-300 rounded-md text-sm hover:shadow-xs">
+            <article className="flex flex-col w-full md:w-sm bg-white p-2 md:mx-8 mb-8 border border-gray-200 hover:border-gray-300 rounded-md text-sm hover:shadow-xs">
                 <div className="flex justify-between">
                     <p className="text-emerald-800 font-bold">Week {week}</p>
                     <p className="bg-emerald-300 p-1 rounded-md">Level: {difficulty}</p>

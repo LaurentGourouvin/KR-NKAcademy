@@ -1,22 +1,22 @@
-import type { Metadata } from "next";
-import "./globals.css";
-import { Header } from "@/components/header/Header";
+import type { Metadata } from 'next';
+import './globals.css';
+import { Header } from '@/components/header/Header';
 export const metadata: Metadata = {
-  title: "KR NKAcademy",
-  description: "Natural Korean Acquisition — From Zero to TOPIK II",
+    title: 'KR NKAcademy',
+    description: 'Natural Korean Acquisition — From Zero to TOPIK II',
 };
 
 export default function RootLayout({
-  children,
+    children,
 }: Readonly<{
-  children: React.ReactNode;
+    children: React.ReactNode;
 }>) {
-  return (
-    <html lang="en">
-      <body>
-        <Header />
-        <main className="pt-16">{children}</main>
-      </body>
-    </html>
-  );
+    return (
+        <html lang="en">
+            <body>
+                <Header />
+                <main className="pt-8 mb:pt-16">{children}</main>
+            </body>
+        </html>
+    );
 }
