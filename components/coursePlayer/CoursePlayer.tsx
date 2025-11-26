@@ -40,21 +40,24 @@ export function CoursePlayer({ overviewLesson, meta, dialogs, chunks, sentences,
     };
 
     return (
-        <div className="w-4/5 bg-white mx-auto border-2 border-gray-300 rounded-md p-4 mb-8">
-            <header className="mb-4 border-b border-gray-200 pb-2 flex justify-between">
+        <div className="max-w-11/12 md:w-4/5 bg-white mx-auto border-2 border-gray-300 rounded-md p-4 mb-8">
+            <header className="mb-4 border-b border-gray-200 pb-2 flex flex-col md:flex-row md:justify-between">
                 <div>
                     <p className="text-xs uppercase tracking-wider text-emerald-800">Week {meta.week}</p>
                     <h1 className="text-xl font-semibold text-emerald-600">{meta.title}</h1>
                     <p className="text-sm text-gray-600">{meta.theme}</p>
                 </div>
-                <div>
-                    <button onClick={() => router.back()} className="inline-block rounded-md bg-emerald-500 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-600">
+                <div className="text-right">
+                    <button
+                        onClick={() => router.back()}
+                        className="inline-block rounded-md bg-emerald-500 mt-2 mb:mt-0 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-600"
+                    >
                         Retour aux cours
                     </button>
                 </div>
             </header>
 
-            <div className="grid grid-cols-6 gap-12">
+            <div className="grid grid-cols-1 md:grid-cols-6 md:gap-12">
                 <section className="col-span-2">
                     {meta.objectives && meta.objectives.length > 0 && (
                         <section className="mb-4 p-2 rounded-md bg-emerald-50 border border-emerald-200 text-emerald-600">
@@ -91,6 +94,7 @@ export function CoursePlayer({ overviewLesson, meta, dialogs, chunks, sentences,
                             );
                         })}
                     </div>
+                    <div className="w-full border border-gray-200 mb-2 md:hidden"></div>
                 </section>
 
                 <section className="col-span-4">

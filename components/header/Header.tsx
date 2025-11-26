@@ -8,7 +8,7 @@ export function Header() {
     const [open, setOpen] = useState(false);
 
     return (
-        <nav className="sticky top-0 z-50 bg-white shadow-sm">
+        <nav className="sticky top-0 z-50 bg-white shadow-sm w-full">
             <div className="flex items-center justify-between h-16 px-4">
                 <div className="flex items-center gap-4">
                     <Image src="/assets/logo_square.png" alt="KR KNAcademy Square" height={50} width={50} />
@@ -63,13 +63,29 @@ export function Header() {
                 <div className="md:hidden border-t border-gray-100">
                     <ul className="flex flex-col gap-2 px-4 py-3 text-sm text-gray-700">
                         <li>
-                            <Link href="/home">Accueil</Link>
+                            <Link href="/home" onClick={() => setOpen(!open)}>
+                                Accueil
+                            </Link>
                         </li>
                         <li>
-                            <Link href="/program">Programmes</Link>
+                            <Link href="/program" onClick={() => setOpen(!open)}>
+                                Programmes
+                            </Link>
                         </li>
                         <li>
-                            <Link href="/week">Cours</Link>
+                            <Link href="/week" onClick={() => setOpen(!open)}>
+                                Cours
+                            </Link>
+                        </li>
+                        <li>
+                            <Link
+                                href="/hangeul"
+                                onClick={() => setOpen(!open)}
+                                className="inline-flex items-center gap-2 rounded-full bg-emerald-500 px-3 py-1.5 text-sm font-semibold text-white shadow-sm hover:bg-emerald-600 hover:shadow-md transition"
+                            >
+                                Hangeul
+                                <span className="text-[0.7rem] uppercase tracking-[0.12em] text-emerald-100">Guide</span>
+                            </Link>
                         </li>
                         {/* <li>
                             <a href="/explorer">Explorer</a>

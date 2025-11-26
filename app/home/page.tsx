@@ -7,7 +7,7 @@ export default async function Home() {
     const featuredWeeks = weekOverview.overviews.slice(0, 2); // ou plus si tu veux
 
     return (
-        <div className="px-4 py-6 max-w-4xl mx-auto mb-16 space-y-10 bg-white border-2 border-gray-200 rounded-md">
+        <div className="md:w-3/5 max-w-11/12 mx-auto mb-16 px-4 py-6 space-y-10 bg-white border-2 border-gray-200 rounded-md">
             {/* Hero */}
             <Image src="/assets/logo.png" alt="Logo KR KNAcademy" width={500} height={310} className="mx-auto" />
             <section>
@@ -55,7 +55,7 @@ export default async function Home() {
                 <p className="text-sm text-gray-700 mb-4 font-light">
                     Chaque week se concentre sur une situation de vie réelle, avec des dialogues, des chunks et des phrases clés à réutiliser.
                 </p>
-                <div className="flex">
+                <div className="flex flex-col md:flex-row md:justify-center md:mt-8">
                     {featuredWeeks.map((w) => (
                         <WeekCard key={w.week} {...w} />
                     ))}
