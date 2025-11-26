@@ -21,7 +21,7 @@ export const SECTION_LABELS: Record<SequenceItem['type'], string> = {
 export function CoursePlayer({ overviewLesson, meta, dialogs, chunks, sentences, exercises }: WeekData & { overviewLesson: WeekOverviewData }) {
     const { activeIndex, activeSection, setActiveIndex } = useActiveSection(meta.sequence);
     const imageOfWeek = overviewLesson.overviews.find((w) => w.week === meta.week);
-    const placeHolderImage = 'assets/place_holder_image.png';
+    const placeHolderImage = '/assets/place_holder_image.png';
     const router = useRouter();
     const sequenceData = {
         chunks,
