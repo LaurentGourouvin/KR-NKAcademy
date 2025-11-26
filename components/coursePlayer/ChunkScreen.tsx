@@ -41,7 +41,8 @@ export default function ChunkScreen({ chunks, sentences }: ChunkScreenProps) {
 
                                     <div>
                                         <p className="text-[11px] uppercase text-emerald-600 font-semibold tracking-wide">Audio</p>
-                                        <p className="text-gray-700">{sentence.audio}</p>
+                                        {/* <p className="text-gray-700">{sentence.audio}</p> */}
+                                        <p className="inline-block px-1.5 py-0.5 text-[11px] text-gray-600 bg-gray-100 border border-gray-200 rounded">Disponible bientôt</p>
                                     </div>
                                 </div>
                             );
@@ -83,7 +84,12 @@ export default function ChunkScreen({ chunks, sentences }: ChunkScreenProps) {
                                             <td className="border border-emerald-100 px-3 py-2 text-gray-900">{sentence.kr}</td>
                                             <td className="border border-emerald-100 px-3 py-2 text-gray-900">{sentence.rom}</td>
                                             <td className="border border-emerald-100 px-3 py-2 text-gray-700">{sentence.fr}</td>
-                                            <td className="border border-emerald-100 px-3 py-2 text-gray-700">{sentence.audio}</td>
+                                            <td className="border border-emerald-100 px-3 py-2 text-gray-700 text-center">
+                                                <span className="inline-block px-1.5 py-0.5 text-[11px] text-gray-600 bg-gray-100 border border-gray-200 rounded">
+                                                    Disponible bientôt.
+                                                </span>
+                                            </td>
+                                            {/* <td className="border border-emerald-100 px-3 py-2 text-gray-700">{sentence.audio}</td> */}
                                         </tr>
                                     );
                                 })}
