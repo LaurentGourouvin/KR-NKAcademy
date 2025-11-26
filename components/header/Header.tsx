@@ -23,7 +23,7 @@ export function Header() {
                             <Link href="/home">Accueil</Link>
                         </li>
                         <li>
-                            <a href="/program">Programmes</a>
+                            <Link href="/program">Programmes</Link>
                         </li>
                         <li>
                             <Link href="/week">Cours</Link>
@@ -63,13 +63,13 @@ export function Header() {
                 <div className="md:hidden border-t border-gray-100">
                     <ul className="flex flex-col gap-2 px-4 py-3 text-sm text-gray-700">
                         <li>
-                            <a href="/programmes">Accueil</a>
+                            <Link href="/home">Accueil</Link>
                         </li>
                         <li>
-                            <a href="/programmes">Programmes</a>
+                            <Link href="/program">Programmes</Link>
                         </li>
                         <li>
-                            <a href="/cours">Cours</a>
+                            <Link href="/week">Cours</Link>
                         </li>
                         {/* <li>
                             <a href="/explorer">Explorer</a>
