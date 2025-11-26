@@ -40,7 +40,7 @@ export function CoursePlayer({ overviewLesson, meta, dialogs, chunks, sentences,
     };
 
     return (
-        <div className="w-4/5 bg-white mx-auto border-2 border-gray-300 rounded-md p-4 mt-8 mb-8">
+        <div className="w-4/5 bg-white mx-auto border-2 border-gray-300 rounded-md p-4 mb-8">
             <header className="mb-4 border-b border-gray-200 pb-2 flex justify-between">
                 <div>
                     <p className="text-xs uppercase tracking-wider text-emerald-800">Week {meta.week}</p>
