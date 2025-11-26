@@ -28,12 +28,12 @@ export function Header() {
                         <li>
                             <Link href="/week">Cours</Link>
                         </li>
-                        <li>
+                        {/* <li>
                             <a href="/explorer">Explorer</a>
                         </li>
                         <li>
                             <a href="/contact">Nous contacter</a>
-                        </li>
+                        </li> */}
                         <li>
                             <Link
                                 href="/hangeul"
@@ -47,7 +47,7 @@ export function Header() {
                 </div>
 
                 <div className="flex items-center gap-3">
-                    <button className="hidden md:inline text-sm text-gray-700">Mon compte</button>
+                    {/* <button className="hidden md:inline text-sm text-gray-700">Mon compte</button> */}
 
                     <button
                         className="md:hidden inline-flex items-center justify-center p-2 rounded-md border border-gray-200"
@@ -71,15 +71,15 @@ export function Header() {
                         <li>
                             <a href="/cours">Cours</a>
                         </li>
-                        <li>
+                        {/* <li>
                             <a href="/explorer">Explorer</a>
                         </li>
                         <li>
                             <a href="/contact">Nous contacter</a>
-                        </li>
-                        <li className="pt-2 border-t border-gray-100">
+                        </li> */}
+                        {/* <li className="pt-2 border-t border-gray-100">
                             <a href="/compte">Mon compte</a>
-                        </li>
+                        </li> */}
                     </ul>
                 </div>
             )}
