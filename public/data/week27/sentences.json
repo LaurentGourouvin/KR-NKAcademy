@@ -1,0 +1,95 @@
+{
+  "audioBasePath": "/audio/week27/sentences/",
+  "sentences": [
+    {
+      "id": "week27-s01",
+      "kr": "음악을 들으면서 공부해요.",
+      "rom": "eumageul deureumyeonseo gongbuhaeyo",
+      "fr": "J’étudie en écoutant de la musique.",
+      "audio": "/audio/week27/sentences/week27-s01.mp3",
+      "order": 1,
+      "tags": ["simultane"]
+    },
+    {
+      "id": "week27-s02",
+      "kr": "밥을 먹으면서 친구와 이야기했어요.",
+      "rom": "babeul meogeumyeonseo chinguwa iyagihaesseoyo",
+      "fr": "J’ai parlé avec un ami en mangeant.",
+      "audio": "/audio/week27/sentences/week27-s02.mp3",
+      "order": 2,
+      "tags": ["simultane"]
+    },
+    {
+      "id": "week27-s03",
+      "kr": "자주 음악을 들으면서 산책해요.",
+      "rom": "jaju eumageul deureumyeonseo sanchaekhaeyo",
+      "fr": "Je me promène souvent en écoutant de la musique.",
+      "audio": "/audio/week27/sentences/week27-s03.mp3",
+      "order": 3,
+      "tags": ["frequence"]
+    },
+    {
+      "id": "week27-s04",
+      "kr": "보통 TV를 보면서 저녁을 먹어요.",
+      "rom": "botong tibireul bomyeonseo jeonyeogeul meogeoyo",
+      "fr": "En général, je dîne en regardant la télé.",
+      "audio": "/audio/week27/sentences/week27-s04.mp3",
+      "order": 4,
+      "tags": ["daily"]
+    },
+    {
+      "id": "week27-s05",
+      "kr": "항상 노래를 들으면서 운동해요.",
+      "rom": "hangsang noraereul deureumyeonseo undonghaeyo",
+      "fr": "Je fais toujours du sport en écoutant de la musique.",
+      "audio": "/audio/week27/sentences/week27-s05.mp3",
+      "order": 5,
+      "tags": ["sport"]
+    },
+    {
+      "id": "week27-s06",
+      "kr": "가끔 커피를 마시면서 책을 읽어요.",
+      "rom": "gakkeum keopireul masimyeonseo chaegeul ilgoyo",
+      "fr": "Parfois, je lis un livre en buvant un café.",
+      "audio": "/audio/week27/sentences/week27-s06.mp3",
+      "order": 6,
+      "tags": ["hobby"]
+    },
+    {
+      "id": "week27-s07",
+      "kr": "거의 항상 음악을 들으면서 일해요.",
+      "rom": "geoui hangsang eumageul deureumyeonseo ilhaeyo",
+      "fr": "Je travaille presque toujours en écoutant de la musique.",
+      "audio": "/audio/week27/sentences/week27-s07.mp3",
+      "order": 7,
+      "tags": ["work"]
+    },
+    {
+      "id": "week27-s08",
+      "kr": "운전하면서 전화하면 안 돼요.",
+      "rom": "unjeonhamyeonseo jeonhwahamn an dwaeyo",
+      "fr": "Il ne faut pas téléphoner en conduisant.",
+      "audio": "/audio/week27/sentences/week27-s08.mp3",
+      "order": 8,
+      "tags": ["regle"]
+    },
+    {
+      "id": "week27-s09",
+      "kr": "요리하면서 음악을 들어요.",
+      "rom": "yorihamyeonseo eumageul deureoyo",
+      "fr": "Je cuisine en écoutant de la musique.",
+      "audio": "/audio/week27/sentences/week27-s09.mp3",
+      "order": 9,
+      "tags": ["cuisine"]
+    },
+    {
+      "id": "week27-s10",
+      "kr": "일을 하면서 한국어를 배워요.",
+      "rom": "ireul hamyeonseo hangugeoreul baewoyo",
+      "fr": "J’apprends le coréen en travaillant.",
+      "audio": "/audio/week27/sentences/week27-s10.mp3",
+      "order": 10,
+      "tags": ["study", "work"]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week18/sentences/",
+  "sentences": [
+    {
+      "id": "week18-s01",
+      "kr": "한국 음식 중에서 김치찌개가 가장 맛있어요.",
+      "rom": "hanguk eumsik jungeseo gimchijjigaega gajang masisseoyo",
+      "fr": "Parmi les plats coréens, le kimchi jjigae est le plus délicieux.",
+      "audio": "/audio/week18/sentences/week18-s01.mp3",
+      "order": 1,
+      "tags": ["superlative"]
+    },
+    {
+      "id": "week18-s02",
+      "kr": "여름이 제일 더워요.",
+      "rom": "yeoreumi jeil deowoyo",
+      "fr": "L’été est la saison la plus chaude.",
+      "audio": "/audio/week18/sentences/week18-s02.mp3",
+      "order": 2,
+      "tags": ["superlative"]
+    },
+    {
+      "id": "week18-s03",
+      "kr": "저는 케이크가 가장 좋아요.",
+      "rom": "jeoneun keikeuga gajang joayo",
+      "fr": "Ce que j’aime le plus, c’est le gâteau.",
+      "audio": "/audio/week18/sentences/week18-s03.mp3",
+      "order": 3,
+      "tags": ["superlative", "preference"]
+    },
+    {
+      "id": "week18-s04",
+      "kr": "이 가방이 제일 가벼워요.",
+      "rom": "i gabangi jeil gabyeowoyo",
+      "fr": "Ce sac est le plus léger.",
+      "audio": "/audio/week18/sentences/week18-s04.mp3",
+      "order": 4,
+      "tags": ["superlative"]
+    },
+    {
+      "id": "week18-s05",
+      "kr": "이 길이 가장 빨라요.",
+      "rom": "i giri gajang pparayo",
+      "fr": "Ce chemin est le plus rapide.",
+      "audio": "/audio/week18/sentences/week18-s05.mp3",
+      "order": 5,
+      "tags": ["superlative"]
+    },
+    {
+      "id": "week18-s06",
+      "kr": "이 문제가 제일 쉬워요.",
+      "rom": "i munjega jeil swiweoyo",
+      "fr": "Ce problème est le plus facile.",
+      "audio": "/audio/week18/sentences/week18-s06.mp3",
+      "order": 6,
+      "tags": ["superlative"]
+    },
+    {
+      "id": "week18-s07",
+      "kr": "서울이 제가 가 본 도시 중에서 가장 커요.",
+      "rom": "seouri jega ga bon dosi jungeseo gajang keoyo",
+      "fr": "Parmi les villes où je suis allé, Séoul est la plus grande.",
+      "audio": "/audio/week18/sentences/week18-s07.mp3",
+      "order": 7,
+      "tags": ["superlative"]
+    },
+    {
+      "id": "week18-s08",
+      "kr": "이 음식이 생각보다 덜 매워요.",
+      "rom": "i eumsigi saenggakboda deol maewoyo",
+      "fr": "Ce plat est moins épicé que prévu.",
+      "audio": "/audio/week18/sentences/week18-s08.mp3",
+      "order": 8,
+      "tags": ["comparison"]
+    },
+    {
+      "id": "week18-s09",
+      "kr": "저는 주말에 쉬는 게 가장 중요해요.",
+      "rom": "jeoneun jumare swineun ge gajang jungyohaeyo",
+      "fr": "Pour moi, me reposer le week-end est le plus important.",
+      "audio": "/audio/week18/sentences/week18-s09.mp3",
+      "order": 9,
+      "tags": ["superlative"]
+    },
+    {
+      "id": "week18-s10",
+      "kr": "이 영화가 올해 본 영화 중에서 제일 재미있어요.",
+      "rom": "i yeonghwaga olhae bon yeonghwa jungeseo jeil jaemiisseoyo",
+      "fr": "C’est le film le plus amusant que j’ai vu cette année.",
+      "audio": "/audio/week18/sentences/week18-s10.mp3",
+      "order": 10,
+      "tags": ["superlative"]
+    },
+    {
+      "id": "week18-s11",
+      "kr": "아침이 하루 중에서 제일 바빠요.",
+      "rom": "achim-i haru jungeseo jeil bappayo",
+      "fr": "Le matin est le moment le plus occupé de la journée.",
+      "audio": "/audio/week18/sentences/week18-s11.mp3",
+      "order": 11,
+      "tags": ["superlative"]
+    },
+    {
+      "id": "week18-s12",
+      "kr": "이 신발이 다른 신발보다 덜 편해요.",
+      "rom": "i sinbari dareun sinbalboda deol pyeonhaeyo",
+      "fr": "Ces chaussures sont moins confortables que les autres.",
+      "audio": "/audio/week18/sentences/week18-s12.mp3",
+      "order": 12,
+      "tags": ["comparison"]
+    },
+    {
+      "id": "week18-s13",
+      "kr": "이 식당이 동네에서 제일 유명해요.",
+      "rom": "i sikdangi dongneeseo jeil yumyeonghaeyo",
+      "fr": "Ce restaurant est le plus célèbre du quartier.",
+      "audio": "/audio/week18/sentences/week18-s13.mp3",
+      "order": 13,
+      "tags": ["superlative"]
+    },
+    {
+      "id": "week18-s14",
+      "kr": "이 옷이 제가 가진 옷 중에서 가장 싸요.",
+      "rom": "i osi jega gajin ot jungeseo gajang ssayo",
+      "fr": "Ce vêtement est le moins cher parmi ceux que j’ai.",
+      "audio": "/audio/week18/sentences/week18-s14.mp3",
+      "order": 14,
+      "tags": ["superlative", "shopping"]
+    }
+  ]
+}

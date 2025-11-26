@@ -34,5 +34,36 @@
     { "kr": "점원", "rom": "jeomwon", "fr": "serveur / employé" }
   ],
   "audioBasePath": "/audio/week05/",
-  "notes": "Semaine centrée sur les commandes simples au café/restaurant avec 주세요 et 좀. Tout reste en 존댓말 (forme en -요)."
+  "notes": "Semaine centrée sur les commandes simples au café/restaurant avec 주세요 et 좀. Tout reste en 존댓말 (forme en -요).",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week05-dialog01"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week05-ch01", "week05-ch02", "week05-ch03", "week05-ch04"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week05-ch01", "week05-ch02", "week05-ch03", "week05-ch04"]
+  },
+  {
+    "type": "exercises",
+    "ids": [
+      "week05-ex01",
+      "week05-ex02",
+      "week05-ex03",
+      "week05-ex04",
+      "week05-ex05"
+    ]
+  },
+  {
+    "type": "vocabulary"
+  },
+  {
+    "type": "grammar"
+  }
+]
+
 }

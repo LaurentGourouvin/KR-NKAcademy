@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week15/exercises/",
+  "exercises": [
+    {
+      "id": "week15-ex01",
+      "title": "Intention ou futur ?",
+      "type": "vocab",
+      "instructions": "Choisissez si la phrase exprime une intention ou un futur.",
+      "items": [
+        {
+          "id": "week15-ex01-i01",
+          "prompt": "새 카메라를 사려고 해요.",
+          "options": ["Intention", "Futur"],
+          "answer": "Intention",
+          "sentenceId": "week15-s05",
+          "audio": "week15-ex01-i01.mp3"
+        },
+        {
+          "id": "week15-ex01-i02",
+          "prompt": "내일은 집에서 쉴 거예요.",
+          "options": ["Intention", "Futur"],
+          "answer": "Futur",
+          "sentenceId": "week15-s02",
+          "audio": "week15-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week15-ex02",
+      "title": "Compléter la forme",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne terminaison.",
+      "items": [
+        {
+          "id": "week15-ex02-i01",
+          "prompt": "오늘 저녁에 영화를 볼 ____.",
+          "options": ["거예요", "려고 해요", "지 않아요"],
+          "answer": "거예요",
+          "sentenceId": "week15-s04",
+          "audio": "week15-ex02-i01.mp3"
+        },
+        {
+          "id": "week15-ex02-i02",
+          "prompt": "한국어를 더 공부하려고 ____.",
+          "options": ["했어요", "해요", "해요?"],
+          "answer": "해요",
+          "sentenceId": "week15-s03",
+          "audio": "week15-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week21/sentences/",
+  "sentences": [
+    {
+      "id": "week21-s01",
+      "kr": "비가 올 것 같아요.",
+      "rom": "biga ol geot gatayo",
+      "fr": "Je pense qu’il va pleuvoir.",
+      "audio": "/audio/week21/sentences/week21-s01.mp3",
+      "order": 1,
+      "tags": ["supposition"]
+    },
+    {
+      "id": "week21-s02",
+      "kr": "오늘은 좀 추울 것 같아요.",
+      "rom": "oneureun jom chuul geot gatayo",
+      "fr": "Je pense qu’il fera un peu froid aujourd’hui.",
+      "audio": "/audio/week21/sentences/week21-s02.mp3",
+      "order": 2,
+      "tags": ["supposition"]
+    },
+    {
+      "id": "week21-s03",
+      "kr": "민지가 늦을 것 같아요.",
+      "rom": "minjiga neujeul geot gatayo",
+      "fr": "Je crois que Minji va être en retard.",
+      "audio": "/audio/week21/sentences/week21-s03.mp3",
+      "order": 3,
+      "tags": ["supposition"]
+    },
+    {
+      "id": "week21-s04",
+      "kr": "내일은 바쁠 것 같아요.",
+      "rom": "naeireun bappeul geot gatayo",
+      "fr": "Je pense que je serai occupé demain.",
+      "audio": "/audio/week21/sentences/week21-s04.mp3",
+      "order": 4,
+      "tags": ["projection"]
+    },
+    {
+      "id": "week21-s05",
+      "kr": "이 음식이 매울 것 같아요.",
+      "rom": "i eumsigi maeul geot gatayo",
+      "fr": "Je pense que ce plat va être épicé.",
+      "audio": "/audio/week21/sentences/week21-s05.mp3",
+      "order": 5,
+      "tags": ["supposition"]
+    },
+    {
+      "id": "week21-s06",
+      "kr": "날씨가 좋아질 것 같아요.",
+      "rom": "nalssiga joajil geot gatayo",
+      "fr": "Je pense que le temps va s’améliorer.",
+      "audio": "/audio/week21/sentences/week21-s06.mp3",
+      "order": 6,
+      "tags": ["projection"]
+    },
+    {
+      "id": "week21-s07",
+      "kr": "시험이 어려울 것 같아요.",
+      "rom": "siheomi eoryeoul geot gatayo",
+      "fr": "Je pense que l’examen sera difficile.",
+      "audio": "/audio/week21/sentences/week21-s07.mp3",
+      "order": 7,
+      "tags": ["supposition"]
+    },
+    {
+      "id": "week21-s08",
+      "kr": "그 사람이 바쁜 것 같아요.",
+      "rom": "geu sarami bappeun geot gatayo",
+      "fr": "On dirait que cette personne est occupée.",
+      "audio": "/audio/week21/sentences/week21-s08.mp3",
+      "order": 8,
+      "tags": ["impression"]
+    },
+    {
+      "id": "week21-s09",
+      "kr": "오늘 분위기가 좋은 것 같아요.",
+      "rom": "oneul bunwigiga joeun geot gatayo",
+      "fr": "L’ambiance a l’air bonne aujourd’hui.",
+      "audio": "/audio/week21/sentences/week21-s09.mp3",
+      "order": 9,
+      "tags": ["impression"]
+    },
+    {
+      "id": "week21-s10",
+      "kr": "기분이 좋아질 것 같아요.",
+      "rom": "gibuni joajil geot gatayo",
+      "fr": "Je pense que mon humeur va s’améliorer.",
+      "audio": "/audio/week21/sentences/week21-s10.mp3",
+      "order": 10,
+      "tags": ["projection"]
+    },
+    {
+      "id": "week21-s11",
+      "kr": "아마 시간이 더 필요할 것 같아요.",
+      "rom": "ama sigani deo piryo-hal geot gatayo",
+      "fr": "Je pense que j’aurai peut-être besoin de plus de temps.",
+      "audio": "/audio/week21/sentences/week21-s11.mp3",
+      "order": 11,
+      "tags": ["supposition"]
+    },
+    {
+      "id": "week21-s12",
+      "kr": "문제가 생길 것 같아요.",
+      "rom": "munjega saenggil geot gatayo",
+      "fr": "Je pense qu’il va y avoir un problème.",
+      "audio": "/audio/week21/sentences/week21-s12.mp3",
+      "order": 12,
+      "tags": ["supposition"]
+    },
+    {
+      "id": "week21-s13",
+      "kr": "이 가방이 더 편할 것 같아요.",
+      "rom": "i gabangi deo pyeonal geot gatayo",
+      "fr": "Je pense que ce sac sera plus confortable.",
+      "audio": "/audio/week21/sentences/week21-s13.mp3",
+      "order": 13,
+      "tags": ["impression"]
+    },
+    {
+      "id": "week21-s14",
+      "kr": "길이 막힐 것 같아요.",
+      "rom": "giri makhil geot gatayo",
+      "fr": "Je pense qu’il y aura des embouteillages.",
+      "audio": "/audio/week21/sentences/week21-s14.mp3",
+      "order": 14,
+      "tags": ["supposition"]
+    }
+  ]
+}

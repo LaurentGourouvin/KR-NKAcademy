@@ -33,5 +33,36 @@
     { "kr": "음악", "fr": "musique", "rom": "eumak" }
   ],
   "audioBasePath": "/audio/week04/",
-  "notes": "Semaine centrée sur les goûts (좋아해요/싫어해요) avec la particule d’objet 을/를. Toutes les phrases restent en 존댓말 (forme polie, yo-form)."
+  "notes": "Semaine centrée sur les goûts (좋아해요/싫어해요) avec la particule d’objet 을/를. Toutes les phrases restent en 존댓말 (forme polie, yo-form).",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week04-dialog01"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week04-ch01", "week04-ch02", "week04-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week04-ch01", "week04-ch02", "week04-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": [
+      "week04-ex01",
+      "week04-ex02",
+      "week04-ex03",
+      "week04-ex04",
+      "week04-ex05"
+    ]
+  },
+  {
+    "type": "vocabulary"
+  },
+  {
+    "type": "grammar"
+  }
+]
+
 }

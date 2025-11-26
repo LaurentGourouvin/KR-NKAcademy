@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week24-dialog01",
+      "title": "Il ne faut pas courir",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["rules"],
+      "audioFull": "/audio/week24/dialogs/week24-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week24-dialog01-t01",
+          "speaker": "민지",
+          "sentenceId": "week24-s09",
+          "kr": "여기에서 뛰면 안 돼요.",
+          "rom": "yeogie seo ttwimyeon an dwaeyo",
+          "fr": "Il ne faut pas courir ici.",
+          "audio": "/audio/week24/dialogs/week24-dialog01-t01.mp3"
+        },
+        {
+          "id": "week24-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week24-s04",
+          "kr": "늦으면 안 돼요.",
+          "rom": "neujeumyeon an dwaeyo",
+          "fr": "Je ne dois pas être en retard.",
+          "audio": "/audio/week24/dialogs/week24-dialog01-t02.mp3"
+        },
+        {
+          "id": "week24-dialog01-t03",
+          "speaker": "민지",
+          "sentenceId": "week24-s05",
+          "kr": "조용히 하지 않으면 안 돼요.",
+          "rom": "joyonghi haji an eumyeon an dwaeyo",
+          "fr": "Il faut rester silencieux.",
+          "audio": "/audio/week24/dialogs/week24-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week24-dialog02",
+      "title": "Zone non-fumeur",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["rules"],
+      "audioFull": "/audio/week24/dialogs/week24-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week24-dialog02-t01",
+          "speaker": "로랑",
+          "sentenceId": "week24-s03",
+          "kr": "여기에서 담배를 피우면 안 돼요.",
+          "rom": "yeogie seo dambareul piwmyeon an dwaeyo",
+          "fr": "On ne doit pas fumer ici.",
+          "audio": "/audio/week24/dialogs/week24-dialog02-t01.mp3"
+        },
+        {
+          "id": "week24-dialog02-t02",
+          "speaker": "민지",
+          "sentenceId": "week24-s13",
+          "kr": "여기에서 먹으면 안 돼요.",
+          "rom": "yeogie seo meogeumyeon an dwaeyo",
+          "fr": "On ne doit pas manger ici non plus.",
+          "audio": "/audio/week24/dialogs/week24-dialog02-t02.mp3"
+        },
+        {
+          "id": "week24-dialog02-t03",
+          "speaker": "로랑",
+          "sentenceId": "week24-s14",
+          "kr": "신발을 신은 채 들어오면 안 돼요.",
+          "rom": "sinbareul sineun chae deureo omyeon an dwaeyo",
+          "fr": "Et on ne doit pas entrer avec ses chaussures.",
+          "audio": "/audio/week24/dialogs/week24-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

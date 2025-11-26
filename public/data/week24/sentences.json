@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week24/sentences/",
+  "sentences": [
+    {
+      "id": "week24-s01",
+      "kr": "여기에서 사진을 찍으면 안 돼요.",
+      "rom": "yeogie seo sajineul jjigeumyeon an dwaeyo",
+      "fr": "Il ne faut pas prendre de photos ici.",
+      "audio": "/audio/week24/sentences/week24-s01.mp3",
+      "order": 1,
+      "tags": ["interdiction"]
+    },
+    {
+      "id": "week24-s02",
+      "kr": "쓰레기를 버리면 안 돼요.",
+      "rom": "sseuregireul beorimyeon an dwaeyo",
+      "fr": "Il ne faut pas jeter des déchets.",
+      "audio": "/audio/week24/sentences/week24-s02.mp3",
+      "order": 2,
+      "tags": ["rules"]
+    },
+    {
+      "id": "week24-s03",
+      "kr": "여기에서 담배를 피우면 안 돼요.",
+      "rom": "yeogie seo dambareul piwmyeon an dwaeyo",
+      "fr": "Il ne faut pas fumer ici.",
+      "audio": "/audio/week24/sentences/week24-s03.mp3",
+      "order": 3,
+      "tags": ["rules"]
+    },
+    {
+      "id": "week24-s04",
+      "kr": "늦으면 안 돼요.",
+      "rom": "neujeumyeon an dwaeyo",
+      "fr": "Il ne faut pas être en retard.",
+      "audio": "/audio/week24/sentences/week24-s04.mp3",
+      "order": 4,
+      "tags": ["life"]
+    },
+    {
+      "id": "week24-s05",
+      "kr": "조용히 하지 않으면 안 돼요.",
+      "rom": "joyonghi haji an eumyeon an dwaeyo",
+      "fr": "Il ne faut pas faire de bruit.",
+      "audio": "/audio/week24/sentences/week24-s05.mp3",
+      "order": 5,
+      "tags": ["rules"]
+    },
+    {
+      "id": "week24-s06",
+      "kr": "길을 건널 때 핸드폰을 보면 안 돼요.",
+      "rom": "gireul geonneol ttae haendeupon-eul bomyeon an dwaeyo",
+      "fr": "Il ne faut pas regarder son téléphone en traversant.",
+      "audio": "/audio/week24/sentences/week24-s06.mp3",
+      "order": 6,
+      "tags": ["safety"]
+    },
+    {
+      "id": "week24-s07",
+      "kr": "음식을 남기면 안 돼요.",
+      "rom": "eumsigeul namgimyeon an dwaeyo",
+      "fr": "Il ne faut pas laisser de nourriture.",
+      "audio": "/audio/week24/sentences/week24-s07.mp3",
+      "order": 7,
+      "tags": ["life"]
+    },
+    {
+      "id": "week24-s08",
+      "kr": "문을 열어두면 안 돼요.",
+      "rom": "muneul yeoreodumyeon an dwaeyo",
+      "fr": "Il ne faut pas laisser la porte ouverte.",
+      "audio": "/audio/week24/sentences/week24-s08.mp3",
+      "order": 8,
+      "tags": ["rules"]
+    },
+    {
+      "id": "week24-s09",
+      "kr": "여기에서 뛰면 안 돼요.",
+      "rom": "yeogie seo ttwimyeon an dwaeyo",
+      "fr": "Il ne faut pas courir ici.",
+      "audio": "/audio/week24/sentences/week24-s09.mp3",
+      "order": 9,
+      "tags": ["rules"]
+    },
+    {
+      "id": "week24-s10",
+      "kr": "반드시 마스크를 벗으면 안 돼요.",
+      "rom": "bandeusi maseukeureul beoseumyeon an dwaeyo",
+      "fr": "Il ne faut absolument pas retirer son masque.",
+      "audio": "/audio/week24/sentences/week24-s10.mp3",
+      "order": 10,
+      "tags": ["rules"]
+    },
+    {
+      "id": "week24-s11",
+      "kr": "장난치면 안 돼요.",
+      "rom": "jangnanchimyeon an dwaeyo",
+      "fr": "Il ne faut pas faire des bêtises.",
+      "audio": "/audio/week24/sentences/week24-s11.mp3",
+      "order": 11,
+      "tags": ["life"]
+    },
+    {
+      "id": "week24-s12",
+      "kr": "무단 횡단하면 안 돼요.",
+      "rom": "mudan hoengdanhamyeon an dwaeyo",
+      "fr": "Il ne faut pas traverser en dehors du passage piéton.",
+      "audio": "/audio/week24/sentences/week24-s12.mp3",
+      "order": 12,
+      "tags": ["safety"]
+    },
+    {
+      "id": "week24-s13",
+      "kr": "여기에서 먹으면 안 돼요.",
+      "rom": "yeogie seo meogeumyeon an dwaeyo",
+      "fr": "Il ne faut pas manger ici.",
+      "audio": "/audio/week24/sentences/week24-s13.mp3",
+      "order": 13,
+      "tags": ["rules"]
+    },
+    {
+      "id": "week24-s14",
+      "kr": "신발을 신은 채 들어오면 안 돼요.",
+      "rom": "sinbareul sineun chae deureo omyeon an dwaeyo",
+      "fr": "Il ne faut pas entrer avec ses chaussures.",
+      "audio": "/audio/week24/sentences/week24-s14.mp3",
+      "order": 14,
+      "tags": ["rules"]
+    }
+  ]
+}

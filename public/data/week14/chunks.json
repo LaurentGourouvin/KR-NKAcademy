@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week14/chunks/",
+  "chunks": [
+    {
+      "id": "week14-ch01",
+      "title": "Exprimer l'obligation",
+      "description": "Quand il faut absolument faire quelque chose.",
+      "sentenceIds": ["week14-s01", "week14-s03", "week14-s05", "week14-s08", "week14-s09", "week14-s12", "week14-s13"],
+      "audio": "/audio/week14/chunks/week14-ch01.mp3",
+      "order": 1,
+      "tags": ["obligation"],
+      "level": "A2"
+    },
+    {
+      "id": "week14-ch02",
+      "title": "Exprimer l'interdiction",
+      "description": "Ce qu’il ne faut pas faire, règles et interdits.",
+      "sentenceIds": ["week14-s02", "week14-s04", "week14-s06", "week14-s07", "week14-s10", "week14-s11", "week14-s14"],
+      "audio": "/audio/week14/chunks/week14-ch02.mp3",
+      "order": 2,
+      "tags": ["interdiction"],
+      "level": "A2"
+    },
+    {
+      "id": "week14-ch03",
+      "title": "Règles du quotidien",
+      "description": "Conseils pratiques + restrictions courantes.",
+      "sentenceIds": ["week14-s01", "week14-s06", "week14-s10", "week14-s12"],
+      "audio": "/audio/week14/chunks/week14-ch03.mp3",
+      "order": 3,
+      "tags": ["daily"],
+      "level": "A2"
+    }
+  ]
+}

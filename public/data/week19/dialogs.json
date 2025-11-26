@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week19-dialog01",
+      "title": "Parce qu’il pleut",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week19", "cause"],
+      "audioFull": "/audio/week19/dialogs/week19-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week19-dialog01-t01",
+          "speaker": "민지",
+          "sentenceId": "week19-s01",
+          "kr": "비가 와서 우산을 가져왔어요.",
+          "rom": "biga waseo usaneul gajyeowasseoyo",
+          "fr": "Comme il pleut, j’ai pris un parapluie.",
+          "audio": "/audio/week19/dialogs/week19-dialog01-t01.mp3"
+        },
+        {
+          "id": "week19-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week19-s02",
+          "kr": "길이 막혀서 늦었어요.",
+          "rom": "giri makyeoseo neujeosseoyo",
+          "fr": "Je suis en retard parce qu’il y avait des embouteillages.",
+          "audio": "/audio/week19/dialogs/week19-dialog01-t02.mp3"
+        },
+        {
+          "id": "week19-dialog01-t03",
+          "speaker": "민지",
+          "sentenceId": "week19-s10",
+          "kr": "날씨가 좋아서 산책하고 싶어요.",
+          "rom": "nalssiga joaseo sanchaekago sipeoyo",
+          "fr": "Comme il fait beau, j’ai envie de me promener.",
+          "audio": "/audio/week19/dialogs/week19-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week19-dialog02",
+      "title": "Parce que j’ai un examen",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week19", "reason"],
+      "audioFull": "/audio/week19/dialogs/week19-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week19-dialog02-t01",
+          "speaker": "로랑",
+          "sentenceId": "week19-s11",
+          "kr": "시험이 있기 때문에 공부하고 있어요.",
+          "rom": "siheomi itgi ttaemune gongbuhago isseoyo",
+          "fr": "J’étudie parce que j’ai un examen.",
+          "audio": "/audio/week19/dialogs/week19-dialog02-t01.mp3"
+        },
+        {
+          "id": "week19-dialog02-t02",
+          "speaker": "민지",
+          "sentenceId": "week19-s08",
+          "kr": "중요한 약속이 있기 때문에 먼저 가야 해요.",
+          "rom": "jungyohan yaksogi itgi ttaemune meonjeo gaya haeyo",
+          "fr": "Je dois partir en premier parce que j’ai un rendez-vous important.",
+          "audio": "/audio/week19/dialogs/week19-dialog02-t02.mp3"
+        },
+        {
+          "id": "week19-dialog02-t03",
+          "speaker": "로랑",
+          "sentenceId": "week19-s13",
+          "kr": "잠을 못 잤기 때문에 피곤해요.",
+          "rom": "jameul mot jatgi ttaemune pigonaeyo",
+          "fr": "Je suis fatigué parce que je n’ai pas dormi.",
+          "audio": "/audio/week19/dialogs/week19-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

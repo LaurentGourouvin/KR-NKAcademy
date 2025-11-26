@@ -1,0 +1,59 @@
+{
+  "audioBasePath": "/audio/week31/exercises/",
+  "exercises": [
+    {
+      "id": "week31-ex01",
+      "title": "Compléter avec -(으)려고 하다",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne terminaison.",
+      "items": [
+        {
+          "id": "week31-ex01-i01",
+          "prompt": "저녁을 만들___ 해요.",
+          "options": ["려고", "으려고"],
+          "answer": "려고",
+          "sentenceId": "week31-s10",
+          "audio": "week31-ex01-i01.mp3"
+        },
+        {
+          "id": "week31-ex01-i02",
+          "prompt": "출근하___ 했어요.",
+          "options": ["려고", "으려고"],
+          "answer": "려고",
+          "sentenceId": "week31-s01",
+          "audio": "week31-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week31-ex02",
+      "title": "Choisir la bonne traduction",
+      "type": "vocab",
+      "instructions": "Sélectionnez la bonne traduction en français.",
+      "items": [
+        {
+          "id": "week31-ex02-i01",
+          "prompt": "샤워할 때 음악을 들어요.",
+          "options": [
+            "J’écoute de la musique quand je prends une douche.",
+            "J’écoute de la musique avant de dormir."
+          ],
+          "answer": "J’écoute de la musique quand je prends une douche.",
+          "sentenceId": "week31-s06",
+          "audio": "week31-ex02-i01.mp3"
+        },
+        {
+          "id": "week31-ex02-i02",
+          "prompt": "자려고 할 때 휴대폰이 울렸어요.",
+          "options": [
+            "Quand j’allais dormir, mon téléphone a sonné.",
+            "Quand je me suis réveillé, mon téléphone a sonné."
+          ],
+          "answer": "Quand j’allais dormir, mon téléphone a sonné.",
+          "sentenceId": "week31-s02",
+          "audio": "week31-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

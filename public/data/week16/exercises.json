@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week16/exercises/",
+  "exercises": [
+    {
+      "id": "week16-ex01",
+      "title": "Déjà ou jamais ?",
+      "type": "vocab",
+      "instructions": "Choisissez si la phrase exprime une expérience déjà vécue ou jamais vécue.",
+      "items": [
+        {
+          "id": "week16-ex01-i01",
+          "prompt": "저는 아직 먹어 본 적 없어요.",
+          "options": ["Déjà", "Jamais"],
+          "answer": "Jamais",
+          "sentenceId": "week16-s02",
+          "audio": "week16-ex01-i01.mp3"
+        },
+        {
+          "id": "week16-ex01-i02",
+          "prompt": "한국에 가 본 적 있어요.",
+          "options": ["Déjà", "Jamais"],
+          "answer": "Déjà",
+          "sentenceId": "week16-s03",
+          "audio": "week16-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week16-ex02",
+      "title": "Compléter les formes",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne forme verbale.",
+      "items": [
+        {
+          "id": "week16-ex02-i01",
+          "prompt": "한복을 입어 본 ___ 있어요?",
+          "options": ["적", "일", "번"],
+          "answer": "적",
+          "sentenceId": "week16-s04",
+          "audio": "week16-ex02-i01.mp3"
+        },
+        {
+          "id": "week16-ex02-i02",
+          "prompt": "저는 한 번도 타 본 적 ___요.",
+          "options": ["없어", "없어요", "있어요"],
+          "answer": "없어요",
+          "sentenceId": "week16-s12",
+          "audio": "week16-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

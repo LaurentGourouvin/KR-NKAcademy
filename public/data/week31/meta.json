@@ -1,0 +1,52 @@
+{
+  "week": 31,
+  "title": "Exprimer l'intention et le moment : -(으)려고 하다 / -(으)ㄹ 때",
+  "theme": "Vie quotidienne : ce qu’on prévoit de faire et ce qu’on fait dans certaines situations.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Renforcer l’expression de l’intention personnelle avec -(으)려고 하다.",
+    "Utiliser -(으)ㄹ 때 pour exprimer ‘quand…’ dans des situations du quotidien.",
+    "Comprendre et utiliser ces structures dans des phrases naturelles."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "-(으)려고 하다",
+      "rom": "-(eu)ryeogo hada",
+      "fr": "être sur le point de / avoir l’intention ferme de"
+    },
+    {
+      "kr": "-(으)ㄹ 때",
+      "rom": "-(eu)l ttae",
+      "fr": "quand…, au moment où…"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "잠들다", "rom": "jamdeulda", "fr": "s’endormir" },
+    { "kr": "출근하다", "rom": "chulgeunhada", "fr": "aller au travail" },
+    { "kr": "멈추다", "rom": "meomchuda", "fr": "s’arrêter" },
+    { "kr": "켜다", "rom": "kyeoda", "fr": "allumer (lumière, appareil)" },
+    { "kr": "비슷하다", "rom": "biseutada", "fr": "être similaire" }
+  ],
+  "audioBasePath": "/audio/week31/",
+  "notes": "-(으)려고 하다 exprime une intention plus forte ou immédiate que -(으)려고 해요. -(으)ㄹ 때 s'utilise avec un verbe au futur pour exprimer ‘quand’. Exemple : 먹을 때 → quand je mange.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week31-dialog01", "week31-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week31-ch01", "week31-ch02"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week31-ch01", "week31-ch02"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week31-ex01", "week31-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+}

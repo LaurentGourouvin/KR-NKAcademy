@@ -1,0 +1,44 @@
+{
+  "week": 24,
+  "title": "Exprimer l’interdiction : -(으)면 안 돼요",
+  "theme": "Dire ce qu’il ne faut pas faire, poser des règles et interdictions.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -(으)면 안 돼요 pour exprimer une interdiction.",
+    "Comprendre la nuance entre règle, conseil et interdiction.",
+    "Décrire des comportements interdits dans différents contextes."
+  ],
+  "grammarFocus": [
+    { "kr": "-(으)면 안 돼요", "rom": "-(eu)myeon an dwaeyo", "fr": "il ne faut pas / on ne doit pas" }
+  ],
+  "vocabulary": [
+    { "kr": "쓰레기", "rom": "sseuregi", "fr": "déchets" },
+    { "kr": "사진", "rom": "sajin", "fr": "photo" },
+    { "kr": "금연", "rom": "geumyeon", "fr": "non-fumeur" },
+    { "kr": "조용히", "rom": "joyonghi", "fr": "silencieusement" },
+    { "kr": "반드시", "rom": "bandeusi", "fr": "absolument" }
+  ],
+  "audioBasePath": "/audio/week24/",
+  "notes": "Expression omniprésente dans la signalisation en Corée, dans les règles scolaires et professionnelles.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week24-dialog01", "week24-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week24-ch01", "week24-ch02"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week24-ch01", "week24-ch02"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week24-ex01", "week24-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+
+}

@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week22/exercises/",
+  "exercises": [
+    {
+      "id": "week22-ex01",
+      "title": "Compléter avec -아/어 본 적이 있어요",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne forme.",
+      "items": [
+        {
+          "id": "week22-ex01-i01",
+          "prompt": "한국 음식을 ____?",
+          "options": ["먹어 본 적이 있어요", "먹은 적이 있어요"],
+          "answer": "먹어 본 적이 있어요",
+          "sentenceId": "week22-s02",
+          "audio": "week22-ex01-i01.mp3"
+        },
+        {
+          "id": "week22-ex01-i02",
+          "prompt": "그 영화를 ____.",
+          "options": ["본 적이 없어요", "봐 본 적이 있어요"],
+          "answer": "본 적이 없어요",
+          "sentenceId": "week22-s08",
+          "audio": "week22-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week22-ex02",
+      "title": "Expérience ou jamais ?",
+      "type": "vocab",
+      "instructions": "Sélectionnez la bonne catégorie.",
+      "items": [
+        {
+          "id": "week22-ex02-i01",
+          "prompt": "한국에 가 본 적이 있어요.",
+          "options": ["Déjà fait", "Jamais fait"],
+          "answer": "Déjà fait",
+          "sentenceId": "week22-s01",
+          "audio": "week22-ex02-i01.mp3"
+        },
+        {
+          "id": "week22-ex02-i02",
+          "prompt": "매운 음식을 먹어 본 적이 없어요.",
+          "options": ["Déjà fait", "Jamais fait"],
+          "answer": "Jamais fait",
+          "sentenceId": "week22-s13",
+          "audio": "week22-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

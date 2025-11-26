@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week15-dialog01",
+      "title": "Ce week-end",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week15", "intention"],
+      "audioFull": "/audio/week15/dialogs/week15-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week15-dialog01-t01",
+          "speaker": "로랑",
+          "sentenceId": "week15-s01",
+          "kr": "주말에 친구를 만나려고 해요.",
+          "rom": "jumare chingureul mannaryeogo haeyo",
+          "fr": "J’ai l’intention de rencontrer un ami ce week-end.",
+          "audio": "/audio/week15/dialogs/week15-dialog01-t01.mp3"
+        },
+        {
+          "id": "week15-dialog01-t02",
+          "speaker": "민지",
+          "sentenceId": "week15-s04",
+          "kr": "오늘 저녁에 영화를 볼 거예요.",
+          "rom": "oneul jeonyeoge yeonghwareul bol geoyeyo",
+          "fr": "Ce soir, je vais regarder un film.",
+          "audio": "/audio/week15/dialogs/week15-dialog01-t02.mp3"
+        },
+        {
+          "id": "week15-dialog01-t03",
+          "speaker": "로랑",
+          "sentenceId": "week15-s07",
+          "kr": "사진을 많이 찍으려고 해요.",
+          "rom": "sajineul mani jjigeuryeogo haeyo",
+          "fr": "J’ai l’intention de prendre beaucoup de photos.",
+          "audio": "/audio/week15/dialogs/week15-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week15-dialog02",
+      "title": "Nouveaux projets",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week15", "futur"],
+      "audioFull": "/audio/week15/dialogs/week15-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week15-dialog02-t01",
+          "speaker": "민지",
+          "sentenceId": "week15-s08",
+          "kr": "저는 운동을 시작할 거예요.",
+          "rom": "jeoneun undongeul sijakhal geoyeyo",
+          "fr": "Je vais commencer le sport.",
+          "audio": "/audio/week15/dialogs/week15-dialog02-t01.mp3"
+        },
+        {
+          "id": "week15-dialog02-t02",
+          "speaker": "로랑",
+          "sentenceId": "week15-s11",
+          "kr": "친구 생일 선물을 준비하려고 해요.",
+          "rom": "chingu saengil seonmureul junbiharyeogo haeyo",
+          "fr": "Je vais préparer un cadeau d’anniversaire pour un ami.",
+          "audio": "/audio/week15/dialogs/week15-dialog02-t02.mp3"
+        },
+        {
+          "id": "week15-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week15-s14",
+          "kr": "이번 달에 새로운 취미를 시작하려고 해요.",
+          "rom": "ibeon dare saeroun chwimireul sijak-haryeogo haeyo",
+          "fr": "Ce mois-ci, j’ai l’intention de commencer un nouveau hobby.",
+          "audio": "/audio/week15/dialogs/week15-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

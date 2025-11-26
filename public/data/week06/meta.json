@@ -34,5 +34,35 @@
     { "kr": "시간", "rom": "sigan", "fr": "temps / heure" }
   ],
   "audioBasePath": "/audio/week06/",
-  "notes": "Introduction des heures et de la forme verbale 아/어요 dans le contexte de la routine quotidienne."
+  "notes": "Introduction des heures et de la forme verbale 아/어요 dans le contexte de la routine quotidienne.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week06-dialog01"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week06-ch01", "week06-ch02", "week06-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week06-ch01", "week06-ch02", "week06-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": [
+      "week06-ex01",
+      "week06-ex02",
+      "week06-ex03",
+      "week06-ex04"
+    ]
+  },
+  {
+    "type": "vocabulary"
+  },
+  {
+    "type": "grammar"
+  }
+]
+
 }

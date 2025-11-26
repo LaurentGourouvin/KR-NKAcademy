@@ -1,0 +1,44 @@
+{
+  "week": 21,
+  "title": "Exprimer une impression ou supposition : -(으)ㄹ 것 같아요",
+  "theme": "Exprimer une impression, une supposition ou une probabilité.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -(으)ㄹ 것 같아요 pour exprimer une impression.",
+    "Exprimer une supposition basée sur un ressenti.",
+    "Comprendre les nuances de probabilité en coréen."
+  ],
+  "grammarFocus": [
+    { "kr": "-(으)ㄹ 것 같아요", "rom": "-(eu)l geot gatayo", "fr": "il semble que / je pense que…" }
+  ],
+  "vocabulary": [
+    { "kr": "기분", "rom": "gibun", "fr": "humeur" },
+    { "kr": "분위기", "rom": "bunwigi", "fr": "ambiance" },
+    { "kr": "아마", "rom": "ama", "fr": "peut-être" },
+    { "kr": "날씨", "rom": "nalssi", "fr": "météo" },
+    { "kr": "이상하다", "rom": "isanghada", "fr": "être bizarre" }
+  ],
+  "audioBasePath": "/audio/week21/",
+  "notes": "Structure très fréquente dans la langue parlée pour exprimer un sentiment, une hypothèse, ou une impression indirecte.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week21-dialog01", "week21-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week21-ch01", "week21-ch02"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week21-ch01", "week21-ch02"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week21-ex01", "week21-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+
+}

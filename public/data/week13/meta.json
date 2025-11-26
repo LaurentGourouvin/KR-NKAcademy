@@ -1,0 +1,68 @@
+{
+  "week": 13,
+  "title": "Décrire des personnes",
+  "theme": "Décrire l’apparence et le caractère d’une personne avec des adjectifs et …는 사람.",
+  "speechLevel": "polite + casual (light)",
+  "objectives": [
+    "Décrire simplement l’apparence d’une personne (taille, cheveux, etc.).",
+    "Parler du caractère avec quelques adjectifs fréquents.",
+    "Utiliser la structure …는 사람 (« la personne qui… ») dans des phrases simples."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "형용사 + -아요/어요",
+      "rom": "hyeongyongsa + -ayo/eoyo",
+      "fr": "Adjectifs descriptifs au présent poli."
+    },
+    {
+      "kr": "V-는 사람",
+      "rom": "V-neun saram",
+      "fr": "« La personne qui V » (structure relative simple)."
+    }
+  ],
+  "vocabulary": [
+    { "kr": "키가 크다", "rom": "kiga keuda", "fr": "être grand (taille)" },
+    { "kr": "머리가 짧다", "rom": "meoriga jjalbda", "fr": "avoir les cheveux courts" },
+    { "kr": "안경을 쓰다", "rom": "angyeongeul sseuda", "fr": "porter des lunettes" },
+    { "kr": "밝다", "rom": "balgda", "fr": "être enjoué, lumineux (caractère)" },
+    { "kr": "친절하다", "rom": "chinjeolhada", "fr": "être gentil, serviable" },
+    { "kr": "조용하다", "rom": "joyonghada", "fr": "être calme, silencieux" }
+  ],
+  "audioBasePath": "/audio/week13/",
+  "notes": "Première semaine A2 avec mise en avant des adjectifs descriptifs et de la structure …는 사람 pour décrire des proches.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week13-dialog01"]
+  },
+  {
+    "type": "chunks",
+    "ids": [
+      "week13-ch01",
+      "week13-ch02",
+      "week13-ch03"
+    ]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": [
+      "week13-ch01",
+      "week13-ch02",
+      "week13-ch03"
+    ]
+  },
+  {
+    "type": "exercises",
+    "ids": [
+      "week13-ex01",
+      "week13-ex02",
+      "week13-ex03",
+      "week13-ex04",
+      "week13-ex05"
+    ]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+
+}

@@ -1,0 +1,31 @@
+{
+  "audioBasePath": "/audio/week25/chunks/",
+  "chunks": [
+    {
+      "id": "week25-ch01",
+      "title": "Exprimer une intention",
+      "description": "Utiliser -(으)려고 pour exprimer un but ou une intention.",
+      "sentenceIds": [
+        "week25-s03","week25-s05","week25-s06",
+        "week25-s07","week25-s08","week25-s09","week25-s11"
+      ],
+      "audio": "/audio/week25/chunks/week25-ch01.mp3",
+      "order": 1,
+      "tags": ["goal"],
+      "level": "A2"
+    },
+    {
+      "id": "week25-ch02",
+      "title": "Déplacement + But",
+      "description": "Utiliser -(으)러 avec 가다/오다 pour dire où l’on va et pourquoi.",
+      "sentenceIds": [
+        "week25-s01","week25-s02","week25-s04",
+        "week25-s12","week25-s13","week25-s14"
+      ],
+      "audio": "/audio/week25/chunks/week25-ch02.mp3",
+      "order": 2,
+      "tags": ["goal"],
+      "level": "A2"
+    }
+  ]
+}

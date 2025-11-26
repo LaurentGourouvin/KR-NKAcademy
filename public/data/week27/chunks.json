@@ -1,0 +1,49 @@
+{
+  "audioBasePath": "/audio/week27/chunks/",
+  "chunks": [
+    {
+      "id": "week27-ch01",
+      "title": "Simultanéité : -(으)면서",
+      "description": "Décrire deux actions effectuées au même moment.",
+      "sentenceIds": [
+        "week27-s01",
+        "week27-s02",
+        "week27-s08"
+      ],
+      "audio": "/audio/week27/chunks/week27-ch01.mp3",
+      "order": 1,
+      "tags": ["simultane"],
+      "level": "A2"
+    },
+    {
+      "id": "week27-ch02",
+      "title": "Adverbes fréquents",
+      "description": "Décrire la fréquence d'une action.",
+      "sentenceIds": [
+        "week27-s03",
+        "week27-s04",
+        "week27-s05",
+        "week27-s06",
+        "week27-s07"
+      ],
+      "audio": "/audio/week27/chunks/week27-ch02.mp3",
+      "order": 2,
+      "tags": ["frequence"],
+      "level": "A2"
+    },
+    {
+      "id": "week27-ch03",
+      "title": "Combiner les deux",
+      "description": "Simultanéité + fréquence pour des phrases plus naturelles.",
+      "sentenceIds": [
+        "week27-s03",
+        "week27-s07",
+        "week27-s10"
+      ],
+      "audio": "/audio/week27/chunks/week27-ch03.mp3",
+      "order": 3,
+      "tags": ["combine"],
+      "level": "A2+"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week13/chunks/",
+  "chunks": [
+    {
+      "id": "week13-ch01",
+      "title": "Décrire l’apparence",
+      "description": "Taille, cheveux, lunettes, barbe.",
+      "sentenceIds": ["week13-s03", "week13-s11", "week13-s12"],
+      "audio": "/audio/week13/chunks/week13-ch01.mp3",
+      "order": 1,
+      "tags": ["apparence"],
+      "level": "A2"
+    },
+    {
+      "id": "week13-ch02",
+      "title": "Parler du caractère",
+      "description": "Gentil, enjoué, calme, chaleureux.",
+      "sentenceIds": ["week13-s04", "week13-s05", "week13-s06", "week13-s08", "week13-s13", "week13-s14"],
+      "audio": "/audio/week13/chunks/week13-ch02.mp3",
+      "order": 2,
+      "tags": ["caractère"],
+      "level": "A2"
+    },
+    {
+      "id": "week13-ch03",
+      "title": "…는 사람 (la personne qui…)",
+      "description": "Décrire quelqu’un par ce qu’il fait ou comment il est.",
+      "sentenceIds": ["week13-s04", "week13-s07", "week13-s09", "week13-s11", "week13-s14"],
+      "audio": "/audio/week13/chunks/week13-ch03.mp3",
+      "order": 3,
+      "tags": ["v-neun", "relative"],
+      "level": "A2"
+    }
+  ]
+}

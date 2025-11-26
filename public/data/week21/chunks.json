@@ -1,0 +1,28 @@
+{
+  "audioBasePath": "/audio/week21/chunks/",
+  "chunks": [
+    {
+      "id": "week21-ch01",
+      "title": "Supposer quelque chose",
+      "description": "Exprimer une impression ou supposition avec -(으)ㄹ 것 같아요.",
+      "sentenceIds": [
+        "week21-s01","week21-s02","week21-s03","week21-s04","week21-s05",
+        "week21-s07","week21-s11","week21-s12","week21-s14"
+      ],
+      "audio": "/audio/week21/chunks/week21-ch01.mp3",
+      "order": 1,
+      "tags": ["supposition"],
+      "level": "A2"
+    },
+    {
+      "id": "week21-ch02",
+      "title": "Décrire une impression",
+      "description": "On dirait que… / ça semble…",
+      "sentenceIds": ["week21-s08","week21-s09","week21-s10","week21-s13"],
+      "audio": "/audio/week21/chunks/week21-ch02.mp3",
+      "order": 2,
+      "tags": ["impression"],
+      "level": "A2"
+    }
+  ]
+}

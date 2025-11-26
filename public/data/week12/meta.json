@@ -26,5 +26,30 @@
     { "kr": "오늘", "rom": "oneul", "fr": "aujourd’hui" }
   ],
   "audioBasePath": "/audio/week12/",
-  "notes": "Semaine pivot avec introduction d’une grammaire très fréquente : -아/어야 해요 (obligation)."
+  "notes": "Semaine pivot avec introduction d’une grammaire très fréquente : -아/어야 해요 (obligation).",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week12-dialog01"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week12-ch01", "week12-ch02", "week12-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week12-ch01", "week12-ch02", "week12-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week12-ex01", "week12-ex02"]
+  },
+  {
+    "type": "vocabulary"
+  },
+  {
+    "type": "grammar"
+  }
+]
+
 }

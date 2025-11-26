@@ -33,5 +33,30 @@
     { "kr": "빵", "rom": "ppang", "fr": "pain" }
   ],
   "audioBasePath": "/audio/week08/",
-  "notes": "Semaine centrée sur les achats : prix, quantités, compteurs et phrases de base en magasin."
+  "notes": "Semaine centrée sur les achats : prix, quantités, compteurs et phrases de base en magasin.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week08-dialog01"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week08-ch01", "week08-ch02", "week08-ch03", "week08-ch04"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week08-ch01", "week08-ch02", "week08-ch03", "week08-ch04"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week08-ex01", "week08-ex02", "week08-ex03", "week08-ex04", "week08-ex05"]
+  },
+  {
+    "type": "vocabulary"
+  },
+  {
+    "type": "grammar"
+  }
+]
+
 }

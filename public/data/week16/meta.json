@@ -1,0 +1,52 @@
+{
+  "week": 16,
+  "title": "Exprimer son expérience",
+  "theme": "Parler de ce qu’on a déjà ou jamais fait.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Poser une question sur l'expérience passée avec -아/어 본 적 있어요?",
+    "Dire qu’on a déjà vécu/essayé quelque chose.",
+    "Dire qu’on n’a jamais essayé quelque chose."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "-아/어 본 적 있어요?",
+      "rom": "-a/eo bon jeok isseoyo?",
+      "fr": "Avez-vous déjà… ?"
+    },
+    {
+      "kr": "-아/어 본 적 없어요",
+      "rom": "-a/eo bon jeok eopsseoyo",
+      "fr": "Je n'ai jamais…"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "경험", "rom": "gyeongheom", "fr": "expérience" },
+    { "kr": "맛보다", "rom": "matboda", "fr": "goûter, essayer un plat" },
+    { "kr": "도전하다", "rom": "dojeonhada", "fr": "tenter, se challenger" },
+    { "kr": "여행하다", "rom": "yeohaenghada", "fr": "voyager" },
+    { "kr": "타다", "rom": "tada", "fr": "monter (un véhicule), faire (du vélo…)" }
+  ],
+  "audioBasePath": "/audio/week16/",
+  "notes": "Semaine pivot A2 -> B1, axée sur la narration personnelle et l’expression d’expérience.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week16-dialog01", "week16-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week16-ch01", "week16-ch02", "week16-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week16-ch01", "week16-ch02", "week16-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week16-ex01", "week16-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+}

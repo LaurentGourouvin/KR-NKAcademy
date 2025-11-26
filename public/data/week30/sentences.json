@@ -1,0 +1,95 @@
+{
+  "audioBasePath": "/audio/week30/sentences/",
+  "sentences": [
+    {
+      "id": "week30-s01",
+      "kr": "내일 일찍 일어나려고 해요.",
+      "rom": "nae-il iljjik ireonaryeogo haeyo",
+      "fr": "Je compte me lever tôt demain.",
+      "audio": "/audio/week30/sentences/week30-s01.mp3",
+      "order": 1,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week30-s02",
+      "kr": "한국어를 더 배우려고 해요.",
+      "rom": "hangugeoreul deo baeuryeogo haeyo",
+      "fr": "Je prévois d’apprendre plus de coréen.",
+      "audio": "/audio/week30/sentences/week30-s02.mp3",
+      "order": 2,
+      "tags": ["etude"]
+    },
+    {
+      "id": "week30-s03",
+      "kr": "친구를 도와주려고 해요.",
+      "rom": "chingu-reul dowajuryeogo haeyo",
+      "fr": "Je vais aider un ami.",
+      "audio": "/audio/week30/sentences/week30-s03.mp3",
+      "order": 3,
+      "tags": ["entraide"]
+    },
+    {
+      "id": "week30-s04",
+      "kr": "운동을 다시 시작하려고 해요.",
+      "rom": "undongeul dasi sijak-haryeogo haeyo",
+      "fr": "Je compte recommencer le sport.",
+      "audio": "/audio/week30/sentences/week30-s04.mp3",
+      "order": 4,
+      "tags": ["sport"]
+    },
+    {
+      "id": "week30-s05",
+      "kr": "저녁에 요리를 하려고 해요.",
+      "rom": "jeonyeoge yorireul haryeogo haeyo",
+      "fr": "Je prévois de cuisiner ce soir.",
+      "audio": "/audio/week30/sentences/week30-s05.mp3",
+      "order": 5,
+      "tags": ["cuisine"]
+    },
+    {
+      "id": "week30-s06",
+      "kr": "이번 주말에 계획을 세우려고 해요.",
+      "rom": "ibeon jumare gyehoegeul seuryogo haeyo",
+      "fr": "Je vais faire des plans ce week-end.",
+      "audio": "/audio/week30/sentences/week30-s06.mp3",
+      "order": 6,
+      "tags": ["projet"]
+    },
+    {
+      "id": "week30-s07",
+      "kr": "아침에 책을 읽으려고 해요.",
+      "rom": "achime chaegeul ilgeuryeogo haeyo",
+      "fr": "Je vais essayer de lire un livre le matin.",
+      "audio": "/audio/week30/sentences/week30-s07.mp3",
+      "order": 7,
+      "tags": ["lecture"]
+    },
+    {
+      "id": "week30-s08",
+      "kr": "더 건강하게 살려고 해요.",
+      "rom": "deo geonganghage salryeogo haeyo",
+      "fr": "Je veux vivre plus sainement.",
+      "audio": "/audio/week30/sentences/week30-s08.mp3",
+      "order": 8,
+      "tags": ["sante"]
+    },
+    {
+      "id": "week30-s09",
+      "kr": "친구랑 여행을 가려고 해요.",
+      "rom": "chingurang yeohaengeul garyeogo haeyo",
+      "fr": "Je prévois de partir en voyage avec un ami.",
+      "audio": "/audio/week30/sentences/week30-s09.mp3",
+      "order": 9,
+      "tags": ["voyage"]
+    },
+    {
+      "id": "week30-s10",
+      "kr": "새로운 취미를 시작하려고 해요.",
+      "rom": "saeroun chwimireul sijak-haryeogo haeyo",
+      "fr": "J’ai l’intention de commencer un nouveau hobby.",
+      "audio": "/audio/week30/sentences/week30-s10.mp3",
+      "order": 10,
+      "tags": ["hobby"]
+    }
+  ]
+}

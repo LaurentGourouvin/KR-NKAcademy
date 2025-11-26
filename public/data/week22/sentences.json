@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week22/sentences/",
+  "sentences": [
+    {
+      "id": "week22-s01",
+      "kr": "한국에 가 본 적이 있어요.",
+      "rom": "hanguge ga bon jeogi isseoyo",
+      "fr": "Je suis déjà allé en Corée.",
+      "audio": "/audio/week22/sentences/week22-s01.mp3",
+      "order": 1,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week22-s02",
+      "kr": "김치를 먹어 본 적이 있어요.",
+      "rom": "gimchireul meogeo bon jeogi isseoyo",
+      "fr": "J’ai déjà mangé du kimchi.",
+      "audio": "/audio/week22/sentences/week22-s02.mp3",
+      "order": 2,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week22-s03",
+      "kr": "한국 드라마를 본 적이 있어요.",
+      "rom": "hanguk deuramareul bon jeogi isseoyo",
+      "fr": "J’ai déjà regardé un drama coréen.",
+      "audio": "/audio/week22/sentences/week22-s03.mp3",
+      "order": 3,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week22-s04",
+      "kr": "한복을 입어 본 적이 있어요.",
+      "rom": "hanbogeul ibeo bon jeogi isseoyo",
+      "fr": "J’ai déjà essayé un hanbok.",
+      "audio": "/audio/week22/sentences/week22-s04.mp3",
+      "order": 4,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week22-s05",
+      "kr": "한국어로 말해 본 적이 있어요.",
+      "rom": "hangugeoro malhae bon jeogi isseoyo",
+      "fr": "J’ai déjà parlé en coréen.",
+      "audio": "/audio/week22/sentences/week22-s05.mp3",
+      "order": 5,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week22-s06",
+      "kr": "산에 올라가 본 적이 있어요.",
+      "rom": "sane ollaga bon jeogi isseoyo",
+      "fr": "Je suis déjà monté en montagne.",
+      "audio": "/audio/week22/sentences/week22-s06.mp3",
+      "order": 6,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week22-s07",
+      "kr": "혼자 여행해 본 적이 있어요.",
+      "rom": "honja yeohaenghae bon jeogi isseoyo",
+      "fr": "J’ai déjà voyagé seul.",
+      "audio": "/audio/week22/sentences/week22-s07.mp3",
+      "order": 7,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week22-s08",
+      "kr": "그 영화를 본 적이 없어요.",
+      "rom": "geu yeonghwareul bon jeogi eopseoyo",
+      "fr": "Je n’ai jamais vu ce film.",
+      "audio": "/audio/week22/sentences/week22-s08.mp3",
+      "order": 8,
+      "tags": ["negation"]
+    },
+    {
+      "id": "week22-s09",
+      "kr": "한국 음식을 만들어 본 적이 없어요.",
+      "rom": "hanguk eumsigeul mandeureo bon jeogi eopseoyo",
+      "fr": "Je n’ai jamais cuisiné de nourriture coréenne.",
+      "audio": "/audio/week22/sentences/week22-s09.mp3",
+      "order": 9,
+      "tags": ["negation"]
+    },
+    {
+      "id": "week22-s10",
+      "kr": "이 박물관에 와 본 적이 있어요.",
+      "rom": "i bakmulgwane wa bon jeogi isseoyo",
+      "fr": "Je suis déjà venu dans ce musée.",
+      "audio": "/audio/week22/sentences/week22-s10.mp3",
+      "order": 10,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week22-s11",
+      "kr": "재미있는 활동을 해 본 적이 있어요.",
+      "rom": "jaemiinneun hwaldongeul hae bon jeogi isseoyo",
+      "fr": "J’ai déjà fait une activité amusante.",
+      "audio": "/audio/week22/sentences/week22-s11.mp3",
+      "order": 11,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week22-s12",
+      "kr": "한국어 시험을 쳐 본 적이 있어요.",
+      "rom": "hangugeo siheomeul chyeo bon jeogi isseoyo",
+      "fr": "J’ai déjà passé un examen de coréen.",
+      "audio": "/audio/week22/sentences/week22-s12.mp3",
+      "order": 12,
+      "tags": ["experience"]
+    },
+    {
+      "id": "week22-s13",
+      "kr": "매운 음식을 먹어 본 적이 없어요.",
+      "rom": "maeun eumsigeul meogeo bon jeogi eopseoyo",
+      "fr": "Je n’ai jamais mangé de nourriture épicée.",
+      "audio": "/audio/week22/sentences/week22-s13.mp3",
+      "order": 13,
+      "tags": ["negation"]
+    },
+    {
+      "id": "week22-s14",
+      "kr": "한국 친구를 만나 본 적이 있어요.",
+      "rom": "hanguk chingureul manna bon jeogi isseoyo",
+      "fr": "J’ai déjà rencontré un ami coréen.",
+      "audio": "/audio/week22/sentences/week22-s14.mp3",
+      "order": 14,
+      "tags": ["experience"]
+    }
+  ]
+}

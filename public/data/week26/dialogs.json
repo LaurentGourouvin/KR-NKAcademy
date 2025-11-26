@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week26-dialog01",
+      "title": "Je suis en retard parce qu’il y a des embouteillages",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week26", "cause"],
+      "audioFull": "/audio/week26/dialogs/week26-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week26-dialog01-t01",
+          "speaker": "민지",
+          "sentenceId": "week26-s02",
+          "kr": "길이 막히니까 조금 늦을 것 같아요.",
+          "rom": "giri makinikka jogeum neujeul geot gatayo",
+          "fr": "Comme il y a des embouteillages, je pense que je vais être un peu en retard.",
+          "audio": "/audio/week26/dialogs/week26-dialog01-t01.mp3"
+        },
+        {
+          "id": "week26-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week26-s06",
+          "kr": "회의가 있으니까 저도 일찍 가야 해요.",
+          "rom": "hoeui-ga isseunikka jeodo iljjik gaya haeyo",
+          "fr": "Comme j’ai une réunion, moi aussi je dois y aller tôt.",
+          "audio": "/audio/week26/dialogs/week26-dialog01-t02.mp3"
+        },
+        {
+          "id": "week26-dialog01-t03",
+          "speaker": "민지",
+          "sentenceId": "week26-s01",
+          "kr": "비가 오니까 우산도 가져가요.",
+          "rom": "biga onikka usando gajyeogayo",
+          "fr": "Comme il pleut, prends aussi un parapluie.",
+          "audio": "/audio/week26/dialogs/week26-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week26-dialog02",
+      "title": "Comme il fait beau…",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week26", "suggestion"],
+      "audioFull": "/audio/week26/dialogs/week26-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week26-dialog02-t01",
+          "speaker": "로랑",
+          "sentenceId": "week26-s07",
+          "kr": "날씨가 좋으니까 산책할까요?",
+          "rom": "nalssiga joeunikka sanchaekhalkkayo",
+          "fr": "Comme il fait beau, on va se promener ?",
+          "audio": "/audio/week26/dialogs/week26-dialog02-t01.mp3"
+        },
+        {
+          "id": "week26-dialog02-t02",
+          "speaker": "민지",
+          "sentenceId": "week26-s12",
+          "kr": "기분이 좋으니까 음악도 듣고 싶어요.",
+          "rom": "gibuni joeunikka eumakdo deutgo sipeoyo",
+          "fr": "Comme je suis de bonne humeur, j’ai aussi envie d’écouter de la musique.",
+          "audio": "/audio/week26/dialogs/week26-dialog02-t02.mp3"
+        },
+        {
+          "id": "week26-dialog02-t03",
+          "speaker": "로랑",
+          "sentenceId": "week26-s14",
+          "kr": "멀으니까 버스를 타는 게 좋아요.",
+          "rom": "meoreunikka beoseureul taneun ge joayo",
+          "fr": "Comme c’est loin, c’est mieux de prendre le bus.",
+          "audio": "/audio/week26/dialogs/week26-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

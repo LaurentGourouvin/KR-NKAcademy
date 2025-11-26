@@ -39,5 +39,29 @@
     { "kr": "사람", "rom": "saram", "fr": "personne" }
   ],
   "audioBasePath": "/audio/week02/",
-  "notes": "Semaine centrée sur l’âge, l’origine et le métier avec les particules 은/는 et 이/가. Toujours en 존댓말 (요-form)."
+  "notes": "Semaine centrée sur l’âge, l’origine et le métier avec les particules 은/는 et 이/가. Toujours en 존댓말 (요-form).",
+  "sequence": [
+    {
+      "type": "dialog",
+      "ids": ["week02-dialog01"]
+    },
+    {
+      "type": "chunks",
+      "ids": ["week02-ch01", "week02-ch02", "week02-ch03"]
+    },
+    {
+      "type": "sentences",
+      "chunkIds": ["week02-ch01", "week02-ch02", "week02-ch03"]
+    },
+    {
+      "type": "exercises",
+      "ids": ["week02-ex01", "week02-ex02", "week02-ex03", "week02-ex04", "week02-ex05"]
+    },
+    {
+      "type": "vocabulary"
+    },
+    {
+      "type": "grammar"
+    }
+  ]
 }

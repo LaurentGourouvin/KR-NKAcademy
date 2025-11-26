@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week15/sentences/",
+  "sentences": [
+    {
+      "id": "week15-s01",
+      "kr": "주말에 친구를 만나려고 해요.",
+      "rom": "jumare chingureul mannaryeogo haeyo",
+      "fr": "J’ai l’intention de rencontrer un ami ce week-end.",
+      "audio": "/audio/week15/sentences/week15-s01.mp3",
+      "order": 1,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week15-s02",
+      "kr": "내일은 집에서 쉴 거예요.",
+      "rom": "naeireun jibeseo swil geoyeyo",
+      "fr": "Demain, je vais me reposer à la maison.",
+      "audio": "/audio/week15/sentences/week15-s02.mp3",
+      "order": 2,
+      "tags": ["futur"]
+    },
+    {
+      "id": "week15-s03",
+      "kr": "한국어를 더 열심히 공부하려고 해요.",
+      "rom": "hangugeoreul deo yeolsimhi gongbuha-ryeogo haeyo",
+      "fr": "J’ai l’intention d’étudier le coréen plus sérieusement.",
+      "audio": "/audio/week15/sentences/week15-s03.mp3",
+      "order": 3,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week15-s04",
+      "kr": "오늘 저녁에 영화를 볼 거예요.",
+      "rom": "oneul jeonyeoge yeonghwareul bol geoyeyo",
+      "fr": "Ce soir, je vais regarder un film.",
+      "audio": "/audio/week15/sentences/week15-s04.mp3",
+      "order": 4,
+      "tags": ["futur"]
+    },
+    {
+      "id": "week15-s05",
+      "kr": "새 카메라를 사려고 해요.",
+      "rom": "sae kamera-reul saryeogo haeyo",
+      "fr": "J’ai l’intention d’acheter un nouvel appareil photo.",
+      "audio": "/audio/week15/sentences/week15-s05.mp3",
+      "order": 5,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week15-s06",
+      "kr": "다음 주에 여행을 떠날 거예요.",
+      "rom": "daeum jue yeohaengeul tteonal geoyeyo",
+      "fr": "La semaine prochaine, je partirai en voyage.",
+      "audio": "/audio/week15/sentences/week15-s06.mp3",
+      "order": 6,
+      "tags": ["futur"]
+    },
+    {
+      "id": "week15-s07",
+      "kr": "사진을 많이 찍으려고 해요.",
+      "rom": "sajineul mani jjigeuryeogo haeyo",
+      "fr": "J’ai l’intention de prendre beaucoup de photos.",
+      "audio": "/audio/week15/sentences/week15-s07.mp3",
+      "order": 7,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week15-s08",
+      "kr": "저는 운동을 시작할 거예요.",
+      "rom": "jeoneun undongeul sijakhal geoyeyo",
+      "fr": "Je vais commencer le sport.",
+      "audio": "/audio/week15/sentences/week15-s08.mp3",
+      "order": 8,
+      "tags": ["futur"]
+    },
+    {
+      "id": "week15-s09",
+      "kr": "오늘은 일찍 잘 거예요.",
+      "rom": "oneureun iljjik jal geoyeyo",
+      "fr": "Aujourd’hui, je vais me coucher tôt.",
+      "audio": "/audio/week15/sentences/week15-s09.mp3",
+      "order": 9,
+      "tags": ["futur"]
+    },
+    {
+      "id": "week15-s10",
+      "kr": "저녁에 요리를 하려고 해요.",
+      "rom": "jeonyeoge yorireul haryeogo haeyo",
+      "fr": "J’ai l’intention de cuisiner ce soir.",
+      "audio": "/audio/week15/sentences/week15-s10.mp3",
+      "order": 10,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week15-s11",
+      "kr": "친구 생일 선물을 준비하려고 해요.",
+      "rom": "chingu saengil seonmureul junbiharyeogo haeyo",
+      "fr": "Je vais préparer un cadeau d’anniversaire pour un ami.",
+      "audio": "/audio/week15/sentences/week15-s11.mp3",
+      "order": 11,
+      "tags": ["intention"]
+    },
+    {
+      "id": "week15-s12",
+      "kr": "곧 비가 올 거예요.",
+      "rom": "got biga ol geoyeyo",
+      "fr": "Il va bientôt pleuvoir.",
+      "audio": "/audio/week15/sentences/week15-s12.mp3",
+      "order": 12,
+      "tags": ["futur"]
+    },
+    {
+      "id": "week15-s13",
+      "kr": "회의가 끝나면 바로 나갈 거예요.",
+      "rom": "hoeui-ga kkeutnamyeon baro nagal geoyeyo",
+      "fr": "Quand la réunion sera terminée, je partirai tout de suite.",
+      "audio": "/audio/week15/sentences/week15-s13.mp3",
+      "order": 13,
+      "tags": ["futur"]
+    },
+    {
+      "id": "week15-s14",
+      "kr": "이번 달에 새로운 취미를 시작하려고 해요.",
+      "rom": "ibeon dare saeroun chwimireul sijak-haryeogo haeyo",
+      "fr": "Ce mois-ci, j’ai l’intention de commencer un nouveau hobby.",
+      "audio": "/audio/week15/sentences/week15-s14.mp3",
+      "order": 14,
+      "tags": ["intention"]
+    }
+  ]
+}

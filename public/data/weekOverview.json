@@ -8,7 +8,7 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week01/",
       "tooltip": "Se présenter simplement.",
-      "image": "/assets/images/week01/card.jpg"
+      "image": "/assets/images/week01/card2.jpg"
     },
     {
       "week": 2,
@@ -18,7 +18,7 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week02/",
       "tooltip": "Âge, origine, métier.",
-      "image": "/assets/images/week02/card.jpg"
+      "image": "/assets/images/week02/card3.jpg"
     },
     {
       "week": 3,
@@ -28,7 +28,7 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week03/",
       "tooltip": "Famille et structures 있어요 / 없어요.",
-      "image": "/assets/images/week03/card.jpg"
+      "image": "/assets/images/week03/card2.jpg"
     },
     {
       "week": 4,
@@ -38,7 +38,7 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week04/",
       "tooltip": "Goûts, nourriture, activités.",
-      "image": "/assets/images/week04/card.jpg"
+      "image": "/assets/images/week04/card2.jpg"
 
     },   
     {
@@ -49,7 +49,7 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week05/",
       "tooltip": "Commander poliment au café/restaurant.",
-      "image": "/assets/images/week05/card.jpg"
+      "image": "/assets/images/week05/card2.jpg"
     },
     {
       "week": 6,
@@ -59,7 +59,7 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week06/",
       "tooltip": "Décrire sa routine avec l’heure.",
-      "image": "/assets/images/week06/card.jpg"
+      "image": "/assets/images/week06/card2.jpg"
     },    
     {
       "week": 7,
@@ -69,7 +69,7 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week07/",
       "tooltip": "Transports et directions simples.",
-      "image": "/assets/images/week07/card3.jpg"
+      "image": "/assets/images/week07/card4.jpg"
 
     },
     {
@@ -80,7 +80,7 @@
       "difficulty": "A1",
       "audioBasePath": "/audio/week08/",
       "tooltip": "Achat, prix et quantités.",
-      "image": "/assets/images/week08/card3.jpg"
+      "image": "/assets/images/week08/card4.jpg"
     },
     {
       "week": 9,
@@ -89,7 +89,8 @@
       "summary": "Proposer une sortie, accepter/refuser poliment et fixer un moment.",
       "difficulty": "A1",
       "audioBasePath": "/audio/week09/",
-      "tooltip": "Invitations simples."
+      "tooltip": "Invitations simples.",
+      "image": "/assets/images/week09/card.jpg"
     },
     {
       "week": 10,
@@ -98,7 +99,8 @@
       "summary": "Décrire sa maison et dire où sont les objets avec 에 / 에 있어요.",
       "difficulty": "A1",
       "audioBasePath": "/audio/week10/",
-      "tooltip": "Maison & localisation."
+      "tooltip": "Maison & localisation.",
+      "image": "/assets/images/week10/card.jpeg"
     },
     {
       "week": 11,
@@ -107,7 +109,8 @@
       "summary": "Exprimer une douleur, décrire un symptôme simple et demander de l’aide.",
       "difficulty": "A1",
       "audioBasePath": "/audio/week11/",
-      "tooltip": "Dire où on a mal."
+      "tooltip": "Dire où on a mal.",
+      "image": "/assets/images/week11/card.jpeg"
     },
     {
       "week": 12,
@@ -116,7 +119,198 @@
       "summary": "Exprimer ce qu’on doit faire avec -아/어야 해요 (obligations).",
       "difficulty": "A1",
       "audioBasePath": "/audio/week12/",
-      "tooltip": "Dire ce qu’on doit faire."
+      "tooltip": "Dire ce qu’on doit faire.",
+      "image": "/assets/images/week12/card.jpg"
+    },
+    {
+      "week": 13,
+      "slug": "describing-people",
+      "title": "Décrire des personnes (apparence & caractère)",
+      "summary": "Décrire l’apparence et le caractère d’une personne avec des adjectifs et la structure …는 사람.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week13/",
+      "tooltip": "Décrire quelqu’un simplement.",
+      "image": "/assets/images/week13/card.jpg"
+    },
+    {
+      "week": 14,
+      "slug": "obligation-interdiction",
+      "title": "Obligations & interdictions",
+      "summary": "Apprendre à dire ce qu’il faut faire et ce qui est interdit.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week14/",
+      "tooltip": "Dire « il faut… » et « il ne faut pas… »",
+      "image": "/assets/images/week14/card.jpg"
+    },
+    {
+      "week": 15,
+      "slug": "intention-futur",
+      "title": "Intention & futur",
+      "summary": "Dire ce qu’on va faire et exprimer son intention.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week15/",
+      "tooltip": "Exprimer un plan ou une intention.",
+      "image": "/assets/images/week15/card.jpeg"
+    },
+    {
+      "week": 16,
+      "slug": "experience-deja-jamais",
+      "title": "Expérience : déjà / jamais",
+      "summary": "Exprimer ce qu’on a déjà fait ou jamais fait.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week16/",
+      "tooltip": "Structure essentielle pour raconter des expériences.",
+      "image": "/assets/images/week16/card.jpg"
+    },
+    {
+      "week": 17,
+      "slug": "comparaison-plus-moins",
+      "title": "Comparer : plus / moins",
+      "summary": "Exprimer une comparaison simple avec -보다.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week17/",
+      "tooltip": "Plus / moins que.",
+      "image": "/assets/images/week17/card.jpg"
+    },
+    {
+      "week": 18,
+      "slug": "superlatifs-le-plus",
+      "title": "Superlatifs : le plus / le moins",
+      "summary": "Exprimer ce qui est le plus ou le moins dans une catégorie.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week18/",
+      "tooltip": "Le plus / le moins.",
+      "image": "/assets/images/week18/card.jpg"
+    },
+    {
+      "week": 19,
+      "slug": "cause-consequence",
+      "title": "Cause & Conséquence",
+      "summary": "Exprimer une cause simple et une raison plus explicite.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week19/",
+      "tooltip": "Parce que...",
+      "image": "/assets/images/week19/card.jpg"
+    },
+    {
+      "week": 20,
+      "slug": "intention-but",
+      "title": "Intention & But",
+      "summary": "Exprimer un plan, une intention ou un déplacement motivé.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week20/",
+      "tooltip": "Pour… / afin de…",
+      "image": "/assets/images/week20/card.jpg"
+    },
+    {
+      "week": 21,
+      "slug": "supposition-geot-gatayo",
+      "title": "Supposition : -(으)ㄹ 것 같아요",
+      "summary": "Exprimer une impression ou une supposition avec -(으)ㄹ 것 같아요.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week21/",
+      "tooltip": "Je pense que…, on dirait que…",
+      "image": "/assets/images/week21/card.jpg"
+    },
+    {
+      "week": 22,
+      "slug": "experience-bon-jeogi-isseoyo",
+      "title": "Exprimer une expérience : -아/어 본 적이 있어요",
+      "summary": "Apprendre à dire que l’on a déjà fait quelque chose et à parler de ses expériences.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week22/",
+      "tooltip": "J’ai déjà… / Je n’ai jamais…",
+      "image": "/assets/images/week22/card.jpg"
+    },
+    {
+      "week": 23,
+      "slug": "obligation-haeya-haeyo",
+      "title": "Exprimer l’obligation : -아/어야 해요",
+      "summary": "Apprendre à dire ce qu'il faut faire ou ce qu'on doit faire.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week23/",
+      "tooltip": "Je dois… / Il faut…",
+      "image": "/assets/images/week23/card.jpg"
+    },
+    {
+      "week": 24,
+      "slug": "interdiction-an-dwaeyo",
+      "title": "Exprimer l’interdiction : -(으)면 안 돼요",
+      "summary": "Savoir dire ce qu'il ne faut pas faire dans la vie quotidienne.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week24/",
+      "tooltip": "Il ne faut pas…",
+      "image": "/assets/images/week24/card.jpg"
+    },
+    {
+      "week": 25,
+      "slug": "objectif-reyeogo",
+      "title": "Exprimer le but : -(으)려고 / -(으)러",
+      "summary": "Exprimer une intention ou un but, avec ou sans déplacement.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week25/",
+      "tooltip": "Pour… / afin de…",
+      "image": "/assets/images/week25/card2.jpg"
+    },
+    {
+      "week": 26,
+      "slug": "cause-eunikka",
+      "title": "Exprimer la cause : -(으)니까",
+      "summary": "Expliquer une cause ou une raison avec -(으)니까, et relier cette cause à une décision ou un conseil.",
+      "difficulty": "A2",
+      "audioBasePath": "/audio/week26/",
+      "tooltip": "Parce que…, comme…",
+      "image": "/assets/images/week26/card.jpg"
+    },
+    {
+      "week": 27,
+      "slug": "eumyeonseo-adv",
+      "title": "Action simultanée : -(으)면서 + adverbes fréquents",
+      "summary": "Exprimer deux actions simultanées avec -(으)면서 et enrichir ses phrases grâce aux adverbes fréquents.",
+      "difficulty": "A2+",
+      "audioBasePath": "/audio/week27/",
+      "tooltip": "en faisant…, tout en…, souvent / parfois…",
+      "image": "/assets/images/week27/card.jpg"
+    },
+    {
+      "week": 28,
+      "slug": "try-aeo-boda",
+      "title": "Essayer quelque chose : -(아/어) 보다",
+      "summary": "Découvrir comment exprimer l’idée d’essayer quelque chose ou de tester une nouvelle expérience avec -(아/어) 보다.",
+      "difficulty": "A2+",
+      "audioBasePath": "/audio/week28/",
+      "tooltip": "Essayer de…, tester…",
+      "image": "/assets/images/week28/card.jpg"
+    },
+    {
+      "week": 29,
+      "slug": "reported-speech-dago",
+      "title": "Rapporter ce que les gens disent : -다고 해요",
+      "summary": "Apprendre à rapporter ce que les autres disent à propos des dramas, de la météo ou des lieux.",
+      "difficulty": "A2+",
+      "audioBasePath": "/audio/week29/",
+      "tooltip": "On dit que…, il a dit que…",
+      "image": "/assets/images/week29/card.jpg"
+    },
+    {
+      "week": 30,
+      "slug": "intention-eu-ryeogo",
+      "title": "Exprimer l’intention : -(으)려고 해요",
+      "summary": "Apprendre à exprimer ses plans, ses projets et ses intentions dans un futur proche.",
+      "difficulty": "A2+",
+      "audioBasePath": "/audio/week30/",
+      "tooltip": "Je compte… / J’ai l’intention de…",
+      "image": "/assets/images/week30/card.jpg"
+    },
+    {
+      "week": 31,
+      "slug": "intention-and-moment",
+      "title": "Intention forte et moment : -(으)려고 하다 / -(으)ㄹ 때",
+      "summary": "Exprimer que vous êtes sur le point de faire quelque chose et décrire des actions qui se produisent ‘quand…’.",
+      "difficulty": "A2+",
+      "audioBasePath": "/audio/week31/",
+      "tooltip": "Quand…, sur le point de…",
+      "image": "/assets/images/week31/card.jpg"
     }
   ]
 }

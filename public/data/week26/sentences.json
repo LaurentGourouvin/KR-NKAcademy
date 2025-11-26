@@ -1,0 +1,131 @@
+{
+  "audioBasePath": "/audio/week26/sentences/",
+  "sentences": [
+    {
+      "id": "week26-s01",
+      "kr": "비가 오니까 집에 있을 거예요.",
+      "rom": "biga onikka jibe iseul geoyeyo",
+      "fr": "Comme il pleut, je vais rester à la maison.",
+      "audio": "/audio/week26/sentences/week26-s01.mp3",
+      "order": 1,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week26-s02",
+      "kr": "길이 막히니까 조금 늦을 것 같아요.",
+      "rom": "giri makinikka jogeum neujeul geot gatayo",
+      "fr": "Comme il y a des embouteillages, je pense que je vais être un peu en retard.",
+      "audio": "/audio/week26/sentences/week26-s02.mp3",
+      "order": 2,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week26-s03",
+      "kr": "피곤하니까 오늘은 쉬어요.",
+      "rom": "pigonhanikka oneureun swieoyo",
+      "fr": "Comme je suis fatigué, je me repose aujourd’hui.",
+      "audio": "/audio/week26/sentences/week26-s03.mp3",
+      "order": 3,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week26-s04",
+      "kr": "시간이 없으니까 택시를 탈게요.",
+      "rom": "sigani eopseunikka taeksireul talgeyo",
+      "fr": "Comme je n’ai pas le temps, je vais prendre un taxi.",
+      "audio": "/audio/week26/sentences/week26-s04.mp3",
+      "order": 4,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week26-s05",
+      "kr": "내일 시험이 있으니까 오늘 열심히 공부해요.",
+      "rom": "nae-il siheomi isseunikka oneul yeolsimhi gongbuhaeyo",
+      "fr": "Comme j’ai un examen demain, j’étudie sérieusement aujourd’hui.",
+      "audio": "/audio/week26/sentences/week26-s05.mp3",
+      "order": 5,
+      "tags": ["study"]
+    },
+    {
+      "id": "week26-s06",
+      "kr": "회의가 있으니까 일찍 가야 해요.",
+      "rom": "hoeui-ga isseunikka iljjik gaya haeyo",
+      "fr": "Comme j’ai une réunion, je dois y aller tôt.",
+      "audio": "/audio/week26/sentences/week26-s06.mp3",
+      "order": 6,
+      "tags": ["work"]
+    },
+    {
+      "id": "week26-s07",
+      "kr": "날씨가 좋으니까 산책할까요?",
+      "rom": "nalssiga joeunikka sanchaekhalkkayo",
+      "fr": "Comme il fait beau, on va se promener ?",
+      "audio": "/audio/week26/sentences/week26-s07.mp3",
+      "order": 7,
+      "tags": ["suggestion"]
+    },
+    {
+      "id": "week26-s08",
+      "kr": "배가 고프니까 밥을 먹어요.",
+      "rom": "baega gopeunikka babeul meogeoyo",
+      "fr": "Comme j’ai faim, je mange.",
+      "audio": "/audio/week26/sentences/week26-s08.mp3",
+      "order": 8,
+      "tags": ["cause"]
+    },
+    {
+      "id": "week26-s09",
+      "kr": "숙제가 많으니까 오늘은 못 나가요.",
+      "rom": "sukjega maneunikka oneureun mot nagayo",
+      "fr": "Comme j’ai beaucoup de devoirs, je ne peux pas sortir aujourd’hui.",
+      "audio": "/audio/week26/sentences/week26-s09.mp3",
+      "order": 9,
+      "tags": ["study"]
+    },
+    {
+      "id": "week26-s10",
+      "kr": "비싸니까 다른 가게에 가 봐요.",
+      "rom": "bissanikka dareun gage-e ga bwayo",
+      "fr": "Comme c’est cher, allons dans un autre magasin.",
+      "audio": "/audio/week26/sentences/week26-s10.mp3",
+      "order": 10,
+      "tags": ["shopping"]
+    },
+    {
+      "id": "week26-s11",
+      "kr": "사람이 많으니까 조금만 기다려요.",
+      "rom": "sarami maneunikka jogeumman gidaryeoyo",
+      "fr": "Comme il y a beaucoup de monde, attendons un peu.",
+      "audio": "/audio/week26/sentences/week26-s11.mp3",
+      "order": 11,
+      "tags": ["situation"]
+    },
+    {
+      "id": "week26-s12",
+      "kr": "기분이 좋으니까 음악을 듣고 싶어요.",
+      "rom": "gibuni joeunikka eumageul deutgo sipeoyo",
+      "fr": "Comme je suis de bonne humeur, j’ai envie d’écouter de la musique.",
+      "audio": "/audio/week26/sentences/week26-s12.mp3",
+      "order": 12,
+      "tags": ["mood"]
+    },
+    {
+      "id": "week26-s13",
+      "kr": "바쁘니까 나중에 이야기해요.",
+      "rom": "bappeunikka najunge iyagiihaeyo",
+      "fr": "Comme je suis occupé, parlons-en plus tard.",
+      "audio": "/audio/week26/sentences/week26-s13.mp3",
+      "order": 13,
+      "tags": ["work"]
+    },
+    {
+      "id": "week26-s14",
+      "kr": "멀으니까 버스를 타는 게 좋아요.",
+      "rom": "meoreunikka beoseureul taneun ge joayo",
+      "fr": "Comme c’est loin, c’est mieux de prendre le bus.",
+      "audio": "/audio/week26/sentences/week26-s14.mp3",
+      "order": 14,
+      "tags": ["advice"]
+    }
+  ]
+}

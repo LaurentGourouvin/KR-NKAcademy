@@ -1,0 +1,53 @@
+{
+  "week": 17,
+  "title": "Comparer : plus / moins que",
+  "theme": "Comparer des objets, des personnes et des actions.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -보다 pour exprimer 'plus ... que'.",
+    "Exprimer la comparaison simple d’adjectifs et verbes.",
+    "Dire que quelque chose est moins ou plus que quelque chose d’autre."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "A보다 B...",
+      "rom": "A boda B...",
+      "fr": "B est plus ... que A"
+    },
+    {
+      "kr": "더 / 덜",
+      "rom": "deo / deol",
+      "fr": "Plus / Moins"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "더", "rom": "deo", "fr": "plus" },
+    { "kr": "덜", "rom": "deol", "fr": "moins" },
+    { "kr": "비교하다", "rom": "bigyohada", "fr": "comparer" },
+    { "kr": "싸다", "rom": "ssada", "fr": "être pas cher" },
+    { "kr": "빠르다", "rom": "ppareuda", "fr": "être rapide" }
+  ],
+  "audioBasePath": "/audio/week17/",
+  "notes": "Première semaine de comparaison. Base indispensable avant les comparatifs complexes du niveau B1.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week17-dialog01", "week17-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week17-ch01", "week17-ch02", "week17-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week17-ch01", "week17-ch02", "week17-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week17-ex01", "week17-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+
+}

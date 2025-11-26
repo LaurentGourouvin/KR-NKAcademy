@@ -1,0 +1,114 @@
+{
+  "dialogs": [
+    {
+      "id": "week13-dialog01",
+      "title": "Décrire la nouvelle personne",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week13", "people", "description"],
+      "audioFull": "/audio/week13/dialogs/week13-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week13-dialog01-t01",
+          "speaker": "민지",
+          "sentenceId": "week13-s01",
+          "kr": "새로 온 사람 봤어요?",
+          "rom": "saero on saram bwasseoyo?",
+          "fr": "Tu as vu la nouvelle personne ?",
+          "audio": "/audio/week13/dialogs/week13-dialog01-t01.mp3"
+        },
+        {
+          "id": "week13-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week13-s02",
+          "kr": "아니요, 아직 못 봤어요.",
+          "rom": "aniyo, ajik mot bwasseoyo",
+          "fr": "Non, pas encore.",
+          "audio": "/audio/week13/dialogs/week13-dialog01-t02.mp3"
+        },
+        {
+          "id": "week13-dialog01-t03",
+          "speaker": "민지",
+          "sentenceId": "week13-s03",
+          "kr": "키가 크고 머리가 짧은 사람이에요.",
+          "rom": "kiga keugo meoriga jjalbeun saram-ieyo",
+          "fr": "C’est une personne grande avec les cheveux courts.",
+          "audio": "/audio/week13/dialogs/week13-dialog01-t03.mp3"
+        },
+        {
+          "id": "week13-dialog01-t04",
+          "speaker": "민지",
+          "sentenceId": "week13-s04",
+          "kr": "항상 웃는 사람이에요.",
+          "rom": "hangsang utneun saram-ieyo",
+          "fr": "C’est une personne qui sourit tout le temps.",
+          "audio": "/audio/week13/dialogs/week13-dialog01-t04.mp3"
+        },
+        {
+          "id": "week13-dialog01-t05",
+          "speaker": "로랑",
+          "sentenceId": "week13-s05",
+          "kr": "밝은 사람을 좋아해요.",
+          "rom": "balgeun sarameul joahaeyo",
+          "fr": "J’aime les personnes enjouées.",
+          "audio": "/audio/week13/dialogs/week13-dialog01-t05.mp3"
+        },
+        {
+          "id": "week13-dialog01-t06",
+          "speaker": "민지",
+          "sentenceId": "week13-s06",
+          "kr": "정말 친절한 사람이에요.",
+          "rom": "jeongmal chinjeolhan saram-ieyo",
+          "fr": "C’est une personne vraiment gentille.",
+          "audio": "/audio/week13/dialogs/week13-dialog01-t06.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week13-dialog02",
+      "title": "Parler de son type de personne",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week13", "people", "préférences"],
+      "audioFull": "/audio/week13/dialogs/week13-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week13-dialog02-t01",
+          "speaker": "로랑",
+          "sentenceId": "week13-s07",
+          "kr": "책을 많이 읽는 사람을 좋아해요.",
+          "rom": "chaegeul mani ilgneun sarameul joahaeyo",
+          "fr": "J’aime les personnes qui lisent beaucoup de livres.",
+          "audio": "/audio/week13/dialogs/week13-dialog02-t01.mp3"
+        },
+        {
+          "id": "week13-dialog02-t02",
+          "speaker": "민지",
+          "sentenceId": "week13-s08",
+          "kr": "조용하지만 따뜻한 사람이 좋아요.",
+          "rom": "joyonghajiman ttatteuthan sarami joayo",
+          "fr": "J’aime les personnes calmes mais chaleureuses.",
+          "audio": "/audio/week13/dialogs/week13-dialog02-t02.mp3"
+        },
+        {
+          "id": "week13-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week13-s09",
+          "kr": "새로 온 사람은 그런 사람이에요.",
+          "rom": "saero on sarameun geureon saram-ieyo",
+          "fr": "La nouvelle personne est comme ça.",
+          "audio": "/audio/week13/dialogs/week13-dialog02-t03.mp3"
+        },
+        {
+          "id": "week13-dialog02-t04",
+          "speaker": "로랑",
+          "sentenceId": "week13-s10",
+          "kr": "너무 완벽한 사람은 없어요.",
+          "rom": "neomu wanbyeokhan sarameun eopseoyo",
+          "fr": "Il n’existe pas de personne parfaitement parfaite.",
+          "audio": "/audio/week13/dialogs/week13-dialog02-t04.mp3"
+        }
+      ]
+    }
+  ]
+}

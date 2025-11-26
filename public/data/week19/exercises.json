@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week19/exercises/",
+  "exercises": [
+    {
+      "id": "week19-ex01",
+      "title": "Choisir la bonne terminaison",
+      "type": "vocab",
+      "instructions": "Complétez avec -아서/어서 ou -기 때문에.",
+      "items": [
+        {
+          "id": "week19-ex01-i01",
+          "prompt": "피곤___ 일찍 잤어요.",
+          "options": ["해서", "기 때문에"],
+          "answer": "해서",
+          "sentenceId": "week19-s03",
+          "audio": "week19-ex01-i01.mp3"
+        },
+        {
+          "id": "week19-ex01-i02",
+          "prompt": "시험이 있___ 공부하고 있어요.",
+          "options": ["어서", "기 때문에"],
+          "answer": "기 때문에",
+          "sentenceId": "week19-s11",
+          "audio": "week19-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week19-ex02",
+      "title": "Cause ou raison ?",
+      "type": "vocab",
+      "instructions": "Sélectionnez si la phrase utilise une cause simple ou une raison explicite.",
+      "items": [
+        {
+          "id": "week19-ex02-i01",
+          "prompt": "길이 막혀서 늦었어요.",
+          "options": ["Cause simple", "Raison explicite"],
+          "answer": "Cause simple",
+          "sentenceId": "week19-s02",
+          "audio": "week19-ex02-i01.mp3"
+        },
+        {
+          "id": "week19-ex02-i02",
+          "prompt": "감기에 걸렸기 때문에 회의에 못 갔어요.",
+          "options": ["Cause simple", "Raison explicite"],
+          "answer": "Raison explicite",
+          "sentenceId": "week19-s07",
+          "audio": "week19-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week28-dialog01",
+      "title": "On essaie un nouveau restaurant",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week28", "essayer"],
+      "audioFull": "/audio/week28/dialogs/week28-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week28-dialog01-t01",
+          "speaker": "민지",
+          "sentenceId": "week28-s02",
+          "kr": "한국 음식을 먹어 보고 싶어요.",
+          "rom": "hanguk eumsigeul meogeo bogo sipeoyo",
+          "fr": "J’aimerais essayer de manger de la nourriture coréenne.",
+          "audio": "/audio/week28/dialogs/week28-dialog01-t01.mp3"
+        },
+        {
+          "id": "week28-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week28-s01",
+          "kr": "그럼 이 식당에서 한 번 먹어 보세요.",
+          "rom": "geureom i sikdang-eseo han beon meogeo boseyo",
+          "fr": "Alors essaie de manger une fois dans ce restaurant.",
+          "audio": "/audio/week28/dialogs/week28-dialog01-t02.mp3"
+        },
+        {
+          "id": "week28-dialog01-t03",
+          "speaker": "민지",
+          "sentenceId": "week28-s09",
+          "kr": "주말에는 한국 드라마를 봐 보는 것도 재미있어요.",
+          "rom": "jumare-neun hanguk deuramareul bwa boneun geotto jaemiisseoyo",
+          "fr": "Et le week-end, essayer de regarder un drama coréen, c’est amusant aussi.",
+          "audio": "/audio/week28/dialogs/week28-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week28-dialog02",
+      "title": "Essayer d’autres méthodes d’étude",
+      "speechLevel": "polite",
+      "level": "A2+",
+      "tags": ["week28", "etude"],
+      "audioFull": "/audio/week28/dialogs/week28-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week28-dialog02-t01",
+          "speaker": "로랑",
+          "sentenceId": "week28-s03",
+          "kr": "이 책을 읽어 봤어요, 그런데 좀 어려웠어요.",
+          "rom": "i chaegeul ilgeo bwasseoyo, geureonde jom eoryeowosseoyo",
+          "fr": "J’ai essayé de lire ce livre, mais c’était un peu difficile.",
+          "audio": "/audio/week28/dialogs/week28-dialog02-t01.mp3"
+        },
+        {
+          "id": "week28-dialog02-t02",
+          "speaker": "민지",
+          "sentenceId": "week28-s06",
+          "kr": "시간이 있으면 다른 방법도 한 번 생각해 보세요.",
+          "rom": "sigani isseumyeon dareun bangbeopdo han beon saenggakhae boseyo",
+          "fr": "Si tu as du temps, essaie aussi de réfléchir à une autre méthode.",
+          "audio": "/audio/week28/dialogs/week28-dialog02-t02.mp3"
+        },
+        {
+          "id": "week28-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week28-s10",
+          "kr": "한국어로 일기를 써 보면 어때요?",
+          "rom": "hangugeoro ilgireul sseo bomyeon eottaeyo",
+          "fr": "Et si tu essayais d’écrire un journal en coréen ?",
+          "audio": "/audio/week28/dialogs/week28-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

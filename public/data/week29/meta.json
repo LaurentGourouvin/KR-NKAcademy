@@ -1,0 +1,47 @@
+{
+  "week": 29,
+  "title": "Rapporter ce que les gens disent : -다고 해요",
+  "theme": "Exprimer ce que quelqu’un a dit à propos de musique, dramas ou autres sujets.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -다고 해요 pour rapporter une phrase déclarative.",
+    "Parler de ce que les amis, la famille ou les médias disent.",
+    "Comprendre des phrases fréquentes du type ‘on dit que…’."
+  ],
+  "grammarFocus": [
+    {
+      "kr": "-다고 해요 / -라고 해요",
+      "rom": "-dago haeyo / -rago haeyo",
+      "fr": "on dit que… / il a dit que… (discours rapporté simple)"
+    }
+  ],
+  "vocabulary": [
+    { "kr": "유명하다", "rom": "yumyeonghada", "fr": "être célèbre" },
+    { "kr": "인기", "rom": "ingi", "fr": "popularité" },
+    { "kr": "재미있다", "rom": "jaemiitda", "fr": "être amusant, intéressant" },
+    { "kr": "감동적이다", "rom": "gamdongjeogida", "fr": "être émouvant" },
+    { "kr": "말하다", "rom": "malhada", "fr": "dire, parler" }
+  ],
+  "audioBasePath": "/audio/week29/",
+  "notes": "On ajoute -다고 해요 après une phrase au style déclaratif pour rapporter ce que quelqu’un dit (par ex. ‘재미있어요’ → ‘재미있다고 해요’). Après un nom, on utilise -라고 해요 (‘BTS라고 해요’). Cette structure est très fréquente dans les conversations et dans le TOPIK (on rapporte ce que les gens disent, pensent ou ont entendu).",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week29-dialog01", "week29-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week29-ch01", "week29-ch02", "week29-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week29-ch01", "week29-ch02", "week29-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week29-ex01", "week29-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+}

@@ -28,5 +28,30 @@
     { "kr": "감기", "rom": "gamgi", "fr": "rhume" }
   ],
   "audioBasePath": "/audio/week11/",
-  "notes": "Semaine orientée phrases pratiques pour exprimer douleurs et symptômes simples."
+  "notes": "Semaine orientée phrases pratiques pour exprimer douleurs et symptômes simples.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week11-dialog01"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week11-ch01", "week11-ch02", "week11-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week11-ch01", "week11-ch02", "week11-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week11-ex01", "week11-ex02"]
+  },
+  {
+    "type": "vocabulary"
+  },
+  {
+    "type": "grammar"
+  }
+]
+
 }

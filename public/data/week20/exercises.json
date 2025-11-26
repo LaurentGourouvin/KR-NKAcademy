@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week20/exercises/",
+  "exercises": [
+    {
+      "id": "week20-ex01",
+      "title": "Intention ou But ?",
+      "type": "vocab",
+      "instructions": "Choisissez si la phrase exprime une intention ou un but.",
+      "items": [
+        {
+          "id": "week20-ex01-i01",
+          "prompt": "운동을 시작하려고 해요.",
+          "options": ["Intention", "But"],
+          "answer": "Intention",
+          "sentenceId": "week20-s03",
+          "audio": "week20-ex01-i01.mp3"
+        },
+        {
+          "id": "week20-ex01-i02",
+          "prompt": "빵을 사러 가요.",
+          "options": ["Intention", "But"],
+          "answer": "But",
+          "sentenceId": "week20-s04",
+          "audio": "week20-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week20-ex02",
+      "title": "Compléter la phrase",
+      "type": "vocab",
+      "instructions": "Complétez avec -(으)려고 하다 ou -(으)러 가다.",
+      "items": [
+        {
+          "id": "week20-ex02-i01",
+          "prompt": "한국어를 배우___ 해요.",
+          "options": ["려고", "러"],
+          "answer": "려고",
+          "sentenceId": "week20-s01",
+          "audio": "week20-ex02-i01.mp3"
+        },
+        {
+          "id": "week20-ex02-i02",
+          "prompt": "영화를 보___ 갈 거예요.",
+          "options": ["려고", "러"],
+          "answer": "러",
+          "sentenceId": "week20-s07",
+          "audio": "week20-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "dialogs": [
+    {
+      "id": "week14-dialog01",
+      "title": "À la bibliothèque",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week14", "interdiction"],
+      "audioFull": "/audio/week14/dialogs/week14-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week14-dialog01-t01",
+          "speaker": "직원",
+          "sentenceId": "week14-s01",
+          "kr": "여기에서는 조용히 해야 해요.",
+          "rom": "yeogieseo-neun joyonghi haeya haeyo",
+          "fr": "Ici, il faut rester silencieux.",
+          "audio": "/audio/week14/dialogs/week14-dialog01-t01.mp3"
+        },
+        {
+          "id": "week14-dialog01-t02",
+          "speaker": "로랑",
+          "sentenceId": "week14-s07",
+          "kr": "도서관에서는 먹으면 안 돼요.",
+          "rom": "doseogwaneseo-neun meogeumyeon an dwaeyo",
+          "fr": "Dans la bibliothèque, il ne faut pas manger.",
+          "audio": "/audio/week14/dialogs/week14-dialog01-t02.mp3"
+        },
+        {
+          "id": "week14-dialog01-t03",
+          "speaker": "직원",
+          "sentenceId": "week14-s02",
+          "kr": "사진을 찍으면 안 돼요.",
+          "rom": "sajineul jjigeumyeon an dwaeyo",
+          "fr": "Il ne faut pas prendre de photos.",
+          "audio": "/audio/week14/dialogs/week14-dialog01-t03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week14-dialog02",
+      "title": "Règles du quotidien",
+      "speechLevel": "polite",
+      "level": "A2",
+      "tags": ["week14", "obligation"],
+      "audioFull": "/audio/week14/dialogs/week14-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week14-dialog02-t01",
+          "speaker": "로랑",
+          "sentenceId": "week14-s05",
+          "kr": "오늘 안에 숙제를 해야 해요.",
+          "rom": "oneul ane sukjereul haeya haeyo",
+          "fr": "Je dois faire mes devoirs aujourd’hui.",
+          "audio": "/audio/week14/dialogs/week14-dialog02-t01.mp3"
+        },
+        {
+          "id": "week14-dialog02-t02",
+          "speaker": "민지",
+          "sentenceId": "week14-s06",
+          "kr": "지각하면 안 돼요.",
+          "rom": "jigakhamyeon an dwaeyo",
+          "fr": "Il ne faut pas être en retard.",
+          "audio": "/audio/week14/dialogs/week14-dialog02-t02.mp3"
+        },
+        {
+          "id": "week14-dialog02-t03",
+          "speaker": "민지",
+          "sentenceId": "week14-s12",
+          "kr": "건강하려면 운동해야 해요.",
+          "rom": "geongangharyeomyeon undonghaeya haeyo",
+          "fr": "Pour être en bonne santé, il faut faire du sport.",
+          "audio": "/audio/week14/dialogs/week14-dialog02-t03.mp3"
+        }
+      ]
+    }
+  ]
+}

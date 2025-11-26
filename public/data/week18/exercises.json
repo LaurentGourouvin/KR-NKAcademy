@@ -1,0 +1,53 @@
+{
+  "audioBasePath": "/audio/week18/exercises/",
+  "exercises": [
+    {
+      "id": "week18-ex01",
+      "title": "Le plus ou le moins ?",
+      "type": "vocab",
+      "instructions": "Choisissez si la phrase exprime 'le plus' ou 'le moins'.",
+      "items": [
+        {
+          "id": "week18-ex01-i01",
+          "prompt": "이 가방이 제일 가벼워요.",
+          "options": ["Le plus", "Le moins"],
+          "answer": "Le plus",
+          "sentenceId": "week18-s04",
+          "audio": "week18-ex01-i01.mp3"
+        },
+        {
+          "id": "week18-ex01-i02",
+          "prompt": "이 신발이 다른 신발보다 덜 편해요.",
+          "options": ["Le plus", "Le moins"],
+          "answer": "Le moins",
+          "sentenceId": "week18-s12",
+          "audio": "week18-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week18-ex02",
+      "title": "Compléter le superlatif",
+      "type": "vocab",
+      "instructions": "Choisissez la particule correcte.",
+      "items": [
+        {
+          "id": "week18-ex02-i01",
+          "prompt": "여름이 ___ 더워요.",
+          "options": ["가장", "보다", "에서"],
+          "answer": "가장",
+          "sentenceId": "week18-s02",
+          "audio": "week18-ex02-i01.mp3"
+        },
+        {
+          "id": "week18-ex02-i02",
+          "prompt": "이 식당이 동네에서 ___ 유명해요.",
+          "options": ["제일", "더", "같이"],
+          "answer": "제일",
+          "sentenceId": "week18-s13",
+          "audio": "week18-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}

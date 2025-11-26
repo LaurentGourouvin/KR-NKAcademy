@@ -1,0 +1,44 @@
+{
+  "week": 22,
+  "title": "Exprimer une expérience passée : -아/어 본 적이 있어요",
+  "theme": "Parler de ses expériences vécues.",
+  "speechLevel": "polite",
+  "objectives": [
+    "Utiliser -아/어 본 적이 있어요 pour dire que l’on a déjà fait quelque chose.",
+    "Poser des questions sur l'expérience passée.",
+    "Différencier expérience vécue vs action ponctuelle passée."
+  ],
+  "grammarFocus": [
+    { "kr": "-아/어 본 적이 있어요", "rom": "-a/eo bon jeogi isseoyo", "fr": "avoir déjà fait quelque chose" }
+  ],
+  "vocabulary": [
+    { "kr": "경험", "rom": "gyeongheom", "fr": "expérience" },
+    { "kr": "여행", "rom": "yeohaeng", "fr": "voyage" },
+    { "kr": "먹다", "rom": "meokda", "fr": "manger" },
+    { "kr": "가보다", "rom": "gaboda", "fr": "aller / visiter" },
+    { "kr": "해보다", "rom": "haeboda", "fr": "essayer de faire" }
+  ],
+  "audioBasePath": "/audio/week22/",
+  "notes": "Structure essentielle pour TOPIK 1–2 et très fréquente dans la conversation quotidienne.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week22-dialog01", "week22-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week22-ch01", "week22-ch02"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week22-ch01", "week22-ch02"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week22-ex01", "week22-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+
+}

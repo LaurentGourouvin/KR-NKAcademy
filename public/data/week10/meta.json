@@ -23,5 +23,30 @@
     { "kr": "냉장고", "rom": "naengjanggo", "fr": "réfrigérateur" }
   ],
   "audioBasePath": "/audio/week10/",
-  "notes": "Semaine centrée sur les phrases simples de localisation avec 에 있어요."
+  "notes": "Semaine centrée sur les phrases simples de localisation avec 에 있어요.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week10-dialog01"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week10-ch01", "week10-ch02", "week10-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week10-ch01", "week10-ch02", "week10-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week10-ex01", "week10-ex02"]
+  },
+  {
+    "type": "vocabulary"
+  },
+  {
+    "type": "grammar"
+  }
+]
+
 }
