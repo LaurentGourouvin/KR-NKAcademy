@@ -33,5 +33,30 @@
     { "kr": "걷다", "rom": "geotda", "fr": "marcher" }
   ],
   "audioBasePath": "/audio/week09/",
-  "notes": "Semaine centrée sur les invitations simples : proposer une sortie, accepter ou refuser poliment."
+  "notes": "Semaine centrée sur les invitations simples : proposer une sortie, accepter ou refuser poliment.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week09-dialog01"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week09-ch01", "week09-ch02", "week09-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week09-ch01", "week09-ch02", "week09-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week09-ex01", "week09-ex02", "week09-ex03", "week09-ex04"]
+  },
+  {
+    "type": "vocabulary"
+  },
+  {
+    "type": "grammar"
+  }
+]
+
 }

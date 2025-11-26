@@ -42,7 +42,7 @@
   "sequence": [
     {
       "type": "dialog",
-      "id": "week01-dialog01"
+      "ids": ["week01-dialog01"]
     },
     {
       "type": "chunks",

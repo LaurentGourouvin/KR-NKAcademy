@@ -29,5 +29,40 @@
     { "kr": "조용하다", "rom": "joyonghada", "fr": "être calme, silencieux" }
   ],
   "audioBasePath": "/audio/week13/",
-  "notes": "Première semaine A2 avec mise en avant des adjectifs descriptifs et de la structure …는 사람 pour décrire des proches."
+  "notes": "Première semaine A2 avec mise en avant des adjectifs descriptifs et de la structure …는 사람 pour décrire des proches.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week13-dialog01"]
+  },
+  {
+    "type": "chunks",
+    "ids": [
+      "week13-ch01",
+      "week13-ch02",
+      "week13-ch03"
+    ]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": [
+      "week13-ch01",
+      "week13-ch02",
+      "week13-ch03"
+    ]
+  },
+  {
+    "type": "exercises",
+    "ids": [
+      "week13-ex01",
+      "week13-ex02",
+      "week13-ex03",
+      "week13-ex04",
+      "week13-ex05"
+    ]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+
 }

@@ -28,5 +28,26 @@
     { "kr": "빠르다", "rom": "ppareuda", "fr": "être rapide" }
   ],
   "audioBasePath": "/audio/week17/",
-  "notes": "Première semaine de comparaison. Base indispensable avant les comparatifs complexes du niveau B1."
+  "notes": "Première semaine de comparaison. Base indispensable avant les comparatifs complexes du niveau B1.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week17-dialog01", "week17-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week17-ch01", "week17-ch02", "week17-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week17-ch01", "week17-ch02", "week17-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week17-ex01", "week17-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+
 }

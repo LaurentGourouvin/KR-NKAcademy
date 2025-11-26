@@ -19,5 +19,26 @@
     { "kr": "반드시", "rom": "bandeusi", "fr": "absolument" }
   ],
   "audioBasePath": "/audio/week24/",
-  "notes": "Expression omniprésente dans la signalisation en Corée, dans les règles scolaires et professionnelles."
+  "notes": "Expression omniprésente dans la signalisation en Corée, dans les règles scolaires et professionnelles.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week24-dialog01", "week24-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week24-ch01", "week24-ch02"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week24-ch01", "week24-ch02"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week24-ex01", "week24-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+
 }

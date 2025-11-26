@@ -23,5 +23,25 @@
     { "kr": "거의", "rom": "geoui", "fr": "presque" }
   ],
   "audioBasePath": "/audio/week27/",
-  "notes": "Révision approfondie de -(으)면서 : on ajoute des adverbes de fréquence (자주, 보통, 가끔, 항상, 거의) et on apprend à les combiner pour décrire des habitudes et actions simultanées de manière plus naturelle."
+  "notes": "Révision approfondie de -(으)면서 : on ajoute des adverbes de fréquence (자주, 보통, 가끔, 항상, 거의) et on apprend à les combiner pour décrire des habitudes et actions simultanées de manière plus naturelle.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week27-dialog01", "week27-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week27-ch01", "week27-ch02", "week27-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week27-ch01", "week27-ch02", "week27-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week27-ex01", "week27-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
 }

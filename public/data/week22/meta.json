@@ -19,5 +19,26 @@
     { "kr": "해보다", "rom": "haeboda", "fr": "essayer de faire" }
   ],
   "audioBasePath": "/audio/week22/",
-  "notes": "Structure essentielle pour TOPIK 1–2 et très fréquente dans la conversation quotidienne."
+  "notes": "Structure essentielle pour TOPIK 1–2 et très fréquente dans la conversation quotidienne.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week22-dialog01", "week22-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week22-ch01", "week22-ch02"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week22-ch01", "week22-ch02"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week22-ex01", "week22-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+
 }

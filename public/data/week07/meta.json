@@ -34,5 +34,29 @@
     { "kr": "멀다", "rom": "meolda", "fr": "être loin" }
   ],
   "audioBasePath": "/audio/week07/",
-  "notes": "Semaine introductive aux transports : questions simples, directions basiques, moyens de transport avec -로."
+  "notes": "Semaine introductive aux transports : questions simples, directions basiques, moyens de transport avec -로.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week07-dialog01"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week07-ch01", "week07-ch02", "week07-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week07-ch01", "week07-ch02", "week07-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week07-ex01", "week07-ex02", "week07-ex03", "week07-ex04"]
+  },
+  {
+    "type": "vocabulary"
+  },
+  {
+    "type": "grammar"
+  }
+]
 }

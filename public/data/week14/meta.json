@@ -28,5 +28,26 @@
     { "kr": "조용히 하다", "rom": "joyonghi hada", "fr": "rester calme / faire silence" }
   ],
   "audioBasePath": "/audio/week14/",
-  "notes": "Transition A2+ : obligation, interdiction, règles."
+  "notes": "Transition A2+ : obligation, interdiction, règles.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week14-dialog01","week14-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week14-ch01", "week14-ch02", "week14-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week14-ch01", "week14-ch02", "week14-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week14-ex01", "week14-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
+
 }

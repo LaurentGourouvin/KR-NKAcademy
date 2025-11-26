@@ -23,5 +23,25 @@
     { "kr": "기분", "rom": "gibun", "fr": "humeur" }
   ],
   "audioBasePath": "/audio/week26/",
-  "notes": "On utilise souvent -(으)니까 pour donner une raison qui justifie une décision, une demande ou une recommandation."
+  "notes": "On utilise souvent -(으)니까 pour donner une raison qui justifie une décision, une demande ou une recommandation.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week26-dialog01", "week26-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week26-ch01", "week26-ch02", "week26-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week26-ch01", "week26-ch02", "week26-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week26-ex01", "week26-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
 }

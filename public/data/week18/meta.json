@@ -28,5 +28,25 @@
     { "kr": "중요하다", "rom": "jungyohada", "fr": "être important" }
   ],
   "audioBasePath": "/audio/week18/",
-  "notes": "Semaine clé pour compléter le trio comparaison → superlatif → description avancée."
+  "notes": "Semaine clé pour compléter le trio comparaison → superlatif → description avancée.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week18-dialog01", "week18-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week18-ch01", "week18-ch02", "week18-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week18-ch01", "week18-ch02", "week18-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week18-ex01", "week18-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
 }

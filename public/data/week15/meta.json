@@ -28,5 +28,30 @@
     { "kr": "찍다", "rom": "jjikda", "fr": "prendre une photo" }
   ],
   "audioBasePath": "/audio/week15/",
-  "notes": "Semaine centrée sur le futur proche et les intentions, indispensable avant les structures B1."
+  "notes": "Semaine centrée sur le futur proche et les intentions, indispensable avant les structures B1.",
+  "sequence": [
+  {
+    "type": "dialog",
+    "id": ["week15-dialog01","week15-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week15-ch01", "week15-ch02", "week15-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week15-ch01", "week15-ch02", "week15-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week15-ex01", "week15-ex02"]
+  },
+  {
+    "type": "vocabulary"
+  },
+  {
+    "type": "grammar"
+  }
+]
+
 }

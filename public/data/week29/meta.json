@@ -23,5 +23,25 @@
     { "kr": "말하다", "rom": "malhada", "fr": "dire, parler" }
   ],
   "audioBasePath": "/audio/week29/",
-  "notes": "On ajoute -다고 해요 après une phrase au style déclaratif pour rapporter ce que quelqu’un dit (par ex. ‘재미있어요’ → ‘재미있다고 해요’). Après un nom, on utilise -라고 해요 (‘BTS라고 해요’). Cette structure est très fréquente dans les conversations et dans le TOPIK (on rapporte ce que les gens disent, pensent ou ont entendu)."
+  "notes": "On ajoute -다고 해요 après une phrase au style déclaratif pour rapporter ce que quelqu’un dit (par ex. ‘재미있어요’ → ‘재미있다고 해요’). Après un nom, on utilise -라고 해요 (‘BTS라고 해요’). Cette structure est très fréquente dans les conversations et dans le TOPIK (on rapporte ce que les gens disent, pensent ou ont entendu).",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week29-dialog01", "week29-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week29-ch01", "week29-ch02", "week29-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week29-ch01", "week29-ch02", "week29-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week29-ex01", "week29-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
 }

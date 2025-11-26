@@ -23,5 +23,25 @@
     { "kr": "추천하다", "rom": "chucheonhada", "fr": "recommander" }
   ],
   "audioBasePath": "/audio/week28/",
-  "notes": "La forme -(아/어) 보다 sert à exprimer une tentative (« essayer de ») ou une expérience. Elle est très fréquente avec 한 번 (한 번 먹어 봐요 = Essayez de manger une fois). On peut l’utiliser au passé (해 봤어요), au présent (해 보고 싶어요), ou dans des conseils (해 보는 게 어때요 ?)."
+  "notes": "La forme -(아/어) 보다 sert à exprimer une tentative (« essayer de ») ou une expérience. Elle est très fréquente avec 한 번 (한 번 먹어 봐요 = Essayez de manger une fois). On peut l’utiliser au passé (해 봤어요), au présent (해 보고 싶어요), ou dans des conseils (해 보는 게 어때요 ?).",
+  "sequence": [
+  {
+    "type": "dialog",
+    "ids": ["week28-dialog01", "week28-dialog02"]
+  },
+  {
+    "type": "chunks",
+    "ids": ["week28-ch01", "week28-ch02", "week28-ch03"]
+  },
+  {
+    "type": "sentences",
+    "chunkIds": ["week28-ch01", "week28-ch02", "week28-ch03"]
+  },
+  {
+    "type": "exercises",
+    "ids": ["week28-ex01", "week28-ex02"]
+  },
+  { "type": "vocabulary" },
+  { "type": "grammar" }
+]
 }

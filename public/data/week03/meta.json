@@ -32,5 +32,36 @@
     { "kr": "한국", "rom": "hanguk", "fr": "Corée" }
   ],
   "audioBasePath": "/audio/week03/",
-  "notes": "Semaine centrée sur la famille, la possession et les structures 있어요 / 없어요, toujours en 존댓말 (요-form)."
+  "notes": "Semaine centrée sur la famille, la possession et les structures 있어요 / 없어요, toujours en 존댓말 (요-form).",
+  "sequence": [
+    {
+      "type": "dialog",
+      "ids": ["week03-dialog01"]
+    },
+    {
+      "type": "chunks",
+      "ids": ["week03-ch01", "week03-ch02", "week03-ch03"]
+    },
+    {
+      "type": "sentences",
+      "chunkIds": ["week03-ch01", "week03-ch02", "week03-ch03"]
+    },
+    {
+      "type": "exercises",
+      "ids": [
+        "week03-ex01",
+        "week03-ex02",
+        "week03-ex03",
+        "week03-ex04",
+        "week03-ex05"
+      ]
+    },
+    {
+      "type": "vocabulary"
+    },
+    {
+      "type": "grammar"
+    }
+  ]
+
 }
