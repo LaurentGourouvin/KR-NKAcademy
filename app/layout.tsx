@@ -4,6 +4,22 @@ import { Header } from '@/components/header/Header';
 export const metadata: Metadata = {
     title: 'KR NKAcademy',
     description: 'Natural Korean Acquisition — From Zero to TOPIK II',
+    openGraph: {
+        title: 'KR NKAcademy — Natural Korean Acquisition',
+        description: 'Learn Korean naturally from beginner to TOPIK II with structured lessons, dialogues, audio and exercises.',
+        url: 'https://nkacademy.gourouvin.dev',
+        siteName: 'KR NKAcademy',
+        images: [
+            {
+                url: '/assets/logo_square.png',
+                width: 298,
+                height: 286,
+                alt: 'KR NKAcademy — Korean Learning Platform',
+            },
+        ],
+        locale: 'fr_FR',
+        type: 'website',
+    },
 };
 
 export default function RootLayout({
