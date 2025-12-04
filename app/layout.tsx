@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 import { Header } from '@/components/header/Header';
 export const metadata: Metadata = {
+    metadataBase: new URL('https://nkacademy.gourouvin.dev'),
     title: 'KR NKAcademy',
     description: 'Natural Korean Acquisition — From Zero to TOPIK II',
     openGraph: {
