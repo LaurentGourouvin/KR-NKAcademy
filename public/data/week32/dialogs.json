@@ -1,0 +1,114 @@
+{
+  "dialogs": [
+    {
+      "id": "week32-dialog01",
+      "title": "Première réunion dans une entreprise coréenne",
+      "speechLevel": "polite + formel",
+      "level": "B1",
+      "tags": ["week32", "travail", "politesse"],
+      "audioFull": "/audio/week32/dialogs/week32-dialog01-full.mp3",
+      "turns": [
+        {
+          "id": "week32-dialog01-t01",
+          "speaker": "직원",
+          "sentenceId": "week32-s01",
+          "kr": "처음 뵙겠습니다.",
+          "rom": "cheoeum boepgetseumnida",
+          "fr": "Enchanté de vous rencontrer.",
+          "audio": "/audio/week32/dialogs/week32-dialog01-t01.mp3"
+        },
+        {
+          "id": "week32-dialog01-t02",
+          "speaker": "팀장님",
+          "sentenceId": "week32-s02",
+          "kr": "잘 부탁드립니다.",
+          "rom": "jal butakdeurimnida",
+          "fr": "Je compte sur vous / Merci de bien vouloir m’encadrer.",
+          "audio": "/audio/week32/dialogs/week32-dialog01-t02.mp3"
+        },
+        {
+          "id": "week32-dialog01-t03",
+          "speaker": "팀장님",
+          "sentenceId": "week32-s03",
+          "kr": "준비는 잘 했습니까?",
+          "rom": "junbineun jal haetseumnikka",
+          "fr": "Vous vous êtes bien préparé(e) ?",
+          "audio": "/audio/week32/dialogs/week32-dialog01-t03.mp3"
+        },
+        {
+          "id": "week32-dialog01-t04",
+          "speaker": "직원",
+          "sentenceId": "week32-s04",
+          "kr": "오늘 발표를 시작하겠습니다.",
+          "rom": "oneul balpyoreul sijak-hagetseumnida",
+          "fr": "Je vais commencer la présentation d’aujourd’hui.",
+          "audio": "/audio/week32/dialogs/week32-dialog01-t04.mp3"
+        },
+        {
+          "id": "week32-dialog01-t05",
+          "speaker": "직원",
+          "sentenceId": "week32-s07",
+          "kr": "와 주셔서 감사합니다.",
+          "rom": "wa jusyeoseo gamsahamnida",
+          "fr": "Merci d’être venu(e).",
+          "audio": "/audio/week32/dialogs/week32-dialog01-t05.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week32-dialog02",
+      "title": "Parler à son professeur avec respect",
+      "speechLevel": "polite + formel",
+      "level": "B1",
+      "tags": ["week32", "école", "honorifiques"],
+      "audioFull": "/audio/week32/dialogs/week32-dialog02-full.mp3",
+      "turns": [
+        {
+          "id": "week32-dialog02-t01",
+          "speaker": "교수님",
+          "sentenceId": "week32-s06",
+          "kr": "교수님이 들어오십니다.",
+          "rom": "gyosunimi deureo-osimnida",
+          "fr": "Le professeur entre.",
+          "audio": "/audio/week32/dialogs/week32-dialog02-t01.mp3"
+        },
+        {
+          "id": "week32-dialog02-t02",
+          "speaker": "학생",
+          "sentenceId": "week32-s10",
+          "kr": "오늘은 한국의 인사 문화에 대해 말씀드리겠습니다.",
+          "rom": "oneureun hanguk-ui insa munhwae daehae malsseumdeurigetseumnida",
+          "fr": "Aujourd’hui, je vais vous parler de la culture des salutations en Corée.",
+          "audio": "/audio/week32/dialogs/week32-dialog02-t02.mp3"
+        },
+        {
+          "id": "week32-dialog02-t03",
+          "speaker": "학생",
+          "sentenceId": "week32-s05",
+          "kr": "말씀드리겠습니다.",
+          "rom": "malsseumdeurigetseumnida",
+          "fr": "Je vais vous expliquer / vous en parler.",
+          "audio": "/audio/week32/dialogs/week32-dialog02-t03.mp3"
+        },
+        {
+          "id": "week32-dialog02-t04",
+          "speaker": "교수님",
+          "sentenceId": "week32-s09",
+          "kr": "교수님은 매우 친절하십니다.",
+          "rom": "gyosunimeun maeu chinjeolhasimnida",
+          "fr": "Le professeur est très gentil.",
+          "audio": "/audio/week32/dialogs/week32-dialog02-t04.mp3"
+        },
+        {
+          "id": "week32-dialog02-t05",
+          "speaker": "교수님",
+          "sentenceId": "week32-s08",
+          "kr": "편하게 말씀해 주세요.",
+          "rom": "pyeonhage malsseumhae juseyo",
+          "fr": "Parlez librement, je vous en prie.",
+          "audio": "/audio/week32/dialogs/week32-dialog02-t05.mp3"
+        }
+      ]
+    }
+  ]
+}

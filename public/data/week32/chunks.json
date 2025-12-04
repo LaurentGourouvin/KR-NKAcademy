@@ -1,0 +1,71 @@
+{
+  "audioBasePath": "/audio/week32/chunks/",
+  "chunks": [
+    {
+      "id": "week32-ch01",
+      "title": "Forme -습니다 / -ㅂ니다",
+      "description": "Utiliser la forme -습니다 / -ㅂ니다 pour parler de manière plus formelle.",
+      "sentenceIds": [
+        "week32-s01",
+        "week32-s02",
+        "week32-s04",
+        "week32-s05"
+      ],
+      "audio": "/audio/week32/chunks/week32-ch01.mp3",
+      "order": 1,
+      "tags": ["formel", "présentation"],
+      "level": "B1"
+    },
+    {
+      "id": "week32-ch02",
+      "title": "Questions formelles : -습니까?",
+      "description": "Poser des questions en contexte formel avec -습니까.",
+      "sentenceIds": [
+        "week32-s03"
+      ],
+      "audio": "/audio/week32/chunks/week32-ch02.mp3",
+      "order": 2,
+      "tags": ["formel", "question"],
+      "level": "B1"
+    },
+    {
+      "id": "week32-ch03",
+      "title": "Verbes honorifiques",
+      "description": "Utiliser des verbes honorifiques pour parler des actions de personnes respectées.",
+      "sentenceIds": [
+        "week32-s06",
+        "week32-s09"
+      ],
+      "audio": "/audio/week32/chunks/week32-ch03.mp3",
+      "order": 3,
+      "tags": ["honorifique"],
+      "level": "B1"
+    },
+    {
+      "id": "week32-ch04",
+      "title": "Verbes humbles",
+      "description": "Utiliser des verbes humbles pour parler de ses propres actions envers quelqu’un de plus haut placé.",
+      "sentenceIds": [
+        "week32-s05",
+        "week32-s10"
+      ],
+      "audio": "/audio/week32/chunks/week32-ch04.mp3",
+      "order": 4,
+      "tags": ["humble"],
+      "level": "B1"
+    },
+    {
+      "id": "week32-ch05",
+      "title": "Changer de registre",
+      "description": "Adapter son niveau de langue selon la situation et l’interlocuteur.",
+      "sentenceIds": [
+        "week32-s02",
+        "week32-s08"
+      ],
+      "audio": "/audio/week32/chunks/week32-ch05.mp3",
+      "order": 5,
+      "tags": ["registre", "politesse"],
+      "level": "B1"
+    }
+  ]
+}

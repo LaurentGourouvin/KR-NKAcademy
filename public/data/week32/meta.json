@@ -1,0 +1,51 @@
+{
+  "week": 32,
+  "title": "Politesse & nuances sociales",
+  "theme": "Comprendre et utiliser des honorifiques simples et la forme -습니다 pour adapter son registre.",
+  "speechLevel": "polite + casual + formel",
+  "objectives": [
+    "Découvrir et utiliser quelques verbes honorifiques et humbles simples.",
+    "Commencer à utiliser la forme formelle -습니다 / -습니까 dans des phrases courtes.",
+    "S'entraîner à changer de registre selon l'interlocuteur (ami, professeur, manager)."
+  ],
+  "grammarFocus": [
+    {
+        "kr": "-시- (높임말)",
+        "rom": "-si-",
+        "fr": "marqueur honorifique utilisé pour montrer du respect (ex : 오시다, 주무시다, 하시다)."
+    },
+    {
+        "kr": "-습니다 / -습니까",
+        "rom": "-seumnida / -seumnikka",
+        "fr": "forme polie formelle pour les phrases et les questions."
+    }
+  ],
+  "vocabulary": [
+    { "kr": "교수님", "rom": "gyosunim", "fr": "professeur (forme honorifique)" },
+    { "kr": "손님", "rom": "sonnim", "fr": "client, invité" },
+    { "kr": "말씀", "rom": "malsseum", "fr": "parole (forme honorifique de 말)" },
+    { "kr": "인사", "rom": "insa", "fr": "salutation" }
+  ],
+  "audioBasePath": "/audio/week32/",
+  "notes": "Introduction progressive aux honorifiques (verbes honorifiques et humbles) et à la forme -습니다, avec des dialogues qui changent de registre selon la personne à qui l'on parle.",
+  "sequence": [
+    {
+      "type": "dialog",
+      "ids": ["week32-dialog01", "week32-dialog02"]
+    },
+    {
+      "type": "chunks",
+      "ids": ["week32-ch01", "week32-ch02", "week32-ch03", "week32-ch04", "week32-ch05"]
+    },
+    {
+      "type": "sentences",
+      "chunkIds": ["week32-ch01", "week32-ch02", "week32-ch03", "week32-ch04", "week32-ch05"]
+    },
+    {
+      "type": "exercises",
+      "ids": ["week32-ex01", "week32-ex02"]
+    },
+    { "type": "vocabulary" },
+    { "type": "grammar" }
+  ]
+}

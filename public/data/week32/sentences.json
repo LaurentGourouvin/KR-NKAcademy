@@ -1,0 +1,95 @@
+{
+  "audioBasePath": "/audio/week32/sentences/",
+  "sentences": [
+    {
+      "id": "week32-s01",
+      "kr": "처음 뵙겠습니다.",
+      "rom": "cheoeum boepgetseumnida",
+      "fr": "Enchanté de vous rencontrer.",
+      "audio": "/audio/week32/sentences/week32-s01.mp3",
+      "order": 1,
+      "tags": ["politesse", "première rencontre"]
+    },
+    {
+      "id": "week32-s02",
+      "kr": "잘 부탁드립니다.",
+      "rom": "jal butakdeurimnida",
+      "fr": "Je compte sur vous / Merci de bien vouloir m’encadrer.",
+      "audio": "/audio/week32/sentences/week32-s02.mp3",
+      "order": 2,
+      "tags": ["politesse", "travail"]
+    },
+    {
+      "id": "week32-s03",
+      "kr": "준비는 잘 했습니까?",
+      "rom": "junbineun jal haetseumnikka",
+      "fr": "Vous vous êtes bien préparé(e) ?",
+      "audio": "/audio/week32/sentences/week32-s03.mp3",
+      "order": 3,
+      "tags": ["question", "formel"]
+    },
+    {
+      "id": "week32-s04",
+      "kr": "오늘 발표를 시작하겠습니다.",
+      "rom": "oneul balpyoreul sijak-hagetseumnida",
+      "fr": "Je vais commencer la présentation d’aujourd’hui.",
+      "audio": "/audio/week32/sentences/week32-s04.mp3",
+      "order": 4,
+      "tags": ["présentation", "formel"]
+    },
+    {
+      "id": "week32-s05",
+      "kr": "말씀드리겠습니다.",
+      "rom": "malsseumdeurigetseumnida",
+      "fr": "Je vais vous expliquer / vous en parler.",
+      "audio": "/audio/week32/sentences/week32-s05.mp3",
+      "order": 5,
+      "tags": ["humble", "formel"]
+    },
+    {
+      "id": "week32-s06",
+      "kr": "교수님이 들어오십니다.",
+      "rom": "gyosunimi deureo-osimnida",
+      "fr": "Le professeur entre.",
+      "audio": "/audio/week32/sentences/week32-s06.mp3",
+      "order": 6,
+      "tags": ["honorifique", "classe"]
+    },
+    {
+      "id": "week32-s07",
+      "kr": "와 주셔서 감사합니다.",
+      "rom": "wa jusyeoseo gamsahamnida",
+      "fr": "Merci d’être venu(e).",
+      "audio": "/audio/week32/sentences/week32-s07.mp3",
+      "order": 7,
+      "tags": ["remerciement", "honorifique"]
+    },
+    {
+      "id": "week32-s08",
+      "kr": "편하게 말씀해 주세요.",
+      "rom": "pyeonhage malsseumhae juseyo",
+      "fr": "Parlez librement, je vous en prie.",
+      "audio": "/audio/week32/sentences/week32-s08.mp3",
+      "order": 8,
+      "tags": ["politesse", "demande"]
+    },
+    {
+      "id": "week32-s09",
+      "kr": "교수님은 매우 친절하십니다.",
+      "rom": "gyosunimeun maeu chinjeolhasimnida",
+      "fr": "Le professeur est très gentil.",
+      "audio": "/audio/week32/sentences/week32-s09.mp3",
+      "order": 9,
+      "tags": ["honorifique", "description"]
+    },
+    {
+      "id": "week32-s10",
+      "kr": "오늘은 한국의 인사 문화에 대해 말씀드리겠습니다.",
+      "rom": "oneureun hanguk-ui insa munhwae daehae malsseumdeurigetseumnida",
+      "fr": "Aujourd’hui, je vais vous parler de la culture des salutations en Corée.",
+      "audio": "/audio/week32/sentences/week32-s10.mp3",
+      "order": 10,
+      "tags": ["présentation", "formel"]
+    }
+  ]
+}

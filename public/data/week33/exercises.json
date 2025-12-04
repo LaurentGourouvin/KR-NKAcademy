@@ -1,0 +1,78 @@
+{
+  "audioBasePath": "/audio/week33/exercises/",
+  "exercises": [
+    {
+      "id": "week33-ex01",
+      "title": "Compléter la comparaison avec 보다 / 더 / 덜",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne option pour compléter la phrase comparative.",
+      "items": [
+        {
+          "id": "week33-ex01-i01",
+          "prompt": "서울이 부산__ 더 커요.",
+          "options": ["보다", "만큼"],
+          "answer": "보다",
+          "sentenceId": "week33-s01",
+          "audio": "week33-ex01-i01.mp3"
+        },
+        {
+          "id": "week33-ex01-i02",
+          "prompt": "오늘은 어제__ 덜 추워요.",
+          "options": ["보다", "만큼"],
+          "answer": "보다",
+          "sentenceId": "week33-s03",
+          "audio": "week33-ex01-i02.mp3"
+        },
+        {
+          "id": "week33-ex01-i03",
+          "prompt": "한국 음식이 생각__ 덜 매워요.",
+          "options": ["보다", "만큼"],
+          "answer": "보다",
+          "sentenceId": "week33-s10",
+          "audio": "week33-ex01-i03.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week33-ex02",
+      "title": "Choisir la bonne traduction",
+      "type": "vocab",
+      "instructions": "Sélectionnez la traduction française qui correspond à la phrase coréenne.",
+      "items": [
+        {
+          "id": "week33-ex02-i01",
+          "prompt": "한국어가 영어만큼 재미있어요.",
+          "options": [
+            "Le coréen est plus intéressant que l’anglais.",
+            "Le coréen est aussi intéressant que l’anglais."
+          ],
+          "answer": "Le coréen est aussi intéressant que l’anglais.",
+          "sentenceId": "week33-s05",
+          "audio": "week33-ex02-i01.mp3"
+        },
+        {
+          "id": "week33-ex02-i02",
+          "prompt": "버스가 지하철보다 더 느려요.",
+          "options": [
+            "Le bus est plus lent que le métro.",
+            "Le métro est plus lent que le bus."
+          ],
+          "answer": "Le bus est plus lent que le métro.",
+          "sentenceId": "week33-s04",
+          "audio": "week33-ex02-i02.mp3"
+        },
+        {
+          "id": "week33-ex02-i03",
+          "prompt": "주말에는 평일만큼 피곤하지 않아요.",
+          "options": [
+            "Le week-end, je suis aussi fatigué que les jours de semaine.",
+            "Le week-end, je ne suis pas aussi fatigué que les jours de semaine."
+          ],
+          "answer": "Le week-end, je ne suis pas aussi fatigué que les jours de semaine.",
+          "sentenceId": "week33-s08",
+          "audio": "week33-ex02-i03.mp3"
+        }
+      ]
+    }
+  ]
+}

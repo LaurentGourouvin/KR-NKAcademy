@@ -1,0 +1,59 @@
+{
+  "audioBasePath": "/audio/week32/exercises/",
+  "exercises": [
+    {
+      "id": "week32-ex01",
+      "title": "Compléter avec -습니다 / -ㅂ니다",
+      "type": "vocab",
+      "instructions": "Choisissez la bonne terminaison formelle.",
+      "items": [
+        {
+          "id": "week32-ex01-i01",
+          "prompt": "저는 학생___.",
+          "options": ["입니다", "이에요"],
+          "answer": "입니다",
+          "sentenceId": "week32-s02",
+          "audio": "week32-ex01-i01.mp3"
+        },
+        {
+          "id": "week32-ex01-i02",
+          "prompt": "오늘 발표를 시작하겠___",
+          "options": ["습니다.", "어요."],
+          "answer": "습니다.",
+          "sentenceId": "week32-s04",
+          "audio": "week32-ex01-i02.mp3"
+        }
+      ]
+    },
+    {
+      "id": "week32-ex02",
+      "title": "Choisir la bonne traduction",
+      "type": "vocab",
+      "instructions": "Sélectionnez la bonne traduction en français.",
+      "items": [
+        {
+          "id": "week32-ex02-i01",
+          "prompt": "와 주셔서 감사합니다.",
+          "options": [
+            "Merci d’être venu(e).",
+            "Merci de m’avoir appelé."
+          ],
+          "answer": "Merci d’être venu(e).",
+          "sentenceId": "week32-s07",
+          "audio": "week32-ex02-i01.mp3"
+        },
+        {
+          "id": "week32-ex02-i02",
+          "prompt": "오늘은 한국의 인사 문화에 대해 말씀드리겠습니다.",
+          "options": [
+            "Aujourd’hui, je vais vous parler de la culture des salutations en Corée.",
+            "Aujourd’hui, je vais vous parler de la nourriture coréenne."
+          ],
+          "answer": "Aujourd’hui, je vais vous parler de la culture des salutations en Corée.",
+          "sentenceId": "week32-s10",
+          "audio": "week32-ex02-i02.mp3"
+        }
+      ]
+    }
+  ]
+}
