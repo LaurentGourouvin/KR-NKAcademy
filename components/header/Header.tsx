@@ -11,7 +11,7 @@ export function Header() {
         <nav className="sticky top-0 z-50 bg-white shadow-sm w-full">
             <div className="flex items-center justify-between h-16 px-4">
                 <div className="flex items-center gap-4">
-                    <Image src="/assets/logo_square.png" alt="KR KNAcademy Square" height={50} width={50} />
+                    <Image src="/assets/logo_square.png" alt="KR KNAcademy Square" height={50} width={50} loading="lazy" />
                     <div className="flex flex-col leading-tight">
                         <p className="font-bold text-base">KR Academy</p>
                         <p className="text-xs text-gray-500 -mt-1 italic">natural korean acquisition</p>

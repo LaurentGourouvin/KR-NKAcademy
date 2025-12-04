@@ -70,7 +70,7 @@ export function CoursePlayer({ overviewLesson, meta, dialogs, chunks, sentences,
                         </section>
                     )}
                     <div>
-                        <Image className="mx-auto mb-2" src={imageOfWeek?.image ?? placeHolderImage} alt={`image ${meta.title}`} width={200} height={200} />
+                        <Image className="mx-auto mb-2" src={imageOfWeek?.image ?? placeHolderImage} alt={`image ${meta.title}`} width={200} height={200} loading="lazy" />
                     </div>
                     <div className="flex flex-col gap-2 mb-8">
                         {meta.sequence.map((section, index) => {

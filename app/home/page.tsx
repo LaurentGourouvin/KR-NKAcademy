@@ -9,7 +9,7 @@ export default async function Home() {
     return (
         <div className="md:w-3/5 max-w-11/12 mx-auto mb-16 px-4 py-6 space-y-10 bg-white border-2 border-gray-200 rounded-md">
             {/* Hero */}
-            <Image src="/assets/logo.png" alt="Logo KR KNAcademy" width={500} height={310} className="mx-auto" />
+            <Image src="/assets/logo.png" alt="Logo KR KNAcademy" width={500} height={310} className="mx-auto" loading="lazy" />
             <section>
                 <h1 className="text-3xl font-bold mb-2">Bienvenue sur KR NKAcademy</h1>
                 <p className="text-gray-600 mb-4 text-sm font-light">
