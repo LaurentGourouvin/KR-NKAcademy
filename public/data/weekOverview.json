@@ -311,6 +311,26 @@
       "audioBasePath": "/audio/week31/",
       "tooltip": "Quand…, sur le point de…",
       "image": "/assets/images/week31/card.jpg"
+    },
+    {
+      "week": 32,
+      "slug": "politeness-and-honorifics",
+      "title": "Politesse & nuances sociales",
+      "summary": "Découvrir les honorifiques de base et passer du registre poli au registre formel -습니다 selon la situation.",
+      "difficulty": "B1",
+      "audioBasePath": "/audio/week32/",
+      "tooltip": "Nuances de politesse et niveaux de langue.",
+      "image": "/assets/images/week32/card.jpg"
+    },
+    {
+      "week": 33,
+      "slug": "comparisons-plus-minus",
+      "title": "Comparer : plus / moins / aussi… que",
+      "summary": "Apprendre à comparer des choses avec 보다, 더/덜 et -만큼 pour dire plus, moins ou aussi… que.",
+      "difficulty": "B1",
+      "audioBasePath": "/audio/week33/",
+      "tooltip": "Comparer personnes, objets et situations.",
+      "image": "/assets/images/week33/card.jpg"
     }
   ]
 }

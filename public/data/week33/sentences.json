@@ -1,0 +1,95 @@
+{
+  "audioBasePath": "/audio/week33/sentences/",
+  "sentences": [
+    {
+      "id": "week33-s01",
+      "kr": "서울이 부산보다 더 커요.",
+      "rom": "Seouri Busanboda deo keoyo",
+      "fr": "Séoul est plus grande que Busan.",
+      "audio": "/audio/week33/sentences/week33-s01.mp3",
+      "order": 1,
+      "tags": ["ville", "comparaison"]
+    },
+    {
+      "id": "week33-s02",
+      "kr": "이 가방이 저 가방보다 더 비싸요.",
+      "rom": "I gabangi jeo gabangboda deo bissayo",
+      "fr": "Ce sac est plus cher que cet autre sac.",
+      "audio": "/audio/week33/sentences/week33-s02.mp3",
+      "order": 2,
+      "tags": ["shopping", "prix"]
+    },
+    {
+      "id": "week33-s03",
+      "kr": "오늘은 어제보다 덜 추워요.",
+      "rom": "Oneureun eje-boda deol chuwayo",
+      "fr": "Aujourd’hui il fait moins froid qu’hier.",
+      "audio": "/audio/week33/sentences/week33-s03.mp3",
+      "order": 3,
+      "tags": ["météo"]
+    },
+    {
+      "id": "week33-s04",
+      "kr": "버스가 지하철보다 더 느려요.",
+      "rom": "Beoseuga jihacheolboda deo neuryeoyo",
+      "fr": "Le bus est plus lent que le métro.",
+      "audio": "/audio/week33/sentences/week33-s04.mp3",
+      "order": 4,
+      "tags": ["transport"]
+    },
+    {
+      "id": "week33-s05",
+      "kr": "한국어가 영어만큼 재미있어요.",
+      "rom": "Hangugeoga yeongeo-mankeum jaemiisseoyo",
+      "fr": "Le coréen est aussi intéressant que l’anglais.",
+      "audio": "/audio/week33/sentences/week33-s05.mp3",
+      "order": 5,
+      "tags": ["langue", "études"]
+    },
+    {
+      "id": "week33-s06",
+      "kr": "이 집은 사진만큼 넓지 않아요.",
+      "rom": "I jibeun sajin-mankeum neolpji anayo",
+      "fr": "Cette maison n’est pas aussi grande que sur la photo.",
+      "audio": "/audio/week33/sentences/week33-s06.mp3",
+      "order": 6,
+      "tags": ["maison", "comparaison"]
+    },
+    {
+      "id": "week33-s07",
+      "kr": "요즘 예전보다 더 바빠요.",
+      "rom": "Yojeum yejeonboda deo bappayo",
+      "fr": "Ces temps-ci, je suis plus occupé qu’avant.",
+      "audio": "/audio/week33/sentences/week33-s07.mp3",
+      "order": 7,
+      "tags": ["travail", "rythme"]
+    },
+    {
+      "id": "week33-s08",
+      "kr": "주말에는 평일만큼 피곤하지 않아요.",
+      "rom": "Jumare-neun pyeongil-mankeum pigonhaji anayo",
+      "fr": "Le week-end, je ne suis pas aussi fatigué que les jours de semaine.",
+      "audio": "/audio/week33/sentences/week33-s08.mp3",
+      "order": 8,
+      "tags": ["fatigue", "rythme"]
+    },
+    {
+      "id": "week33-s09",
+      "kr": "이 길이 생각보다 더 복잡해요.",
+      "rom": "I giri saenggakboda deo bokjaphaeyo",
+      "fr": "Cette rue est plus compliquée que je ne le pensais.",
+      "audio": "/audio/week33/sentences/week33-s09.mp3",
+      "order": 9,
+      "tags": ["ville", "imprévu"]
+    },
+    {
+      "id": "week33-s10",
+      "kr": "한국 음식이 생각보다 덜 매워요.",
+      "rom": "Hanguk eumsigi saenggakboda deol maewoyo",
+      "fr": "La nourriture coréenne est moins épicée que je ne le pensais.",
+      "audio": "/audio/week33/sentences/week33-s10.mp3",
+      "order": 10,
+      "tags": ["nourriture"]
+    }
+  ]
+}

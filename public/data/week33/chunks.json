@@ -1,0 +1,35 @@
+{
+  "audioBasePath": "/audio/week33/chunks/",
+  "chunks": [
+    {
+      "id": "week33-ch01",
+      "title": "Plus … que : 보다 + 더",
+      "description": "Utiliser 보다 avec 더 pour dire qu’une chose est plus … qu’une autre.",
+      "sentenceIds": ["week33-s01", "week33-s02", "week33-s04", "week33-s07"],
+      "audio": "/audio/week33/chunks/week33-ch01.mp3",
+      "order": 1,
+      "tags": ["comparatif", "plus"],
+      "level": "B1"
+    },
+    {
+      "id": "week33-ch02",
+      "title": "Moins … que : 보다 + 덜",
+      "description": "Utiliser 덜 avec 보다 pour exprimer qu’une chose est moins … qu’une autre.",
+      "sentenceIds": ["week33-s03", "week33-s10"],
+      "audio": "/audio/week33/chunks/week33-ch02.mp3",
+      "order": 2,
+      "tags": ["comparatif", "moins"],
+      "level": "B1"
+    },
+    {
+      "id": "week33-ch03",
+      "title": "Aussi … que : -만큼",
+      "description": "Utiliser -만큼 pour dire qu’une chose est aussi … qu’une autre.",
+      "sentenceIds": ["week33-s05", "week33-s06", "week33-s08"],
+      "audio": "/audio/week33/chunks/week33-ch03.mp3",
+      "order": 3,
+      "tags": ["comparatif", "egalite"],
+      "level": "B1"
+    }
+  ]
+}
