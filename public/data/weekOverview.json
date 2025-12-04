@@ -279,7 +279,8 @@
       "summary": "Découvrir comment exprimer l’idée d’essayer quelque chose ou de tester une nouvelle expérience avec -(아/어) 보다.",
       "difficulty": "A2+",
       "audioBasePath": "/audio/week28/",
-      "tooltip": "Essayer de…, tester…"
+      "tooltip": "Essayer de…, tester…",
+      "image": "/assets/images/week28/card.jpg"
     },
     {
       "week": 29,
@@ -288,7 +289,8 @@
       "summary": "Apprendre à rapporter ce que les autres disent à propos des dramas, de la météo ou des lieux.",
       "difficulty": "A2+",
       "audioBasePath": "/audio/week29/",
-      "tooltip": "On dit que…, il a dit que…"
+      "tooltip": "On dit que…, il a dit que…",
+      "image": "/assets/images/week29/card.jpg"
     },
     {
       "week": 30,
@@ -297,7 +299,8 @@
       "summary": "Apprendre à exprimer ses plans, ses projets et ses intentions dans un futur proche.",
       "difficulty": "A2+",
       "audioBasePath": "/audio/week30/",
-      "tooltip": "Je compte… / J’ai l’intention de…"
+      "tooltip": "Je compte… / J’ai l’intention de…",
+      "image": "/assets/images/week30/card.jpg"
     },
     {
       "week": 31,
@@ -306,7 +309,8 @@
       "summary": "Exprimer que vous êtes sur le point de faire quelque chose et décrire des actions qui se produisent ‘quand…’.",
       "difficulty": "A2+",
       "audioBasePath": "/audio/week31/",
-      "tooltip": "Quand…, sur le point de…"
+      "tooltip": "Quand…, sur le point de…",
+      "image": "/assets/images/week31/card.jpg"
     }
   ]
 }
