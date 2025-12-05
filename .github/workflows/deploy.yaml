@@ -27,7 +27,7 @@ jobs:
         run: |
           ssh prod-server << 'EOF'
           set -e
-          echo "$(date '+%Y-%m-%d %H:%M:%S') - Deployment triggered by GitHub Actions" >> /home/ubuntu/deploy.log
+          echo "$(date '+%Y-%m-%d %H:%M:%S') - Deployment of NKAcademy triggered by GitHub Actions" >> /home/ubuntu/deploy.log
           cd /home/ubuntu/apps/KR-NKAcademy
           git pull
           npm ci
