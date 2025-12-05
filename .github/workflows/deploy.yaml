@@ -30,7 +30,7 @@ jobs:
           echo "$(date '+%Y-%m-%d %H:%M:%S') - Deployment triggered by GitHub Actions" >> /home/ubuntu/deploy.log
           cd /home/ubuntu/apps/KR-NKAcademy
           git pull
-          npm ci --omit=dev || npm install
+          npm ci
           npm run build
           pm2 reload nkacademy
           EOF
