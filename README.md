@@ -101,9 +101,9 @@ npm run dev
 ### 📘 Content Development
 
 - [x] Week 01 dataset (sentences, chunks, dialogs)
-- [ ] Week Block 1 — Weeks 02–04
-- [ ] Week Block 2 — Weeks 05–12
-- [ ] Week Block 3 — Weeks 13–24
+- [x] Week Block 1 — Weeks 02–04
+- [x] Week Block 2 — Weeks 05–12
+- [x] Week Block 3 — Weeks 13–24
 - [ ] Week Block 4 — Weeks 25–52
 - [ ] Audio generation for chunks, sentences, and dialogs
 
