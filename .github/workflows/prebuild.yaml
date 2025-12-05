@@ -3,8 +3,6 @@ name: Validate & Build NKAcademy
 on:
   pull_request:
     branches: ["master"]
-  push:
-    branches: ["master"]
 
 jobs:
   validate_and_build:
