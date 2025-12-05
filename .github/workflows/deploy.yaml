@@ -1,0 +1,36 @@
+name: Deploy NKAcademy to Production
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Configure SSH
+        env:
+          DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$DEPLOY_SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          echo "Host prod-server" >> ~/.ssh/config
+          echo "  HostName ${{ secrets.DEPLOY_HOST }}" >> ~/.ssh/config
+          echo "  User ${{ secrets.DEPLOY_USER }}" >> ~/.ssh/config
+          echo "  IdentityFile ~/.ssh/id_ed25519" >> ~/.ssh/config
+          echo "  StrictHostKeyChecking no" >> ~/.ssh/config
+
+      - name: Deploy on Lightsail
+        run: |
+          ssh prod-server << 'EOF'
+          set -e
+          echo "$(date '+%Y-%m-%d %H:%M:%S') - Deployment triggered by GitHub Actions" >> /home/ubuntu/deploy.log
+          cd /home/ubuntu/apps/KR-NKAcademy
+          git pull
+          npm ci --omit=dev || npm install
+          npm run build
+          pm2 reload nkacademy
+          EOF
