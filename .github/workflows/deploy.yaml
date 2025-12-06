@@ -10,6 +10,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.19.x'       
+          cache: 'npm'
+
+      - name: Install dependencies and build (CI)
+        run: |
+          npm ci
+          npm run build
+          npm prune --production
+          tar czf nkacademy-artifact.tar.gz \
+            .next \
+            public \
+            package.json \
+            package-lock.json \
+            node_modules
+
       - name: Configure SSH
         env:
           DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
@@ -17,20 +38,26 @@ jobs:
           mkdir -p ~/.ssh
           echo "$DEPLOY_SSH_KEY" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
-          echo "Host prod-server" >> ~/.ssh/config
-          echo "  HostName ${{ secrets.DEPLOY_HOST }}" >> ~/.ssh/config
-          echo "  User ${{ secrets.DEPLOY_USER }}" >> ~/.ssh/config
-          echo "  IdentityFile ~/.ssh/id_ed25519" >> ~/.ssh/config
-          echo "  StrictHostKeyChecking no" >> ~/.ssh/config
+          {
+            echo "Host prod-server"
+            echo "  HostName ${{ secrets.DEPLOY_HOST }}"
+            echo "  User ${{ secrets.DEPLOY_USER }}"
+            echo "  IdentityFile ~/.ssh/id_ed25519"
+            echo "  StrictHostKeyChecking no"
+          } >> ~/.ssh/config
+
+      - name: Upload build artifact to server
+        run: |
+          scp nkacademy-artifact.tar.gz prod-server:/home/ubuntu/apps/KR-NKAcademy/
 
       - name: Deploy on Lightsail
         run: |
           ssh prod-server << 'EOF'
           set -e
-          echo "$(date '+%Y-%m-%d %H:%M:%S') - Deployment of NKAcademy on production" >> /home/ubuntu/deploy.log
           cd /home/ubuntu/apps/KR-NKAcademy
-          git pull
-          npm ci
-          npm run build
+          tar xzf nkacademy-artifact.tar.gz
+          rm nkacademy-artifact.tar.gz       
           pm2 reload nkacademy
+          pm2 save
+          echo "$(date '+%Y-%m-%d %H:%M:%S') - Deployment of NKAcademy on production" >> /home/ubuntu/deploy.log
           EOF
