@@ -27,10 +27,11 @@ jobs:
         run: |
           ssh prod-server << 'EOF'
           set -e
-          echo "$(date '+%Y-%m-%d %H:%M:%S') - Deployment of NKAcademy on production" >> /home/ubuntu/deploy.log
           cd /home/ubuntu/apps/KR-NKAcademy
           git pull
           npm ci
           npm run build
+          echo "$(date '+%Y-%m-%d %H:%M:%S') - New build of NKAcademy" >> /home/ubuntu/deploy.log
           pm2 reload nkacademy
+          echo "$(date '+%Y-%m-%d %H:%M:%S') - Deployment of NKAcademy on production" >> /home/ubuntu/deploy.log
           EOF
