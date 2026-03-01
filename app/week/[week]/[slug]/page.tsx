@@ -2,7 +2,14 @@ import { getWeekData, getWeekOverview } from '@/services/data/ServiceData';
 import { WeekData } from '@/types/NKWeekData';
 import { WeekOverviewData } from '@/types/NKWeekOverview';
 import { CoursePlayer } from '@/components/coursePlayer/CoursePlayer';
-import Link from 'next/link';
+
+export async function generateStaticParams() {
+    const { overviews } = await getWeekOverview();
+    return overviews.map((w) => ({
+        week: String(w.week),
+        slug: w.slug,
+    }));
+}
 
 export default async function WeekPage({ params }: { params: Promise<{ week: string; slug: string }> }) {
     const { week } = await params;
