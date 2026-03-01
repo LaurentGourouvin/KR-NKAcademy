@@ -16,20 +16,14 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20.19.x'       
+          node-version: '20.19.x'
           cache: 'npm'
 
       - name: Install dependencies and build (CI)
         run: |
           npm ci
           npm run build
-          npm prune --production
-          tar czf nkacademy-artifact.tar.gz \
-            .next \
-            public \
-            package.json \
-            package-lock.json \
-            node_modules
+          tar czf nkacademy-artifact.tar.gz out
 
       - name: Configure SSH
         env:
@@ -48,16 +42,16 @@ jobs:
 
       - name: Upload build artifact to server
         run: |
-          scp nkacademy-artifact.tar.gz prod-server:/home/ubuntu/apps/KR-NKAcademy/
+          scp nkacademy-artifact.tar.gz prod-server:/tmp/
 
       - name: Deploy on Lightsail
         run: |
           ssh prod-server << 'EOF'
           set -e
-          cd /home/ubuntu/apps/KR-NKAcademy
-          tar xzf nkacademy-artifact.tar.gz
-          rm nkacademy-artifact.tar.gz       
-          pm2 reload nkacademy
-          pm2 save
+          tar xzf /tmp/nkacademy-artifact.tar.gz -C /tmp
+          sudo rsync -a --delete /tmp/out/ /var/www/nkacademy/out/
+          sudo chown -R www-data:www-data /var/www/nkacademy/out/
+          sudo systemctl reload nginx
+          rm -rf /tmp/nkacademy-artifact.tar.gz /tmp/out
           echo "$(date '+%Y-%m-%d %H:%M:%S') - Deployment of NKAcademy on production" >> /home/ubuntu/deploy.log
           EOF
